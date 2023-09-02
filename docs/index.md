@@ -1835,6 +1835,51 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## SDF
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**DebSDF: Delving into the Details and Bias of Neural Indoor Scene Reconstruction**|Yuting Xiao et.al.|[2308.15536](http://arxiv.org/abs/2308.15536)|null|
+|**2023-08-28**|**VoroMesh: Learning Watertight Surface Meshes with Voronoi Diagrams**|Nissim Maruani et.al.|[2308.14616](http://arxiv.org/abs/2308.14616)|null|
+|**2023-08-25**|**Degrees of Freedom: Search Cost and Self-consistency**|Lijun Wang et.al.|[2308.13630](http://arxiv.org/abs/2308.13630)|**[link](https://github.com/szcf-weiya/earth.dof.patch)**|
+|**2023-08-18**|**Reach For the Spheres: Tangency-Aware Surface Reconstruction of SDFs**|Silvia Sellán et.al.|[2308.09813](http://arxiv.org/abs/2308.09813)|null|
+|**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421](http://arxiv.org/abs/2308.09421)|**[link](https://github.com/cskkxjk/mononerd)**|
+|**2023-08-16**|**DDF-HO: Hand-Held Object Reconstruction via Conditional Directed Distance Field**|Chenyangguang Zhang et.al.|[2308.08231](http://arxiv.org/abs/2308.08231)|null|
+|**2023-08-17**|**Relightable and Animatable Neural Avatar from Sparse-View Video**|Zhen Xu et.al.|[2308.07903](http://arxiv.org/abs/2308.07903)|null|
+|**2023-08-17**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
+|**2023-08-14**|**Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**|Licheng Zhong et.al.|[2308.06962](http://arxiv.org/abs/2308.06962)|**[link](https://github.com/Colmar-zlicheng/Color-NeuS)**|
+|**2023-07-21**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|**[link](https://github.com/ruyi-zha/endosurf)**|
+
+## Diffusion
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Robust Variational Physics-Informed Neural Networks**|Sergio Rojas et.al.|[2308.16910](http://arxiv.org/abs/2308.16910)|null|
+|**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905](http://arxiv.org/abs/2308.16905)|**[link](https://github.com/Sirui-Xu/InterDiff)**|
+|**2023-08-31**|**GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**|Yanjie Ze et.al.|[2308.16891](http://arxiv.org/abs/2308.16891)|**[link](https://github.com/YanjieZe/GNFactor)**|
+|**2023-08-31**|**Prediction of Diblock Copolymer Morphology via Machine Learning**|Hyun Park et.al.|[2308.16886](http://arxiv.org/abs/2308.16886)|null|
+|**2023-08-31**|**Constraining the geometry of the reflection nebula NGC 2023 with [O I]: Emission & Absorption**|Bhaswati Mookerjea et.al.|[2308.16872](http://arxiv.org/abs/2308.16872)|null|
+|**2023-08-31**|**Diffusion Models for Interferometric Satellite Aperture Radar**|Alexandre Tuel et.al.|[2308.16847](http://arxiv.org/abs/2308.16847)|null|
+|**2023-08-31**|**Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network**|Weijia Zhang et.al.|[2308.16818](http://arxiv.org/abs/2308.16818)|null|
+|**2023-08-31**|**Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models**|Minheng Ni et.al.|[2308.16777](http://arxiv.org/abs/2308.16777)|null|
+|**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742](http://arxiv.org/abs/2308.16742)|**[link](https://github.com/deepxuan/dudodp-mar)**|
+|**2023-08-31**|**Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance**|Zexin Hu et.al.|[2308.16725](http://arxiv.org/abs/2308.16725)|null|
+
+## Multimodal
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Learning to Taste: A Multimodal Wine Dataset**|Thoranna Bender et.al.|[2308.16900](http://arxiv.org/abs/2308.16900)|null|
+|**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890](http://arxiv.org/abs/2308.16890)|null|
+|**2023-08-31**|**Socratis: Are large multimodal models emotionally aware?**|Katherine Deng et.al.|[2308.16741](http://arxiv.org/abs/2308.16741)|null|
+|**2023-08-31**|**Towards Optimal Patch Size in Vision Transformers for Tumor Segmentation**|Ramtin Mojtahedi et.al.|[2308.16598](http://arxiv.org/abs/2308.16598)|**[link](https://github.com/ramtin-mojtahedi/ovtps)**|
+|**2023-08-31**|**Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**|Yupan Huang et.al.|[2308.16463](http://arxiv.org/abs/2308.16463)|null|
+|**2023-08-30**|**Catalog Phrase Grounding (CPG): Grounding of Product Textual Attributes in Product Images for e-commerce Vision-Language Applications**|Wenyi Wu et.al.|[2308.16354](http://arxiv.org/abs/2308.16354)|null|
+|**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150](http://arxiv.org/abs/2308.16150)|null|
+|**2023-08-30**|**Impact of Visual Context on Noisy Multimodal NMT: An Empirical Study for English to Indian Languages**|Baban Gain et.al.|[2308.16075](http://arxiv.org/abs/2308.16075)|null|
+|**2023-08-30**|**Low-Rank Multitask Learning based on Tensorized SVMs and LSSVMs**|Jiani Liu et.al.|[2308.16056](http://arxiv.org/abs/2308.16056)|**[link](https://github.com/liujiani0216/tsvm-mtl)**|
+|**2023-08-29**|**Multimodal Foundation Models For Echocardiogram Interpretation**|Matthew Christensen et.al.|[2308.15670](http://arxiv.org/abs/2308.15670)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge

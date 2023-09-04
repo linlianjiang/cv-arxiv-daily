@@ -1418,7 +1418,7 @@
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974](http://arxiv.org/abs/2308.11974)|null|
 |**2023-08-25**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
-|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|**[link](https://github.com/madaoer/s3im_nerf)**|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970](http://arxiv.org/abs/2308.05970)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
@@ -1547,7 +1547,7 @@
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537](http://arxiv.org/abs/2304.10537)|null|
 |**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532](http://arxiv.org/abs/2304.10532)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448](http://arxiv.org/abs/2304.10448)|null|
-|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|null|
+|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|**[link](https://github.com/tangtaogo/lidar-nerf)**|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250](http://arxiv.org/abs/2304.10250)|**[link](https://github.com/wentxul/linr)**|
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
@@ -1572,7 +1572,7 @@
 |**2023-04-07**|**Event-based Camera Tracker by $\nabla$ t NeRF**|Mana Masuda et.al.|[2304.04559](http://arxiv.org/abs/2304.04559)|null|
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|
 |**2023-04-10**|**Inferring Fluid Dynamics via Inverse Rendering**|Jinxian Liu et.al.|[2304.04446](http://arxiv.org/abs/2304.04446)|null|
-|**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395](http://arxiv.org/abs/2304.04395)|null|
+|**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395](http://arxiv.org/abs/2304.04395)|**[link](https://github.com/lyclyc52/instance_nerf)**|
 |**2023-04-12**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133](http://arxiv.org/abs/2304.04133)|**[link](https://github.com/fsemerar/satnerf)**|
 |**2023-04-08**|**PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**|Shuangkang Fang et.al.|[2304.04012](http://arxiv.org/abs/2304.04012)|**[link](https://github.com/megvii-research/AAAI2023-PVD)**|
 |**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526](http://arxiv.org/abs/2304.03526)|null|
@@ -1645,7 +1645,7 @@
 |**2023-03-15**|**Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**|Liangchen Song et.al.|[2303.08370](http://arxiv.org/abs/2303.08370)|**[link](https://github.com/lsongx/halo)**|
 |**2023-03-14**|**MELON: NeRF with Unposed Images Using Equivalence Class Estimation**|Axel Levy et.al.|[2303.08096](http://arxiv.org/abs/2303.08096)|null|
 |**2023-03-16**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937](http://arxiv.org/abs/2303.07937)|**[link](https://github.com/KU-CVLAB/3DFuse)**|
-|**2023-03-16**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653](http://arxiv.org/abs/2303.07653)|null|
+|**2023-03-16**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653](http://arxiv.org/abs/2303.07653)|**[link](https://github.com/yunfan1202/NEF_code)**|
 |**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596](http://arxiv.org/abs/2303.07596)|**[link](https://github.com/yizhangphd/freqpcr)**|
 |**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418](http://arxiv.org/abs/2303.07418)|**[link](https://github.com/jiawei-yang/freenerf)**|
 |**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919](http://arxiv.org/abs/2303.06919)|**[link](https://github.com/redrock303/NeRFLiX_CPVR2023)**|
@@ -1677,7 +1677,7 @@
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 |**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788](http://arxiv.org/abs/2302.08788)|**[link](https://github.com/shawn615/MixNeRF)**|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833](http://arxiv.org/abs/2302.06833)|null|
-|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608](http://arxiv.org/abs/2302.06608)|null|
+|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608](http://arxiv.org/abs/2302.06608)|**[link](https://github.com/naver-ai/BlendNeRF)**|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573](http://arxiv.org/abs/2302.05573)|null|
 |**2023-02-08**|**Nerfstudio: A Modular Framework for Neural Radiance Field Development**|Matthew Tancik et.al.|[2302.04264](http://arxiv.org/abs/2302.04264)|null|
 |**2023-02-07**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088](http://arxiv.org/abs/2302.02088)|null|
@@ -1705,7 +1705,7 @@
 |**2023-01-10**|**Traditional Readability Formulas Compared for English**|Bruce W. Lee et.al.|[2301.02975](http://arxiv.org/abs/2301.02975)|null|
 |**2023-01-09**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950](http://arxiv.org/abs/2301.00950)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-11**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411](http://arxiv.org/abs/2301.00411)|**[link](https://github.com/luciferbobo/d4nerf)**|
-|**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|null|
+|**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|**[link](https://github.com/tianfr/mononerf)**|
 |**2022-12-25**|**PaletteNeRF: Palette-based Color Editing for NeRFs**|Qiling Wu et.al.|[2212.12871](http://arxiv.org/abs/2212.12871)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966](http://arxiv.org/abs/2212.11966)|null|
 |**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950](http://arxiv.org/abs/2212.10950)|null|
@@ -1731,7 +1731,7 @@
 |**2022-12-06**|**D-TensoRF: Tensorial Radiance Fields for Dynamic Scenes**|Hankyu Jang et.al.|[2212.02375](http://arxiv.org/abs/2212.02375)|null|
 |**2022-12-07**|**GARF:Geometry-Aware Generalized Neural Radiance Field**|Yue Shi et.al.|[2212.02280](http://arxiv.org/abs/2212.02280)|null|
 |**2022-12-05**|**INGeo: Accelerating Instant Neural Scene Reconstruction with Noisy Geometry Priors**|Chaojian Li et.al.|[2212.01959](http://arxiv.org/abs/2212.01959)|null|
-|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672](http://arxiv.org/abs/2212.01672)|null|
+|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672](http://arxiv.org/abs/2212.01672)|**[link](https://github.com/lrnzgiusti/marf)**|
 |**2022-12-03**|**StegaNeRF: Embedding Invisible Information within Neural Radiance Fields**|Chenxin Li et.al.|[2212.01602](http://arxiv.org/abs/2212.01602)|null|
 |**2022-12-02**|**RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering**|Chaojian Li et.al.|[2212.01120](http://arxiv.org/abs/2212.01120)|null|
 |**2022-12-02**|**3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation**|Zutao Jiang et.al.|[2212.01103](http://arxiv.org/abs/2212.01103)|null|
@@ -1804,7 +1804,7 @@
 |**2022-10-10**|**SiNeRF: Sinusoidal Neural Radiance Fields for Joint Pose Estimation and Scene Reconstruction**|Yitong Xia et.al.|[2210.04553](http://arxiv.org/abs/2210.04553)|**[link](https://github.com/yitongx/sinerf)**|
 |**2022-10-09**|**Robustifying the Multi-Scale Representation of Neural Radiance Fields**|Nishant Jain et.al.|[2210.04233](http://arxiv.org/abs/2210.04233)|null|
 |**2022-10-09**|**Estimating Neural Reflectance Field from Radiance Field using Tree Structures**|Xiu Li et.al.|[2210.04217](http://arxiv.org/abs/2210.04217)|null|
-|**2022-10-09**|**Data augmentation for NeRF: a geometric consistent solution based on view morphing**|Matteo Bortolon et.al.|[2210.04214](http://arxiv.org/abs/2210.04214)|null|
+|**2022-10-09**|**Data augmentation for NeRF: a geometric consistent solution based on view morphing**|Matteo Bortolon et.al.|[2210.04214](http://arxiv.org/abs/2210.04214)|**[link](https://github.com/mbortolon97/vm-nerf)**|
 |**2022-10-09**|**Towards Efficient Neural Scene Graphs by Learning Consistency Fields**|Yeji Song et.al.|[2210.04127](http://arxiv.org/abs/2210.04127)|null|
 |**2022-10-08**|**ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints**|Yinpeng Dong et.al.|[2210.03895](http://arxiv.org/abs/2210.03895)|**[link](https://github.com/heathcliff-saku/viewfool_)**|
 |**2022-10-04**|**SelfNeRF: Fast Training NeRF for Human from Monocular Self-rotating Video**|Bo Peng et.al.|[2210.01651](http://arxiv.org/abs/2210.01651)|null|

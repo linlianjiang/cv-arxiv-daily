@@ -1854,6 +1854,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
+|**2023-09-01**|**Presentation of some elementary properties of Segal-Bargmann space and of unitary Segal-Bargmann transform with applications**|Abdelkader Intissar et.al.|[2309.00566](http://arxiv.org/abs/2309.00566)|null|
+|**2023-09-01**|**Diffusion limited aggregation, resetting and large deviations of Brownian motion**|Uriel Villanueva-Alcalá et.al.|[2309.00560](http://arxiv.org/abs/2309.00560)|null|
+|**2023-09-01**|**Relativistic hydrodynamic fluctuations from an effective action: causality, stability, and the information current**|Nicki Mullins et.al.|[2309.00512](http://arxiv.org/abs/2309.00512)|null|
+|**2023-09-01**|**Schwinger-Keldysh effective field theory for stable and causal relativistic hydrodynamics**|Akash Jain et.al.|[2309.00511](http://arxiv.org/abs/2309.00511)|null|
+|**2023-09-01**|**How heat propagates in `non-Fermi liquid' $^3$ He**|Kamran Behnia et.al.|[2309.00502](http://arxiv.org/abs/2309.00502)|null|
+|**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
+|**2023-09-01**|**Bayesian estimation and reconstruction of marine surface contaminant dispersion**|Yang Liu et.al.|[2309.00369](http://arxiv.org/abs/2309.00369)|null|
+|**2023-09-01**|**Fast Diffusion EM: a diffusion model for blind inverse problems with application to deconvolution**|Charles Laroche et.al.|[2309.00287](http://arxiv.org/abs/2309.00287)|null|
+|**2023-09-01**|**Data-driven Topology Optimization of Channel Flow Problems**|Ce Guan et.al.|[2309.00278](http://arxiv.org/abs/2309.00278)|null|
 |**2023-08-31**|**Robust Variational Physics-Informed Neural Networks**|Sergio Rojas et.al.|[2308.16910](http://arxiv.org/abs/2308.16910)|null|
 |**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905](http://arxiv.org/abs/2308.16905)|**[link](https://github.com/Sirui-Xu/InterDiff)**|
 |**2023-09-01**|**GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**|Yanjie Ze et.al.|[2308.16891](http://arxiv.org/abs/2308.16891)|**[link](https://github.com/YanjieZe/GNFactor)**|
@@ -1869,6 +1879,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**CPSP: Learning Speech Concepts From Phoneme Supervision**|Chunyu Qiang et.al.|[2309.00424](http://arxiv.org/abs/2309.00424)|null|
+|**2023-09-01**|**Long-Term Memorability On Advertisements**|Harini S I et.al.|[2309.00378](http://arxiv.org/abs/2309.00378)|null|
+|**2023-09-01**|**Robust Super-Resolution Imaging Based on a Ring Core Fiber with Orbital Angular Momentum**|Zheyu Wu et.al.|[2309.00371](http://arxiv.org/abs/2309.00371)|null|
+|**2023-09-01**|**Towards Contrastive Learning in Music Video Domain**|Karel Veldkamp et.al.|[2309.00347](http://arxiv.org/abs/2309.00347)|null|
 |**2023-08-31**|**Learning to Taste: A Multimodal Wine Dataset**|Thoranna Bender et.al.|[2308.16900](http://arxiv.org/abs/2308.16900)|null|
 |**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890](http://arxiv.org/abs/2308.16890)|null|
 |**2023-08-31**|**Socratis: Are large multimodal models emotionally aware?**|Katherine Deng et.al.|[2308.16741](http://arxiv.org/abs/2308.16741)|null|

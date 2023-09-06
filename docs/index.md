@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1848,7 +1848,7 @@ layout: default
 |**2023-08-17**|**Relightable and Animatable Neural Avatar from Sparse-View Video**|Zhen Xu et.al.|[2308.07903](http://arxiv.org/abs/2308.07903)|null|
 |**2023-08-17**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
 |**2023-08-14**|**Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**|Licheng Zhong et.al.|[2308.06962](http://arxiv.org/abs/2308.06962)|**[link](https://github.com/Colmar-zlicheng/Color-NeuS)**|
-|**2023-07-21**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|**[link](https://github.com/ruyi-zha/endosurf)**|
+|**2023-09-04**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|**[link](https://github.com/ruyi-zha/endosurf)**|
 
 ## Diffusion
 
@@ -1884,7 +1884,7 @@ layout: default
 |**2023-09-01**|**Robust Super-Resolution Imaging Based on a Ring Core Fiber with Orbital Angular Momentum**|Zheyu Wu et.al.|[2309.00371](http://arxiv.org/abs/2309.00371)|null|
 |**2023-09-01**|**Towards Contrastive Learning in Music Video Domain**|Karel Veldkamp et.al.|[2309.00347](http://arxiv.org/abs/2309.00347)|null|
 |**2023-08-31**|**Learning to Taste: A Multimodal Wine Dataset**|Thoranna Bender et.al.|[2308.16900](http://arxiv.org/abs/2308.16900)|null|
-|**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890](http://arxiv.org/abs/2308.16890)|null|
+|**2023-09-04**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890](http://arxiv.org/abs/2308.16890)|null|
 |**2023-08-31**|**Socratis: Are large multimodal models emotionally aware?**|Katherine Deng et.al.|[2308.16741](http://arxiv.org/abs/2308.16741)|null|
 |**2023-08-31**|**Towards Optimal Patch Size in Vision Transformers for Tumor Segmentation**|Ramtin Mojtahedi et.al.|[2308.16598](http://arxiv.org/abs/2308.16598)|**[link](https://github.com/ramtin-mojtahedi/ovtps)**|
 |**2023-08-31**|**Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**|Yupan Huang et.al.|[2308.16463](http://arxiv.org/abs/2308.16463)|null|

@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-04**|**Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian**|Zixiong Wang et.al.|[2309.01793](http://arxiv.org/abs/2309.01793)|null|
 |**2023-08-29**|**DebSDF: Delving into the Details and Bias of Neural Indoor Scene Reconstruction**|Yuting Xiao et.al.|[2308.15536](http://arxiv.org/abs/2308.15536)|null|
 |**2023-08-28**|**VoroMesh: Learning Watertight Surface Meshes with Voronoi Diagrams**|Nissim Maruani et.al.|[2308.14616](http://arxiv.org/abs/2308.14616)|null|
 |**2023-08-25**|**Degrees of Freedom: Search Cost and Self-consistency**|Lijun Wang et.al.|[2308.13630](http://arxiv.org/abs/2308.13630)|**[link](https://github.com/szcf-weiya/earth.dof.patch)**|
@@ -1879,6 +1880,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Crack propagation in anisotropic brittle materials: from a phase-field model to a shape optimization approach**|Tim Suchan et.al.|[2309.02431](http://arxiv.org/abs/2309.02431)|null|
+|**2023-09-05**|**Generating Realistic Images from In-the-wild Sounds**|Taegyeong Lee et.al.|[2309.02405](http://arxiv.org/abs/2309.02405)|null|
+|**2023-09-05**|**A Diffusion Quantum Monte Carlo Approach to the Polaritonic Ground State**|Braden M. Weight et.al.|[2309.02349](http://arxiv.org/abs/2309.02349)|null|
+|**2023-09-05**|**Robust frequency-dependent diffusion kurtosis computation using an efficient direction scheme, axisymmetric modelling, and spatial regularization**|J. Hamilton et.al.|[2309.02319](http://arxiv.org/abs/2309.02319)|null|
+|**2023-09-05**|**Neuromorphic nanocluster networks: Critical role of the substrate in nano-link formation**|Wenkai Wu et.al.|[2309.02299](http://arxiv.org/abs/2309.02299)|null|
+|**2023-09-05**|**Unconventional photo-induced charge-density-wave dynamics in 2H-NbSe $_{2}$**|Rok Venturini et.al.|[2309.02222](http://arxiv.org/abs/2309.02222)|null|
+|**2023-09-05**|**Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models**|Haixu Song et.al.|[2309.02218](http://arxiv.org/abs/2309.02218)|**[link](https://github.com/OpenRL-Lab/DeepFakeFace)**|
+|**2023-09-05**|**Finite dimensional backstepping controller design**|Varga Kalantarov et.al.|[2309.02196](http://arxiv.org/abs/2309.02196)|null|
+|**2023-09-05**|**Quasiparticles for the one-dimensional nonlocal Fisher-Kolmogorov-Petrovskii-Piskunov equation**|A. E. Kulagin et.al.|[2309.02129](http://arxiv.org/abs/2309.02129)|null|
+|**2023-09-05**|**Wiometrics: Comparative Performance of Artificial Neural Networks for Wireless Navigation**|Russ Whiton et.al.|[2309.02121](http://arxiv.org/abs/2309.02121)|null|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-09-01**|**Presentation of some elementary properties of Segal-Bargmann space and of unitary Segal-Bargmann transform with applications**|Abdelkader Intissar et.al.|[2309.00566](http://arxiv.org/abs/2309.00566)|null|
 |**2023-09-01**|**Diffusion limited aggregation, resetting and large deviations of Brownian motion**|Uriel Villanueva-Alcalá et.al.|[2309.00560](http://arxiv.org/abs/2309.00560)|null|
@@ -1906,6 +1917,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Rayleigh-Jeans thermalization vs beam cleaning in multimode optical fibers**|Kilian Baudin et.al.|[2309.02215](http://arxiv.org/abs/2309.02215)|null|
+|**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190](http://arxiv.org/abs/2309.02190)|null|
+|**2023-09-05**|**Exploiting Spatial-temporal Data for Sleep Stage Classification via Hypergraph Learning**|Yuze Liu et.al.|[2309.02124](http://arxiv.org/abs/2309.02124)|null|
+|**2023-09-05**|**Leveraging Label Information for Multimodal Emotion Recognition**|Peiying Wang et.al.|[2309.02106](http://arxiv.org/abs/2309.02106)|null|
+|**2023-09-05**|**Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples**|Guanghui Li et.al.|[2309.02041](http://arxiv.org/abs/2309.02041)|null|
+|**2023-09-05**|**Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks**|Keshu Wu et.al.|[2309.01981](http://arxiv.org/abs/2309.01981)|null|
+|**2023-09-04**|**Visualizing the Weird and the Eerie**|Matthew Brehmer et.al.|[2309.01763](http://arxiv.org/abs/2309.01763)|null|
+|**2023-09-04**|**An Empirical Analysis for Zero-Shot Multi-Label Classification on COVID-19 CT Scans and Uncurated Reports**|Ethan Dack et.al.|[2309.01740](http://arxiv.org/abs/2309.01740)|null|
+|**2023-09-04**|**Accelerating Markov Chain Monte Carlo sampling with diffusion models**|N. T. Hunt-Smith et.al.|[2309.01454](http://arxiv.org/abs/2309.01454)|null|
+|**2023-09-04**|**LoRA-like Calibration for Multimodal Deception Detection using ATSFace Data**|Shun-Wen Hsiao et.al.|[2309.01383](http://arxiv.org/abs/2309.01383)|null|
 |**2023-09-01**|**CPSP: Learning Speech Concepts From Phoneme Supervision**|Chunyu Qiang et.al.|[2309.00424](http://arxiv.org/abs/2309.00424)|null|
 |**2023-09-01**|**Long-Term Memorability On Advertisements**|Harini S I et.al.|[2309.00378](http://arxiv.org/abs/2309.00378)|null|
 |**2023-09-01**|**Robust Super-Resolution Imaging Based on a Ring Core Fiber with Orbital Angular Momentum**|Zheyu Wu et.al.|[2309.00371](http://arxiv.org/abs/2309.00371)|null|

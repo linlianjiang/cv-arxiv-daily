@@ -1839,6 +1839,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
+|**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777](http://arxiv.org/abs/2309.02777)|null|
 |**2023-09-06**|**Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian**|Zixiong Wang et.al.|[2309.01793](http://arxiv.org/abs/2309.01793)|null|
 |**2023-08-29**|**DebSDF: Delving into the Details and Bias of Neural Indoor Scene Reconstruction**|Yuting Xiao et.al.|[2308.15536](http://arxiv.org/abs/2308.15536)|null|
 |**2023-08-28**|**VoroMesh: Learning Watertight Surface Meshes with Voronoi Diagrams**|Nissim Maruani et.al.|[2308.14616](http://arxiv.org/abs/2308.14616)|null|
@@ -1855,6 +1857,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198](http://arxiv.org/abs/2309.03198)|null|
+|**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
+|**2023-09-06**|**Optical pulse induced ultrafast antiferrodistortive transition in SrTiO3**|Saqeeb Adnan et.al.|[2309.03172](http://arxiv.org/abs/2309.03172)|null|
+|**2023-09-06**|**Harmonic chain far from equilibrium: single-file diffusion, long-range order, and hyperuniformity**|Harukuni Ikeda et.al.|[2309.03155](http://arxiv.org/abs/2309.03155)|null|
+|**2023-09-06**|**MCM: Multi-condition Motion Synthesis Framework for Multi-scenario**|Zeyu Ling et.al.|[2309.03031](http://arxiv.org/abs/2309.03031)|null|
+|**2023-09-06**|**Fast time-stepping discontinuous Galerkin method for the subdiffusion equation**|Hui Zhang et.al.|[2309.02988](http://arxiv.org/abs/2309.02988)|null|
+|**2023-09-06**|**Predicting the emergence of localised dihedral patterns in models for dryland vegetation**|Dan J. Hill et.al.|[2309.02956](http://arxiv.org/abs/2309.02956)|null|
+|**2023-09-06**|**Well-posedness and averaging principle for Lévy-type McKean-Vlasov stochastic differential equations under local Lipschitz conditions**|Ying Chao et.al.|[2309.02906](http://arxiv.org/abs/2309.02906)|null|
+|**2023-09-06**|**Time-dependent properties of run-and-tumble particles. II.: Current fluctuations**|Tanmoy Chakraborty et.al.|[2309.02896](http://arxiv.org/abs/2309.02896)|null|
+|**2023-09-06**|**Stochastic modelling of cosmic ray sources for diffuse high-energy gamma-rays and neutrinos**|Anton Stall et.al.|[2309.02860](http://arxiv.org/abs/2309.02860)|null|
 |**2023-09-05**|**Crack propagation in anisotropic brittle materials: from a phase-field model to a shape optimization approach**|Tim Suchan et.al.|[2309.02431](http://arxiv.org/abs/2309.02431)|null|
 |**2023-09-05**|**Generating Realistic Images from In-the-wild Sounds**|Taegyeong Lee et.al.|[2309.02405](http://arxiv.org/abs/2309.02405)|null|
 |**2023-09-05**|**A Diffusion Quantum Monte Carlo Approach to the Polaritonic Ground State**|Braden M. Weight et.al.|[2309.02349](http://arxiv.org/abs/2309.02349)|null|
@@ -1890,6 +1902,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**3D Object Positioning Using Differentiable Multimodal Learning**|Sean Zanyk-McLean et.al.|[2309.03177](http://arxiv.org/abs/2309.03177)|null|
+|**2023-09-06**|**A Multimodal Analysis of Influencer Content on Twitter**|Danae Sánchez Villegas et.al.|[2309.03064](http://arxiv.org/abs/2309.03064)|null|
+|**2023-09-06**|**A Multimodal Learning Framework for Comprehensive 3D Mineral Prospectivity Modeling with Jointly Learned Structure-Fluid Relationships**|Yang Zheng et.al.|[2309.02911](http://arxiv.org/abs/2309.02911)|null|
+|**2023-09-06**|**Unveiling the frontiers of deep learning: innovations shaping diverse domains**|Shams Forruque Ahmed et.al.|[2309.02712](http://arxiv.org/abs/2309.02712)|null|
+|**2023-09-06**|**Gene-induced Multimodal Pre-training for Image-omic Classification**|Ting Jin et.al.|[2309.02702](http://arxiv.org/abs/2309.02702)|null|
+|**2023-09-05**|**Artificial General Intelligence for Radiation Oncology**|Chenbin Liu et.al.|[2309.02590](http://arxiv.org/abs/2309.02590)|null|
+|**2023-09-05**|**A skeletonization algorithm for gradient-based optimization**|Martin J. Menten et.al.|[2309.02527](http://arxiv.org/abs/2309.02527)|null|
 |**2023-09-05**|**Rayleigh-Jeans thermalization vs beam cleaning in multimode optical fibers**|Kilian Baudin et.al.|[2309.02215](http://arxiv.org/abs/2309.02215)|null|
 |**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190](http://arxiv.org/abs/2309.02190)|null|
 |**2023-09-05**|**Exploiting Spatial-temporal Data for Sleep Stage Classification via Hypergraph Learning**|Yuze Liu et.al.|[2309.02124](http://arxiv.org/abs/2309.02124)|null|

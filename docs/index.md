@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1842,7 +1842,7 @@ layout: default
 |**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
 |**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777](http://arxiv.org/abs/2309.02777)|null|
 |**2023-09-06**|**Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian**|Zixiong Wang et.al.|[2309.01793](http://arxiv.org/abs/2309.01793)|null|
-|**2023-08-29**|**DebSDF: Delving into the Details and Bias of Neural Indoor Scene Reconstruction**|Yuting Xiao et.al.|[2308.15536](http://arxiv.org/abs/2308.15536)|null|
+|**2023-09-03**|**DebSDF: Delving into the Details and Bias of Neural Indoor Scene Reconstruction**|Yuting Xiao et.al.|[2308.15536](http://arxiv.org/abs/2308.15536)|null|
 |**2023-08-28**|**VoroMesh: Learning Watertight Surface Meshes with Voronoi Diagrams**|Nissim Maruani et.al.|[2308.14616](http://arxiv.org/abs/2308.14616)|null|
 |**2023-08-25**|**Degrees of Freedom: Search Cost and Self-consistency**|Lijun Wang et.al.|[2308.13630](http://arxiv.org/abs/2308.13630)|**[link](https://github.com/szcf-weiya/earth.dof.patch)**|
 |**2023-08-18**|**Reach For the Spheres: Tangency-Aware Surface Reconstruction of SDFs**|Silvia Sellán et.al.|[2308.09813](http://arxiv.org/abs/2308.09813)|null|

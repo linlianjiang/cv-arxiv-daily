@@ -1921,7 +1921,7 @@ layout: default
 |**2023-09-06**|**Efficient Baselines for Motion Prediction in Autonomous Driving**|Carlos Gómez-Huélamo et.al.|[2309.03387](http://arxiv.org/abs/2309.03387)|null|
 |**2023-09-06**|**Parameter Efficient Audio Captioning With Faithful Guidance Using Audio-text Shared Latent Representation**|Arvind Krishna Sridhar et.al.|[2309.03340](http://arxiv.org/abs/2309.03340)|null|
 |**2023-09-06**|**3D Object Positioning Using Differentiable Multimodal Learning**|Sean Zanyk-McLean et.al.|[2309.03177](http://arxiv.org/abs/2309.03177)|null|
-|**2023-09-06**|**A Multimodal Analysis of Influencer Content on Twitter**|Danae Sánchez Villegas et.al.|[2309.03064](http://arxiv.org/abs/2309.03064)|null|
+|**2023-09-06**|**A Multimodal Analysis of Influencer Content on Twitter**|Danae Sánchez Villegas et.al.|[2309.03064](http://arxiv.org/abs/2309.03064)|**[link](https://github.com/danaesavi/micd-influencer-content-twitter)**|
 |**2023-09-06**|**A Multimodal Learning Framework for Comprehensive 3D Mineral Prospectivity Modeling with Jointly Learned Structure-Fluid Relationships**|Yang Zheng et.al.|[2309.02911](http://arxiv.org/abs/2309.02911)|null|
 |**2023-09-06**|**Unveiling the frontiers of deep learning: innovations shaping diverse domains**|Shams Forruque Ahmed et.al.|[2309.02712](http://arxiv.org/abs/2309.02712)|null|
 |**2023-09-06**|**Gene-induced Multimodal Pre-training for Image-omic Classification**|Ting Jin et.al.|[2309.02702](http://arxiv.org/abs/2309.02702)|null|

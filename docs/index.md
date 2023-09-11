@@ -1857,6 +1857,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**A search for faint resolved galaxies beyond the Milky Way in DES Year 6: A new faint, diffuse dwarf satellite of NGC 55**|M. McNanna et.al.|[2309.04467](http://arxiv.org/abs/2309.04467)|null|
+|**2023-09-08**|**Laplacian with singular drift in a critical borderline case**|Damir Kinzebulatov et.al.|[2309.04436](http://arxiv.org/abs/2309.04436)|null|
+|**2023-09-08**|**Variations and Relaxations of Normalizing Flows**|Keegan Kelly et.al.|[2309.04433](http://arxiv.org/abs/2309.04433)|null|
+|**2023-09-08**|**Create Your World: Lifelong Text-to-Image Diffusion**|Gan Sun et.al.|[2309.04430](http://arxiv.org/abs/2309.04430)|null|
+|**2023-09-08**|**MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask**|Yupeng Zhou et.al.|[2309.04399](http://arxiv.org/abs/2309.04399)|null|
+|**2023-09-08**|**Impact of Galaxy Clusters on UHECR propagation**|Antonio Condorelli et.al.|[2309.04380](http://arxiv.org/abs/2309.04380)|null|
+|**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372](http://arxiv.org/abs/2309.04372)|null|
+|**2023-09-08**|**Irreversible entropy transport enhanced by fermionic superfluidity**|Philipp Fabritius et.al.|[2309.04359](http://arxiv.org/abs/2309.04359)|null|
+|**2023-09-08**|**The role of tumbling in bacterial scattering at convex obstacles**|Theresa Jakuszeit et.al.|[2309.04326](http://arxiv.org/abs/2309.04326)|null|
+|**2023-09-08**|**Universal diffusion of dendrimers in a semidilute solution of linear polymers**|Silpa Mariya et.al.|[2309.04290](http://arxiv.org/abs/2309.04290)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
 |**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
 |**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869](http://arxiv.org/abs/2309.03869)|null|
@@ -1912,6 +1922,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Robust Representation Learning for Privacy-Preserving Machine Learning: A Multi-Objective Autoencoder Approach**|Sofiane Ouaari et.al.|[2309.04427](http://arxiv.org/abs/2309.04427)|null|
+|**2023-09-08**|**Generative inverse design of multimodal resonant structures for locally resonant metamaterials**|Sander Dedoncker et.al.|[2309.04177](http://arxiv.org/abs/2309.04177)|null|
+|**2023-09-07**|**Evaluation and Mitigation of Agnosia in Multimodal Large Language Models**|Jiaying Lu et.al.|[2309.04041](http://arxiv.org/abs/2309.04041)|null|
+|**2023-09-07**|**Multimodal Transformer for Material Segmentation**|Md Kaykobad Reza et.al.|[2309.04001](http://arxiv.org/abs/2309.04001)|null|
 |**2023-09-07**|**Zero-Shot Audio Captioning via Audibility Guidance**|Tal Shaharabany et.al.|[2309.03884](http://arxiv.org/abs/2309.03884)|null|
 |**2023-09-07**|**FLM-101B: An Open LLM and How to Train It with $100K Budget**|Xiang Li et.al.|[2309.03852](http://arxiv.org/abs/2309.03852)|null|
 |**2023-09-07**|**PBP: Path-based Trajectory Prediction for Autonomous Driving**|Sepideh Afshar et.al.|[2309.03750](http://arxiv.org/abs/2309.03750)|null|

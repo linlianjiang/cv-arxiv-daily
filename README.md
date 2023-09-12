@@ -1882,6 +1882,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663](http://arxiv.org/abs/2309.05663)|null|
+|**2023-09-11**|**Anisotropic Diffusion Stencils: From Simple Derivations over Stability Estimates to ResNet Implementations**|Karl Schrader et.al.|[2309.05575](http://arxiv.org/abs/2309.05575)|null|
+|**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
+|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519](http://arxiv.org/abs/2309.05519)|null|
+|**2023-09-11**|**Median Surface Brightness Profiles of Lyman- $α$ Haloes in the MUSE Extremely Deep Field**|Yucheng Guo et.al.|[2309.05513](http://arxiv.org/abs/2309.05513)|null|
+|**2023-09-11**|**Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation**|Anna Deichler et.al.|[2309.05455](http://arxiv.org/abs/2309.05455)|null|
+|**2023-09-11**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406](http://arxiv.org/abs/2309.05406)|null|
+|**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401](http://arxiv.org/abs/2309.05401)|null|
+|**2023-09-11**|**Large time behaviour of the 2D thermally non-diffusive Boussinesq equations with Navier-slip boundary conditions**|Fabian Bleitner et.al.|[2309.05400](http://arxiv.org/abs/2309.05400)|null|
+|**2023-09-11**|**Influence of protostellar outflows on star and protoplanetary disk formation in a massive star-forming clump**|U. Lebreuilly et.al.|[2309.05397](http://arxiv.org/abs/2309.05397)|null|
 |**2023-09-08**|**A search for faint resolved galaxies beyond the Milky Way in DES Year 6: A new faint, diffuse dwarf satellite of NGC 55**|M. McNanna et.al.|[2309.04467](http://arxiv.org/abs/2309.04467)|null|
 |**2023-09-08**|**Laplacian with singular drift in a critical borderline case**|Damir Kinzebulatov et.al.|[2309.04436](http://arxiv.org/abs/2309.04436)|null|
 |**2023-09-08**|**Variations and Relaxations of Normalizing Flows**|Keegan Kelly et.al.|[2309.04433](http://arxiv.org/abs/2309.04433)|null|
@@ -1949,6 +1959,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**|Ruibo Chen et.al.|[2309.05608](http://arxiv.org/abs/2309.05608)|**[link](https://github.com/rayruibochen/promuse)**|
+|**2023-09-11**|**Distributional Probabilistic Model Checking**|Ingy Elsayed-Aly et.al.|[2309.05584](http://arxiv.org/abs/2309.05584)|null|
+|**2023-09-11**|**OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data**|Giuseppe Cartella et.al.|[2309.05551](http://arxiv.org/abs/2309.05551)|**[link](https://github.com/aimagelab/open-fashion-clip)**|
+|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519](http://arxiv.org/abs/2309.05519)|null|
+|**2023-09-11**|**Generation of three-dimensional cluster entangled state**|Chan Roh et.al.|[2309.05437](http://arxiv.org/abs/2309.05437)|null|
+|**2023-09-11**|**DeCUR: decoupling common & unique representations for multimodal self-supervision**|Yi Wang et.al.|[2309.05300](http://arxiv.org/abs/2309.05300)|**[link](https://github.com/zhu-xlab/decur)**|
+|**2023-09-11**|**Formalizing Multimedia Recommendation through Multimodal Deep Learning**|Daniele Malitesta et.al.|[2309.05273](http://arxiv.org/abs/2309.05273)|**[link](https://github.com/sisinflab/formal-multimod-rec)**|
+|**2023-09-11**|**Extended Josephson junction qubit system**|Andrey Grankin et.al.|[2309.05212](http://arxiv.org/abs/2309.05212)|null|
+|**2023-09-11**|**HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving**|Xinpeng Ding et.al.|[2309.05186](http://arxiv.org/abs/2309.05186)|null|
+|**2023-09-10**|**SpeechMirror: A Multimodal Visual Analytics System for Personalized Reflection of Online Public Speaking Effectiveness**|Zeyuan Huang et.al.|[2309.05091](http://arxiv.org/abs/2309.05091)|null|
 |**2023-09-08**|**Robust Representation Learning for Privacy-Preserving Machine Learning: A Multi-Objective Autoencoder Approach**|Sofiane Ouaari et.al.|[2309.04427](http://arxiv.org/abs/2309.04427)|null|
 |**2023-09-08**|**Generative inverse design of multimodal resonant structures for locally resonant metamaterials**|Sander Dedoncker et.al.|[2309.04177](http://arxiv.org/abs/2309.04177)|null|
 |**2023-09-07**|**Evaluation and Mitigation of Agnosia in Multimodal Large Language Models**|Jiaying Lu et.al.|[2309.04041](http://arxiv.org/abs/2309.04041)|null|

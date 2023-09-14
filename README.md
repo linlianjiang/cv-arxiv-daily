@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**RackBlox: A Software-Defined Rack-Scale Storage System with Network-Storage Co-Design**|Benjamin Reidys et.al.|[2309.06513](http://arxiv.org/abs/2309.06513)|null|
 |**2023-09-11**|**SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors**|Hongge Chen et.al.|[2309.05810](http://arxiv.org/abs/2309.05810)|null|
 |**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|**[link](https://github.com/markomih/ResFields)**|
 |**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777](http://arxiv.org/abs/2309.02777)|null|
@@ -1883,6 +1884,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051](http://arxiv.org/abs/2309.07051)|null|
+|**2023-09-13**|**Experimental Study on the Detection of Frozen Diffused Ammonia Blockage in the Inactive Section of a Variable Conductance Heat Pipe**|F. K. Miranda et.al.|[2309.06936](http://arxiv.org/abs/2309.06936)|null|
+|**2023-09-13**|**VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance**|Carlos Hernandez-Olivan et.al.|[2309.06934](http://arxiv.org/abs/2309.06934)|null|
+|**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933](http://arxiv.org/abs/2309.06933)|null|
+|**2023-09-13**|**MagiCapture: High-Resolution Multi-Concept Portrait Customization**|Junha Hyung et.al.|[2309.06895](http://arxiv.org/abs/2309.06895)|null|
+|**2023-09-13**|**Spin-orbital correlations from complex orbital order in MgV $_{2}$O$_{4}$**|H. Lane et.al.|[2309.06853](http://arxiv.org/abs/2309.06853)|null|
+|**2023-09-13**|**Computing solubility and thermodynamics properties of H2O2 in water**|Tijin H. G. Saji et.al.|[2309.06796](http://arxiv.org/abs/2309.06796)|null|
+|**2023-09-13**|**DCTTS: Discrete Diffusion Model with Contrastive Learning for Text-to-speech Generation**|Zhichao Wu et.al.|[2309.06787](http://arxiv.org/abs/2309.06787)|null|
+|**2023-09-13**|**High throughput sampling of phase space with deep learning potentials: $δ$ -AlOOH at geophysical conditions**|Chenxing Luo et.al.|[2309.06712](http://arxiv.org/abs/2309.06712)|null|
+|**2023-09-13**|**Generalizable improvement of the Spalart-Allmaras model through assimilation of experimental data**|Deepinder Jot Singh Aulakh et.al.|[2309.06679](http://arxiv.org/abs/2309.06679)|null|
 |**2023-09-12**|**Suppression of lift-up effect in the 3D Boussinesq equations around a stably stratified Couette flow**|Michele Coti Zelati et.al.|[2309.06426](http://arxiv.org/abs/2309.06426)|null|
 |**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380](http://arxiv.org/abs/2309.06380)|**[link](https://github.com/gnobitab/instaflow)**|
 |**2023-09-12**|**Dispersion versus diffusion in mixing fronts**|Gauthier Rousseau et.al.|[2309.06347](http://arxiv.org/abs/2309.06347)|null|
@@ -1970,6 +1981,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Weakly-Supervised Multi-Task Learning for Audio-Visual Speaker Verification**|Anith Selvakumar et.al.|[2309.07115](http://arxiv.org/abs/2309.07115)|null|
+|**2023-09-13**|**Detecting Extreme Temperature Events Using Gaussian Mixture Models**|Aytaç Paçal et.al.|[2309.06937](http://arxiv.org/abs/2309.06937)|**[link](https://github.com/EyringMLClimateGroup/pacal23jgr_GaussianMixtureModels_Extremes)**|
+|**2023-09-13**|**Towards Connecting Control to Perception: High-Performance Whole-Body Collision Avoidance Using Control-Compatible Obstacles**|Moritz Eckhoff et.al.|[2309.06873](http://arxiv.org/abs/2309.06873)|null|
+|**2023-09-12**|**Harmonic-NAS: Hardware-Aware Multimodal Neural Architecture Search on Resource-constrained Devices**|Mohamed Imed Eddine Ghebriout et.al.|[2309.06612](http://arxiv.org/abs/2309.06612)|null|
+|**2023-09-12**|**Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning**|Enna Sachdeva et.al.|[2309.06597](http://arxiv.org/abs/2309.06597)|null|
+|**2023-09-12**|**DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**|Aaditya Kharel et.al.|[2309.06511](http://arxiv.org/abs/2309.06511)|null|
+|**2023-09-12**|**Multimodal Outcomes in N-of-1 Trials: Combining Unsupervised Learning and Statistical Inference**|Juliana Schneider et.al.|[2309.06455](http://arxiv.org/abs/2309.06455)|null|
 |**2023-09-12**|**The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models**|Dimitris Spathis et.al.|[2309.06236](http://arxiv.org/abs/2309.06236)|null|
 |**2023-09-12**|**Quantum Simulation of the Bosonic Kitaev Chain**|J. H. Busnaina et.al.|[2309.06178](http://arxiv.org/abs/2309.06178)|null|
 |**2023-09-12**|**Dual-Path Temporal Map Optimization for Make-up Temporal Video Grounding**|Jiaxiu Li et.al.|[2309.06176](http://arxiv.org/abs/2309.06176)|null|

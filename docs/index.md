@@ -1859,6 +1859,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
+|**2023-09-14**|**Generative Image Dynamics**|Zhengqi Li et.al.|[2309.07906](http://arxiv.org/abs/2309.07906)|null|
+|**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|null|
+|**2023-09-14**|**Logarithmic Sobolev inequalities for non-equilibrium steady states**|Pierre Monmarché et.al.|[2309.07858](http://arxiv.org/abs/2309.07858)|null|
+|**2023-09-14**|**EMOCONV-DIFF: Diffusion-based Speech Emotion Conversion for Non-parallel and In-the-wild Data**|Navin Raj Prabhu et.al.|[2309.07828](http://arxiv.org/abs/2309.07828)|null|
+|**2023-09-14**|**Behaviour of molecular hydrogen emission in three solar flares**|Sargam M. Mulay et.al.|[2309.07799](http://arxiv.org/abs/2309.07799)|null|
+|**2023-09-14**|**Study and evaluation of the Ronen Method accuracy at material interfaces**|Johan Cufe et.al.|[2309.07756](http://arxiv.org/abs/2309.07756)|null|
+|**2023-09-14**|**Adaptive Reduced Basis Trust Region Methods for Parameter Identification Problems**|Michael Kartmann et.al.|[2309.07627](http://arxiv.org/abs/2309.07627)|null|
+|**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572](http://arxiv.org/abs/2309.07572)|null|
+|**2023-09-14**|**Search for the Prompt Atmospheric Neutrino Flux in IceCube**|Jakob Böttcher et.al.|[2309.07560](http://arxiv.org/abs/2309.07560)|null|
 |**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051](http://arxiv.org/abs/2309.07051)|null|
 |**2023-09-13**|**Experimental Study on the Detection of Frozen Diffused Ammonia Blockage in the Inactive Section of a Variable Conductance Heat Pipe**|F. K. Miranda et.al.|[2309.06936](http://arxiv.org/abs/2309.06936)|null|
 |**2023-09-13**|**VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance**|Carlos Hernandez-Olivan et.al.|[2309.06934](http://arxiv.org/abs/2309.06934)|null|
@@ -1954,6 +1964,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection**|Roberto Daza et.al.|[2309.07880](http://arxiv.org/abs/2309.07880)|null|
+|**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794](http://arxiv.org/abs/2309.07794)|null|
+|**2023-09-14**|**GRID: Scene-Graph-based Instruction-driven Robotic Task Planning**|Zhe Ni et.al.|[2309.07726](http://arxiv.org/abs/2309.07726)|null|
+|**2023-09-14**|**NutritionVerse: Empirical Study of Various Dietary Intake Estimation Approaches**|Chi-en Amy Tai et.al.|[2309.07704](http://arxiv.org/abs/2309.07704)|null|
+|**2023-09-14**|**Zero-shot Audio Topic Reranking using Large Language Models**|Mengjie Qian et.al.|[2309.07606](http://arxiv.org/abs/2309.07606)|null|
+|**2023-09-14**|**Training Audio Captioning Models without Audio**|Soham Deshmukh et.al.|[2309.07372](http://arxiv.org/abs/2309.07372)|null|
 |**2023-09-13**|**Weakly-Supervised Multi-Task Learning for Audio-Visual Speaker Verification**|Anith Selvakumar et.al.|[2309.07115](http://arxiv.org/abs/2309.07115)|null|
 |**2023-09-13**|**Detecting Extreme Temperature Events Using Gaussian Mixture Models**|Aytaç Paçal et.al.|[2309.06937](http://arxiv.org/abs/2309.06937)|**[link](https://github.com/EyringMLClimateGroup/pacal23jgr_GaussianMixtureModels_Extremes)**|
 |**2023-09-13**|**Towards Connecting Control to Perception: High-Performance Whole-Body Collision Avoidance Using Control-Compatible Obstacles**|Moritz Eckhoff et.al.|[2309.06873](http://arxiv.org/abs/2309.06873)|null|

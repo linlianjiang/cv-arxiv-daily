@@ -1884,6 +1884,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Projected Langevin dynamics and a gradient flow for entropic optimal transport**|Giovanni Conforti et.al.|[2309.08598](http://arxiv.org/abs/2309.08598)|null|
+|**2023-09-15**|**Confirmation of an anomalously low dark matter content for the galaxy NGC1052-DF4 from deep, high resolution continuum spectroscopy**|Zili Shen et.al.|[2309.08592](http://arxiv.org/abs/2309.08592)|null|
+|**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587](http://arxiv.org/abs/2309.08587)|null|
+|**2023-09-15**|**Norm Growth, Non-uniqueness, and Anomalous Dissipation in Passive Scalars**|Tarek M. Elgindi et.al.|[2309.08576](http://arxiv.org/abs/2309.08576)|null|
+|**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568](http://arxiv.org/abs/2309.08568)|null|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Generalised Probabilistic Diffusion Scale-Spaces**|Pascal Peter et.al.|[2309.08511](http://arxiv.org/abs/2309.08511)|null|
+|**2023-09-15**|**Diffuse-illumination holographic optical coherence tomography**|Léo Puyo et.al.|[2309.08486](http://arxiv.org/abs/2309.08486)|null|
+|**2023-09-15**|**Isotropic active colloids: explicit vs. implicit descriptions of propulsion mechanisms**|Jeanne Decayeux et.al.|[2309.08455](http://arxiv.org/abs/2309.08455)|null|
+|**2023-09-15**|**Fractional Advection Diffusion Asymmetry Equation, derivation, solution and application**|Wanli Wang et.al.|[2309.08391](http://arxiv.org/abs/2309.08391)|null|
 |**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
 |**2023-09-14**|**Generative Image Dynamics**|Zhengqi Li et.al.|[2309.07906](http://arxiv.org/abs/2309.07906)|null|
 |**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|null|
@@ -1991,6 +2001,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Current and future directions in network biology**|Marinka Zitnik et.al.|[2309.08478](http://arxiv.org/abs/2309.08478)|null|
+|**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
+|**2023-09-15**|**The Multimodal Information Based Speech Processing (MISP) 2023 Challenge: Audio-Visual Target Speaker Extraction**|Shilong Wu et.al.|[2309.08348](http://arxiv.org/abs/2309.08348)|null|
+|**2023-09-15**|**One-stage Modality Distillation for Incomplete Multimodal Learning**|Shicai Wei et.al.|[2309.08204](http://arxiv.org/abs/2309.08204)|null|
 |**2023-09-14**|**mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection**|Roberto Daza et.al.|[2309.07880](http://arxiv.org/abs/2309.07880)|null|
 |**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794](http://arxiv.org/abs/2309.07794)|null|
 |**2023-09-14**|**GRID: Scene-Graph-based Instruction-driven Robotic Task Planning**|Zhe Ni et.al.|[2309.07726](http://arxiv.org/abs/2309.07726)|null|

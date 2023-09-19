@@ -1859,6 +1859,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968](http://arxiv.org/abs/2309.09968)|null|
+|**2023-09-18**|**Extended defects-enhanced oxygen diffusion in ThO2**|Miaomiao Jin et.al.|[2309.09952](http://arxiv.org/abs/2309.09952)|null|
+|**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944](http://arxiv.org/abs/2309.09944)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
+|**2023-09-18**|**Direct topological insulator transitions in three dimensions are destabilized by non-perturbative effects of disorder**|Yixing Fu et.al.|[2309.09857](http://arxiv.org/abs/2309.09857)|null|
+|**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777](http://arxiv.org/abs/2309.09777)|null|
+|**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764](http://arxiv.org/abs/2309.09764)|null|
+|**2023-09-18**|**TeV gamma-ray sensitivity to velocity-dependent dark matter models in the Galactic Center**|Alessandro Montanari et.al.|[2309.09691](http://arxiv.org/abs/2309.09691)|null|
+|**2023-09-18**|**Non-Hermitian physics and topological phenomena in convective thermal metamaterials**|Zhoufei Liu et.al.|[2309.09681](http://arxiv.org/abs/2309.09681)|null|
+|**2023-09-18**|**Single and Few-step Diffusion for Generative Speech Enhancement**|Bunlong Lay et.al.|[2309.09677](http://arxiv.org/abs/2309.09677)|null|
+|**2023-09-18**|**Anomalous Diffusion of Lithium-Anion Clusters in Ionic Liquids**|YeongKyu Lee et.al.|[2309.09674](http://arxiv.org/abs/2309.09674)|null|
 |**2023-09-15**|**Projected Langevin dynamics and a gradient flow for entropic optimal transport**|Giovanni Conforti et.al.|[2309.08598](http://arxiv.org/abs/2309.08598)|null|
 |**2023-09-15**|**Confirmation of an anomalously low dark matter content for the galaxy NGC1052-DF4 from deep, high resolution continuum spectroscopy**|Zili Shen et.al.|[2309.08592](http://arxiv.org/abs/2309.08592)|null|
 |**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587](http://arxiv.org/abs/2309.08587)|null|
@@ -1974,6 +1984,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979](http://arxiv.org/abs/2309.09979)|null|
+|**2023-09-18**|**An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models**|Yadong Lu et.al.|[2309.09958](http://arxiv.org/abs/2309.09958)|**[link](https://github.com/haotian-liu/LLaVA)**|
+|**2023-09-18**|**EGFE: End-to-end Grouping of Fragmented Elements in UI Designs with Multimodal Learning**|Liuqing Chen et.al.|[2309.09867](http://arxiv.org/abs/2309.09867)|null|
+|**2023-09-18**|**Talking to Data Visualizations: Opportunities and Challenges**|Gabriela Molina León et.al.|[2309.09781](http://arxiv.org/abs/2309.09781)|null|
+|**2023-09-18**|**Multimode physics of the unimon circuit**|Sasu Tuohino et.al.|[2309.09732](http://arxiv.org/abs/2309.09732)|null|
+|**2023-09-18**|**Mutual Information-calibrated Conformal Feature Fusion for Uncertainty-Aware Multimodal 3D Object Detection at the Edge**|Alex C. Stutts et.al.|[2309.09593](http://arxiv.org/abs/2309.09593)|null|
+|**2023-09-18**|**Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech**|Chien-yu Huang et.al.|[2309.09510](http://arxiv.org/abs/2309.09510)|null|
+|**2023-09-16**|**Multimodal Multi-Hop Question Answering Through a Conversation Between Tools and Efficiently Finetuned Large Language Models**|Hossein Rajabzadeh et.al.|[2309.08922](http://arxiv.org/abs/2309.08922)|null|
+|**2023-09-16**|**Delving into Multimodal Prompting for Fine-grained Visual Classification**|Xin Jiang et.al.|[2309.08912](http://arxiv.org/abs/2309.08912)|null|
+|**2023-09-15**|**Fin-Fact: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation**|Aman Rangapur et.al.|[2309.08793](http://arxiv.org/abs/2309.08793)|**[link](https://github.com/iit-dm/fin-fact)**|
 |**2023-09-15**|**Current and future directions in network biology**|Marinka Zitnik et.al.|[2309.08478](http://arxiv.org/abs/2309.08478)|null|
 |**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
 |**2023-09-15**|**The Multimodal Information Based Speech Processing (MISP) 2023 Challenge: Audio-Visual Target Speaker Extraction**|Shilong Wu et.al.|[2309.08348](http://arxiv.org/abs/2309.08348)|null|

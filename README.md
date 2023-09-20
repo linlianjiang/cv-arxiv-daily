@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail**|Yiyu Zhuang et.al.|[2309.10336](http://arxiv.org/abs/2309.10336)|null|
 |**2023-09-12**|**RackBlox: A Software-Defined Rack-Scale Storage System with Network-Storage Co-Design**|Benjamin Reidys et.al.|[2309.06513](http://arxiv.org/abs/2309.06513)|null|
 |**2023-09-11**|**SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors**|Hongge Chen et.al.|[2309.05810](http://arxiv.org/abs/2309.05810)|null|
 |**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|**[link](https://github.com/markomih/ResFields)**|
@@ -1884,6 +1885,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
+|**2023-09-19**|**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance**|Peiqing Yang et.al.|[2309.10810](http://arxiv.org/abs/2309.10810)|**[link](https://github.com/pq-yang/pgdiff)**|
+|**2023-09-19**|**Probing the spatial and velocity anisotropies in stellar halos from the Aquarius simulations**|Amit Mondal et.al.|[2309.10798](http://arxiv.org/abs/2309.10798)|null|
+|**2023-09-19**|**The Kinematic Structure of Magnetically Aligned HI Filaments**|Doyeon Avery Kim et.al.|[2309.10777](http://arxiv.org/abs/2309.10777)|null|
+|**2023-09-19**|**An optical Ising spin glass simulator with tuneable short range couplings**|Louis Delloye et.al.|[2309.10764](http://arxiv.org/abs/2309.10764)|null|
+|**2023-09-19**|**Accelerating Diffusion-Based Text-to-Audio Generation with Consistency Distillation**|Yatong Bai et.al.|[2309.10740](http://arxiv.org/abs/2309.10740)|null|
+|**2023-09-19**|**Reconstruct-and-Generate Diffusion Model for Detail-Preserving Image Denoising**|Yujin Wang et.al.|[2309.10714](http://arxiv.org/abs/2309.10714)|null|
+|**2023-09-19**|**Small Molecules, Big Impact: A tale of hydrides past, present, and future**|Arshia Maria Jacob et.al.|[2309.10712](http://arxiv.org/abs/2309.10712)|null|
+|**2023-09-19**|**Ni/Bi bilayers: The effect of thickness on the superconducting properties**|Gabriel Sant'ana et.al.|[2309.10705](http://arxiv.org/abs/2309.10705)|null|
+|**2023-09-19**|**Unbiased Parameter Estimation for Partially Observed Diffusions**|Elsiddig Awadelkarim et.al.|[2309.10589](http://arxiv.org/abs/2309.10589)|null|
 |**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968](http://arxiv.org/abs/2309.09968)|null|
 |**2023-09-18**|**Extended defects-enhanced oxygen diffusion in ThO2**|Miaomiao Jin et.al.|[2309.09952](http://arxiv.org/abs/2309.09952)|null|
 |**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944](http://arxiv.org/abs/2309.09944)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
@@ -2011,6 +2022,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Guide Your Agent with Adaptive Multimodal Rewards**|Changyeon Kim et.al.|[2309.10790](http://arxiv.org/abs/2309.10790)|**[link](https://github.com/csmile-1006/arp)**|
+|**2023-09-19**|**Language as the Medium: Multimodal Video Classification through text only**|Laura Hanu et.al.|[2309.10783](http://arxiv.org/abs/2309.10783)|null|
+|**2023-09-19**|**Learning-Initialized Trajectory Planning in Unknown Environments**|Yicheng Chen et.al.|[2309.10683](http://arxiv.org/abs/2309.10683)|null|
+|**2023-09-19**|**Multimodal Modeling For Spoken Language Identification**|Shikhar Bharadwaj et.al.|[2309.10567](http://arxiv.org/abs/2309.10567)|null|
+|**2023-09-19**|**A multimodal deep learning architecture for smoking detection with a small data approach**|Robert Lakatos et.al.|[2309.10561](http://arxiv.org/abs/2309.10561)|null|
+|**2023-09-19**|**Pointing out Human Answer Mistakes in a Goal-Oriented Visual Dialogue**|Ryosuke Oshima et.al.|[2309.10375](http://arxiv.org/abs/2309.10375)|null|
+|**2023-09-19**|**Metastatic Breast Cancer Prognostication Through Multimodal Integration of Dimensionality Reduction Algorithms and Classification Algorithms**|Bliss Singhal et.al.|[2309.10324](http://arxiv.org/abs/2309.10324)|null|
+|**2023-09-19**|**Investigating the Catastrophic Forgetting in Multimodal Large Language Models**|Yuexiang Zhai et.al.|[2309.10313](http://arxiv.org/abs/2309.10313)|null|
+|**2023-09-19**|**What is the Best Automated Metric for Text to Motion Generation?**|Jordan Voas et.al.|[2309.10248](http://arxiv.org/abs/2309.10248)|null|
+|**2023-09-18**|**Offline Detection of Misspelled Handwritten Words by Convolving Recognition Model Features with Text Labels**|Andrey Totev et.al.|[2309.10158](http://arxiv.org/abs/2309.10158)|null|
 |**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979](http://arxiv.org/abs/2309.09979)|null|
 |**2023-09-18**|**An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models**|Yadong Lu et.al.|[2309.09958](http://arxiv.org/abs/2309.09958)|**[link](https://github.com/haotian-liu/LLaVA)**|
 |**2023-09-18**|**EGFE: End-to-end Grouping of Fragmented Elements in UI Designs with Multimodal Learning**|Liuqing Chen et.al.|[2309.09867](http://arxiv.org/abs/2309.09867)|null|

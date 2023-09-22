@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Achieving Autonomous Cloth Manipulation with Optimal Control via Differentiable Physics-Aware Regularization and Safety Constraints**|Yutong Zhang et.al.|[2309.11655](http://arxiv.org/abs/2309.11655)|null|
 |**2023-09-19**|**Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail**|Yiyu Zhuang et.al.|[2309.10336](http://arxiv.org/abs/2309.10336)|null|
 |**2023-09-12**|**RackBlox: A Software-Defined Rack-Scale Storage System with Network-Storage Co-Design**|Benjamin Reidys et.al.|[2309.06513](http://arxiv.org/abs/2309.06513)|null|
 |**2023-09-11**|**SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors**|Hongge Chen et.al.|[2309.05810](http://arxiv.org/abs/2309.05810)|null|
@@ -1885,6 +1886,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**A rigorous model reduction for the anisotropic-scattering transport process**|Yuan Hu et.al.|[2309.12296](http://arxiv.org/abs/2309.12296)|null|
+|**2023-09-21**|**Performance Conditioning for Diffusion-Based Multi-Instrument Music Synthesis**|Ben Maman et.al.|[2309.12283](http://arxiv.org/abs/2309.12283)|null|
+|**2023-09-21**|**Intertype superconductivity evoked by the interplay of disorder and multiple bands**|P. M. Marychev et.al.|[2309.12133](http://arxiv.org/abs/2309.12133)|null|
+|**2023-09-21**|**Search for Continuous and Transient Neutrino Emission Associated with IceCube's Highest-Energy Tracks: An 11-Year Analysis**|R. Abbasi et.al.|[2309.12130](http://arxiv.org/abs/2309.12130)|null|
+|**2023-09-21**|**Wavelet-based Edge Multiscale Finite Element Methods for Singularly Perturbed Convection-Diffusion Equations**|Shubin Fu et.al.|[2309.12108](http://arxiv.org/abs/2309.12108)|null|
+|**2023-09-21**|**The Imaging X-ray Polarimetry Explorer (IXPE): Prospects for Spatially-Resolved X-ray Polarimetry of Extended Sources and In-Orbit Calibrations**|Riccardo Ferrazzoli et.al.|[2309.12026](http://arxiv.org/abs/2309.12026)|null|
+|**2023-09-21**|**Singular Control in a Cash Management Model with Ambiguity**|Arnon Archankul et.al.|[2309.12014](http://arxiv.org/abs/2309.12014)|null|
+|**2023-09-21**|**Thermal tides in neutrally stratified atmospheres: Revisiting the Earth's Precambrian rotational equilibrium**|Mohammad Farhat et.al.|[2309.11946](http://arxiv.org/abs/2309.11946)|null|
+|**2023-09-21**|**Tuning brittleness in multi-component metallic glasses through chemical disorder aging**|Kamran Karimi et.al.|[2309.11867](http://arxiv.org/abs/2309.11867)|null|
+|**2023-09-21**|**Stellar model calibrations with the Ai Phe binary system. Open questions about the robustness of the fit**|G. Valle et.al.|[2309.11837](http://arxiv.org/abs/2309.11837)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
 |**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456](http://arxiv.org/abs/2309.11456)|null|
 |**2023-09-20**|**Brain-inspired computing with fluidic iontronic nanochannels**|T. M. Kamsma et.al.|[2309.11438](http://arxiv.org/abs/2309.11438)|null|
@@ -2032,6 +2043,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Towards Answering Health-related Questions from Medical Videos: Datasets and Approaches**|Deepak Gupta et.al.|[2309.12224](http://arxiv.org/abs/2309.12224)|null|
+|**2023-09-21**|**Mental imagery timing affects hybrid BCI control of robotic arms**|Tristan Venot et.al.|[2309.12195](http://arxiv.org/abs/2309.12195)|null|
+|**2023-09-21**|**Exploiting CLIP-based Multi-modal Approach for Artwork Classification and Retrieval**|Alberto Baldrati et.al.|[2309.12110](http://arxiv.org/abs/2309.12110)|null|
+|**2023-09-21**|**Survey of Action Recognition, Spotting and Spatio-Temporal Localization in Soccer -- Current Trends and Research Perspectives**|Karolina Seweryn et.al.|[2309.12067](http://arxiv.org/abs/2309.12067)|null|
+|**2023-09-21**|**CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation**|Masato Mita et.al.|[2309.12030](http://arxiv.org/abs/2309.12030)|null|
+|**2023-09-21**|**Unlocking the Heart Using Adaptive Locked Agnostic Networks**|Sylwia Majchrowska et.al.|[2309.11899](http://arxiv.org/abs/2309.11899)|null|
+|**2023-09-21**|**Quantifying nonclassicality and entanglement of Gaussian states**|Xiao-yu Chen et.al.|[2309.11815](http://arxiv.org/abs/2309.11815)|null|
+|**2023-09-21**|**Multimodal Transformers for Wireless Communications: A Case Study in Beam Prediction**|Yu Tian et.al.|[2309.11811](http://arxiv.org/abs/2309.11811)|**[link](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)**|
+|**2023-09-21**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751](http://arxiv.org/abs/2309.11751)|**[link](https://github.com/thu-ml/attack-bard)**|
+|**2023-09-20**|**Galaxy Archaeology for Wet Mergers: Globular Cluster Age Distributions in the Milky Way and Nearby Galaxies**|Lucas M. Valenzuela et.al.|[2309.11545](http://arxiv.org/abs/2309.11545)|null|
 |**2023-09-20**|**A Large-scale Dataset for Audio-Language Representation Learning**|Luoyi Sun et.al.|[2309.11500](http://arxiv.org/abs/2309.11500)|null|
 |**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499](http://arxiv.org/abs/2309.11499)|**[link](https://github.com/RunpeiDong/DreamLLM)**|
 |**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|null|

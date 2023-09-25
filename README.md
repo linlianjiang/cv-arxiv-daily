@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Real-time Batched Distance Computation for Time-Optimal Safe Path Tracking**|Shohei Fujii et.al.|[2309.12543](http://arxiv.org/abs/2309.12543)|null|
 |**2023-09-20**|**Achieving Autonomous Cloth Manipulation with Optimal Control via Differentiable Physics-Aware Regularization and Safety Constraints**|Yutong Zhang et.al.|[2309.11655](http://arxiv.org/abs/2309.11655)|null|
 |**2023-09-19**|**Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail**|Yiyu Zhuang et.al.|[2309.10336](http://arxiv.org/abs/2309.10336)|null|
 |**2023-09-12**|**RackBlox: A Software-Defined Rack-Scale Storage System with Network-Storage Co-Design**|Benjamin Reidys et.al.|[2309.06513](http://arxiv.org/abs/2309.06513)|null|
@@ -1886,6 +1887,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042](http://arxiv.org/abs/2309.13042)|**[link](https://github.com/jiahao000/mosaicfusion)**|
+|**2023-09-22**|**Free fermions with dephasing and boundary driving: Bethe Ansatz results**|Vincenzo Alba et.al.|[2309.12978](http://arxiv.org/abs/2309.12978)|null|
+|**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
+|**2023-09-22**|**Accuracy and stability analysis of horizontal discretizations used in unstructured grid ocean models**|Fabricio Rodrigues Lapolli et.al.|[2309.12832](http://arxiv.org/abs/2309.12832)|null|
+|**2023-09-22**|**Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography**|Rabin Adhikari et.al.|[2309.12829](http://arxiv.org/abs/2309.12829)|**[link](https://github.com/naamiinepal/synthetic-boost)**|
+|**2023-09-22**|**DurIAN-E: Duration Informed Attention Network For Expressive Text-to-Speech Synthesis**|Yu Gu et.al.|[2309.12792](http://arxiv.org/abs/2309.12792)|null|
+|**2023-09-22**|**Semantic Change Driven Generative Semantic Communication Framework**|Wanting Yang et.al.|[2309.12775](http://arxiv.org/abs/2309.12775)|null|
+|**2023-09-22**|**Coverage Dependent H $_2$ Desorption Energy: a Quantitative Explanation Based on Encounter Desorption Mechanism**|Qingkuan Meng et.al.|[2309.12587](http://arxiv.org/abs/2309.12587)|null|
+|**2023-09-21**|**A Diffusion-Model of Joint Interactive Navigation**|Matthew Niedoba et.al.|[2309.12508](http://arxiv.org/abs/2309.12508)|null|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
 |**2023-09-21**|**A rigorous model reduction for the anisotropic-scattering transport process**|Yuan Hu et.al.|[2309.12296](http://arxiv.org/abs/2309.12296)|null|
 |**2023-09-21**|**Performance Conditioning for Diffusion-Based Multi-Instrument Music Synthesis**|Ben Maman et.al.|[2309.12283](http://arxiv.org/abs/2309.12283)|null|
 |**2023-09-21**|**Intertype superconductivity evoked by the interplay of disorder and multiple bands**|P. M. Marychev et.al.|[2309.12133](http://arxiv.org/abs/2309.12133)|null|
@@ -2043,6 +2054,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Deep regression learning with optimal loss function**|Xuancheng Wang et.al.|[2309.12872](http://arxiv.org/abs/2309.12872)|null|
+|**2023-09-22**|**Learning to Walk and Fly with Adversarial Motion Priors**|Giuseppe L'Erario et.al.|[2309.12784](http://arxiv.org/abs/2309.12784)|null|
+|**2023-09-22**|**Can Urban Air Mobility become reality? Opportunities, challenges and selected research results**|Henry Pak et.al.|[2309.12680](http://arxiv.org/abs/2309.12680)|null|
+|**2023-09-22**|**A Study on Learning Social Robot Navigation with Multimodal Perception**|Bhabaranjan Panigrahi et.al.|[2309.12568](http://arxiv.org/abs/2309.12568)|**[link](https://github.com/robotixx/multimodal-fusion-network)**|
+|**2023-09-21**|**Hanstreamer: an Open-source Webcam-based Live Data Presentation System**|Adrian Kristanto et.al.|[2309.12538](http://arxiv.org/abs/2309.12538)|null|
+|**2023-09-21**|**Multimodal Deep Learning for Scientific Imaging Interpretation**|Abdulelah S. Alshehri et.al.|[2309.12460](http://arxiv.org/abs/2309.12460)|null|
+|**2023-09-21**|**A Theory of Multimodal Learning**|Zhou Lu et.al.|[2309.12458](http://arxiv.org/abs/2309.12458)|null|
+|**2023-09-21**|**Decomposing large unitaries into multimode devices of arbitrary size**|Christian Arends et.al.|[2309.12440](http://arxiv.org/abs/2309.12440)|null|
 |**2023-09-21**|**Towards Answering Health-related Questions from Medical Videos: Datasets and Approaches**|Deepak Gupta et.al.|[2309.12224](http://arxiv.org/abs/2309.12224)|null|
 |**2023-09-22**|**Mental imagery timing affects hybrid BCI control of robotic arms**|Tristan Venot et.al.|[2309.12195](http://arxiv.org/abs/2309.12195)|null|
 |**2023-09-21**|**Exploiting CLIP-based Multi-modal Approach for Artwork Classification and Retrieval**|Alberto Baldrati et.al.|[2309.12110](http://arxiv.org/abs/2309.12110)|null|

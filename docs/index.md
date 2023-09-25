@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1868,7 +1868,7 @@ layout: default
 |**2023-09-21**|**Wavelet-based Edge Multiscale Finite Element Methods for Singularly Perturbed Convection-Diffusion Equations**|Shubin Fu et.al.|[2309.12108](http://arxiv.org/abs/2309.12108)|null|
 |**2023-09-21**|**The Imaging X-ray Polarimetry Explorer (IXPE): Prospects for Spatially-Resolved X-ray Polarimetry of Extended Sources and In-Orbit Calibrations**|Riccardo Ferrazzoli et.al.|[2309.12026](http://arxiv.org/abs/2309.12026)|null|
 |**2023-09-21**|**Singular Control in a Cash Management Model with Ambiguity**|Arnon Archankul et.al.|[2309.12014](http://arxiv.org/abs/2309.12014)|null|
-|**2023-09-21**|**Thermal tides in neutrally stratified atmospheres: Revisiting the Earth's Precambrian rotational equilibrium**|Mohammad Farhat et.al.|[2309.11946](http://arxiv.org/abs/2309.11946)|null|
+|**2023-09-22**|**Thermal tides in neutrally stratified atmospheres: Revisiting the Earth's Precambrian rotational equilibrium**|Mohammad Farhat et.al.|[2309.11946](http://arxiv.org/abs/2309.11946)|null|
 |**2023-09-21**|**Tuning brittleness in multi-component metallic glasses through chemical disorder aging**|Kamran Karimi et.al.|[2309.11867](http://arxiv.org/abs/2309.11867)|null|
 |**2023-09-21**|**Stellar model calibrations with the Ai Phe binary system. Open questions about the robustness of the fit**|G. Valle et.al.|[2309.11837](http://arxiv.org/abs/2309.11837)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
@@ -2017,7 +2017,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-21**|**Towards Answering Health-related Questions from Medical Videos: Datasets and Approaches**|Deepak Gupta et.al.|[2309.12224](http://arxiv.org/abs/2309.12224)|null|
-|**2023-09-21**|**Mental imagery timing affects hybrid BCI control of robotic arms**|Tristan Venot et.al.|[2309.12195](http://arxiv.org/abs/2309.12195)|null|
+|**2023-09-22**|**Mental imagery timing affects hybrid BCI control of robotic arms**|Tristan Venot et.al.|[2309.12195](http://arxiv.org/abs/2309.12195)|null|
 |**2023-09-21**|**Exploiting CLIP-based Multi-modal Approach for Artwork Classification and Retrieval**|Alberto Baldrati et.al.|[2309.12110](http://arxiv.org/abs/2309.12110)|null|
 |**2023-09-21**|**Survey of Action Recognition, Spotting and Spatio-Temporal Localization in Soccer -- Current Trends and Research Perspectives**|Karolina Seweryn et.al.|[2309.12067](http://arxiv.org/abs/2309.12067)|null|
 |**2023-09-21**|**CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation**|Masato Mita et.al.|[2309.12030](http://arxiv.org/abs/2309.12030)|null|

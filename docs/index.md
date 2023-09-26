@@ -1862,6 +1862,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-25**|**Bayesian parameter estimation for characterising mobile ion vacancies in perovskite solar cells**|Samuel G. McCallum et.al.|[2309.14302](http://arxiv.org/abs/2309.14302)|null|
+|**2023-09-25**|**A Multi-Frequency View of the Radio Phoenix in the Abell 85 Cluster**|Ramij Raja et.al.|[2309.14244](http://arxiv.org/abs/2309.14244)|null|
+|**2023-09-25**|**Magneto-thermal evolution in the cores of adolescent neutron stars: The Grad-Shafranov equilibrium is never reached in the 'strong-coupling' regime**|Nicolás A. Moraga et.al.|[2309.14182](http://arxiv.org/abs/2309.14182)|null|
+|**2023-09-25**|**Nonlinear Filtering of Classical and Quantum Spin Systems**|Sivaguru S. Sritharan et.al.|[2309.14143](http://arxiv.org/abs/2309.14143)|null|
+|**2023-09-25**|**Non-equilibrium steady states of electrolyte interfaces**|Markus Bier et.al.|[2309.14126](http://arxiv.org/abs/2309.14126)|null|
+|**2023-09-25**|**A Common Approach to Singular Perturbation and Homogenization II: Semilinear Elliptic Systems**|Nikolay N. Nefedov et.al.|[2309.14108](http://arxiv.org/abs/2309.14108)|null|
+|**2023-09-25**|**Bayesian inference of 3D densities of galactic HI and H2**|Laurin Söding et.al.|[2309.14075](http://arxiv.org/abs/2309.14075)|null|
+|**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068](http://arxiv.org/abs/2309.14068)|null|
+|**2023-09-25**|**Mixing as a correlated aggregation process**|Joris Heyman et.al.|[2309.14040](http://arxiv.org/abs/2309.14040)|null|
 |**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042](http://arxiv.org/abs/2309.13042)|**[link](https://github.com/jiahao000/mosaicfusion)**|
 |**2023-09-22**|**Free fermions with dephasing and boundary driving: Bethe Ansatz results**|Vincenzo Alba et.al.|[2309.12978](http://arxiv.org/abs/2309.12978)|null|
 |**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
@@ -2027,6 +2037,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**MUTEX: Learning Unified Policies from Multimodal Task Specifications**|Rutav Shah et.al.|[2309.14320](http://arxiv.org/abs/2309.14320)|null|
+|**2023-09-25**|**Detecting and Grounding Multi-Modal Media Manipulation and Beyond**|Rui Shao et.al.|[2309.14203](http://arxiv.org/abs/2309.14203)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
+|**2023-09-25**|**MultiModN- Multimodal, Multi-Task, Interpretable Modular Networks**|Vinitra Swamy et.al.|[2309.14118](http://arxiv.org/abs/2309.14118)|**[link](https://github.com/epfl-iglobalhealth/multimodn)**|
+|**2023-09-25**|**Convolutional autoencoder-based multimodal one-class classification**|Firas Laakom et.al.|[2309.14090](http://arxiv.org/abs/2309.14090)|null|
+|**2023-09-25**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065](http://arxiv.org/abs/2309.14065)|**[link](https://github.com/Fourier7754/AsymFormer)**|
+|**2023-09-25**|**A Cyberpunk 2077 perspective on the prediction and understanding of future technology**|Miguel Bordallo López et.al.|[2309.13970](http://arxiv.org/abs/2309.13970)|null|
+|**2023-09-25**|**Egocentric RGB+Depth Action Recognition in Industry-Like Settings**|Jyoti Kini et.al.|[2309.13962](http://arxiv.org/abs/2309.13962)|null|
+|**2023-09-25**|**UCF-Crime Annotation: A Benchmark for Surveillance Video-and-Language Understanding**|Tongtong Yuan et.al.|[2309.13925](http://arxiv.org/abs/2309.13925)|**[link](https://github.com/xuange923/uca-dataset)**|
+|**2023-09-25**|**On the Computational Benefit of Multimodal Learning**|Zhou Lu et.al.|[2309.13782](http://arxiv.org/abs/2309.13782)|null|
+|**2023-09-24**|**6-DOF All-Terrain Cyclocopter**|Jingwei Li et.al.|[2309.13631](http://arxiv.org/abs/2309.13631)|null|
 |**2023-09-22**|**Deep regression learning with optimal loss function**|Xuancheng Wang et.al.|[2309.12872](http://arxiv.org/abs/2309.12872)|null|
 |**2023-09-22**|**Learning to Walk and Fly with Adversarial Motion Priors**|Giuseppe L'Erario et.al.|[2309.12784](http://arxiv.org/abs/2309.12784)|null|
 |**2023-09-22**|**Can Urban Air Mobility become reality? Opportunities, challenges and selected research results**|Henry Pak et.al.|[2309.12680](http://arxiv.org/abs/2309.12680)|null|

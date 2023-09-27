@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-21**|**Real-time Batched Distance Computation for Time-Optimal Safe Path Tracking**|Shohei Fujii et.al.|[2309.12543](http://arxiv.org/abs/2309.12543)|null|
 |**2023-09-20**|**Achieving Autonomous Cloth Manipulation with Optimal Control via Differentiable Physics-Aware Regularization and Safety Constraints**|Yutong Zhang et.al.|[2309.11655](http://arxiv.org/abs/2309.11655)|null|
 |**2023-09-19**|**Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail**|Yiyu Zhuang et.al.|[2309.10336](http://arxiv.org/abs/2309.10336)|null|
@@ -1862,6 +1863,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117](http://arxiv.org/abs/2309.15117)|null|
+|**2023-09-26**|**Solutions with positive components to quasilinear parabolic systems**|Evelina Shamarova et.al.|[2309.15114](http://arxiv.org/abs/2309.15114)|null|
+|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
+|**2023-09-26**|**The ATM implied skew in the ADO-Heston model**|Andrey Itkin et.al.|[2309.15044](http://arxiv.org/abs/2309.15044)|null|
+|**2023-09-26**|**Asymptotic freeness in tracial ultraproducts**|Cyril Houdayer et.al.|[2309.15029](http://arxiv.org/abs/2309.15029)|null|
+|**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934](http://arxiv.org/abs/2309.14934)|null|
+|**2023-09-26**|**ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models**|Shengqi Liu et.al.|[2309.14872](http://arxiv.org/abs/2309.14872)|null|
+|**2023-09-26**|**Navigating Text-To-Image Customization:From LyCORIS Fine-Tuning to Model Evaluation**|Shin-Ying Yeh et.al.|[2309.14859](http://arxiv.org/abs/2309.14859)|**[link](https://github.com/kohakublueleaf/lycoris)**|
+|**2023-09-26**|**On a class of solvable stationary non equilibrium states for mass exchange models**|Monia Capanna et.al.|[2309.14836](http://arxiv.org/abs/2309.14836)|null|
+|**2023-09-26**|**Identifying and abating copper foil impurities to optimize graphene growth**|N. Reckinger et.al.|[2309.14811](http://arxiv.org/abs/2309.14811)|null|
 |**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
 |**2023-09-25**|**Bayesian parameter estimation for characterising mobile ion vacancies in perovskite solar cells**|Samuel G. McCallum et.al.|[2309.14302](http://arxiv.org/abs/2309.14302)|null|
 |**2023-09-25**|**A Multi-Frequency View of the Radio Phoenix in the Abell 85 Cluster**|Ramij Raja et.al.|[2309.14244](http://arxiv.org/abs/2309.14244)|null|
@@ -2037,6 +2048,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**|Zhexiong Wan et.al.|[2309.15082](http://arxiv.org/abs/2309.15082)|**[link](https://github.com/danqu130/RPEFlow)**|
+|**2023-09-26**|**Room-temperature quantum optomechanics using an ultra-low noise cavity**|Guanhao Huang et.al.|[2309.15051](http://arxiv.org/abs/2309.15051)|null|
+|**2023-09-26**|**Rayleigh-Taylor Unstable Flames: the Coupled Effect of Multiple Perturbations**|Mingxuan Liu et.al.|[2309.15046](http://arxiv.org/abs/2309.15046)|null|
+|**2023-09-26**|**Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex**|Ruixing Liang et.al.|[2309.15018](http://arxiv.org/abs/2309.15018)|**[link](https://github.com/rxliang/vision)**|
+|**2023-09-26**|**A Comparative Study of Population-Graph Construction Methods and Graph Neural Networks for Brain Age Regression**|Kyriaki-Margarita Bintsi et.al.|[2309.14816](http://arxiv.org/abs/2309.14816)|**[link](https://github.com/bintsi/brain-age-population-graphs)**|
+|**2023-09-26**|**Multiple peaks in network SIR epidemic models**|Martina Alutto et.al.|[2309.14583](http://arxiv.org/abs/2309.14583)|null|
+|**2023-09-26**|**Quantum Equipartition Theorem for Arbitrary Quadratic System**|Xin-Hai Tong et.al.|[2309.14582](http://arxiv.org/abs/2309.14582)|null|
+|**2023-09-25**|**MEMO: Dataset and Methods for Robust Multimodal Retinal Image Registration with Large or Small Vessel Density Differences**|Chiao-Yi Wang et.al.|[2309.14550](http://arxiv.org/abs/2309.14550)|null|
+|**2023-09-25**|**Aligning Large Multimodal Models with Factually Augmented RLHF**|Zhiqing Sun et.al.|[2309.14525](http://arxiv.org/abs/2309.14525)|null|
 |**2023-09-25**|**MUTEX: Learning Unified Policies from Multimodal Task Specifications**|Rutav Shah et.al.|[2309.14320](http://arxiv.org/abs/2309.14320)|null|
 |**2023-09-25**|**Detecting and Grounding Multi-Modal Media Manipulation and Beyond**|Rui Shao et.al.|[2309.14203](http://arxiv.org/abs/2309.14203)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
 |**2023-09-25**|**MultiModN- Multimodal, Multi-Task, Interpretable Modular Networks**|Vinitra Swamy et.al.|[2309.14118](http://arxiv.org/abs/2309.14118)|**[link](https://github.com/epfl-iglobalhealth/multimodn)**|

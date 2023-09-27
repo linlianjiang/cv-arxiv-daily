@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2041,7 +2041,7 @@ layout: default
 |**2023-09-25**|**Detecting and Grounding Multi-Modal Media Manipulation and Beyond**|Rui Shao et.al.|[2309.14203](http://arxiv.org/abs/2309.14203)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
 |**2023-09-25**|**MultiModN- Multimodal, Multi-Task, Interpretable Modular Networks**|Vinitra Swamy et.al.|[2309.14118](http://arxiv.org/abs/2309.14118)|**[link](https://github.com/epfl-iglobalhealth/multimodn)**|
 |**2023-09-25**|**Convolutional autoencoder-based multimodal one-class classification**|Firas Laakom et.al.|[2309.14090](http://arxiv.org/abs/2309.14090)|null|
-|**2023-09-25**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065](http://arxiv.org/abs/2309.14065)|**[link](https://github.com/Fourier7754/AsymFormer)**|
+|**2023-09-26**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065](http://arxiv.org/abs/2309.14065)|**[link](https://github.com/Fourier7754/AsymFormer)**|
 |**2023-09-25**|**A Cyberpunk 2077 perspective on the prediction and understanding of future technology**|Miguel Bordallo López et.al.|[2309.13970](http://arxiv.org/abs/2309.13970)|null|
 |**2023-09-25**|**Egocentric RGB+Depth Action Recognition in Industry-Like Settings**|Jyoti Kini et.al.|[2309.13962](http://arxiv.org/abs/2309.13962)|null|
 |**2023-09-25**|**UCF-Crime Annotation: A Benchmark for Surveillance Video-and-Language Understanding**|Tongtong Yuan et.al.|[2309.13925](http://arxiv.org/abs/2309.13925)|**[link](https://github.com/xuange923/uca-dataset)**|

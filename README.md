@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110](http://arxiv.org/abs/2309.16110)|null|
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-21**|**Real-time Batched Distance Computation for Time-Optimal Safe Path Tracking**|Shohei Fujii et.al.|[2309.12543](http://arxiv.org/abs/2309.12543)|null|
 |**2023-09-20**|**Achieving Autonomous Cloth Manipulation with Optimal Control via Differentiable Physics-Aware Regularization and Safety Constraints**|Yutong Zhang et.al.|[2309.11655](http://arxiv.org/abs/2309.11655)|null|
@@ -1888,6 +1889,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Diffusion coefficients preserving long-time correlations: Consequences on the Einstein relation and on entanglement in a bosonic Bogoliubov system**|Yamen Hamdouni et.al.|[2309.16651](http://arxiv.org/abs/2309.16651)|null|
+|**2023-09-28**|**Optical and microstructural characterization of Er $^{3+}$ doped epitaxial cerium oxide on silicon**|Gregory D. Grant et.al.|[2309.16644](http://arxiv.org/abs/2309.16644)|null|
+|**2023-09-28**|**The steady states of positive reaction-diffusion equations with Dirichlet conditions**|Henri Berestycki et.al.|[2309.16642](http://arxiv.org/abs/2309.16642)|null|
+|**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608](http://arxiv.org/abs/2309.16608)|null|
+|**2023-09-28**|**CCEdit: Creative and Controllable Video Editing via Diffusion Models**|Ruoyu Feng et.al.|[2309.16496](http://arxiv.org/abs/2309.16496)|null|
+|**2023-09-28**|**Distilling ODE Solvers of Diffusion Models into Smaller Steps**|Sanghwan Kim et.al.|[2309.16421](http://arxiv.org/abs/2309.16421)|null|
+|**2023-09-28**|**Conditional normalizing flows for IceCube event reconstruction**|Thorsten Glüsenkamp et.al.|[2309.16380](http://arxiv.org/abs/2309.16380)|null|
+|**2023-09-28**|**Meshless interface tracking for the simulation of dendrite envelope growth**|Mitja Jančič et.al.|[2309.16378](http://arxiv.org/abs/2309.16378)|null|
+|**2023-09-28**|**A central limit theorem for the Euler method for SDEs with irregular drifts**|Konstantinos Dareiotis et.al.|[2309.16339](http://arxiv.org/abs/2309.16339)|null|
+|**2023-09-28**|**The effect of local ventilation on airborne viral transmission in indoor spaces**|Alexander Pretty et.al.|[2309.16332](http://arxiv.org/abs/2309.16332)|null|
 |**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842](http://arxiv.org/abs/2309.15842)|null|
 |**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818](http://arxiv.org/abs/2309.15818)|**[link](https://github.com/showlab/show-1)**|
 |**2023-09-27**|**Distinguishing between long-transient and asymptotic states in a biological aggregation model**|Jonathan R. Potts et.al.|[2309.15810](http://arxiv.org/abs/2309.15810)|null|
@@ -2085,6 +2096,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649](http://arxiv.org/abs/2309.16649)|null|
+|**2023-09-28**|**MotionLM: Multi-Agent Motion Forecasting as Language Modeling**|Ari Seff et.al.|[2309.16534](http://arxiv.org/abs/2309.16534)|null|
+|**2023-09-28**|**Social Media Fashion Knowledge Extraction as Captioning**|Yifei Yuan et.al.|[2309.16270](http://arxiv.org/abs/2309.16270)|null|
+|**2023-09-28**|**VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency**|Zihao Zhu et.al.|[2309.16211](http://arxiv.org/abs/2309.16211)|null|
+|**2023-09-28**|**Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis**|Qiankun Zuo et.al.|[2309.16206](http://arxiv.org/abs/2309.16206)|null|
+|**2023-09-28**|**DiffGAN-F2S: Symmetric and Efficient Denoising Diffusion GANs for Structural Connectivity Prediction from Brain fMRI**|Qiankun Zuo et.al.|[2309.16205](http://arxiv.org/abs/2309.16205)|null|
+|**2023-09-27**|**AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model**|Seungwhan Moon et.al.|[2309.16058](http://arxiv.org/abs/2309.16058)|null|
+|**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057](http://arxiv.org/abs/2309.16057)|null|
+|**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915](http://arxiv.org/abs/2309.15915)|null|
 |**2023-09-27**|**One For All: Video Conversation is Feasible Without Video Instruction Tuning**|Ruyang Liu et.al.|[2309.15785](http://arxiv.org/abs/2309.15785)|null|
 |**2023-09-27**|**PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation**|Shizhe Chen et.al.|[2309.15596](http://arxiv.org/abs/2309.15596)|null|
 |**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564](http://arxiv.org/abs/2309.15564)|null|

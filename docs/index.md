@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2060,7 +2060,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-27**|**One For All: Video Conversation is Feasible Without Video Instruction Tuning**|Ruyang Liu et.al.|[2309.15785](http://arxiv.org/abs/2309.15785)|null|
 |**2023-09-27**|**PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation**|Shizhe Chen et.al.|[2309.15596](http://arxiv.org/abs/2309.15596)|null|
-|**2023-09-27**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564](http://arxiv.org/abs/2309.15564)|null|
+|**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564](http://arxiv.org/abs/2309.15564)|null|
 |**2023-09-27**|**Exploiting holographically encoded variance to transmit labelled images through a multimode optical fiber**|Liam Collard et.al.|[2309.15532](http://arxiv.org/abs/2309.15532)|null|
 |**2023-09-27**|**Finite Scalar Quantization: VQ-VAE Made Simple**|Fabian Mentzer et.al.|[2309.15505](http://arxiv.org/abs/2309.15505)|null|
 |**2023-09-27**|**VideoAdviser: Video Knowledge Distillation for Multimodal Transfer Learning**|Yanan Wang et.al.|[2309.15494](http://arxiv.org/abs/2309.15494)|null|

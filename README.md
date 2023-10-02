@@ -1889,6 +1889,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Are Odd Radio Circles virial shocks around massive galaxies? Implications for cosmic-ray diffusion in the circumgalactic medium**|Shotaro Yamasaki et.al.|[2309.17451](http://arxiv.org/abs/2309.17451)|null|
+|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
+|**2023-09-29**|**Long time dynamics of a fractional dissipative model of electroconvection in bounded domains**|E. Abdo et.al.|[2309.17423](http://arxiv.org/abs/2309.17423)|null|
+|**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
+|**2023-09-29**|**Analytic and Gevrey class regularity for parametric semilinear reaction-diffusion problems and applications in uncertainty quantification**|Alexey Chernov et.al.|[2309.17397](http://arxiv.org/abs/2309.17397)|null|
+|**2023-09-29**|**Misconceptions about quantifying animal encounter and interaction processes**|Debraj Das et.al.|[2309.17373](http://arxiv.org/abs/2309.17373)|null|
+|**2023-09-29**|**Physics-Informed Neural Network for the Transient Diffusivity Equation in Reservoir Engineering**|Daniel Badawi et.al.|[2309.17345](http://arxiv.org/abs/2309.17345)|null|
+|**2023-09-29**|**A Babcock-Leighton dynamo model of the Sun incorporating toroidal flux loss and the helioseismically-inferred meridional flow**|S. Cloutier et.al.|[2309.17328](http://arxiv.org/abs/2309.17328)|null|
+|**2023-09-29**|**Well-posedness and stationary states for a crowded active Brownian system with size-exclusion**|Martin Burger et.al.|[2309.17326](http://arxiv.org/abs/2309.17326)|null|
+|**2023-09-29**|**Adaptive nonparametric drift estimation for multivariate jump diffusions under sup-norm risk**|Niklas Dexheimer et.al.|[2309.17306](http://arxiv.org/abs/2309.17306)|null|
 |**2023-09-28**|**Diffusion coefficients preserving long-time correlations: Consequences on the Einstein relation and on entanglement in a bosonic Bogoliubov system**|Yamen Hamdouni et.al.|[2309.16651](http://arxiv.org/abs/2309.16651)|null|
 |**2023-09-28**|**Optical and microstructural characterization of Er $^{3+}$ doped epitaxial cerium oxide on silicon**|Gregory D. Grant et.al.|[2309.16644](http://arxiv.org/abs/2309.16644)|null|
 |**2023-09-28**|**The steady states of positive reaction-diffusion equations with Dirichlet conditions**|Henri Berestycki et.al.|[2309.16642](http://arxiv.org/abs/2309.16642)|null|
@@ -2096,6 +2106,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Data Filtering Networks**|Alex Fang et.al.|[2309.17425](http://arxiv.org/abs/2309.17425)|null|
+|**2023-09-29**|**The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)**|Zhengyuan Yang et.al.|[2309.17421](http://arxiv.org/abs/2309.17421)|null|
+|**2023-09-29**|**Building Privacy-Preserving and Secure Geospatial Artificial Intelligence Foundation Models**|Jinmeng Rao et.al.|[2309.17319](http://arxiv.org/abs/2309.17319)|null|
+|**2023-09-29**|**Fine-Resolution Silicon Photonic Wavelength-Selective Switch Using Hybrid Multimode Racetrack Resonators**|Lucas M. Cohen et.al.|[2309.17222](http://arxiv.org/abs/2309.17222)|null|
+|**2023-09-29**|**Domain-Adaptive Learning: Unsupervised Adaptation for Histology Images with Improved Loss Function Combination**|Ravi Kant Gupta et.al.|[2309.17172](http://arxiv.org/abs/2309.17172)|null|
+|**2023-09-29**|**Guiding Instruction-based Image Editing via Multimodal Large Language Models**|Tsu-Jui Fu et.al.|[2309.17102](http://arxiv.org/abs/2309.17102)|**[link](https://github.com/tsujuifu/pytorch_mgie)**|
+|**2023-09-28**|**PROSE: Predicting Operators and Symbolic Expressions using Multimodal Transformers**|Yuxuan Liu et.al.|[2309.16816](http://arxiv.org/abs/2309.16816)|null|
+|**2023-09-28**|**Harnessing Diverse Data for Global Disaster Prediction: A Multimodal Framework**|Gengyin Liu et.al.|[2309.16747](http://arxiv.org/abs/2309.16747)|null|
 |**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649](http://arxiv.org/abs/2309.16649)|**[link](https://github.com/koushiksrivats/flip)**|
 |**2023-09-28**|**MotionLM: Multi-Agent Motion Forecasting as Language Modeling**|Ari Seff et.al.|[2309.16534](http://arxiv.org/abs/2309.16534)|null|
 |**2023-09-28**|**Social Media Fashion Knowledge Extraction as Captioning**|Yifei Yuan et.al.|[2309.16270](http://arxiv.org/abs/2309.16270)|null|

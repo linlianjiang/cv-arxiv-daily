@@ -2079,7 +2079,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-29**|**Data Filtering Networks**|Alex Fang et.al.|[2309.17425](http://arxiv.org/abs/2309.17425)|null|
+|**2023-10-02**|**Data Filtering Networks**|Alex Fang et.al.|[2309.17425](http://arxiv.org/abs/2309.17425)|null|
 |**2023-09-29**|**The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)**|Zhengyuan Yang et.al.|[2309.17421](http://arxiv.org/abs/2309.17421)|null|
 |**2023-09-29**|**Building Privacy-Preserving and Secure Geospatial Artificial Intelligence Foundation Models**|Jinmeng Rao et.al.|[2309.17319](http://arxiv.org/abs/2309.17319)|null|
 |**2023-09-29**|**Fine-Resolution Silicon Photonic Wavelength-Selective Switch Using Hybrid Multimode Racetrack Resonators**|Lucas M. Cohen et.al.|[2309.17222](http://arxiv.org/abs/2309.17222)|null|

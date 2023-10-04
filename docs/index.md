@@ -1864,6 +1864,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242](http://arxiv.org/abs/2310.02242)|null|
+|**2023-10-03**|**Generalized Schrödinger Bridge Matching**|Guan-Horng Liu et.al.|[2310.02233](http://arxiv.org/abs/2310.02233)|null|
+|**2023-10-03**|**Leveraging Diffusion Disentangled Representations to Mitigate Shortcuts in Underspecified Visual Tasks**|Luca Scimeca et.al.|[2310.02230](http://arxiv.org/abs/2310.02230)|null|
+|**2023-10-03**|**Competition of many searchers**|Sean D Lawley et.al.|[2310.02157](http://arxiv.org/abs/2310.02157)|null|
+|**2023-10-03**|**Global solution for superlinear stochastic heat equation on $\mathbb{R}^d$ under Osgood-type conditions**|Le Chen et.al.|[2310.02153](http://arxiv.org/abs/2310.02153)|null|
+|**2023-10-03**|**A Variable Eddington Factor Model for Thermal Radiative Transfer with Closure based on Data-Driven Shape Function**|Joseph M. Coale et.al.|[2310.02072](http://arxiv.org/abs/2310.02072)|null|
+|**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060](http://arxiv.org/abs/2310.02060)|null|
+|**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054](http://arxiv.org/abs/2310.02054)|null|
+|**2023-10-03**|**Spectral operator learning for parametric PDEs without data reliance**|Junho Choi et.al.|[2310.02013](http://arxiv.org/abs/2310.02013)|null|
+|**2023-10-03**|**Optimizing microlens arrays for incoherent HiLo microscopy**|Ziao Jiao et.al.|[2310.01939](http://arxiv.org/abs/2310.01939)|null|
 |**2023-09-29**|**Are Odd Radio Circles virial shocks around massive galaxies? Implications for cosmic-ray diffusion in the circumgalactic medium**|Shotaro Yamasaki et.al.|[2309.17451](http://arxiv.org/abs/2309.17451)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
 |**2023-09-29**|**Long time dynamics of a fractional dissipative model of electroconvection in bounded domains**|E. Abdo et.al.|[2309.17423](http://arxiv.org/abs/2309.17423)|null|
@@ -2079,6 +2089,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255](http://arxiv.org/abs/2310.02255)|null|
+|**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239](http://arxiv.org/abs/2310.02239)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
+|**2023-10-03**|**MIS-AVioDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection**|Vinaya Sree Katamneni et.al.|[2310.02234](http://arxiv.org/abs/2310.02234)|null|
+|**2023-10-03**|**Can Language Models be Instructed to Protect Personal Information?**|Yang Chen et.al.|[2310.02224](http://arxiv.org/abs/2310.02224)|null|
+|**2023-10-03**|**Multimodality for improved CNN photometric redshifts**|R. Ait-Ouahmed et.al.|[2310.02185](http://arxiv.org/abs/2310.02185)|null|
+|**2023-10-03**|**TWIZ: The Wizard of Multimodal Conversational-Stimulus**|Rafael Ferreira et.al.|[2310.02118](http://arxiv.org/abs/2310.02118)|null|
+|**2023-10-03**|**SIEVE: Multimodal Dataset Pruning Using Image Captioning Models**|Anas Mahmoud et.al.|[2310.02110](http://arxiv.org/abs/2310.02110)|null|
+|**2023-10-03**|**Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond**|Liang Chen et.al.|[2310.02071](http://arxiv.org/abs/2310.02071)|**[link](https://github.com/pkunlp-icler/pca-eval)**|
+|**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang et.al.|[2310.02050](http://arxiv.org/abs/2310.02050)|null|
+|**2023-10-03**|**A Vision-Based Tactile Sensing System for Multimodal Contact Information Perception via Neural Network**|Weiliang Xu et.al.|[2310.01986](http://arxiv.org/abs/2310.01986)|null|
 |**2023-10-02**|**Data Filtering Networks**|Alex Fang et.al.|[2309.17425](http://arxiv.org/abs/2309.17425)|null|
 |**2023-09-29**|**The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)**|Zhengyuan Yang et.al.|[2309.17421](http://arxiv.org/abs/2309.17421)|null|
 |**2023-09-29**|**Building Privacy-Preserving and Secure Geospatial Artificial Intelligence Foundation Models**|Jinmeng Rao et.al.|[2309.17319](http://arxiv.org/abs/2309.17319)|null|

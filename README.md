@@ -1889,6 +1889,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
+|**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988](http://arxiv.org/abs/2310.02988)|null|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**Fast, Expressive SE $(n)$ Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970](http://arxiv.org/abs/2310.02970)|**[link](https://github.com/ebekkers/ponita)**|
+|**2023-10-04**|**Weakly coupled systems of eikonal equations for autonomous vehicles**|Maria Teresa Chiri et.al.|[2310.02966](http://arxiv.org/abs/2310.02966)|null|
+|**2023-10-04**|**Local Max-Entropy and Free Energy Principles, Belief Diffusions and their Singularities**|Olivier Peltre et.al.|[2310.02946](http://arxiv.org/abs/2310.02946)|null|
+|**2023-10-04**|**Optimal Transport with Adaptive Regularisation**|Hugues Van Assel et.al.|[2310.02925](http://arxiv.org/abs/2310.02925)|null|
+|**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906](http://arxiv.org/abs/2310.02906)|null|
+|**2023-10-04**|**Semiparametric Bernstein-von Mises Theorem for a Parameter in the Heat Equation**|Adel Magra et.al.|[2310.02883](http://arxiv.org/abs/2310.02883)|null|
 |**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242](http://arxiv.org/abs/2310.02242)|null|
 |**2023-10-03**|**Generalized Schrödinger Bridge Matching**|Guan-Horng Liu et.al.|[2310.02233](http://arxiv.org/abs/2310.02233)|null|
 |**2023-10-03**|**Leveraging Diffusion Disentangled Representations to Mitigate Shortcuts in Underspecified Visual Tasks**|Luca Scimeca et.al.|[2310.02230](http://arxiv.org/abs/2310.02230)|null|
@@ -2116,6 +2126,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017](http://arxiv.org/abs/2310.03017)|**[link](https://github.com/osu-nlp-group/mqa)**|
+|**2023-10-04**|**ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models**|Yi-Lin Sung et.al.|[2310.02998](http://arxiv.org/abs/2310.02998)|null|
+|**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992](http://arxiv.org/abs/2310.02992)|null|
+|**2023-10-04**|**Learning-Aided Warmstart of Model Predictive Control in Uncertain Fast-Changing Traffic**|Mohamed-Khalil Bouzidi et.al.|[2310.02918](http://arxiv.org/abs/2310.02918)|null|
+|**2023-10-04**|**Improving Vision Anomaly Detection with the Guidance of Language Modality**|Dong Chen et.al.|[2310.02821](http://arxiv.org/abs/2310.02821)|null|
+|**2023-10-04**|**DOMINO: A Dual-System for Multi-step Visual Language Reasoning**|Peifang Wang et.al.|[2310.02804](http://arxiv.org/abs/2310.02804)|null|
+|**2023-10-04**|**Integer Mixtures and Their Generating Functions**|Philip Cuthbertson et.al.|[2310.02796](http://arxiv.org/abs/2310.02796)|null|
+|**2023-10-04**|**Continual Contrastive Spoken Language Understanding**|Umberto Cappellazzo et.al.|[2310.02699](http://arxiv.org/abs/2310.02699)|null|
+|**2023-10-04**|**Bridging the Domain Gap by Clustering-based Image-Text Graph Matching**|Nokyung Park et.al.|[2310.02692](http://arxiv.org/abs/2310.02692)|null|
+|**2023-10-04**|**ShaSTA-Fuse: Camera-LiDAR Sensor Fusion to Model Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2310.02532](http://arxiv.org/abs/2310.02532)|null|
 |**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255](http://arxiv.org/abs/2310.02255)|null|
 |**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239](http://arxiv.org/abs/2310.02239)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
 |**2023-10-03**|**MIS-AVioDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection**|Vinaya Sree Katamneni et.al.|[2310.02234](http://arxiv.org/abs/2310.02234)|null|

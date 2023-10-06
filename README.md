@@ -1889,6 +1889,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
+|**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725](http://arxiv.org/abs/2310.03725)|null|
+|**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664](http://arxiv.org/abs/2310.03664)|null|
+|**2023-10-05**|**Deep surrogate model for learning Green's function associated with linear reaction-diffusion operator**|Junqing Ji et.al.|[2310.03642](http://arxiv.org/abs/2310.03642)|null|
+|**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602](http://arxiv.org/abs/2310.03602)|null|
+|**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559](http://arxiv.org/abs/2310.03559)|null|
+|**2023-10-05**|**Inverse design of self-folding 3D shells**|Diogo E. P. Pinto et.al.|[2310.03537](http://arxiv.org/abs/2310.03537)|null|
+|**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502](http://arxiv.org/abs/2310.03502)|null|
+|**2023-10-05**|**Deep Generative Models of Music Expectation**|Ninon Lizé Masclef et.al.|[2310.03500](http://arxiv.org/abs/2310.03500)|null|
+|**2023-10-05**|**An Extended Phase Graph-based framework for DANTE-SPACE simulations including physiological, temporal, and spatial variations**|Matthijs H. S. de Buck et.al.|[2310.03429](http://arxiv.org/abs/2310.03429)|null|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
 |**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988](http://arxiv.org/abs/2310.02988)|null|
@@ -2126,6 +2136,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Improved Baselines with Visual Instruction Tuning**|Haotian Liu et.al.|[2310.03744](http://arxiv.org/abs/2310.03744)|null|
+|**2023-10-05**|**Artificial Intelligence Index Report 2023**|Nestor Maslej et.al.|[2310.03715](http://arxiv.org/abs/2310.03715)|null|
+|**2023-10-05**|**Analyzing multimodal probability measures with autoencoders**|Tony Lelièvre et.al.|[2310.03492](http://arxiv.org/abs/2310.03492)|null|
+|**2023-10-05**|**BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**|Zifeng Wang et.al.|[2310.03320](http://arxiv.org/abs/2310.03320)|null|
+|**2023-10-04**|**Non-perturbative mass renormalization effects in non-relativistic quantum electrodynamics**|Davis M. Welakuh et.al.|[2310.03213](http://arxiv.org/abs/2310.03213)|null|
+|**2023-10-04**|**On the Performance of Multimodal Language Models**|Utsav Garg et.al.|[2310.03211](http://arxiv.org/abs/2310.03211)|null|
+|**2023-10-04**|**ViFiT: Reconstructing Vision Trajectories from IMU and Wi-Fi Fine Time Measurements**|Bryan Bo Cao et.al.|[2310.03140](http://arxiv.org/abs/2310.03140)|**[link](https://github.com/bryanbocao/vifit)**|
 |**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017](http://arxiv.org/abs/2310.03017)|**[link](https://github.com/osu-nlp-group/mqa)**|
 |**2023-10-04**|**ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models**|Yi-Lin Sung et.al.|[2310.02998](http://arxiv.org/abs/2310.02998)|null|
 |**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992](http://arxiv.org/abs/2310.02992)|null|

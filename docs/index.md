@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.06
+## Updated on 2023.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2118,7 +2118,7 @@ layout: default
 |**2023-10-04**|**ViFiT: Reconstructing Vision Trajectories from IMU and Wi-Fi Fine Time Measurements**|Bryan Bo Cao et.al.|[2310.03140](http://arxiv.org/abs/2310.03140)|**[link](https://github.com/bryanbocao/vifit)**|
 |**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017](http://arxiv.org/abs/2310.03017)|**[link](https://github.com/osu-nlp-group/mqa)**|
 |**2023-10-04**|**ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models**|Yi-Lin Sung et.al.|[2310.02998](http://arxiv.org/abs/2310.02998)|null|
-|**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992](http://arxiv.org/abs/2310.02992)|null|
+|**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992](http://arxiv.org/abs/2310.02992)|**[link](https://github.com/microsoft/unilm/tree/master/kosmos-g)**|
 |**2023-10-04**|**Learning-Aided Warmstart of Model Predictive Control in Uncertain Fast-Changing Traffic**|Mohamed-Khalil Bouzidi et.al.|[2310.02918](http://arxiv.org/abs/2310.02918)|null|
 |**2023-10-04**|**Improving Vision Anomaly Detection with the Guidance of Language Modality**|Dong Chen et.al.|[2310.02821](http://arxiv.org/abs/2310.02821)|null|
 |**2023-10-04**|**DOMINO: A Dual-System for Multi-step Visual Language Reasoning**|Peifang Wang et.al.|[2310.02804](http://arxiv.org/abs/2310.02804)|null|

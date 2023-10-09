@@ -1889,6 +1889,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
+|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414](http://arxiv.org/abs/2310.04414)|null|
+|**2023-10-06**|**Seeding the CGM: How Satellites Populate the Cold Phase of Milky Way Halos**|Manami Roy et.al.|[2310.04404](http://arxiv.org/abs/2310.04404)|null|
+|**2023-10-06**|**Supernova Remnants in the Irregular Galaxy NGC4449**|P. Frank Winkler et.al.|[2310.04382](http://arxiv.org/abs/2310.04382)|null|
+|**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378](http://arxiv.org/abs/2310.04378)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
+|**2023-10-06**|**Molecular Structural Dynamics in Water-Ethanol Mixtures: Spectroscopy with Polarized Neutrons Simultaneously Accessing Collective and Self-Diffusion**|Riccardo Morbidini et.al.|[2310.04320](http://arxiv.org/abs/2310.04320)|null|
+|**2023-10-06**|**Zentropy Theory for Quantitative Prediction of Emergent Behaviors**|Zi-Kui Liu et.al.|[2310.04279](http://arxiv.org/abs/2310.04279)|null|
+|**2023-10-06**|**Fully discrete Galerkin scheme for a semilinear subdiffusion equation with nonsmooth data and time-dependent coefficient**|Łukasz Płociniczak et.al.|[2310.04246](http://arxiv.org/abs/2310.04246)|null|
+|**2023-10-06**|**Exploring the interstellar medium of NGC 891 at millimeter wavelengths using the NIKA2 camera**|S. Katsioli et.al.|[2310.04204](http://arxiv.org/abs/2310.04204)|null|
+|**2023-10-06**|**Real diffusion with complex spectral gap**|Jean-Francois Bony et.al.|[2310.04203](http://arxiv.org/abs/2310.04203)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725](http://arxiv.org/abs/2310.03725)|null|
 |**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664](http://arxiv.org/abs/2310.03664)|null|
@@ -2136,6 +2146,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Bivariate Estimation-of-Distribution Algorithms Can Find an Exponential Number of Optima**|Benjamin Doerr et.al.|[2310.04042](http://arxiv.org/abs/2310.04042)|**[link](https://github.com/themor/themor-mimic_multiple_optima)**|
+|**2023-10-06**|**Snail Homing and Mating Search Algorithm: A Novel Bio-Inspired Metaheuristic Algorithm**|Anand J Kulkarni et.al.|[2310.04020](http://arxiv.org/abs/2310.04020)|null|
+|**2023-10-06**|**Hessian-based Similarity Metric for Multimodal Medical Image Registration**|Mohammadreza Eskandari et.al.|[2310.04009](http://arxiv.org/abs/2310.04009)|null|
+|**2023-10-06**|**Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation**|Md Kaykobad Reza et.al.|[2310.03986](http://arxiv.org/abs/2310.03986)|null|
+|**2023-10-05**|**MultiHU-TD: Multifeature Hyperspectral Unmixing Based on Tensor Decomposition**|Mohamad Jouni et.al.|[2310.03860](http://arxiv.org/abs/2310.03860)|null|
+|**2023-10-05**|**Integrating Audio-Visual Features for Multimodal Deepfake Detection**|Sneha Muppalla et.al.|[2310.03827](http://arxiv.org/abs/2310.03827)|null|
 |**2023-10-05**|**Improved Baselines with Visual Instruction Tuning**|Haotian Liu et.al.|[2310.03744](http://arxiv.org/abs/2310.03744)|null|
 |**2023-10-05**|**Artificial Intelligence Index Report 2023**|Nestor Maslej et.al.|[2310.03715](http://arxiv.org/abs/2310.03715)|null|
 |**2023-10-05**|**Analyzing multimodal probability measures with autoencoders**|Tony Lelièvre et.al.|[2310.03492](http://arxiv.org/abs/2310.03492)|null|

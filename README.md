@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-07**|**HI-SLAM: Monocular Real-time Dense Mapping with Hybrid Implicit Fields**|Wei Zhang et.al.|[2310.04787](http://arxiv.org/abs/2310.04787)|null|
 |**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110](http://arxiv.org/abs/2309.16110)|null|
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-21**|**Real-time Batched Distance Computation for Time-Optimal Safe Path Tracking**|Shohei Fujii et.al.|[2309.12543](http://arxiv.org/abs/2309.12543)|null|
@@ -1889,6 +1890,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922](http://arxiv.org/abs/2310.05922)|null|
+|**2023-10-09**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873](http://arxiv.org/abs/2310.05873)|null|
+|**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866](http://arxiv.org/abs/2310.05866)|null|
+|**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833](http://arxiv.org/abs/2310.05833)|null|
+|**2023-10-09**|**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**|Shansan Gong et.al.|[2310.05793](http://arxiv.org/abs/2310.05793)|null|
+|**2023-10-09**|**Transportation-cost inequalities for non-linear Gaussian functionals**|Ioannis Gasteratos et.al.|[2310.05750](http://arxiv.org/abs/2310.05750)|null|
+|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|null|
+|**2023-10-09**|**Nanoscale engineering and dynamical stabilization of mesoscopic spin textures**|Kieren Harkins et.al.|[2310.05635](http://arxiv.org/abs/2310.05635)|null|
+|**2023-10-09**|**Understanding correlations in BaZrO3:Structure and dynamics on the nano-scale**|Erik Fransson et.al.|[2310.05565](http://arxiv.org/abs/2310.05565)|null|
+|**2023-10-09**|**The influence of metallic overlayers on ferromagnetism in LaMnO $_3$**|Bart Folkers et.al.|[2310.05514](http://arxiv.org/abs/2310.05514)|null|
 |**2023-10-09**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
 |**2023-10-09**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414](http://arxiv.org/abs/2310.04414)|null|
 |**2023-10-06**|**Seeding the CGM: How Satellites Populate the Cold Phase of Milky Way Halos**|Manami Roy et.al.|[2310.04404](http://arxiv.org/abs/2310.04404)|null|
@@ -2146,6 +2157,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Controllable Chest X-Ray Report Generation from Longitudinal Representations**|Francesco Dalla Serra et.al.|[2310.05881](http://arxiv.org/abs/2310.05881)|null|
+|**2023-10-09**|**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**|Guangzhi Sun et.al.|[2310.05863](http://arxiv.org/abs/2310.05863)|**[link](https://github.com/briansidp/audiovisualllm)**|
+|**2023-10-09**|**Write What You Want: Applying Text-to-video Retrieval to Audiovisual Archives**|Yuchen Yang et.al.|[2310.05825](http://arxiv.org/abs/2310.05825)|null|
+|**2023-10-09**|**Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis**|Haoyu Zhang et.al.|[2310.05804](http://arxiv.org/abs/2310.05804)|null|
+|**2023-10-09**|**CLAID: Closing the Loop on AI & Data Collection -- A Cross-Platform Transparent Computing Middleware Framework for Smart Edge-Cloud and Digital Biomarker Applications**|Patrick Langer et.al.|[2310.05643](http://arxiv.org/abs/2310.05643)|null|
+|**2023-10-09**|**DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking**|Shangyu Xing et.al.|[2310.05589](http://arxiv.org/abs/2310.05589)|null|
+|**2023-10-09**|**Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes**|Yixuan Zhang et.al.|[2310.05485](http://arxiv.org/abs/2310.05485)|null|
+|**2023-10-09**|**AdaFuse: Adaptive Medical Image Fusion Based on Spatial-Frequential Cross Attention**|Xianming Gu et.al.|[2310.05462](http://arxiv.org/abs/2310.05462)|null|
+|**2023-10-09**|**Causal Reasoning through Two Layers of Cognition for Improving Generalization in Visual Question Answering**|Trang Nguyen et.al.|[2310.05410](http://arxiv.org/abs/2310.05410)|null|
+|**2023-10-08**|**Unified speech and gesture synthesis using flow matching**|Shivam Mehta et.al.|[2310.05181](http://arxiv.org/abs/2310.05181)|null|
 |**2023-10-06**|**Bivariate Estimation-of-Distribution Algorithms Can Find an Exponential Number of Optima**|Benjamin Doerr et.al.|[2310.04042](http://arxiv.org/abs/2310.04042)|**[link](https://github.com/themor/themor-mimic_multiple_optima)**|
 |**2023-10-06**|**Snail Homing and Mating Search Algorithm: A Novel Bio-Inspired Metaheuristic Algorithm**|Anand J Kulkarni et.al.|[2310.04020](http://arxiv.org/abs/2310.04020)|null|
 |**2023-10-06**|**Hessian-based Similarity Metric for Multimodal Medical Image Registration**|Mohammadreza Eskandari et.al.|[2310.04009](http://arxiv.org/abs/2310.04009)|null|

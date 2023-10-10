@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1864,13 +1864,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
-|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414](http://arxiv.org/abs/2310.04414)|null|
+|**2023-10-09**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
+|**2023-10-09**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414](http://arxiv.org/abs/2310.04414)|null|
 |**2023-10-06**|**Seeding the CGM: How Satellites Populate the Cold Phase of Milky Way Halos**|Manami Roy et.al.|[2310.04404](http://arxiv.org/abs/2310.04404)|null|
 |**2023-10-06**|**Supernova Remnants in the Irregular Galaxy NGC4449**|P. Frank Winkler et.al.|[2310.04382](http://arxiv.org/abs/2310.04382)|null|
 |**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378](http://arxiv.org/abs/2310.04378)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-10-06**|**Molecular Structural Dynamics in Water-Ethanol Mixtures: Spectroscopy with Polarized Neutrons Simultaneously Accessing Collective and Self-Diffusion**|Riccardo Morbidini et.al.|[2310.04320](http://arxiv.org/abs/2310.04320)|null|
-|**2023-10-06**|**Zentropy Theory for Quantitative Prediction of Emergent Behaviors**|Zi-Kui Liu et.al.|[2310.04279](http://arxiv.org/abs/2310.04279)|null|
+|**2023-10-09**|**Zentropy Theory for Quantitative Prediction of Emergent Behaviors**|Zi-Kui Liu et.al.|[2310.04279](http://arxiv.org/abs/2310.04279)|null|
 |**2023-10-06**|**Fully discrete Galerkin scheme for a semilinear subdiffusion equation with nonsmooth data and time-dependent coefficient**|Łukasz Płociniczak et.al.|[2310.04246](http://arxiv.org/abs/2310.04246)|null|
 |**2023-10-06**|**Exploring the interstellar medium of NGC 891 at millimeter wavelengths using the NIKA2 camera**|S. Katsioli et.al.|[2310.04204](http://arxiv.org/abs/2310.04204)|null|
 |**2023-10-06**|**Real diffusion with complex spectral gap**|Jean-Francois Bony et.al.|[2310.04203](http://arxiv.org/abs/2310.04203)|null|

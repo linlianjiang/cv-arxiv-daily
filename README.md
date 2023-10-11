@@ -1890,6 +1890,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
+|**2023-10-10**|**Characterizing Gibbs states for area-tilted Brownian lines**|Mriganka Basu Roy Chowdhury et.al.|[2310.06817](http://arxiv.org/abs/2310.06817)|null|
+|**2023-10-10**|**V1507 Cygni (HD187399): A Highly Evolved, Enigmatic Interacting Binary System with an Eccentric Orbit**|T. J. Davidge et.al.|[2310.06802](http://arxiv.org/abs/2310.06802)|null|
+|**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795](http://arxiv.org/abs/2310.06795)|null|
+|**2023-10-10**|**HiFi-123: Towards High-fidelity One Image to 3D Content Generation**|Wangbo Yu et.al.|[2310.06744](http://arxiv.org/abs/2310.06744)|null|
+|**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
+|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|**[link](https://github.com/lmb-freiburg/ldce)**|
+|**2023-10-10**|**Chiral Active Particles are Sensitive Reporter to Environmental Geometry**|Chung Wing Chan et.al.|[2310.06662](http://arxiv.org/abs/2310.06662)|null|
+|**2023-10-10**|**Tertiary Lymphoid Structures Generation through Graph-based Diffusion**|Manuel Madeira et.al.|[2310.06661](http://arxiv.org/abs/2310.06661)|null|
+|**2023-10-10**|**Emergent Facilitation and Glassy Dynamics in Supercooled Liquids**|Muhammad R. Hasyim et.al.|[2310.06584](http://arxiv.org/abs/2310.06584)|null|
 |**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922](http://arxiv.org/abs/2310.05922)|null|
 |**2023-10-10**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873](http://arxiv.org/abs/2310.05873)|null|
 |**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866](http://arxiv.org/abs/2310.05866)|null|
@@ -2157,6 +2167,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Temporally Aligning Long Audio Interviews with Questions: A Case Study in Multimodal Data Integration**|Piyush Singh Pasi et.al.|[2310.06702](http://arxiv.org/abs/2310.06702)|null|
+|**2023-10-10**|**Implicit Variational Inference for High-Dimensional Posteriors**|Anshuk Uppal et.al.|[2310.06643](http://arxiv.org/abs/2310.06643)|null|
+|**2023-10-10**|**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**|Ning Liao et.al.|[2310.06594](http://arxiv.org/abs/2310.06594)|**[link](https://github.com/liaoning97/revo-lion)**|
+|**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566](http://arxiv.org/abs/2310.06566)|null|
+|**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
+|**2023-10-10**|**I2SRM: Intra- and Inter-Sample Relationship Modeling for Multimodal Information Extraction**|Yusheng Huang et.al.|[2310.06326](http://arxiv.org/abs/2310.06326)|null|
+|**2023-10-10**|**Three-Dimensional Medical Image Fusion with Deformable Cross-Attention**|Lin Liu et.al.|[2310.06291](http://arxiv.org/abs/2310.06291)|null|
+|**2023-10-10**|**Tackling Data Bias in MUSIC-AVQA: Crafting a Balanced Dataset for Unbiased Question-Answering**|Xiulong Liu et.al.|[2310.06238](http://arxiv.org/abs/2310.06238)|null|
+|**2023-10-09**|**Predicting Player Engagement in Tom Clancy's The Division 2: A Multimodal Approach via Pixels and Gamepad Actions**|Kosmas Pinitas et.al.|[2310.06136](http://arxiv.org/abs/2310.06136)|null|
+|**2023-10-09**|**Complexity of Gaussian quantum optics with a limited number of non-linearities**|Michael G. Jabbour et.al.|[2310.06034](http://arxiv.org/abs/2310.06034)|null|
 |**2023-10-09**|**Controllable Chest X-Ray Report Generation from Longitudinal Representations**|Francesco Dalla Serra et.al.|[2310.05881](http://arxiv.org/abs/2310.05881)|null|
 |**2023-10-10**|**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**|Guangzhi Sun et.al.|[2310.05863](http://arxiv.org/abs/2310.05863)|**[link](https://github.com/briansidp/audiovisualllm)**|
 |**2023-10-09**|**Write What You Want: Applying Text-to-video Retrieval to Audiovisual Archives**|Yuchen Yang et.al.|[2310.05825](http://arxiv.org/abs/2310.05825)|null|

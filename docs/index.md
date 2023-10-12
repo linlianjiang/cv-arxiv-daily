@@ -1865,6 +1865,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
+|**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
+|**2023-10-11**|**Thermal rectification in mass-asymmetric one-dimensional anharmonic oscillator lattices with and without a ballistic spacer**|M Romero-Bastida et.al.|[2310.07673](http://arxiv.org/abs/2310.07673)|null|
+|**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653](http://arxiv.org/abs/2310.07653)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
+|**2023-10-11**|**Third order tensor-oriented directional splitting for exponential integrators**|Fabio Cassini et.al.|[2310.07551](http://arxiv.org/abs/2310.07551)|null|
+|**2023-10-11**|**Flux gradient relations and their dependence on turbulence anisotropy**|Samuele Mosso et.al.|[2310.07503](http://arxiv.org/abs/2310.07503)|null|
+|**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
+|**2023-10-11**|**Variational stabilization of degenerate p-elasticae**|Tatsuya Miura et.al.|[2310.07451](http://arxiv.org/abs/2310.07451)|null|
+|**2023-10-11**|**Hadronic Re-Acceleration at the Crab Pulsar Wind Termination Shock as a Source of PeV Gamma-Rays**|Samuel T. Spencer et.al.|[2310.07429](http://arxiv.org/abs/2310.07429)|null|
+|**2023-10-11**|**Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else**|Hazarapet Tunanyan et.al.|[2310.07419](http://arxiv.org/abs/2310.07419)|null|
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
 |**2023-10-10**|**Characterizing Gibbs states for area-tilted Brownian lines**|Mriganka Basu Roy Chowdhury et.al.|[2310.06817](http://arxiv.org/abs/2310.06817)|null|
 |**2023-10-10**|**V1507 Cygni (HD187399): A Highly Evolved, Enigmatic Interacting Binary System with an Eccentric Orbit**|T. J. Davidge et.al.|[2310.06802](http://arxiv.org/abs/2310.06802)|null|
@@ -2140,6 +2150,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Ferret: Refer and Ground Anything Anywhere at Any Granularity**|Haoxuan You et.al.|[2310.07704](http://arxiv.org/abs/2310.07704)|**[link](https://github.com/apple/ml-ferret)**|
+|**2023-10-11**|**Composite Backdoor Attacks Against Large Language Models**|Hai Huang et.al.|[2310.07676](http://arxiv.org/abs/2310.07676)|null|
+|**2023-10-11**|**Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals**|Eleonora Lopez et.al.|[2310.07648](http://arxiv.org/abs/2310.07648)|null|
+|**2023-10-11**|**ProtoHPE: Prototype-guided High-frequency Patch Enhancement for Visible-Infrared Person Re-identification**|Guiwei Zhang et.al.|[2310.07552](http://arxiv.org/abs/2310.07552)|null|
+|**2023-10-11**|**Multimodal Graph Learning for Generative Tasks**|Minji Yoon et.al.|[2310.07478](http://arxiv.org/abs/2310.07478)|null|
+|**2023-10-11**|**RealityDrop: A Multimodal Mixed Reality Framework to Manipulate Virtual Content between Cross-system Displays**|Jeremy McDade et.al.|[2310.07458](http://arxiv.org/abs/2310.07458)|null|
+|**2023-10-11**|**Squeezing as a resource for time series processing in quantum reservoir computing**|Jorge García-Beni et.al.|[2310.07406](http://arxiv.org/abs/2310.07406)|null|
+|**2023-10-11**|**DASpeech: Directed Acyclic Transformer for Fast and High-quality Speech-to-Speech Translation**|Qingkai Fang et.al.|[2310.07403](http://arxiv.org/abs/2310.07403)|**[link](https://github.com/ictnlp/daspeech)**|
+|**2023-10-11**|**Interactive Interior Design Recommendation via Coarse-to-fine Multimodal Reinforcement Learning**|He Zhang et.al.|[2310.07287](http://arxiv.org/abs/2310.07287)|null|
+|**2023-10-11**|**Multimodal Sampling via Appproximate Symmetries**|Lexing Ying et.al.|[2310.07244](http://arxiv.org/abs/2310.07244)|null|
 |**2023-10-10**|**Temporally Aligning Long Audio Interviews with Questions: A Case Study in Multimodal Data Integration**|Piyush Singh Pasi et.al.|[2310.06702](http://arxiv.org/abs/2310.06702)|**[link](https://github.com/piyushsinghpasi/INDENT)**|
 |**2023-10-10**|**Implicit Variational Inference for High-Dimensional Posteriors**|Anshuk Uppal et.al.|[2310.06643](http://arxiv.org/abs/2310.06643)|null|
 |**2023-10-10**|**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**|Ning Liao et.al.|[2310.06594](http://arxiv.org/abs/2310.06594)|**[link](https://github.com/liaoning97/revo-lion)**|

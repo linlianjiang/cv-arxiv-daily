@@ -2161,14 +2161,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588](http://arxiv.org/abs/2310.08588)|null|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588](http://arxiv.org/abs/2310.08588)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Jigsaw: Supporting Designers in Prototyping Multimodal Applications by Assembling AI Foundation Models**|David Chuan-En Lin et.al.|[2310.08574](http://arxiv.org/abs/2310.08574)|null|
 |**2023-10-12**|**Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation**|Zhengyuan Yang et.al.|[2310.08541](http://arxiv.org/abs/2310.08541)|null|
 |**2023-10-12**|**Platform for generating medical datasets for machine learning in public health**|Anna Andreychenko et.al.|[2310.08532](http://arxiv.org/abs/2310.08532)|null|
 |**2023-10-12**|**GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**|Yuanchun Shen et.al.|[2310.08487](http://arxiv.org/abs/2310.08487)|**[link](https://github.com/happen2me/cross-gnn)**|
 |**2023-10-12**|**Can We Edit Multimodal Large Language Models?**|Siyuan Cheng et.al.|[2310.08475](http://arxiv.org/abs/2310.08475)|**[link](https://github.com/zjunlp/easyedit)**|
 |**2023-10-12**|**A Survey on Heterogeneous Transfer Learning**|Runxue Bao et.al.|[2310.08459](http://arxiv.org/abs/2310.08459)|null|
-|**2023-10-12**|**Mapping Memes to Words for Multimodal Hateful Meme Classification**|Giovanni Burbi et.al.|[2310.08368](http://arxiv.org/abs/2310.08368)|null|
+|**2023-10-12**|**Mapping Memes to Words for Multimodal Hateful Meme Classification**|Giovanni Burbi et.al.|[2310.08368](http://arxiv.org/abs/2310.08368)|**[link](https://github.com/miccunifi/issues)**|
 |**2023-10-12**|**Self-injection-locked microcomb-based coherent oscillator**|Fuchuan Lei et.al.|[2310.08325](http://arxiv.org/abs/2310.08325)|null|
 |**2023-10-12**|**Fusion framework and multimodality for the Laplacian approximation of Bayesian neural networks**|Magnus Malmström et.al.|[2310.08315](http://arxiv.org/abs/2310.08315)|null|
 |**2023-10-11**|**Ferret: Refer and Ground Anything Anywhere at Any Granularity**|Haoxuan You et.al.|[2310.07704](http://arxiv.org/abs/2310.07704)|**[link](https://github.com/apple/ml-ferret)**|

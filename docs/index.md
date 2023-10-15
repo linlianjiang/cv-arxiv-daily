@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.14
+## Updated on 2023.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1880,7 +1880,7 @@ layout: default
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
 |**2023-10-11**|**Thermal rectification in mass-asymmetric one-dimensional anharmonic oscillator lattices with and without a ballistic spacer**|M Romero-Bastida et.al.|[2310.07673](http://arxiv.org/abs/2310.07673)|null|
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653](http://arxiv.org/abs/2310.07653)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
-|**2023-10-11**|**Third order tensor-oriented directional splitting for exponential integrators**|Fabio Cassini et.al.|[2310.07551](http://arxiv.org/abs/2310.07551)|null|
+|**2023-10-11**|**Third order tensor-oriented directional splitting for exponential integrators**|Fabio Cassini et.al.|[2310.07551](http://arxiv.org/abs/2310.07551)|**[link](https://github.com/cassinif/expds3)**|
 |**2023-10-11**|**Flux gradient relations and their dependence on turbulence anisotropy**|Samuele Mosso et.al.|[2310.07503](http://arxiv.org/abs/2310.07503)|null|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
 |**2023-10-11**|**Variational stabilization of degenerate p-elasticae**|Tatsuya Miura et.al.|[2310.07451](http://arxiv.org/abs/2310.07451)|null|
@@ -2175,7 +2175,7 @@ layout: default
 |**2023-10-11**|**Composite Backdoor Attacks Against Large Language Models**|Hai Huang et.al.|[2310.07676](http://arxiv.org/abs/2310.07676)|null|
 |**2023-10-11**|**Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals**|Eleonora Lopez et.al.|[2310.07648](http://arxiv.org/abs/2310.07648)|null|
 |**2023-10-11**|**ProtoHPE: Prototype-guided High-frequency Patch Enhancement for Visible-Infrared Person Re-identification**|Guiwei Zhang et.al.|[2310.07552](http://arxiv.org/abs/2310.07552)|null|
-|**2023-10-12**|**Multimodal Graph Learning for Generative Tasks**|Minji Yoon et.al.|[2310.07478](http://arxiv.org/abs/2310.07478)|null|
+|**2023-10-12**|**Multimodal Graph Learning for Generative Tasks**|Minji Yoon et.al.|[2310.07478](http://arxiv.org/abs/2310.07478)|**[link](https://github.com/minjiyoon/mmgl)**|
 |**2023-10-11**|**RealityDrop: A Multimodal Mixed Reality Framework to Manipulate Virtual Content between Cross-system Displays**|Jeremy McDade et.al.|[2310.07458](http://arxiv.org/abs/2310.07458)|null|
 |**2023-10-11**|**Squeezing as a resource for time series processing in quantum reservoir computing**|Jorge García-Beni et.al.|[2310.07406](http://arxiv.org/abs/2310.07406)|null|
 |**2023-10-11**|**DASpeech: Directed Acyclic Transformer for Fast and High-quality Speech-to-Speech Translation**|Qingkai Fang et.al.|[2310.07403](http://arxiv.org/abs/2310.07403)|**[link](https://github.com/ictnlp/daspeech)**|

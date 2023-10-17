@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -430,7 +430,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 ## SFM
 
@@ -558,7 +558,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1062,7 +1062,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1231,7 +1231,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1401,7 +1401,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 ## NeRF
 
@@ -1856,7 +1856,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 ## SDF
 
@@ -1885,12 +1885,22 @@
 |**2023-08-14**|**Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**|Licheng Zhong et.al.|[2308.06962](http://arxiv.org/abs/2308.06962)|**[link](https://github.com/Colmar-zlicheng/Color-NeuS)**|
 |**2023-09-04**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|**[link](https://github.com/ruyi-zha/endosurf)**|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Driven transport of active particles through arrays of symmetric obstacles**|Shubhadip Nayak et.al.|[2310.09272](http://arxiv.org/abs/2310.09272)|null|
+|**2023-10-13**|**Hypernymy Understanding Evaluation of Text-to-Image Models via WordNet Hierarchy**|Anton Baryshnikov et.al.|[2310.09247](http://arxiv.org/abs/2310.09247)|**[link](https://github.com/yandex-research/text-to-img-hypernymy)**|
+|**2023-10-13**|**Unseen Image Synthesis with Diffusion Models**|Ye Zhu et.al.|[2310.09213](http://arxiv.org/abs/2310.09213)|null|
+|**2023-10-13**|**The effect of solar wind on the charged particles' diffusion coefficients**|J. F. Wang et.al.|[2310.09211](http://arxiv.org/abs/2310.09211)|null|
+|**2023-10-13**|**BIPP: An efficient HPC implementation of the Bluebild algorithm for radio astronomy**|Emma Tolley et.al.|[2310.09200](http://arxiv.org/abs/2310.09200)|null|
+|**2023-10-13**|**SUPG-stabilized stabilization-free VEM: a numerical investigation**|Andrea Borio et.al.|[2310.09180](http://arxiv.org/abs/2310.09180)|null|
+|**2023-10-13**|**Galactic Gamma-Ray Diffuse Emission at TeV energies with HAWC Data**|R. Alfaro et.al.|[2310.09117](http://arxiv.org/abs/2310.09117)|null|
+|**2023-10-13**|**From Maximum of Intervisit Times to Starving Random Walks**|L. Régnier et.al.|[2310.09082](http://arxiv.org/abs/2310.09082)|null|
+|**2023-10-16**|**Methods for Averaging Spectral Line Data**|L. D. Anderson et.al.|[2310.09076](http://arxiv.org/abs/2310.09076)|null|
+|**2023-10-13**|**Mechanisms of temperature-dependent thermal transport in amorphous silica from machine-learning molecular dynamics**|Ting Liang et.al.|[2310.09062](http://arxiv.org/abs/2310.09062)|null|
 |**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|null|
 |**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579](http://arxiv.org/abs/2310.08579)|null|
 |**2023-10-12**|**NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation**|Xi Jiang et.al.|[2310.08543](http://arxiv.org/abs/2310.08543)|null|
@@ -2182,12 +2192,20 @@
 |**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742](http://arxiv.org/abs/2308.16742)|**[link](https://github.com/deepxuan/dudodp-mar)**|
 |**2023-08-31**|**Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance**|Zexin Hu et.al.|[2308.16725](http://arxiv.org/abs/2308.16725)|null|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 ## Multimodal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276](http://arxiv.org/abs/2310.09276)|**[link](https://github.com/qaz670756/mmcd)**|
+|**2023-10-13**|**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**|Xi Chen et.al.|[2310.09199](http://arxiv.org/abs/2310.09199)|null|
+|**2023-10-13**|**Variational autoencoder with weighted samples for high-dimensional non-parametric adaptive importance sampling**|Julien Demange-Chryst et.al.|[2310.09194](http://arxiv.org/abs/2310.09194)|**[link](https://github.com/julien6431/importance-sampling-vae)**|
+|**2023-10-13**|**MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks**|Xiaocui Yang et.al.|[2310.09036](http://arxiv.org/abs/2310.09036)|**[link](https://github.com/declare-lab/mm-bigbench)**|
+|**2023-10-13**|**Making Multimodal Generation Easier: When Diffusion Models Meet LLMs**|Xiangyu Zhao et.al.|[2310.08949](http://arxiv.org/abs/2310.08949)|**[link](https://github.com/zxy556677/easygen)**|
+|**2023-10-13**|**Extending Multi-modal Contrastive Representations**|Zehan Wang et.al.|[2310.08884](http://arxiv.org/abs/2310.08884)|**[link](https://github.com/mcr-peft/ex-mcr)**|
+|**2023-10-12**|**PhyloGFN: Phylogenetic inference with generative flow networks**|Mingyang Zhou et.al.|[2310.08774](http://arxiv.org/abs/2310.08774)|null|
+|**2023-10-12**|**Multimodal Large Language Model for Visual Navigation**|Yao-Hung Hubert Tsai et.al.|[2310.08669](http://arxiv.org/abs/2310.08669)|null|
 |**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588](http://arxiv.org/abs/2310.08588)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Jigsaw: Supporting Designers in Prototyping Multimodal Applications by Assembling AI Foundation Models**|David Chuan-En Lin et.al.|[2310.08574](http://arxiv.org/abs/2310.08574)|null|
 |**2023-10-12**|**Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation**|Zhengyuan Yang et.al.|[2310.08541](http://arxiv.org/abs/2310.08541)|null|
@@ -2436,7 +2454,7 @@
 |**2023-08-30**|**Low-Rank Multitask Learning based on Tensorized SVMs and LSSVMs**|Jiani Liu et.al.|[2308.16056](http://arxiv.org/abs/2308.16056)|**[link](https://github.com/liujiani0216/tsvm-mtl)**|
 |**2023-08-29**|**Multimodal Foundation Models For Echocardiogram Interpretation**|Matthew Christensen et.al.|[2308.15670](http://arxiv.org/abs/2308.15670)|**[link](https://github.com/echonet/echo_CLIP)**|
 
-<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

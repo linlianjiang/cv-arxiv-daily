@@ -1867,6 +1867,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Accessing ultrafast spin-transport dynamics in copper using broadband terahertz spectroscopy**|Jiří Jechumtál et.al.|[2310.12082](http://arxiv.org/abs/2310.12082)|null|
+|**2023-10-18**|**Random resetting in search problems**|Arnab Pal et.al.|[2310.12057](http://arxiv.org/abs/2310.12057)|null|
+|**2023-10-18**|**Total variation regularization for recovering the spatial source term in a time-fractional diffusion equation**|Bin Fan et.al.|[2310.12029](http://arxiv.org/abs/2310.12029)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
+|**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001](http://arxiv.org/abs/2310.12001)|null|
+|**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976](http://arxiv.org/abs/2310.11976)|**[link](https://github.com/rzhwang/infodiffusion)**|
+|**2023-10-18**|**A Kernel-Density-Estimator Minimizing Movement Scheme for Diffusion Equations**|Florentine Fleißner et.al.|[2310.11961](http://arxiv.org/abs/2310.11961)|null|
+|**2023-10-18**|**Observation of the diffusive Nambu-Goldstone mode of a non-equilibrium phase transition**|Ferdinand Claude et.al.|[2310.11903](http://arxiv.org/abs/2310.11903)|null|
 |**2023-10-17**|**Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation**|Haonan Wang et.al.|[2310.11320](http://arxiv.org/abs/2310.11320)|**[link](https://github.com/xmed-lab/GenericSSL)**|
 |**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
 |**2023-10-17**|**Favorable and unfavorable many-body interactions for near-field radiative heat transfer in nanoparticle networks**|Minggang Luo et.al.|[2310.11273](http://arxiv.org/abs/2310.11273)|null|
@@ -2192,6 +2202,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**|Abhay Zala et.al.|[2310.12128](http://arxiv.org/abs/2310.12128)|null|
+|**2023-10-18**|**Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling**|Yaqing Wang et.al.|[2310.12100](http://arxiv.org/abs/2310.12100)|null|
+|**2023-10-18**|**Simulating Users in Interactive Web Table Retrieval**|Björn Engelmann et.al.|[2310.11931](http://arxiv.org/abs/2310.11931)|**[link](https://github.com/irgroup/simiir-wtr)**|
+|**2023-10-18**|**Multi-modal Medical Neurological Image Fusion using Wavelet Pooled Edge Preserving Autoencoder**|Manisha Das et.al.|[2310.11910](http://arxiv.org/abs/2310.11910)|null|
+|**2023-10-18**|**A New Multimodal Medical Image Fusion based on Laplacian Autoencoder with Channel Attention**|Payal Wankhede et.al.|[2310.11896](http://arxiv.org/abs/2310.11896)|null|
+|**2023-10-18**|**Optical transmitter tunable over a 65-nm wavelength range around 1550 nm for quantum key distribution**|B. Griffiths et.al.|[2310.11794](http://arxiv.org/abs/2310.11794)|null|
+|**2023-10-18**|**BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification**|Mithun Das et.al.|[2310.11748](http://arxiv.org/abs/2310.11748)|null|
+|**2023-10-18**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710](http://arxiv.org/abs/2310.11710)|null|
+|**2023-10-18**|**MISAR: A Multimodal Instructional System with Augmented Reality**|Jing Bi et.al.|[2310.11699](http://arxiv.org/abs/2310.11699)|**[link](https://github.com/nguyennm1024/misar)**|
+|**2023-10-18**|**VKIE: The Application of Key Information Extraction on Video Text**|Siyu An et.al.|[2310.11650](http://arxiv.org/abs/2310.11650)|null|
 |**2023-10-17**|**Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**|Jianwei Yang et.al.|[2310.11441](http://arxiv.org/abs/2310.11441)|null|
 |**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
 |**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169](http://arxiv.org/abs/2310.11169)|null|

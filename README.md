@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**DeepFracture: A Generative Approach for Predicting Brittle Fractures**|Yuhang Huang et.al.|[2310.13344](http://arxiv.org/abs/2310.13344)|null|
 |**2023-10-14**|**HIO-SDF: Hierarchical Incremental Online Signed Distance Fields**|Vasileios Vasilopoulos et.al.|[2310.09463](http://arxiv.org/abs/2310.09463)|null|
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-07**|**HI-SLAM: Monocular Real-time Dense Mapping with Hybrid Implicit Fields**|Wei Zhang et.al.|[2310.04787](http://arxiv.org/abs/2310.04787)|null|
@@ -1892,6 +1893,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Achieving Single-Electron Sensitivity at Enhanced Speed in Fully-Depleted CCDs with Double-Gate MOSFETs**|Miguel Sofo-Haro et.al.|[2310.13644](http://arxiv.org/abs/2310.13644)|null|
+|**2023-10-20**|**Front propagation close to the onset of instability**|Montie Avery et.al.|[2310.13602](http://arxiv.org/abs/2310.13602)|null|
+|**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545](http://arxiv.org/abs/2310.13545)|**[link](https://github.com/sail-sg/scalelong)**|
+|**2023-10-20**|**Shedding Light on Low Surface Brightness Galaxies in Dark Energy Survey with Transformers**|H. Thuruthipilly et.al.|[2310.13543](http://arxiv.org/abs/2310.13543)|null|
+|**2023-10-20**|**Masses, Revised Radii, and a Third Planet Candidate in the "Inverted" Planetary System Around TOI-1266**|Ryan Cloutier et.al.|[2310.13496](http://arxiv.org/abs/2310.13496)|null|
+|**2023-10-20**|**Well-posedness of diffusion-aggregation equations with bounded kernels and their mean-field approximations**|Li Chen et.al.|[2310.13463](http://arxiv.org/abs/2310.13463)|null|
+|**2023-10-20**|**Malliavin differentiability of McKean-Vlasov SDEs with locally Lipschitz coefficients**|Goncalo dos Reis et.al.|[2310.13400](http://arxiv.org/abs/2310.13400)|null|
+|**2023-10-20**|**Tetraquark bound states in constituent quark models: benchmark test calculations**|Lu Meng et.al.|[2310.13354](http://arxiv.org/abs/2310.13354)|null|
+|**2023-10-20**|**Heat equation from a deterministic dynamics**|Giovanni Canestrari et.al.|[2310.13338](http://arxiv.org/abs/2310.13338)|null|
+|**2023-10-20**|**A Critical Insight into Pretransitional Behavior and Dielectric Tunability of Relaxor Ceramics**|Sylwester J. Rzoska et.al.|[2310.13326](http://arxiv.org/abs/2310.13326)|null|
 |**2023-10-19**|**Variational Inference for SDEs Driven by Fractional Noise**|Rembert Daems et.al.|[2310.12975](http://arxiv.org/abs/2310.12975)|null|
 |**2023-10-19**|**Microphysics of Particle Reflection in Weibel-Mediated Shocks**|Jasmine Parsons et.al.|[2310.12950](http://arxiv.org/abs/2310.12950)|null|
 |**2023-10-19**|**A Markovian dynamics for $C. elegans$ behavior across scales**|Antonio C. Costa et.al.|[2310.12883](http://arxiv.org/abs/2310.12883)|**[link](https://github.com/antonioccosta/markov_worm)**|
@@ -2239,6 +2250,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Semi-supervised multimodal coreference resolution in image narrations**|Arushi Goel et.al.|[2310.13619](http://arxiv.org/abs/2310.13619)|null|
+|**2023-10-20**|**Classification of quantum states of light using random measurements through a multimode fiber**|Saroch Leedumrongwatthanakun et.al.|[2310.13599](http://arxiv.org/abs/2310.13599)|null|
+|**2023-10-20**|**Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models**|Mingwei Zhu et.al.|[2310.13473](http://arxiv.org/abs/2310.13473)|null|
+|**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447](http://arxiv.org/abs/2310.13447)|null|
+|**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361](http://arxiv.org/abs/2310.13361)|null|
+|**2023-10-20**|**Challenges and Contributing Factors in the Utilization of Large Language Models (LLMs)**|Xiaoliang Chen et.al.|[2310.13343](http://arxiv.org/abs/2310.13343)|null|
+|**2023-10-20**|**SALMONN: Towards Generic Hearing Abilities for Large Language Models**|Changli Tang et.al.|[2310.13289](http://arxiv.org/abs/2310.13289)|**[link](https://github.com/bytedance/salmonn)**|
+|**2023-10-20**|**Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds**|Sipeng Zheng et.al.|[2310.13255](http://arxiv.org/abs/2310.13255)|null|
+|**2023-10-19**|**RSAdapter: Adapting Multimodal Models for Remote Sensing Visual Question Answering**|Yuduo Wang et.al.|[2310.13120](http://arxiv.org/abs/2310.13120)|null|
+|**2023-10-19**|**Asteroid 2023 NT1: A Cautionary Tale**|Brin K. Bailey et.al.|[2310.13112](http://arxiv.org/abs/2310.13112)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817](http://arxiv.org/abs/2310.12817)|null|
 |**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724](http://arxiv.org/abs/2310.12724)|null|
 |**2023-10-20**|**ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding**|Guojun Wu et.al.|[2310.12531](http://arxiv.org/abs/2310.12531)|**[link](https://github.com/gjwubyron/icu)**|

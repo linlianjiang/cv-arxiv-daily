@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2214,7 +2214,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817](http://arxiv.org/abs/2310.12817)|null|
 |**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724](http://arxiv.org/abs/2310.12724)|null|
-|**2023-10-19**|**ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding**|Guojun Wu et.al.|[2310.12531](http://arxiv.org/abs/2310.12531)|**[link](https://github.com/gjwubyron/icu)**|
+|**2023-10-20**|**ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding**|Guojun Wu et.al.|[2310.12531](http://arxiv.org/abs/2310.12531)|**[link](https://github.com/gjwubyron/icu)**|
 |**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520](http://arxiv.org/abs/2310.12520)|null|
 |**2023-10-18**|**Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability**|Rezaul Karim et.al.|[2310.12296](http://arxiv.org/abs/2310.12296)|null|
 |**2023-10-18**|**DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**|Abhay Zala et.al.|[2310.12128](http://arxiv.org/abs/2310.12128)|null|

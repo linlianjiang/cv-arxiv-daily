@@ -1893,6 +1893,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy**|Alison L. Coil et.al.|[2310.15162](http://arxiv.org/abs/2310.15162)|null|
+|**2023-10-23**|**A Reactive Molecular Dynamics Model for Uranium/Hydrogen Containing Systems**|A. Soshnikov et.al.|[2310.15122](http://arxiv.org/abs/2310.15122)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
+|**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
+|**2023-10-23**|**First passage duality in $d>2$**|Merek Johnson et.al.|[2310.14889](http://arxiv.org/abs/2310.14889)|null|
+|**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842](http://arxiv.org/abs/2310.14842)|null|
+|**2023-10-23**|**Elementary catastrophes underlying bifurcations of vector fields and PDEs**|Mike R Jeffrey et.al.|[2310.14818](http://arxiv.org/abs/2310.14818)|null|
 |**2023-10-20**|**Achieving Single-Electron Sensitivity at Enhanced Speed in Fully-Depleted CCDs with Double-Gate MOSFETs**|Miguel Sofo-Haro et.al.|[2310.13644](http://arxiv.org/abs/2310.13644)|null|
 |**2023-10-20**|**Front propagation close to the onset of instability**|Montie Avery et.al.|[2310.13602](http://arxiv.org/abs/2310.13602)|null|
 |**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545](http://arxiv.org/abs/2310.13545)|**[link](https://github.com/sail-sg/scalelong)**|
@@ -2250,6 +2260,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Large Language Models are Visual Reasoning Coordinators**|Liangyu Chen et.al.|[2310.15166](http://arxiv.org/abs/2310.15166)|**[link](https://github.com/cliangyu/cola)**|
+|**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061](http://arxiv.org/abs/2310.15061)|null|
+|**2023-10-23**|**3M-TRANSFORMER: A Multi-Stage Multi-Stream Multimodal Transformer for Embodied Turn-Taking Prediction**|Mehdi Fatan et.al.|[2310.14859](http://arxiv.org/abs/2310.14859)|null|
+|**2023-10-23**|**Vision-Enhanced Semantic Entity Recognition in Document Images via Visually-Asymmetric Consistency Learning**|Hao Wang et.al.|[2310.14785](http://arxiv.org/abs/2310.14785)|null|
+|**2023-10-23**|**M2DF: Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis**|Fei Zhao et.al.|[2310.14605](http://arxiv.org/abs/2310.14605)|**[link](https://github.com/grandchicken/m2df)**|
+|**2023-10-23**|**Leveraging Image-Text Similarity and Caption Modification for the DataComp Challenge: Filtering Track and BYOD Track**|Shuhei Yokoo et.al.|[2310.14581](http://arxiv.org/abs/2310.14581)|null|
+|**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570](http://arxiv.org/abs/2310.14570)|null|
+|**2023-10-23**|**Multimodal Graph Learning for Modeling Emerging Pandemics with Big Data**|Khanh-Tung Tran et.al.|[2310.14549](http://arxiv.org/abs/2310.14549)|**[link](https://github.com/khanhtungtran/mgl4mep)**|
+|**2023-10-23**|**Redundancy-Adaptive Multimodal Learning for Imperfect Data**|Mengxi Chen et.al.|[2310.14496](http://arxiv.org/abs/2310.14496)|null|
+|**2023-10-22**|**Research on Key Technologies of Infrastructure Digitalization based on Multimodal Spatial Data**|Zhanyuan Tian et.al.|[2310.14296](http://arxiv.org/abs/2310.14296)|null|
 |**2023-10-20**|**Semi-supervised multimodal coreference resolution in image narrations**|Arushi Goel et.al.|[2310.13619](http://arxiv.org/abs/2310.13619)|null|
 |**2023-10-20**|**Classification of quantum states of light using random measurements through a multimode fiber**|Saroch Leedumrongwatthanakun et.al.|[2310.13599](http://arxiv.org/abs/2310.13599)|null|
 |**2023-10-20**|**Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models**|Mingwei Zhu et.al.|[2310.13473](http://arxiv.org/abs/2310.13473)|null|

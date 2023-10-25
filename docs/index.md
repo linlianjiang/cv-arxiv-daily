@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Lie Group Variational Collision Integrators for a Class of Hybrid Systems**|Khoa Tran et.al.|[2310.15356](http://arxiv.org/abs/2310.15356)|null|
 |**2023-10-20**|**DeepFracture: A Generative Approach for Predicting Brittle Fractures**|Yuhang Huang et.al.|[2310.13344](http://arxiv.org/abs/2310.13344)|null|
 |**2023-10-14**|**HIO-SDF: Hierarchical Incremental Online Signed Distance Fields**|Vasileios Vasilopoulos et.al.|[2310.09463](http://arxiv.org/abs/2310.09463)|null|
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
@@ -1868,6 +1869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
+|**2023-10-24**|**The ballistic to diffusive crossover in a weakly-interacting Fermi gas**|Jerome Lloyd et.al.|[2310.16043](http://arxiv.org/abs/2310.16043)|null|
+|**2023-10-24**|**Weak well-posedness of stochastic Volterra equations with completely monotone kernels and non-degenerate noise**|Yushi Hamaguchi et.al.|[2310.16030](http://arxiv.org/abs/2310.16030)|null|
+|**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012](http://arxiv.org/abs/2310.16012)|null|
+|**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|null|
+|**2023-10-24**|**Classical wave-particle localization in disordered landscapes**|Abel J. Abraham et.al.|[2310.16000](http://arxiv.org/abs/2310.16000)|null|
+|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
+|**2023-10-24**|**$L^2$ -Wasserstein contraction for Euler schemes of elliptic diffusions and interacting particle systems**|Linshan Liu et.al.|[2310.15897](http://arxiv.org/abs/2310.15897)|null|
+|**2023-10-24**|**Long time behavior of a porous medium model with degenerate hysteresis**|Chiara Gavioli et.al.|[2310.15881](http://arxiv.org/abs/2310.15881)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
 |**2023-10-23**|**Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy**|Alison L. Coil et.al.|[2310.15162](http://arxiv.org/abs/2310.15162)|null|
 |**2023-10-23**|**A Reactive Molecular Dynamics Model for Uranium/Hydrogen Containing Systems**|A. Soshnikov et.al.|[2310.15122](http://arxiv.org/abs/2310.15122)|null|
@@ -2233,6 +2244,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045](http://arxiv.org/abs/2310.16045)|**[link](https://github.com/bradyfu/woodpecker)**|
+|**2023-10-24**|**Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models**|Jiarui Zhang et.al.|[2310.16033](http://arxiv.org/abs/2310.16033)|null|
+|**2023-10-24**|**Symmetry-breaking pathway towards the unpinned broken helix**|E. Donoway et.al.|[2310.16018](http://arxiv.org/abs/2310.16018)|null|
+|**2023-10-24**|**ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**|Haidong Zhu et.al.|[2310.15946](http://arxiv.org/abs/2310.15946)|null|
+|**2023-10-24**|**Multimodal Representations for Teacher-Guided Compositional Visual Reasoning**|Wafa Aissa et.al.|[2310.15585](http://arxiv.org/abs/2310.15585)|null|
+|**2023-10-24**|**Quantum Multiphoton Rabi Oscillations in Waveguide QED**|Debsuvra Mukhopadhyay et.al.|[2310.15412](http://arxiv.org/abs/2310.15412)|null|
+|**2023-10-23**|**Why LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation**|Adam Bouyamourn et.al.|[2310.15355](http://arxiv.org/abs/2310.15355)|null|
+|**2023-10-23**|**Modality Dropout for Multimodal Device Directed Speech Detection using Verbal and Non-Verbal Features**|Gautam Krishna et.al.|[2310.15261](http://arxiv.org/abs/2310.15261)|null|
+|**2023-10-23**|**SyncFusion: Multimodal Onset-synchronized Video-to-Audio Foley Synthesis**|Marco Comunità et.al.|[2310.15247](http://arxiv.org/abs/2310.15247)|null|
 |**2023-10-23**|**Large Language Models are Visual Reasoning Coordinators**|Liangyu Chen et.al.|[2310.15166](http://arxiv.org/abs/2310.15166)|**[link](https://github.com/cliangyu/cola)**|
 |**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061](http://arxiv.org/abs/2310.15061)|null|
 |**2023-10-23**|**3M-TRANSFORMER: A Multi-Stage Multi-Stream Multimodal Transformer for Embodied Turn-Taking Prediction**|Mehdi Fatan et.al.|[2310.14859](http://arxiv.org/abs/2310.14859)|null|

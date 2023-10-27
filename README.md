@@ -1894,6 +1894,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
+|**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638](http://arxiv.org/abs/2310.17638)|null|
+|**2023-10-26**|**Orbital-optimized Density Functional Calculations of Molecular Rydberg Excited States with Real Space Grid Representation and Self-Interaction Correction**|Alec E. Sigurðarson et.al.|[2310.17605](http://arxiv.org/abs/2310.17605)|null|
+|**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590](http://arxiv.org/abs/2310.17590)|null|
+|**2023-10-26**|**Convergence of flow-based generative models via proximal gradient descent in Wasserstein space**|Xiuyuan Cheng et.al.|[2310.17582](http://arxiv.org/abs/2310.17582)|null|
+|**2023-10-26**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577](http://arxiv.org/abs/2310.17577)|**[link](https://github.com/jinnh/GSAD)**|
+|**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570](http://arxiv.org/abs/2310.17570)|null|
+|**2023-10-26**|**SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching**|Xinghui Li et.al.|[2310.17569](http://arxiv.org/abs/2310.17569)|null|
+|**2023-10-26**|**The Expressive Power of Low-Rank Adaptation**|Yuchen Zeng et.al.|[2310.17513](http://arxiv.org/abs/2310.17513)|**[link](https://github.com/uw-madison-lee-lab/expressive_power_of_lora)**|
+|**2023-10-26**|**The statistical thermodynamics of generative diffusion models**|Luca Ambrogioni et.al.|[2310.17467](http://arxiv.org/abs/2310.17467)|null|
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
@@ -2281,6 +2291,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642](http://arxiv.org/abs/2310.17642)|null|
+|**2023-10-26**|**JudgeLM: Fine-tuned Large Language Models are Scalable Judges**|Lianghui Zhu et.al.|[2310.17631](http://arxiv.org/abs/2310.17631)|**[link](https://github.com/baaivision/judgelm)**|
+|**2023-10-26**|**FMMRec: Fairness-aware Multimodal Recommendation**|Weixin Chen et.al.|[2310.17373](http://arxiv.org/abs/2310.17373)|null|
+|**2023-10-26**|**Dialogue-based generation of self-driving simulation scenarios using Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2310.17372](http://arxiv.org/abs/2310.17372)|**[link](https://github.com/avmb/dialogllmscenic)**|
+|**2023-10-26**|**Emotion Recognition by Video: A review**|Junxiao Xue et.al.|[2310.17212](http://arxiv.org/abs/2310.17212)|null|
+|**2023-10-26**|**Incorporating Probing Signals into Multimodal Machine Translation via Visual Question-Answering Pairs**|Yuxin Zuo et.al.|[2310.17133](http://arxiv.org/abs/2310.17133)|**[link](https://github.com/libeineu/mmt-vqa)**|
+|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130](http://arxiv.org/abs/2310.17130)|null|
+|**2023-10-26**|**Compact free-running InGaAs/InP single-photon detector with 40% detection efficiency and 2.3 kcps dark count rate**|Qi Xu et.al.|[2310.17113](http://arxiv.org/abs/2310.17113)|null|
+|**2023-10-25**|**Datastore Design for Analysis of Police Broadcast Audio at Scale**|Ayah Ahmad et.al.|[2310.16956](http://arxiv.org/abs/2310.16956)|null|
+|**2023-10-25**|**Diagnosing Alzheimer's Disease using Early-Late Multimodal Data Fusion with Jacobian Maps**|Yasmine Mustafa et.al.|[2310.16936](http://arxiv.org/abs/2310.16936)|null|
 |**2023-10-25**|**Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction**|Xuming Hu et.al.|[2310.16822](http://arxiv.org/abs/2310.16822)|null|
 |**2023-10-25**|**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**|Yongxin Shi et.al.|[2310.16809](http://arxiv.org/abs/2310.16809)|**[link](https://github.com/scut-dlvclab/gpt-4v_ocr)**|
 |**2023-10-25**|**Optical Kinetic Theory of Nonlinear Multi-mode Photonic Networks**|Arkady Kurnosov et.al.|[2310.16784](http://arxiv.org/abs/2310.16784)|null|

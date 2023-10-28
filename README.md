@@ -2297,7 +2297,7 @@
 |**2023-10-26**|**Dialogue-based generation of self-driving simulation scenarios using Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2310.17372](http://arxiv.org/abs/2310.17372)|**[link](https://github.com/avmb/dialogllmscenic)**|
 |**2023-10-26**|**Emotion Recognition by Video: A review**|Junxiao Xue et.al.|[2310.17212](http://arxiv.org/abs/2310.17212)|null|
 |**2023-10-26**|**Incorporating Probing Signals into Multimodal Machine Translation via Visual Question-Answering Pairs**|Yuxin Zuo et.al.|[2310.17133](http://arxiv.org/abs/2310.17133)|**[link](https://github.com/libeineu/mmt-vqa)**|
-|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130](http://arxiv.org/abs/2310.17130)|null|
+|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130](http://arxiv.org/abs/2310.17130)|**[link](https://github.com/hc-guo/m2c)**|
 |**2023-10-26**|**Compact free-running InGaAs/InP single-photon detector with 40% detection efficiency and 2.3 kcps dark count rate**|Qi Xu et.al.|[2310.17113](http://arxiv.org/abs/2310.17113)|null|
 |**2023-10-25**|**Datastore Design for Analysis of Police Broadcast Audio at Scale**|Ayah Ahmad et.al.|[2310.16956](http://arxiv.org/abs/2310.16956)|null|
 |**2023-10-25**|**Diagnosing Alzheimer's Disease using Early-Late Multimodal Data Fusion with Jacobian Maps**|Yasmine Mustafa et.al.|[2310.16936](http://arxiv.org/abs/2310.16936)|null|

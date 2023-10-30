@@ -445,7 +445,7 @@
 |**2023-08-04**|**EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**|Weihan Wang et.al.|[2308.02670](http://arxiv.org/abs/2308.02670)|null|
 |**2023-08-15**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246](http://arxiv.org/abs/2308.01246)|**[link](https://github.com/smlab-niser/tirtha-public)**|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
-|**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055](http://arxiv.org/abs/2307.15055)|null|
+|**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055](http://arxiv.org/abs/2307.15055)|**[link](https://github.com/y-zheng18/point_odyssey)**|
 |**2023-07-28**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
@@ -1080,7 +1080,7 @@
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743](http://arxiv.org/abs/2308.07743)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
-|**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667](http://arxiv.org/abs/2308.05667)|null|
+|**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667](http://arxiv.org/abs/2308.05667)|**[link](https://github.com/minhaolee/2d3dmatr)**|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000](http://arxiv.org/abs/2307.16000)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
@@ -1905,26 +1905,26 @@
 |**2023-10-27**|**The Expressive Power of Low-Rank Adaptation**|Yuchen Zeng et.al.|[2310.17513](http://arxiv.org/abs/2310.17513)|**[link](https://github.com/uw-madison-lee-lab/expressive_power_of_lora)**|
 |**2023-10-26**|**The statistical thermodynamics of generative diffusion models**|Luca Ambrogioni et.al.|[2310.17467](http://arxiv.org/abs/2310.17467)|null|
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
-|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
-|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
+|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|**[link](https://github.com/dsaragih/diffuse-gen)**|
 |**2023-10-25**|**Optical Kinetic Theory of Nonlinear Multi-mode Photonic Networks**|Arkady Kurnosov et.al.|[2310.16784](http://arxiv.org/abs/2310.16784)|null|
 |**2023-10-25**|**Kiki or Bouba? Sound Symbolism in Vision-and-Language Models**|Morris Alper et.al.|[2310.16781](http://arxiv.org/abs/2310.16781)|null|
-|**2023-10-26**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|null|
+|**2023-10-26**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|**[link](https://github.com/jh-jeong/smoothing-multiscale)**|
 |**2023-10-25**|**Discrete variance decay analysis of spurious mixing**|Tridib Banerjee et.al.|[2310.16768](http://arxiv.org/abs/2310.16768)|null|
 |**2023-10-25**|**Scalar mass conservation in turbulent mixture fraction based combustion models through consistent local flow parameters**|Marco Davidovic et.al.|[2310.16743](http://arxiv.org/abs/2310.16743)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
 |**2023-10-24**|**The ballistic to diffusive crossover in a weakly-interacting Fermi gas**|Jerome Lloyd et.al.|[2310.16043](http://arxiv.org/abs/2310.16043)|null|
 |**2023-10-24**|**Weak well-posedness of stochastic Volterra equations with completely monotone kernels and non-degenerate noise**|Yushi Hamaguchi et.al.|[2310.16030](http://arxiv.org/abs/2310.16030)|null|
 |**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012](http://arxiv.org/abs/2310.16012)|null|
-|**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|null|
+|**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|**[link](https://github.com/showlab/loveu-tgve-2023)**|
 |**2023-10-24**|**Classical wave-particle localization in disordered landscapes**|Abel J. Abraham et.al.|[2310.16000](http://arxiv.org/abs/2310.16000)|null|
 |**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
 |**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**$L^2$ -Wasserstein contraction for Euler schemes of elliptic diffusions and interacting particle systems**|Linshan Liu et.al.|[2310.15897](http://arxiv.org/abs/2310.15897)|null|
 |**2023-10-24**|**Long time behavior of a porous medium model with degenerate hysteresis**|Chiara Gavioli et.al.|[2310.15881](http://arxiv.org/abs/2310.15881)|null|
-|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
 |**2023-10-23**|**Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy**|Alison L. Coil et.al.|[2310.15162](http://arxiv.org/abs/2310.15162)|null|
 |**2023-10-23**|**A Reactive Molecular Dynamics Model for Uranium/Hydrogen Containing Systems**|A. Soshnikov et.al.|[2310.15122](http://arxiv.org/abs/2310.15122)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
@@ -1993,12 +1993,12 @@
 |**2023-10-13**|**Galactic Gamma-Ray Diffuse Emission at TeV energies with HAWC Data**|R. Alfaro et.al.|[2310.09117](http://arxiv.org/abs/2310.09117)|null|
 |**2023-10-13**|**From Maximum of Intervisit Times to Starving Random Walks**|L. Régnier et.al.|[2310.09082](http://arxiv.org/abs/2310.09082)|null|
 |**2023-10-16**|**Methods for Averaging Spectral Line Data**|L. D. Anderson et.al.|[2310.09076](http://arxiv.org/abs/2310.09076)|null|
-|**2023-10-13**|**Mechanisms of temperature-dependent thermal transport in amorphous silica from machine-learning molecular dynamics**|Ting Liang et.al.|[2310.09062](http://arxiv.org/abs/2310.09062)|null|
+|**2023-10-13**|**Mechanisms of temperature-dependent thermal transport in amorphous silica from machine-learning molecular dynamics**|Ting Liang et.al.|[2310.09062](http://arxiv.org/abs/2310.09062)|**[link](https://gitlab.com/brucefan1983/nep-data)**|
 |**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|null|
 |**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579](http://arxiv.org/abs/2310.08579)|null|
 |**2023-10-12**|**NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation**|Xi Jiang et.al.|[2310.08543](http://arxiv.org/abs/2310.08543)|null|
 |**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
-|**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|null|
+|**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|**[link](https://github.com/showlab/MotionDirector)**|
 |**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442](http://arxiv.org/abs/2310.08442)|null|
 |**2023-10-12**|**Modelling Deuterated Isotopologues of Methanol toward the Pre-Stellar Core L1544**|W. Riedel et.al.|[2310.08389](http://arxiv.org/abs/2310.08389)|null|
 |**2023-10-12**|**A new local and explicit kinetic method for linear and non-linear convection-diffusion problems with finite kinetic speeds: I. One-dimensional case**|Gauthier Wissocq et.al.|[2310.08356](http://arxiv.org/abs/2310.08356)|null|
@@ -2126,7 +2126,7 @@
 |**2023-09-25**|**Mixing as a correlated aggregation process**|Joris Heyman et.al.|[2309.14040](http://arxiv.org/abs/2309.14040)|**[link](https://github.com/jorishey1234/aggregation)**|
 |**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042](http://arxiv.org/abs/2309.13042)|**[link](https://github.com/jiahao000/mosaicfusion)**|
 |**2023-09-22**|**Free fermions with dephasing and boundary driving: Bethe Ansatz results**|Vincenzo Alba et.al.|[2309.12978](http://arxiv.org/abs/2309.12978)|null|
-|**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
+|**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|**[link](https://github.com/liuqidong07/diffuasr)**|
 |**2023-09-22**|**Accuracy and stability analysis of horizontal discretizations used in unstructured grid ocean models**|Fabricio Rodrigues Lapolli et.al.|[2309.12832](http://arxiv.org/abs/2309.12832)|null|
 |**2023-09-22**|**Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography**|Rabin Adhikari et.al.|[2309.12829](http://arxiv.org/abs/2309.12829)|**[link](https://github.com/naamiinepal/synthetic-boost)**|
 |**2023-09-22**|**DurIAN-E: Duration Informed Attention Network For Expressive Text-to-Speech Synthesis**|Yu Gu et.al.|[2309.12792](http://arxiv.org/abs/2309.12792)|null|
@@ -2159,7 +2159,7 @@
 |**2023-09-19**|**Probing the spatial and velocity anisotropies in stellar halos from the Aquarius simulations**|Amit Mondal et.al.|[2309.10798](http://arxiv.org/abs/2309.10798)|null|
 |**2023-09-19**|**The Kinematic Structure of Magnetically Aligned HI Filaments**|Doyeon Avery Kim et.al.|[2309.10777](http://arxiv.org/abs/2309.10777)|null|
 |**2023-09-19**|**An optical Ising spin glass simulator with tuneable short range couplings**|Louis Delloye et.al.|[2309.10764](http://arxiv.org/abs/2309.10764)|null|
-|**2023-09-19**|**Accelerating Diffusion-Based Text-to-Audio Generation with Consistency Distillation**|Yatong Bai et.al.|[2309.10740](http://arxiv.org/abs/2309.10740)|null|
+|**2023-09-19**|**Accelerating Diffusion-Based Text-to-Audio Generation with Consistency Distillation**|Yatong Bai et.al.|[2309.10740](http://arxiv.org/abs/2309.10740)|**[link](https://github.com/Consistency-TTA/consistency-tta.github.io)**|
 |**2023-09-19**|**Reconstruct-and-Generate Diffusion Model for Detail-Preserving Image Denoising**|Yujin Wang et.al.|[2309.10714](http://arxiv.org/abs/2309.10714)|null|
 |**2023-09-19**|**Small Molecules, Big Impact: A tale of hydrides past, present, and future**|Arshia Maria Jacob et.al.|[2309.10712](http://arxiv.org/abs/2309.10712)|null|
 |**2023-09-19**|**Ni/Bi bilayers: The effect of thickness on the superconducting properties**|Gabriel Sant'ana et.al.|[2309.10705](http://arxiv.org/abs/2309.10705)|null|
@@ -2311,7 +2311,7 @@
 |**2023-10-24**|**GenKIE: Robust Generative Multimodal Document Key Information Extraction**|Panfeng Cao et.al.|[2310.16131](http://arxiv.org/abs/2310.16131)|**[link](https://github.com/glasgow-ai4biomed/genkie)**|
 |**2023-10-24**|**Alquist 5.0: Dialogue Trees Meet Generative Models. A Novel Approach for Enhancing SocialBot Conversations**|Ondřej Kobza et.al.|[2310.16119](http://arxiv.org/abs/2310.16119)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045](http://arxiv.org/abs/2310.16045)|**[link](https://github.com/bradyfu/woodpecker)**|
-|**2023-10-24**|**Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models**|Jiarui Zhang et.al.|[2310.16033](http://arxiv.org/abs/2310.16033)|null|
+|**2023-10-24**|**Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models**|Jiarui Zhang et.al.|[2310.16033](http://arxiv.org/abs/2310.16033)|**[link](https://github.com/saccharomycetes/visual_crop_zsvqa)**|
 |**2023-10-24**|**Symmetry-breaking pathway towards the unpinned broken helix**|E. Donoway et.al.|[2310.16018](http://arxiv.org/abs/2310.16018)|null|
 |**2023-10-24**|**ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**|Haidong Zhu et.al.|[2310.15946](http://arxiv.org/abs/2310.15946)|null|
 |**2023-10-24**|**Multimodal Representations for Teacher-Guided Compositional Visual Reasoning**|Wafa Aissa et.al.|[2310.15585](http://arxiv.org/abs/2310.15585)|null|
@@ -2320,7 +2320,7 @@
 |**2023-10-23**|**Modality Dropout for Multimodal Device Directed Speech Detection using Verbal and Non-Verbal Features**|Gautam Krishna et.al.|[2310.15261](http://arxiv.org/abs/2310.15261)|null|
 |**2023-10-23**|**SyncFusion: Multimodal Onset-synchronized Video-to-Audio Foley Synthesis**|Marco Comunità et.al.|[2310.15247](http://arxiv.org/abs/2310.15247)|null|
 |**2023-10-23**|**Large Language Models are Visual Reasoning Coordinators**|Liangyu Chen et.al.|[2310.15166](http://arxiv.org/abs/2310.15166)|**[link](https://github.com/cliangyu/cola)**|
-|**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061](http://arxiv.org/abs/2310.15061)|null|
+|**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061](http://arxiv.org/abs/2310.15061)|**[link](https://github.com/shin-ee-chen/bla)**|
 |**2023-10-23**|**3M-TRANSFORMER: A Multi-Stage Multi-Stream Multimodal Transformer for Embodied Turn-Taking Prediction**|Mehdi Fatan et.al.|[2310.14859](http://arxiv.org/abs/2310.14859)|null|
 |**2023-10-23**|**Vision-Enhanced Semantic Entity Recognition in Document Images via Visually-Asymmetric Consistency Learning**|Hao Wang et.al.|[2310.14785](http://arxiv.org/abs/2310.14785)|null|
 |**2023-10-23**|**M2DF: Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis**|Fei Zhao et.al.|[2310.14605](http://arxiv.org/abs/2310.14605)|**[link](https://github.com/grandchicken/m2df)**|
@@ -2467,7 +2467,7 @@
 |**2023-09-28**|**DiffGAN-F2S: Symmetric and Efficient Denoising Diffusion GANs for Structural Connectivity Prediction from Brain fMRI**|Qiankun Zuo et.al.|[2309.16205](http://arxiv.org/abs/2309.16205)|null|
 |**2023-09-27**|**AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model**|Seungwhan Moon et.al.|[2309.16058](http://arxiv.org/abs/2309.16058)|null|
 |**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057](http://arxiv.org/abs/2309.16057)|**[link](https://github.com/unmannedlab/uwb_dataset)**|
-|**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915](http://arxiv.org/abs/2309.15915)|null|
+|**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915](http://arxiv.org/abs/2309.15915)|**[link](https://github.com/engindeniz/vitis)**|
 |**2023-09-27**|**One For All: Video Conversation is Feasible Without Video Instruction Tuning**|Ruyang Liu et.al.|[2309.15785](http://arxiv.org/abs/2309.15785)|**[link](https://github.com/farewellthree/BT-Adapter)**|
 |**2023-09-27**|**PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation**|Shizhe Chen et.al.|[2309.15596](http://arxiv.org/abs/2309.15596)|null|
 |**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564](http://arxiv.org/abs/2309.15564)|null|
@@ -2517,7 +2517,7 @@
 |**2023-09-20**|**Galaxy Archaeology for Wet Mergers: Globular Cluster Age Distributions in the Milky Way and Nearby Galaxies**|Lucas M. Valenzuela et.al.|[2309.11545](http://arxiv.org/abs/2309.11545)|null|
 |**2023-09-20**|**A Large-scale Dataset for Audio-Language Representation Learning**|Luoyi Sun et.al.|[2309.11500](http://arxiv.org/abs/2309.11500)|null|
 |**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499](http://arxiv.org/abs/2309.11499)|**[link](https://github.com/RunpeiDong/DreamLLM)**|
-|**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|null|
+|**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|**[link](https://github.com/mardi4nfdi/portal-compose)**|
 |**2023-09-21**|**You Only Look at Screens: Multimodal Chain-of-Action Agents**|Zhuosheng Zhang et.al.|[2309.11436](http://arxiv.org/abs/2309.11436)|**[link](https://github.com/cooelf/Auto-UI)**|
 |**2023-09-20**|**Kosmos-2.5: A Multimodal Literate Model**|Tengchao Lv et.al.|[2309.11419](http://arxiv.org/abs/2309.11419)|null|
 |**2023-09-20**|**Dynamic Hand Gesture-Featured Human Motor Adaptation in Tool Delivery using Voice Recognition**|Haolin Fei et.al.|[2309.11368](http://arxiv.org/abs/2309.11368)|null|

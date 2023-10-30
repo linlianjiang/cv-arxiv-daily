@@ -1869,6 +1869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
+|**2023-10-27**|**Unsteady evolution of slip and drag in surfactant-contaminated superhydrophobic channels**|Samuel D. Tomlinson et.al.|[2310.18184](http://arxiv.org/abs/2310.18184)|null|
+|**2023-10-27**|**Style Description based Text-to-Speech with Conditional Prosodic Layer Normalization based Diffusion GAN**|Neeraj Kumar et.al.|[2310.18169](http://arxiv.org/abs/2310.18169)|null|
+|**2023-10-27**|**Lost in Translation -- Multilingual Misinformation and its Evolution**|Dorian Quelle et.al.|[2310.18089](http://arxiv.org/abs/2310.18089)|null|
+|**2023-10-27**|**Encounter-based approach to target search problems: a review**|Denis S. Grebenkov et.al.|[2310.18024](http://arxiv.org/abs/2310.18024)|null|
+|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
+|**2023-10-27**|**Upper bounds on entropy production in diffusive dynamics**|Andreas Dechant et.al.|[2310.17929](http://arxiv.org/abs/2310.17929)|null|
+|**2023-10-27**|**On the Doublet Flux Ratio of Mg II Resonance Lines in and Around Galaxies**|Kwang-il Seon et.al.|[2310.17908](http://arxiv.org/abs/2310.17908)|null|
+|**2023-10-27**|**Boosting Data Analytics With Synthetic Volume Expansion**|Xiaotong Shen et.al.|[2310.17848](http://arxiv.org/abs/2310.17848)|null|
+|**2023-10-27**|**Adaptive operator learning for infinite-dimensional Bayesian inverse problems**|Zhiwei Gao et.al.|[2310.17844](http://arxiv.org/abs/2310.17844)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
 |**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638](http://arxiv.org/abs/2310.17638)|null|
 |**2023-10-26**|**Orbital-optimized Density Functional Calculations of Molecular Rydberg Excited States with Real Space Grid Representation and Self-Interaction Correction**|Alec E. Sigurðarson et.al.|[2310.17605](http://arxiv.org/abs/2310.17605)|null|
@@ -2264,6 +2274,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**MalFake: A Multimodal Fake News Identification for Malayalam using Recurrent Neural Networks and VGG-16**|Adhish S. Sujan et.al.|[2310.18263](http://arxiv.org/abs/2310.18263)|null|
+|**2023-10-27**|**ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese**|Khiem Vinh Tran et.al.|[2310.18046](http://arxiv.org/abs/2310.18046)|**[link](https://github.com/kvt0012/viclevr)**|
+|**2023-10-27**|**Towards optimal multimode fiber imaging by leveraging input polarization and conditional generative adversarial networks**|Jawaria Maqbool et.al.|[2310.17889](http://arxiv.org/abs/2310.17889)|null|
+|**2023-10-27**|**Impressions: Understanding Visual Semiotics and Aesthetic Impact**|Julia Kruk et.al.|[2310.17887](http://arxiv.org/abs/2310.17887)|null|
 |**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642](http://arxiv.org/abs/2310.17642)|null|
 |**2023-10-26**|**JudgeLM: Fine-tuned Large Language Models are Scalable Judges**|Lianghui Zhu et.al.|[2310.17631](http://arxiv.org/abs/2310.17631)|**[link](https://github.com/baaivision/judgelm)**|
 |**2023-10-26**|**FMMRec: Fairness-aware Multimodal Recommendation**|Weixin Chen et.al.|[2310.17373](http://arxiv.org/abs/2310.17373)|null|

@@ -1839,6 +1839,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
+|**2023-10-27**|**Multi-fidelity Design of Porous Microstructures for Thermofluidic Applications**|Jonathan Tammer Eweis-LaBolle et.al.|[2310.18505](http://arxiv.org/abs/2310.18505)|null|
 |**2023-10-23**|**Lie Group Variational Collision Integrators for a Class of Hybrid Systems**|Khoa Tran et.al.|[2310.15356](http://arxiv.org/abs/2310.15356)|null|
 |**2023-10-20**|**DeepFracture: A Generative Approach for Predicting Brittle Fractures**|Yuhang Huang et.al.|[2310.13344](http://arxiv.org/abs/2310.13344)|null|
 |**2023-10-14**|**HIO-SDF: Hierarchical Incremental Online Signed Distance Fields**|Vasileios Vasilopoulos et.al.|[2310.09463](http://arxiv.org/abs/2310.09463)|null|
@@ -1869,6 +1871,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation**|Yao Yao et.al.|[2310.19180](http://arxiv.org/abs/2310.19180)|null|
+|**2023-10-29**|**Linear optical properties of organic microcavity polaritons with non-Markovian Quantum State Diffusion**|Timo Leppälä et.al.|[2310.19162](http://arxiv.org/abs/2310.19162)|null|
+|**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
+|**2023-10-29**|**Backward and Forward Inference in Interacting Independent-Cascade Processes: A Scalable and Convergent Message-Passing Approach**|Nouman Khan et.al.|[2310.19138](http://arxiv.org/abs/2310.19138)|null|
+|**2023-10-29**|**Quest for the golden ratio universality class**|V. Popkov et.al.|[2310.19116](http://arxiv.org/abs/2310.19116)|null|
+|**2023-10-29**|**Bespoke Solvers for Generative Flow Models**|Neta Shaul et.al.|[2310.19075](http://arxiv.org/abs/2310.19075)|null|
+|**2023-10-29**|**Machine Learning for the identification of phase-transitions in interacting agent-based systems**|Nikolaos Evangelou et.al.|[2310.19039](http://arxiv.org/abs/2310.19039)|null|
+|**2023-10-29**|**Controllable Group Choreography using Contrastive Diffusion**|Nhat Le et.al.|[2310.18986](http://arxiv.org/abs/2310.18986)|null|
+|**2023-10-29**|**Homogenization of diffusions on the lattice ${\mathbf Z}^d$ with periodic drift coefficients; Application of logarithmic Sobolev inequality**|Sergio et.al.|[2310.18973](http://arxiv.org/abs/2310.18973)|null|
+|**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
 |**2023-10-27**|**Unsteady evolution of slip and drag in surfactant-contaminated superhydrophobic channels**|Samuel D. Tomlinson et.al.|[2310.18184](http://arxiv.org/abs/2310.18184)|null|
 |**2023-10-27**|**Style Description based Text-to-Speech with Conditional Prosodic Layer Normalization based Diffusion GAN**|Neeraj Kumar et.al.|[2310.18169](http://arxiv.org/abs/2310.18169)|null|
@@ -2274,6 +2286,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174](http://arxiv.org/abs/2310.19174)|null|
+|**2023-10-29**|**Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery**|Huseyin Fuat Alsan et.al.|[2310.19109](http://arxiv.org/abs/2310.19109)|**[link](https://github.com/fualsan/datwep)**|
+|**2023-10-29**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070](http://arxiv.org/abs/2310.19070)|null|
+|**2023-10-29**|**A multi-modal table tennis robot system**|Andreas Ziegler et.al.|[2310.19062](http://arxiv.org/abs/2310.19062)|null|
+|**2023-10-29**|**Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V**|Zhiling Yan et.al.|[2310.19061](http://arxiv.org/abs/2310.19061)|**[link](https://github.com/zhilingyan/gpt4v-medical-report)**|
+|**2023-10-29**|**A Multimodal Ecological Civilization Pattern Recommendation Method Based on Large Language Models and Knowledge Graph**|Zhihang Yu et.al.|[2310.18951](http://arxiv.org/abs/2310.18951)|null|
+|**2023-10-29**|**Remaining Useful Life Prediction of Lithium-ion Batteries using Spatio-temporal Multimodal Attention Networks**|Sungho Suh et.al.|[2310.18924](http://arxiv.org/abs/2310.18924)|null|
+|**2023-10-29**|**Stochastic modeling of superconducting qudits in the dispersive regime**|Kangdi Yu et.al.|[2310.18856](http://arxiv.org/abs/2310.18856)|null|
+|**2023-10-28**|**Efficient OPA tomography of non-Gaussian states of light**|Éva Rácz et.al.|[2310.18821](http://arxiv.org/abs/2310.18821)|null|
+|**2023-10-28**|**UniCat: Crafting a Stronger Fusion Baseline for Multimodal Re-Identification**|Jennifer Crawford et.al.|[2310.18812](http://arxiv.org/abs/2310.18812)|null|
 |**2023-10-27**|**MalFake: A Multimodal Fake News Identification for Malayalam using Recurrent Neural Networks and VGG-16**|Adhish S. Sujan et.al.|[2310.18263](http://arxiv.org/abs/2310.18263)|null|
 |**2023-10-27**|**ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese**|Khiem Vinh Tran et.al.|[2310.18046](http://arxiv.org/abs/2310.18046)|**[link](https://github.com/kvt0012/viclevr)**|
 |**2023-10-27**|**Towards optimal multimode fiber imaging by leveraging input polarization and conditional generative adversarial networks**|Jawaria Maqbool et.al.|[2310.17889](http://arxiv.org/abs/2310.17889)|null|

@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**$p$ -Poisson surface reconstruction in curl-free flow from point clouds**|Yesom Park et.al.|[2310.20095](http://arxiv.org/abs/2310.20095)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-27**|**Multi-fidelity Design of Porous Microstructures for Thermofluidic Applications**|Jonathan Tammer Eweis-LaBolle et.al.|[2310.18505](http://arxiv.org/abs/2310.18505)|null|
 |**2023-10-23**|**Lie Group Variational Collision Integrators for a Class of Hybrid Systems**|Khoa Tran et.al.|[2310.15356](http://arxiv.org/abs/2310.15356)|null|
@@ -1896,6 +1897,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
+|**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618](http://arxiv.org/abs/2310.20618)|null|
+|**2023-10-31**|**Modelling of dust emission of a filament in the Taurus molecular cloud**|M. Juvela et.al.|[2310.20585](http://arxiv.org/abs/2310.20585)|null|
+|**2023-10-31**|**The effect of demographic stochasticity on predatory-prey oscillations**|Solmaz Golmohammadi et.al.|[2310.20575](http://arxiv.org/abs/2310.20575)|null|
+|**2023-10-31**|**The very singular solution for the Anisotropic Fast Diffusion Equation and its consequences**|Juan Luis Vázquez et.al.|[2310.20569](http://arxiv.org/abs/2310.20569)|null|
+|**2023-10-31**|**On the structure-viscoelasticity relationship of a dually crosslinked reversible polymer network**|Mounika Gosika et.al.|[2310.20553](http://arxiv.org/abs/2310.20553)|null|
+|**2023-10-31**|**Semipermeable interfaces and the target problem**|Paul C Bressloff et.al.|[2310.20532](http://arxiv.org/abs/2310.20532)|null|
+|**2023-10-31**|**Structure and Color Gradients of Ultra-diffuse Galaxies in Distant Massive Galaxy Clusters**|Pinsong Zhao et.al.|[2310.20530](http://arxiv.org/abs/2310.20530)|null|
+|**2023-10-31**|**Truncated stochastically switching processes**|Paul C Bressloff et.al.|[2310.20502](http://arxiv.org/abs/2310.20502)|null|
+|**2023-10-31**|**On the Long-time Dynamics and Ergodicity of the Stochastic Nernst-Planck-Navier-Stokes System**|Elie Abdo et.al.|[2310.20484](http://arxiv.org/abs/2310.20484)|null|
 |**2023-10-29**|**JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation**|Yao Yao et.al.|[2310.19180](http://arxiv.org/abs/2310.19180)|null|
 |**2023-10-29**|**Linear optical properties of organic microcavity polaritons with non-Markovian Quantum State Diffusion**|Timo Leppälä et.al.|[2310.19162](http://arxiv.org/abs/2310.19162)|null|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
@@ -2313,6 +2324,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Enhanced Synthetic MRI Generation from CT Scans Using CycleGAN with Feature Extraction**|Saba Nikbakhsh et.al.|[2310.20604](http://arxiv.org/abs/2310.20604)|null|
+|**2023-10-31**|**FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures**|Andrea Ciamarra et.al.|[2310.20593](http://arxiv.org/abs/2310.20593)|null|
+|**2023-10-31**|**Fast and Delay-Robust Multimodal Journey Planning**|Dominik Bez et.al.|[2310.20554](http://arxiv.org/abs/2310.20554)|null|
+|**2023-10-31**|**CapsFusion: Rethinking Image-Text Data at Scale**|Qiying Yu et.al.|[2310.20550](http://arxiv.org/abs/2310.20550)|null|
+|**2023-10-31**|**A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations**|Hui Ma et.al.|[2310.20494](http://arxiv.org/abs/2310.20494)|**[link](https://github.com/butterfliesss/sdt)**|
+|**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|null|
+|**2023-10-31**|**Overview of LiLAS 2020 -- Living Labs for Academic Search**|Philipp Schaer et.al.|[2310.20387](http://arxiv.org/abs/2310.20387)|null|
+|**2023-10-31**|**A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging**|Yingshu Li et.al.|[2310.20381](http://arxiv.org/abs/2310.20381)|null|
+|**2023-10-31**|**An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation**|Yingjie Zhou et.al.|[2310.20251](http://arxiv.org/abs/2310.20251)|null|
+|**2023-10-31**|**Video-Helpful Multimodal Machine Translation**|Yihang Li et.al.|[2310.20201](http://arxiv.org/abs/2310.20201)|**[link](https://github.com/ku-nlp/video-helpful-mmt)**|
 |**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174](http://arxiv.org/abs/2310.19174)|null|
 |**2023-10-29**|**Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery**|Huseyin Fuat Alsan et.al.|[2310.19109](http://arxiv.org/abs/2310.19109)|**[link](https://github.com/fualsan/datwep)**|
 |**2023-10-29**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070](http://arxiv.org/abs/2310.19070)|null|

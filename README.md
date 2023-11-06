@@ -1909,13 +1909,13 @@
 |**2023-11-02**|**Unraveling Diffusion in Fusion Plasma: A Case Study of In Situ Processing and Particle Sorting**|Junmin Gu et.al.|[2311.01288](http://arxiv.org/abs/2311.01288)|null|
 |**2023-11-02**|**Layer-adapted meshes for singularly perturbed problems via mesh partial differential equations and a posteriori information**|Róisín Hill et.al.|[2311.01274](http://arxiv.org/abs/2311.01274)|null|
 |**2023-11-01**|**Phase separation dependent active motion of Janus lipid vesicles**|Vivien Willems et.al.|[2311.00685](http://arxiv.org/abs/2311.00685)|null|
-|**2023-11-01**|**The Countoscope: Measuring Self and Collective Dynamics without Trajectories**|Eleanor K. R. Mackay et.al.|[2311.00647](http://arxiv.org/abs/2311.00647)|null|
+|**2023-11-01**|**The Countoscope: Measuring Self and Collective Dynamics without Trajectories**|Eleanor K. R. Mackay et.al.|[2311.00647](http://arxiv.org/abs/2311.00647)|**[link](https://github.com/stochasticHydroTools/RigidMultiblobsWall)**|
 |**2023-11-01**|**Ab initio machine-learning unveils strong anharmonicity in non-Arrhenius self-diffusion of tungsten**|Xi Zhang et.al.|[2311.00633](http://arxiv.org/abs/2311.00633)|null|
 |**2023-11-01**|**Nonequilibrium Green's Function simulation of Cu2O photocathodes for photoelectrochemical hydrogen production**|Lassi Hällström et.al.|[2311.00630](http://arxiv.org/abs/2311.00630)|null|
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
-|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|null|
+|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|**[link](https://github.com/xuanliu2000/vgcdm)**|
 |**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|null|
 |**2023-11-01**|**Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos**|Divyanshu Mishra et.al.|[2311.00469](http://arxiv.org/abs/2311.00469)|null|
 |**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
@@ -2367,13 +2367,13 @@
 |**2023-11-01**|**Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based Wireless Communication Systems**|Jung-Woo Chang et.al.|[2311.00207](http://arxiv.org/abs/2311.00207)|null|
 |**2023-10-31**|**Enhanced Synthetic MRI Generation from CT Scans Using CycleGAN with Feature Extraction**|Saba Nikbakhsh et.al.|[2310.20604](http://arxiv.org/abs/2310.20604)|null|
 |**2023-10-31**|**FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures**|Andrea Ciamarra et.al.|[2310.20593](http://arxiv.org/abs/2310.20593)|null|
-|**2023-10-31**|**Fast and Delay-Robust Multimodal Journey Planning**|Dominik Bez et.al.|[2310.20554](http://arxiv.org/abs/2310.20554)|null|
-|**2023-10-31**|**CapsFusion: Rethinking Image-Text Data at Scale**|Qiying Yu et.al.|[2310.20550](http://arxiv.org/abs/2310.20550)|null|
+|**2023-10-31**|**Fast and Delay-Robust Multimodal Journey Planning**|Dominik Bez et.al.|[2310.20554](http://arxiv.org/abs/2310.20554)|**[link](https://github.com/kit-algo/ULTRA)**|
+|**2023-10-31**|**CapsFusion: Rethinking Image-Text Data at Scale**|Qiying Yu et.al.|[2310.20550](http://arxiv.org/abs/2310.20550)|**[link](https://github.com/baaivision/capsfusion)**|
 |**2023-10-31**|**A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations**|Hui Ma et.al.|[2310.20494](http://arxiv.org/abs/2310.20494)|**[link](https://github.com/butterfliesss/sdt)**|
 |**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|null|
 |**2023-10-31**|**Overview of LiLAS 2020 -- Living Labs for Academic Search**|Philipp Schaer et.al.|[2310.20387](http://arxiv.org/abs/2310.20387)|null|
 |**2023-10-31**|**A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging**|Yingshu Li et.al.|[2310.20381](http://arxiv.org/abs/2310.20381)|null|
-|**2023-10-31**|**An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation**|Yingjie Zhou et.al.|[2310.20251](http://arxiv.org/abs/2310.20251)|null|
+|**2023-10-31**|**An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation**|Yingjie Zhou et.al.|[2310.20251](http://arxiv.org/abs/2310.20251)|**[link](https://github.com/zyj-2000/cumt_2d_photospeaker)**|
 |**2023-10-31**|**Video-Helpful Multimodal Machine Translation**|Yihang Li et.al.|[2310.20201](http://arxiv.org/abs/2310.20201)|**[link](https://github.com/ku-nlp/video-helpful-mmt)**|
 |**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174](http://arxiv.org/abs/2310.19174)|null|
 |**2023-10-29**|**Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery**|Huseyin Fuat Alsan et.al.|[2310.19109](http://arxiv.org/abs/2310.19109)|**[link](https://github.com/fualsan/datwep)**|
@@ -2399,7 +2399,7 @@
 |**2023-10-26**|**Compact free-running InGaAs/InP single-photon detector with 40% detection efficiency and 2.3 kcps dark count rate**|Qi Xu et.al.|[2310.17113](http://arxiv.org/abs/2310.17113)|null|
 |**2023-10-25**|**Datastore Design for Analysis of Police Broadcast Audio at Scale**|Ayah Ahmad et.al.|[2310.16956](http://arxiv.org/abs/2310.16956)|null|
 |**2023-10-25**|**Diagnosing Alzheimer's Disease using Early-Late Multimodal Data Fusion with Jacobian Maps**|Yasmine Mustafa et.al.|[2310.16936](http://arxiv.org/abs/2310.16936)|null|
-|**2023-10-25**|**Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction**|Xuming Hu et.al.|[2310.16822](http://arxiv.org/abs/2310.16822)|null|
+|**2023-10-25**|**Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction**|Xuming Hu et.al.|[2310.16822](http://arxiv.org/abs/2310.16822)|**[link](https://github.com/thu-bpm/promu)**|
 |**2023-10-25**|**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**|Yongxin Shi et.al.|[2310.16809](http://arxiv.org/abs/2310.16809)|**[link](https://github.com/scut-dlvclab/gpt-4v_ocr)**|
 |**2023-10-25**|**Optical Kinetic Theory of Nonlinear Multi-mode Photonic Networks**|Arkady Kurnosov et.al.|[2310.16784](http://arxiv.org/abs/2310.16784)|null|
 |**2023-10-25**|**SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations**|Tao Shi et.al.|[2310.16676](http://arxiv.org/abs/2310.16676)|**[link](https://github.com/taoshi1998/sslcl)**|
@@ -2429,13 +2429,13 @@
 |**2023-10-22**|**Research on Key Technologies of Infrastructure Digitalization based on Multimodal Spatial Data**|Zhanyuan Tian et.al.|[2310.14296](http://arxiv.org/abs/2310.14296)|null|
 |**2023-10-20**|**Semi-supervised multimodal coreference resolution in image narrations**|Arushi Goel et.al.|[2310.13619](http://arxiv.org/abs/2310.13619)|null|
 |**2023-10-20**|**Classification of quantum states of light using random measurements through a multimode fiber**|Saroch Leedumrongwatthanakun et.al.|[2310.13599](http://arxiv.org/abs/2310.13599)|null|
-|**2023-10-20**|**Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models**|Mingwei Zhu et.al.|[2310.13473](http://arxiv.org/abs/2310.13473)|null|
+|**2023-10-20**|**Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models**|Mingwei Zhu et.al.|[2310.13473](http://arxiv.org/abs/2310.13473)|**[link](https://github.com/coderj-one/giraffe-bench)**|
 |**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447](http://arxiv.org/abs/2310.13447)|null|
 |**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361](http://arxiv.org/abs/2310.13361)|null|
 |**2023-10-20**|**Challenges and Contributing Factors in the Utilization of Large Language Models (LLMs)**|Xiaoliang Chen et.al.|[2310.13343](http://arxiv.org/abs/2310.13343)|null|
 |**2023-10-20**|**SALMONN: Towards Generic Hearing Abilities for Large Language Models**|Changli Tang et.al.|[2310.13289](http://arxiv.org/abs/2310.13289)|**[link](https://github.com/bytedance/salmonn)**|
 |**2023-10-20**|**Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds**|Sipeng Zheng et.al.|[2310.13255](http://arxiv.org/abs/2310.13255)|null|
-|**2023-10-19**|**RSAdapter: Adapting Multimodal Models for Remote Sensing Visual Question Answering**|Yuduo Wang et.al.|[2310.13120](http://arxiv.org/abs/2310.13120)|null|
+|**2023-10-19**|**RSAdapter: Adapting Multimodal Models for Remote Sensing Visual Question Answering**|Yuduo Wang et.al.|[2310.13120](http://arxiv.org/abs/2310.13120)|**[link](https://github.com/y-d-wang/rsadapter)**|
 |**2023-10-19**|**Asteroid 2023 NT1: A Cautionary Tale**|Brin K. Bailey et.al.|[2310.13112](http://arxiv.org/abs/2310.13112)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817](http://arxiv.org/abs/2310.12817)|null|
 |**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724](http://arxiv.org/abs/2310.12724)|null|
@@ -2452,7 +2452,7 @@
 |**2023-10-18**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710](http://arxiv.org/abs/2310.11710)|**[link](https://github.com/dsail-skku/multimodal-aphasia-type-detection_emnlp_2023)**|
 |**2023-10-18**|**MISAR: A Multimodal Instructional System with Augmented Reality**|Jing Bi et.al.|[2310.11699](http://arxiv.org/abs/2310.11699)|**[link](https://github.com/nguyennm1024/misar)**|
 |**2023-10-18**|**VKIE: The Application of Key Information Extraction on Video Text**|Siyu An et.al.|[2310.11650](http://arxiv.org/abs/2310.11650)|null|
-|**2023-10-17**|**Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**|Jianwei Yang et.al.|[2310.11441](http://arxiv.org/abs/2310.11441)|null|
+|**2023-10-17**|**Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**|Jianwei Yang et.al.|[2310.11441](http://arxiv.org/abs/2310.11441)|**[link](https://github.com/microsoft/SoM)**|
 |**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
 |**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169](http://arxiv.org/abs/2310.11169)|null|
 |**2023-10-17**|**Reading Order Matters: Information Extraction from Visually-rich Documents by Token Path Prediction**|Chong Zhang et.al.|[2310.11016](http://arxiv.org/abs/2310.11016)|null|
@@ -2497,7 +2497,7 @@
 |**2023-10-11**|**Interactive Interior Design Recommendation via Coarse-to-fine Multimodal Reinforcement Learning**|He Zhang et.al.|[2310.07287](http://arxiv.org/abs/2310.07287)|null|
 |**2023-10-12**|**Multimodal Sampling via Approximate Symmetries**|Lexing Ying et.al.|[2310.07244](http://arxiv.org/abs/2310.07244)|null|
 |**2023-10-10**|**Temporally Aligning Long Audio Interviews with Questions: A Case Study in Multimodal Data Integration**|Piyush Singh Pasi et.al.|[2310.06702](http://arxiv.org/abs/2310.06702)|**[link](https://github.com/piyushsinghpasi/INDENT)**|
-|**2023-10-10**|**Implicit Variational Inference for High-Dimensional Posteriors**|Anshuk Uppal et.al.|[2310.06643](http://arxiv.org/abs/2310.06643)|null|
+|**2023-10-10**|**Implicit Variational Inference for High-Dimensional Posteriors**|Anshuk Uppal et.al.|[2310.06643](http://arxiv.org/abs/2310.06643)|**[link](https://github.com/uppalanshuk/livi_neurips23)**|
 |**2023-10-10**|**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**|Ning Liao et.al.|[2310.06594](http://arxiv.org/abs/2310.06594)|**[link](https://github.com/liaoning97/revo-lion)**|
 |**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566](http://arxiv.org/abs/2310.06566)|null|
 |**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|

@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-01**|**SDF4CHD: Generative Modeling of Cardiac Anatomies with Congenital Heart Defects**|Fanwei Kong et.al.|[2311.00332](http://arxiv.org/abs/2311.00332)|null|
 |**2023-10-31**|**$p$ -Poisson surface reconstruction in curl-free flow from point clouds**|Yesom Park et.al.|[2310.20095](http://arxiv.org/abs/2310.20095)|**[link](https://github.com/yebbi/pinc)**|
 |**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
@@ -1873,6 +1874,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
+|**2023-11-07**|**Simple Bundles of Complex Networks**|Alexandre Benatti et.al.|[2311.04133](http://arxiv.org/abs/2311.04133)|null|
+|**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127](http://arxiv.org/abs/2311.04127)|null|
+|**2023-11-07**|**Strong relaxation limit and uniform time asymptotics of the Jin-Xin model in the $L^{p}$ framework**|Timothée Crin-Barat et.al.|[2311.04105](http://arxiv.org/abs/2311.04105)|null|
+|**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052](http://arxiv.org/abs/2311.04052)|null|
+|**2023-11-07**|**Quantum reaction-limited reaction-diffusion dynamics of noninteracting Bose gases**|Shiphrah Rowlands et.al.|[2311.04018](http://arxiv.org/abs/2311.04018)|null|
+|**2023-11-07**|**A Method to Improve the Performance of Reinforcement Learning Based on the Y Operator for a Class of Stochastic Differential Equation-Based Child-Mother Systems**|Cheng Yin et.al.|[2311.04014](http://arxiv.org/abs/2311.04014)|null|
+|**2023-11-07**|**Unambiguous Simulation of Diffusive Charge Transport in Disordered Nanoribbons**|H. P. Veiga et.al.|[2311.03983](http://arxiv.org/abs/2311.03983)|null|
+|**2023-11-07**|**Relaxation dynamics of interacting bosons in a flat band system**|Ko Gondaira et.al.|[2311.03979](http://arxiv.org/abs/2311.03979)|null|
+|**2023-11-07**|**Persistence probabilities of a smooth self-similar anomalous diffusion process**|Frank Aurzada et.al.|[2311.03972](http://arxiv.org/abs/2311.03972)|null|
 |**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303](http://arxiv.org/abs/2311.03303)|null|
 |**2023-11-06**|**Hydrodynamic modelling of dynamical tides dissipation in Jupiter's interior as revealed by Juno**|Hachem Dhouib et.al.|[2311.03288](http://arxiv.org/abs/2311.03288)|null|
 |**2023-11-06**|**Controlled Diffusions under Full, Partial and Decentralized Information: Existence of Optimal Policies and Discrete-Time Approximations**|Somnath Pradhan et.al.|[2311.03254](http://arxiv.org/abs/2311.03254)|null|
@@ -2338,6 +2349,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219](http://arxiv.org/abs/2311.04219)|null|
+|**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199](http://arxiv.org/abs/2311.04199)|null|
+|**2023-11-07**|**Multitask Multimodal Prompted Training for Interactive Embodied Task Completion**|Georgios Pantazopoulos et.al.|[2311.04067](http://arxiv.org/abs/2311.04067)|null|
+|**2023-11-07**|**Can CLIP Help Sound Source Localization?**|Sooyoung Park et.al.|[2311.04066](http://arxiv.org/abs/2311.04066)|null|
+|**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058](http://arxiv.org/abs/2311.04058)|null|
+|**2023-11-07**|**Principal modes of multimode fibers resisting fiber bending**|Jiawei Xu et.al.|[2311.04004](http://arxiv.org/abs/2311.04004)|null|
+|**2023-11-07**|**Multimodal extended reality applications offer benefits for volumetric biomedical image analysis in research and medicine**|Kathrin Krieger et.al.|[2311.03986](http://arxiv.org/abs/2311.03986)|null|
+|**2023-11-07**|**Enhancing Multimodal Compositional Reasoning of Visual Language Models with Generative Negative Mining**|Ugur Sahin et.al.|[2311.03964](http://arxiv.org/abs/2311.03964)|null|
+|**2023-11-07**|**Integrated Sensing, Communication, and Computing for Cost-effective Multimodal Federated Perception**|Ning Chen et.al.|[2311.03815](http://arxiv.org/abs/2311.03815)|null|
+|**2023-11-07**|**Self-MI: Efficient Multimodal Fusion via Self-Supervised Multi-Task Learning with Auxiliary Mutual Information Maximization**|Cam-Van Thi Nguyen et.al.|[2311.03785](http://arxiv.org/abs/2311.03785)|null|
 |**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356](http://arxiv.org/abs/2311.03356)|null|
 |**2023-11-06**|**LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**|Zijie Zhou et.al.|[2311.03198](http://arxiv.org/abs/2311.03198)|**[link](https://github.com/ZhouZijie77/LCPR)**|
 |**2023-11-06**|**Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding**|Shengkai Sun et.al.|[2311.03106](http://arxiv.org/abs/2311.03106)|**[link](https://github.com/huiguanlab/umurl)**|

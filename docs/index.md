@@ -1839,8 +1839,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing**|Peng Yi et.al.|[2311.04791](http://arxiv.org/abs/2311.04791)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
-|**2023-11-01**|**SDF4CHD: Generative Modeling of Cardiac Anatomies with Congenital Heart Defects**|Fanwei Kong et.al.|[2311.00332](http://arxiv.org/abs/2311.00332)|null|
+|**2023-11-08**|**SDF4CHD: Generative Modeling of Cardiac Anatomies with Congenital Heart Defects**|Fanwei Kong et.al.|[2311.00332](http://arxiv.org/abs/2311.00332)|null|
 |**2023-10-31**|**$p$ -Poisson surface reconstruction in curl-free flow from point clouds**|Yesom Park et.al.|[2310.20095](http://arxiv.org/abs/2310.20095)|**[link](https://github.com/yebbi/pinc)**|
 |**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-27**|**Multi-fidelity Design of Porous Microstructures for Thermofluidic Applications**|Jonathan Tammer Eweis-LaBolle et.al.|[2310.18505](http://arxiv.org/abs/2310.18505)|null|
@@ -1874,6 +1875,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Inferring stochastic rates from heterogeneous snapshots of particle positions**|Christopher E. Miles et.al.|[2311.04880](http://arxiv.org/abs/2311.04880)|null|
+|**2023-11-08**|**The High Energy X-ray Probe (HEX-P): resolving the nature of Sgr A* flares, compact object binaries and diffuse X-ray emission in the Galactic Center and beyond**|Kaya Mori et.al.|[2311.04854](http://arxiv.org/abs/2311.04854)|null|
+|**2023-11-08**|**Domain coarsening in polycrystalline graphene**|Zihua Liu et.al.|[2311.04842](http://arxiv.org/abs/2311.04842)|null|
+|**2023-11-08**|**Transferability of atomic energies from alchemical decomposition**|Michael J. Sahre et.al.|[2311.04784](http://arxiv.org/abs/2311.04784)|null|
+|**2023-11-08**|**A self-synthesized origin of heavy metals in hot subdwarf stars?**|T. Battich et.al.|[2311.04700](http://arxiv.org/abs/2311.04700)|null|
+|**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693](http://arxiv.org/abs/2311.04693)|null|
+|**2023-11-08**|**A viscous ergodic problem with unbounded and measurable ingredients. Part 2: Mean-Field Games**|Hicham Kouhkouh et.al.|[2311.04616](http://arxiv.org/abs/2311.04616)|null|
+|**2023-11-08**|**A viscous ergodic problem with unbounded and measurable ingredients. Part 1: HJB Equation**|Hicham Kouhkouh et.al.|[2311.04596](http://arxiv.org/abs/2311.04596)|null|
+|**2023-11-08**|**Weakly-supervised deepfake localization in diffusion-generated images**|Dragos Tantaru et.al.|[2311.04584](http://arxiv.org/abs/2311.04584)|null|
+|**2023-11-08**|**Stochastic model for transfer of gaseous particles in polymer/CNT nanocomposites with interfacial regions**|Polina Kalashnikova et.al.|[2311.04576](http://arxiv.org/abs/2311.04576)|null|
 |**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
 |**2023-11-07**|**Simple Bundles of Complex Networks**|Alexandre Benatti et.al.|[2311.04133](http://arxiv.org/abs/2311.04133)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127](http://arxiv.org/abs/2311.04127)|null|
@@ -2349,6 +2360,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**GCS-ICHNet: Assessment of Intracerebral Hemorrhage Prognosis using Self-Attention with Domain Knowledge Integration**|Xuhao Shan et.al.|[2311.04772](http://arxiv.org/abs/2311.04772)|**[link](https://github.com/Windbelll/Prognosis-analysis-of-cerebral-hemorrhage)**|
+|**2023-11-08**|**An attention-based deep learning network for predicting Platinum resistance in ovarian cancer**|Haoming Zhuang et.al.|[2311.04769](http://arxiv.org/abs/2311.04769)|null|
+|**2023-11-08**|**Exchanging... Watch out!**|Liu Yang et.al.|[2311.04747](http://arxiv.org/abs/2311.04747)|null|
+|**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507](http://arxiv.org/abs/2311.04507)|null|
+|**2023-11-08**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498](http://arxiv.org/abs/2311.04498)|null|
+|**2023-11-07**|**Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments**|Danial Kamali et.al.|[2311.04364](http://arxiv.org/abs/2311.04364)|null|
+|**2023-11-07**|**ETDPC: A Multimodality Framework for Classifying Pages in Electronic Theses and Dissertations**|Muntabir Hasan Choudhury et.al.|[2311.04262](http://arxiv.org/abs/2311.04262)|**[link](https://github.com/lamps-lab/ETDMiner)**|
+|**2023-11-07**|**Fully Automated Task Management for Generation, Execution, and Evaluation: A Framework for Fetch-and-Carry Tasks with Natural Language Instructions in Continuous Space**|Motonari Kambara et.al.|[2311.04260](http://arxiv.org/abs/2311.04260)|null|
 |**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219](http://arxiv.org/abs/2311.04219)|null|
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199](http://arxiv.org/abs/2311.04199)|null|
 |**2023-11-07**|**Multitask Multimodal Prompted Training for Interactive Embodied Task Completion**|Georgios Pantazopoulos et.al.|[2311.04067](http://arxiv.org/abs/2311.04067)|null|

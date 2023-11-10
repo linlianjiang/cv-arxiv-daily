@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2365,7 +2365,7 @@ layout: default
 |**2023-11-08**|**Exchanging... Watch out!**|Liu Yang et.al.|[2311.04747](http://arxiv.org/abs/2311.04747)|null|
 |**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507](http://arxiv.org/abs/2311.04507)|null|
 |**2023-11-08**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498](http://arxiv.org/abs/2311.04498)|null|
-|**2023-11-07**|**Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments**|Danial Kamali et.al.|[2311.04364](http://arxiv.org/abs/2311.04364)|null|
+|**2023-11-07**|**Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments**|Danial Kamali et.al.|[2311.04364](http://arxiv.org/abs/2311.04364)|**[link](https://github.com/hlr/syntax-guided-transformers)**|
 |**2023-11-07**|**ETDPC: A Multimodality Framework for Classifying Pages in Electronic Theses and Dissertations**|Muntabir Hasan Choudhury et.al.|[2311.04262](http://arxiv.org/abs/2311.04262)|**[link](https://github.com/lamps-lab/ETDMiner)**|
 |**2023-11-07**|**Fully Automated Task Management for Generation, Execution, and Evaluation: A Framework for Fetch-and-Carry Tasks with Natural Language Instructions in Continuous Space**|Motonari Kambara et.al.|[2311.04260](http://arxiv.org/abs/2311.04260)|null|
 |**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219](http://arxiv.org/abs/2311.04219)|null|

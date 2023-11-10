@@ -1900,6 +1900,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Diffusion-Generative Multi-Fidelity Learning for Physical Simulation**|Zheng Wang et.al.|[2311.05606](http://arxiv.org/abs/2311.05606)|null|
+|**2023-11-09**|**Bayesian Methods for Media Mix Modelling with shape and funnel effects**|Javier Marin et.al.|[2311.05587](http://arxiv.org/abs/2311.05587)|null|
+|**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556](http://arxiv.org/abs/2311.05556)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
+|**2023-11-09**|**Onset of pattern formation for the stochastic Allen-Cahn equation**|Stella Brassesco et.al.|[2311.05526](http://arxiv.org/abs/2311.05526)|null|
+|**2023-11-09**|**From Stability to Change: The Potential Application of Bifurcation Theory to Opinion Dynamics Considerations**|Yasuko Kawahata et.al.|[2311.05488](http://arxiv.org/abs/2311.05488)|null|
+|**2023-11-09**|**Disease Gene Prioritization With Quantum Walks**|Harto Saarinen et.al.|[2311.05486](http://arxiv.org/abs/2311.05486)|null|
+|**2023-11-09**|**Retinal OCT Synthesis with Denoising Diffusion Probabilistic Models for Layer Segmentation**|Yuli Wu et.al.|[2311.05479](http://arxiv.org/abs/2311.05479)|null|
+|**2023-11-09**|**Lithium-ion battery performance model including solvent segregation effects**|Ruihe Li et.al.|[2311.05467](http://arxiv.org/abs/2311.05467)|null|
+|**2023-11-09**|**3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models**|Haibo Yang et.al.|[2311.05464](http://arxiv.org/abs/2311.05464)|**[link](https://github.com/yanghb22-fdu/3dstyle-diffusion-official)**|
+|**2023-11-09**|**ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors**|Jingwen Chen et.al.|[2311.05463](http://arxiv.org/abs/2311.05463)|null|
 |**2023-11-08**|**Inferring stochastic rates from heterogeneous snapshots of particle positions**|Christopher E. Miles et.al.|[2311.04880](http://arxiv.org/abs/2311.04880)|null|
 |**2023-11-08**|**The High Energy X-ray Probe (HEX-P): resolving the nature of Sgr A* flares, compact object binaries and diffuse X-ray emission in the Galactic Center and beyond**|Kaya Mori et.al.|[2311.04854](http://arxiv.org/abs/2311.04854)|null|
 |**2023-11-08**|**Domain coarsening in polycrystalline graphene**|Zihua Liu et.al.|[2311.04842](http://arxiv.org/abs/2311.04842)|null|
@@ -2387,6 +2397,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckley et.al.|[2311.05591](http://arxiv.org/abs/2311.05591)|**[link](https://github.com/2v/gpt4v-image-challenge)**|
+|**2023-11-09**|**Exploring Emotion Expression Recognition in Older Adults Interacting with a Virtual Coach**|Cristina Palmero et.al.|[2311.05567](http://arxiv.org/abs/2311.05567)|null|
+|**2023-11-09**|**An ab initio framework for understanding and controlling quantum fluctuations in highly multimoded light-matter systems**|Shiekh Zia Uddin et.al.|[2311.05535](http://arxiv.org/abs/2311.05535)|null|
+|**2023-11-09**|**LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**|Shilong Liu et.al.|[2311.05437](http://arxiv.org/abs/2311.05437)|null|
+|**2023-11-09**|**Empowering high-dimensional optical fiber communications with integrated photonic processors**|Kaihang Lu et.al.|[2311.05282](http://arxiv.org/abs/2311.05282)|null|
+|**2023-11-09**|**BrainNetDiff: Generative AI Empowers Brain Network Generation via Multimodal Diffusion Model**|Yongcheng Zong et.al.|[2311.05199](http://arxiv.org/abs/2311.05199)|null|
 |**2023-11-08**|**GCS-ICHNet: Assessment of Intracerebral Hemorrhage Prognosis using Self-Attention with Domain Knowledge Integration**|Xuhao Shan et.al.|[2311.04772](http://arxiv.org/abs/2311.04772)|**[link](https://github.com/Windbelll/Prognosis-analysis-of-cerebral-hemorrhage)**|
 |**2023-11-08**|**An attention-based deep learning network for predicting Platinum resistance in ovarian cancer**|Haoming Zhuang et.al.|[2311.04769](http://arxiv.org/abs/2311.04769)|null|
 |**2023-11-08**|**Exchanging... Watch out!**|Liu Yang et.al.|[2311.04747](http://arxiv.org/abs/2311.04747)|null|

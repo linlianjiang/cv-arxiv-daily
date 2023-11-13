@@ -1900,6 +1900,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243](http://arxiv.org/abs/2311.06243)|null|
+|**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222](http://arxiv.org/abs/2311.06222)|null|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
+|**2023-11-10**|**Discrete synaptic events induce global oscillations in balanced neural networks**|Denis S. Goldobin et.al.|[2311.06159](http://arxiv.org/abs/2311.06159)|null|
+|**2023-11-10**|**Gain variations as induced by the diffuse night sky background: the ASTRI-Horn experience**|D. Impiombato et.al.|[2311.06155](http://arxiv.org/abs/2311.06155)|null|
+|**2023-11-10**|**Atomistic origins of asymmetric charge-discharge kinetics in off-stoichiometric LiNiO $_2$**|Penghao Xiao et.al.|[2311.06140](http://arxiv.org/abs/2311.06140)|null|
+|**2023-11-10**|**Supernova and solar neutrino searches at DUNE**|C. Cuesta et.al.|[2311.06134](http://arxiv.org/abs/2311.06134)|null|
+|**2023-11-10**|**Efficient and Scalable Kernel Matrix Approximations using Hierarchical Decomposition**|Keerthi Gaddameedi et.al.|[2311.06115](http://arxiv.org/abs/2311.06115)|null|
+|**2023-11-10**|**Turbulence Scaling from Deep Learning Diffusion Generative Models**|Tim Whittaker et.al.|[2311.06112](http://arxiv.org/abs/2311.06112)|null|
+|**2023-11-10**|**The calculations of Nucleon Electric Dipole Moment using background field on Lattice QCD**|Fangcheng He et.al.|[2311.06106](http://arxiv.org/abs/2311.06106)|null|
 |**2023-11-09**|**Diffusion-Generative Multi-Fidelity Learning for Physical Simulation**|Zheng Wang et.al.|[2311.05606](http://arxiv.org/abs/2311.05606)|null|
 |**2023-11-09**|**Bayesian Methods for Media Mix Modelling with shape and funnel effects**|Javier Marin et.al.|[2311.05587](http://arxiv.org/abs/2311.05587)|null|
 |**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556](http://arxiv.org/abs/2311.05556)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
@@ -2397,6 +2407,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Learning material synthesis-structure-property relationship by data fusion: Bayesian Co-regionalization N-Dimensional Piecewise Function Learning**|A. Gilad Kusne et.al.|[2311.06228](http://arxiv.org/abs/2311.06228)|null|
+|**2023-11-10**|**JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**|Zihao Wang et.al.|[2311.05997](http://arxiv.org/abs/2311.05997)|null|
+|**2023-11-10**|**ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation**|Yuting Liu et.al.|[2311.05956](http://arxiv.org/abs/2311.05956)|null|
+|**2023-11-09**|**Long-Horizon Dialogue Understanding for Role Identification in the Game of Avalon with Large Language Models**|Simon Stepputtis et.al.|[2311.05720](http://arxiv.org/abs/2311.05720)|null|
+|**2023-11-09**|**Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities**|AJ Piergiovanni et.al.|[2311.05698](http://arxiv.org/abs/2311.05698)|null|
 |**2023-11-09**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckley et.al.|[2311.05591](http://arxiv.org/abs/2311.05591)|**[link](https://github.com/2v/gpt4v-image-challenge)**|
 |**2023-11-09**|**Exploring Emotion Expression Recognition in Older Adults Interacting with a Virtual Coach**|Cristina Palmero et.al.|[2311.05567](http://arxiv.org/abs/2311.05567)|null|
 |**2023-11-09**|**An ab initio framework for understanding and controlling quantum fluctuations in highly multimoded light-matter systems**|Shiekh Zia Uddin et.al.|[2311.05535](http://arxiv.org/abs/2311.05535)|null|

@@ -1875,6 +1875,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**Scalar Curvature For Metric Spaces: Defining Curvature For Quantum Gravity Without Coordinates**|Agustín Silva et.al.|[2311.07507](http://arxiv.org/abs/2311.07507)|null|
+|**2023-11-13**|**What can we learn from diffusion about Anderson localization of a degenerate Fermi gas?**|Sian Barbosa et.al.|[2311.07505](http://arxiv.org/abs/2311.07505)|null|
+|**2023-11-13**|**HESS J1809-193: Gamma-Ray Emission by Cosmic Rays from Past Explosion**|Sovan Boxi et.al.|[2311.07481](http://arxiv.org/abs/2311.07481)|null|
+|**2023-11-13**|**Quark production and thermalization of the quark-gluon plasma**|Sergio Barrera Cabodevila et.al.|[2311.07450](http://arxiv.org/abs/2311.07450)|null|
+|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431](http://arxiv.org/abs/2311.07431)|null|
+|**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421](http://arxiv.org/abs/2311.07421)|null|
+|**2023-11-13**|**Superdiffusive magnetization transport in the XX spin chain with non-local dephasing**|Marko Znidaric et.al.|[2311.07375](http://arxiv.org/abs/2311.07375)|null|
+|**2023-11-13**|**Coupling haze and cloud microphysics in WASP-39b's atmosphere based on JWST observations**|Anthony Arfaux et.al.|[2311.07365](http://arxiv.org/abs/2311.07365)|null|
+|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345](http://arxiv.org/abs/2311.07345)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243](http://arxiv.org/abs/2311.06243)|null|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222](http://arxiv.org/abs/2311.06222)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
@@ -2380,6 +2390,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574](http://arxiv.org/abs/2311.07574)|null|
+|**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562](http://arxiv.org/abs/2311.07562)|**[link](https://github.com/zzxslp/mm-navigator)**|
+|**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547](http://arxiv.org/abs/2311.07547)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|
+|**2023-11-13**|**A Comprehensive Evaluation of GPT-4V on Knowledge-Intensive Visual Question Answering**|Yunxin Li et.al.|[2311.07536](http://arxiv.org/abs/2311.07536)|null|
+|**2023-11-13**|**MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks**|Sanchit Ahuja et.al.|[2311.07463](http://arxiv.org/abs/2311.07463)|null|
+|**2023-11-13**|**Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision**|Seongyun Lee et.al.|[2311.07362](http://arxiv.org/abs/2311.07362)|**[link](https://github.com/kaistai/volcano)**|
+|**2023-11-13**|**What Large Language Models Bring to Text-rich VQA?**|Xuejing Liu et.al.|[2311.07306](http://arxiv.org/abs/2311.07306)|null|
+|**2023-11-13**|**TTMFN: Two-stream Transformer-based Multimodal Fusion Network for Survival Prediction**|Ruiquan Ge et.al.|[2311.07033](http://arxiv.org/abs/2311.07033)|null|
+|**2023-11-12**|**Towards probabilistic Weather Forecasting with Conditioned Spatio-Temporal Normalizing Flows**|Christina Winkler et.al.|[2311.06958](http://arxiv.org/abs/2311.06958)|null|
+|**2023-11-12**|**Multimodal Learning of Soft Robot Dynamics using Differentiable Filters**|Xiao Liu et.al.|[2311.06954](http://arxiv.org/abs/2311.06954)|null|
 |**2023-11-10**|**Learning material synthesis-structure-property relationship by data fusion: Bayesian Co-regionalization N-Dimensional Piecewise Function Learning**|A. Gilad Kusne et.al.|[2311.06228](http://arxiv.org/abs/2311.06228)|null|
 |**2023-11-10**|**JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**|Zihao Wang et.al.|[2311.05997](http://arxiv.org/abs/2311.05997)|null|
 |**2023-11-10**|**ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation**|Yuting Liu et.al.|[2311.05956](http://arxiv.org/abs/2311.05956)|null|

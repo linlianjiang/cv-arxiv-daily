@@ -1900,6 +1900,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355](http://arxiv.org/abs/2311.08355)|null|
+|**2023-11-14**|**Modelling two Energetic Storm Particle Events Observed by Solar Orbiter Using the Combined EUHFORIA and iPATH Models**|Zheyi Ding et.al.|[2311.08346](http://arxiv.org/abs/2311.08346)|null|
+|**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
+|**2023-11-14**|**Dynamical evolution of spinodal decomposition in holographic superfluids**|Xin Zhao et.al.|[2311.08277](http://arxiv.org/abs/2311.08277)|null|
+|**2023-11-14**|**Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks**|Anna Reithmeir et.al.|[2311.08239](http://arxiv.org/abs/2311.08239)|**[link](https://github.com/annareithmeir/elastic-regularization-hypermorph)**|
+|**2023-11-14**|**Fermi accelerating an Anderson-localized Fermi gas to superdiffusion**|Sian Barbosa et.al.|[2311.08224](http://arxiv.org/abs/2311.08224)|null|
+|**2023-11-14**|**Electronic plasma diffusion with radiation reaction force and time-dependent electric field**|J. F. García-Camacho et.al.|[2311.08215](http://arxiv.org/abs/2311.08215)|null|
+|**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
+|**2023-11-14**|**Large deviations in statistics of the convex hull of passive and active particles: A theoretical study**|Soheli Mukherjee et.al.|[2311.08193](http://arxiv.org/abs/2311.08193)|null|
+|**2023-11-14**|**T-wave Inversion through Inhomogeneous Voltage Diffusion within the FK3V Cardiac Model**|E. Angelaki et.al.|[2311.08173](http://arxiv.org/abs/2311.08173)|null|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
 |**2023-11-13**|**Scalar Curvature For Metric Spaces: Defining Curvature For Quantum Gravity Without Coordinates**|Agustín Silva et.al.|[2311.07507](http://arxiv.org/abs/2311.07507)|null|
 |**2023-11-13**|**What can we learn from diffusion about Anderson localization of a degenerate Fermi gas?**|Sian Barbosa et.al.|[2311.07505](http://arxiv.org/abs/2311.07505)|null|
@@ -2417,6 +2427,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework**|Weiqin Zu et.al.|[2311.08244](http://arxiv.org/abs/2311.08244)|null|
+|**2023-11-14**|**Sinkhorn Transformations for Single-Query Postprocessing in Text-Video Retrieval**|Konstantin Yakovlev et.al.|[2311.08143](http://arxiv.org/abs/2311.08143)|null|
+|**2023-11-14**|**Improving hateful memes detection via learning hatefulness-aware embedding space through retrieval-guided contrastive learning**|Jingbiao Mei et.al.|[2311.08110](http://arxiv.org/abs/2311.08110)|null|
+|**2023-11-14**|**Enhanced mechanical squeezing in an optomechanical system via backward stimulated Brillouin scattering**|Shan-Shan Chen et.al.|[2311.08063](http://arxiv.org/abs/2311.08063)|null|
+|**2023-11-14**|**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**|Peng Jin et.al.|[2311.08046](http://arxiv.org/abs/2311.08046)|null|
+|**2023-11-14**|**ELF: An End-to-end Local and Global Multimodal Fusion Framework for Glaucoma Grading**|Wenyun Li et.al.|[2311.08032](http://arxiv.org/abs/2311.08032)|null|
+|**2023-11-13**|**Vision-Language Integration in Multimodal Video Transformers (Partially) Aligns with the Brain**|Dota Tianai Dong et.al.|[2311.07766](http://arxiv.org/abs/2311.07766)|null|
+|**2023-11-13**|**Clifford operations and homological codes for rotors and oscillators**|Yijia Xu et.al.|[2311.07679](http://arxiv.org/abs/2311.07679)|null|
 |**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574](http://arxiv.org/abs/2311.07574)|null|
 |**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562](http://arxiv.org/abs/2311.07562)|**[link](https://github.com/zzxslp/mm-navigator)**|
 |**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547](http://arxiv.org/abs/2311.07547)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|

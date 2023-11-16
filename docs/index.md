@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2404,11 +2404,11 @@ layout: default
 |**2023-11-14**|**Sinkhorn Transformations for Single-Query Postprocessing in Text-Video Retrieval**|Konstantin Yakovlev et.al.|[2311.08143](http://arxiv.org/abs/2311.08143)|null|
 |**2023-11-14**|**Improving hateful memes detection via learning hatefulness-aware embedding space through retrieval-guided contrastive learning**|Jingbiao Mei et.al.|[2311.08110](http://arxiv.org/abs/2311.08110)|null|
 |**2023-11-14**|**Enhanced mechanical squeezing in an optomechanical system via backward stimulated Brillouin scattering**|Shan-Shan Chen et.al.|[2311.08063](http://arxiv.org/abs/2311.08063)|null|
-|**2023-11-14**|**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**|Peng Jin et.al.|[2311.08046](http://arxiv.org/abs/2311.08046)|null|
+|**2023-11-14**|**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**|Peng Jin et.al.|[2311.08046](http://arxiv.org/abs/2311.08046)|**[link](https://github.com/pku-yuangroup/chat-univi)**|
 |**2023-11-14**|**ELF: An End-to-end Local and Global Multimodal Fusion Framework for Glaucoma Grading**|Wenyun Li et.al.|[2311.08032](http://arxiv.org/abs/2311.08032)|null|
 |**2023-11-13**|**Vision-Language Integration in Multimodal Video Transformers (Partially) Aligns with the Brain**|Dota Tianai Dong et.al.|[2311.07766](http://arxiv.org/abs/2311.07766)|null|
 |**2023-11-13**|**Clifford operations and homological codes for rotors and oscillators**|Yijia Xu et.al.|[2311.07679](http://arxiv.org/abs/2311.07679)|null|
-|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574](http://arxiv.org/abs/2311.07574)|null|
+|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574](http://arxiv.org/abs/2311.07574)|**[link](https://github.com/x2fd/lvis-instruct4v)**|
 |**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562](http://arxiv.org/abs/2311.07562)|**[link](https://github.com/zzxslp/mm-navigator)**|
 |**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547](http://arxiv.org/abs/2311.07547)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|
 |**2023-11-13**|**A Comprehensive Evaluation of GPT-4V on Knowledge-Intensive Visual Question Answering**|Yunxin Li et.al.|[2311.07536](http://arxiv.org/abs/2311.07536)|null|

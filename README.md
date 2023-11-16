@@ -1900,6 +1900,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
+|**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
+|**2023-11-15**|**Finding polarised communities and tracking information diffusion on Twitter: The Irish Abortion Referendum**|Caroline Pena et.al.|[2311.09196](http://arxiv.org/abs/2311.09196)|null|
+|**2023-11-15**|**Planetary nebulae as tracers of stellar population properties: unlocking their potential with integral-field spectroscopy**|Ana Ennis et.al.|[2311.09176](http://arxiv.org/abs/2311.09176)|null|
+|**2023-11-15**|**KPZ equation limit of random walks in random environments**|Sayan Das et.al.|[2311.09151](http://arxiv.org/abs/2311.09151)|null|
+|**2023-11-15**|**Degenerate Mean Field Type Control with Linear and Unbounded Diffusion, and their Associated Equations**|Alain Bensoussan et.al.|[2311.09138](http://arxiv.org/abs/2311.09138)|null|
+|**2023-11-15**|**Fast Detection of Phase Transitions with Multi-Task Learning-by-Confusion**|Julian Arnold et.al.|[2311.09128](http://arxiv.org/abs/2311.09128)|null|
+|**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084](http://arxiv.org/abs/2311.09084)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
+|**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955](http://arxiv.org/abs/2311.08955)|null|
+|**2023-11-15**|**Observing planetesimal formation under streaming instability in the rings of HD 163296**|Francesco Zagaria et.al.|[2311.08950](http://arxiv.org/abs/2311.08950)|null|
 |**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355](http://arxiv.org/abs/2311.08355)|null|
 |**2023-11-14**|**Modelling two Energetic Storm Particle Events Observed by Solar Orbiter Using the Combined EUHFORIA and iPATH Models**|Zheyi Ding et.al.|[2311.08346](http://arxiv.org/abs/2311.08346)|null|
 |**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
@@ -2427,6 +2437,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Social Meme-ing: Measuring Linguistic Variation in Memes**|Naitian Zhou et.al.|[2311.09130](http://arxiv.org/abs/2311.09130)|**[link](https://github.com/naitian/semantic-memes)**|
+|**2023-11-15**|**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**|Yuanwei Wu et.al.|[2311.09127](http://arxiv.org/abs/2311.09127)|null|
+|**2023-11-15**|**GRASP: A novel benchmark for evaluating language GRounding And Situated Physics understanding in multimodal language models**|Serwan Jassim et.al.|[2311.09048](http://arxiv.org/abs/2311.09048)|null|
+|**2023-11-15**|**A Multimodal Dataset of 21,412 Recorded Nights for Sleep and Respiratory Research**|Alon Diament et.al.|[2311.08979](http://arxiv.org/abs/2311.08979)|null|
 |**2023-11-14**|**Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework**|Weiqin Zu et.al.|[2311.08244](http://arxiv.org/abs/2311.08244)|null|
 |**2023-11-14**|**Sinkhorn Transformations for Single-Query Postprocessing in Text-Video Retrieval**|Konstantin Yakovlev et.al.|[2311.08143](http://arxiv.org/abs/2311.08143)|null|
 |**2023-11-14**|**Improving hateful memes detection via learning hatefulness-aware embedding space through retrieval-guided contrastive learning**|Jingbiao Mei et.al.|[2311.08110](http://arxiv.org/abs/2311.08110)|null|

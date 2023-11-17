@@ -1875,6 +1875,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
+|**2023-11-16**|**Spontaneous Opinion Swings in the Voter Model with Latency**|Giovanni Palermo et.al.|[2311.10045](http://arxiv.org/abs/2311.10045)|null|
+|**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999](http://arxiv.org/abs/2311.09999)|null|
+|**2023-11-16**|**Co-data Learning for Bayesian Additive Regression Trees**|Jeroen M. Goedhart et.al.|[2311.09997](http://arxiv.org/abs/2311.09997)|null|
+|**2023-11-16**|**Existence and dimensions of global attractors for a delayed reaction-diffusion equation on an unbounded domain**|Wenjie Hu et.al.|[2311.09980](http://arxiv.org/abs/2311.09980)|null|
+|**2023-11-16**|**The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks**|M. ten Eikelder et.al.|[2311.09966](http://arxiv.org/abs/2311.09966)|null|
+|**2023-11-16**|**Score-based generative models learn manifold-like structures with constrained mixing**|Li Kevin Wenliang et.al.|[2311.09952](http://arxiv.org/abs/2311.09952)|null|
+|**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919](http://arxiv.org/abs/2311.09919)|null|
+|**2023-11-16**|**Connecting microscopic and mesoscopic mechanics in model structural glasses**|David Richard et.al.|[2311.09917](http://arxiv.org/abs/2311.09917)|null|
+|**2023-11-16**|**Unbiased and Multilevel Methods for a Class of Diffusions Partially Observed via Marked Point Processes**|Miguel Alvarez et.al.|[2311.09875](http://arxiv.org/abs/2311.09875)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
 |**2023-11-15**|**Finding polarised communities and tracking information diffusion on Twitter: The Irish Abortion Referendum**|Caroline Pena et.al.|[2311.09196](http://arxiv.org/abs/2311.09196)|null|
@@ -2410,6 +2420,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**RED-DOT: Multimodal Fact-checking via Relevant Evidence Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2311.09939](http://arxiv.org/abs/2311.09939)|null|
+|**2023-11-16**|**Large Language Models for Propaganda Span Annotation**|Maram Hasanain et.al.|[2311.09812](http://arxiv.org/abs/2311.09812)|null|
+|**2023-11-16**|**PixT3: Pixel-based Table To Text generation**|Iñigo Alonso et.al.|[2311.09808](http://arxiv.org/abs/2311.09808)|null|
+|**2023-11-16**|**Efficient End-to-End Visual Document Understanding with Rationale Distillation**|Wang Zhu et.al.|[2311.09612](http://arxiv.org/abs/2311.09612)|null|
+|**2023-11-16**|**MMOE: Mixture of Multimodal Interaction Experts**|Haofei Yu et.al.|[2311.09580](http://arxiv.org/abs/2311.09580)|null|
+|**2023-11-16**|**FedFusion: Manifold Driven Federated Learning for Multi-satellite and Multi-modality Fusion**|DaiXun Li et.al.|[2311.09540](http://arxiv.org/abs/2311.09540)|**[link](https://github.com/ldxdu/fedfusion)**|
 |**2023-11-15**|**Social Meme-ing: Measuring Linguistic Variation in Memes**|Naitian Zhou et.al.|[2311.09130](http://arxiv.org/abs/2311.09130)|**[link](https://github.com/naitian/semantic-memes)**|
 |**2023-11-15**|**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**|Yuanwei Wu et.al.|[2311.09127](http://arxiv.org/abs/2311.09127)|null|
 |**2023-11-15**|**GRASP: A novel benchmark for evaluating language GRounding And Situated Physics understanding in multimodal language models**|Serwan Jassim et.al.|[2311.09048](http://arxiv.org/abs/2311.09048)|null|

@@ -1900,6 +1900,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709](http://arxiv.org/abs/2311.10709)|null|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
+|**2023-11-17**|**TODD-Graphene: A Novel Porous 2D Carbon Allotrope for High-Performance Lithium-Ion Batteries**|E. J. A. Santos et.al.|[2311.10704](http://arxiv.org/abs/2311.10704)|null|
+|**2023-11-17**|**Aging Dynamics of $d-$ dimensional Locally Activated Random Walks**|Julien Brémont et.al.|[2311.10647](http://arxiv.org/abs/2311.10647)|null|
+|**2023-11-17**|**Hadronization of Heavy Quarks**|Jiaxing Zhao et.al.|[2311.10621](http://arxiv.org/abs/2311.10621)|null|
+|**2023-11-17**|**Bacterial diffusion in disordered media, by forgetting the media**|Henry H. Mattingly et.al.|[2311.10612](http://arxiv.org/abs/2311.10612)|null|
+|**2023-11-17**|**Searching for activated transitions in complex magnetic systems**|H. Bocquet et.al.|[2311.10584](http://arxiv.org/abs/2311.10584)|null|
+|**2023-11-17**|**Beginner's guide to visual analysis of perovskite and organic solar cell current density-voltage characteristics**|Albert These et.al.|[2311.10553](http://arxiv.org/abs/2311.10553)|null|
+|**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522](http://arxiv.org/abs/2311.10522)|null|
+|**2023-11-17**|**Local asymptotics and optimal control for a viscous Cahn-Hilliard-Reaction-Diffusion model for tumor growth**|Elisa Davoli et.al.|[2311.10457](http://arxiv.org/abs/2311.10457)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
 |**2023-11-16**|**Spontaneous Opinion Swings in the Voter Model with Latency**|Giovanni Palermo et.al.|[2311.10045](http://arxiv.org/abs/2311.10045)|null|
 |**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999](http://arxiv.org/abs/2311.09999)|null|
@@ -2447,6 +2457,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
+|**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707](http://arxiv.org/abs/2311.10707)|null|
+|**2023-11-17**|**Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference**|Marvin Schmitt et.al.|[2311.10671](http://arxiv.org/abs/2311.10671)|null|
+|**2023-11-17**|**Multimodal Indoor Localization Using Crowdsourced Radio Maps**|Zhaoguang Yi et.al.|[2311.10601](http://arxiv.org/abs/2311.10601)|null|
+|**2023-11-17**|**Cross-Modal Search and Exploration of Greek Painted Pottery**|Elisabeth Trinkl et.al.|[2311.10567](http://arxiv.org/abs/2311.10567)|null|
+|**2023-11-17**|**Leveraging Multimodal Fusion for Enhanced Diagnosis of Multiple Retinal Diseases in Ultra-wide OCTA**|Hao Wei et.al.|[2311.10331](http://arxiv.org/abs/2311.10331)|**[link](https://github.com/hwei-hw/m3octa)**|
+|**2023-11-17**|**Learning transformer-based heterogeneously salient graph representation for multimodal fusion classification of hyperspectral image and LiDAR data**|Jiaqi Yang et.al.|[2311.10320](http://arxiv.org/abs/2311.10320)|null|
+|**2023-11-16**|**Improving Unimodal Inference with Multimodal Transformers**|Kateryna Chumachenko et.al.|[2311.10170](http://arxiv.org/abs/2311.10170)|null|
+|**2023-11-16**|**UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework**|Chris Kelly et.al.|[2311.10125](http://arxiv.org/abs/2311.10125)|**[link](https://github.com/lhbuilder/sa-segment-anything)**|
 |**2023-11-16**|**RED-DOT: Multimodal Fact-checking via Relevant Evidence Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2311.09939](http://arxiv.org/abs/2311.09939)|**[link](https://github.com/stevejpapad/relevant-evidence-detection)**|
 |**2023-11-16**|**Large Language Models for Propaganda Span Annotation**|Maram Hasanain et.al.|[2311.09812](http://arxiv.org/abs/2311.09812)|null|
 |**2023-11-16**|**PixT3: Pixel-based Table To Text generation**|Iñigo Alonso et.al.|[2311.09808](http://arxiv.org/abs/2311.09808)|null|

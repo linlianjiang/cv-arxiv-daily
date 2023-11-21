@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning**|Zixuan Xie et.al.|[2311.11825](http://arxiv.org/abs/2311.11825)|null|
 |**2023-11-08**|**Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing**|Peng Yi et.al.|[2311.04791](http://arxiv.org/abs/2311.04791)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-08**|**SDF4CHD: Generative Modeling of Cardiac Anatomies with Congenital Heart Defects**|Fanwei Kong et.al.|[2311.00332](http://arxiv.org/abs/2311.00332)|null|
@@ -1875,6 +1876,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Macroscopic description of a heavy particle immersed within a flow of light particles**|Radek Erban et.al.|[2311.12021](http://arxiv.org/abs/2311.12021)|null|
+|**2023-11-20**|**Brownian bridge limit of path measures in the upper tail of KPZ models**|Shirshendu Ganguly et.al.|[2311.12009](http://arxiv.org/abs/2311.12009)|null|
+|**2023-11-20**|**Extreme heterogeneity in the microrheology of lamellar surfactant gels analyzed with neural networks**|Owen Watts Moore et.al.|[2311.11941](http://arxiv.org/abs/2311.11941)|null|
+|**2023-11-20**|**An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2311.11919](http://arxiv.org/abs/2311.11919)|null|
+|**2023-11-20**|**Evolution of internal gravity waves in meso-scale eddies**|Pablo Sebastia Saez et.al.|[2311.11916](http://arxiv.org/abs/2311.11916)|null|
+|**2023-11-20**|**Diffusion with two resetting points**|Pedro Julián Salgado et.al.|[2311.11897](http://arxiv.org/abs/2311.11897)|null|
+|**2023-11-20**|**Log-periodic oscillations as real-time signatures of hierarchical dynamics in proteins**|Emanuel Dorbath et.al.|[2311.11839](http://arxiv.org/abs/2311.11839)|null|
+|**2023-11-20**|**Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning**|Zixuan Xie et.al.|[2311.11825](http://arxiv.org/abs/2311.11825)|null|
+|**2023-11-20**|**Nanoswimmers in a ratchet potential: Effects of a transverse rocking force**|Mykola Tasinkevych et.al.|[2311.11735](http://arxiv.org/abs/2311.11735)|null|
+|**2023-11-20**|**Hidden asymptotics for the weak solutions of the strongly stratified Boussinesq system without rotation**|Frédéric Charve et.al.|[2311.11731](http://arxiv.org/abs/2311.11731)|null|
 |**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709](http://arxiv.org/abs/2311.10709)|null|
 |**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
 |**2023-11-17**|**TODD-Graphene: A Novel Porous 2D Carbon Allotrope for High-Performance Lithium-Ion Batteries**|E. J. A. Santos et.al.|[2311.10704](http://arxiv.org/abs/2311.10704)|null|
@@ -2430,6 +2441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015](http://arxiv.org/abs/2311.12015)|null|
+|**2023-11-20**|**Multimodal fission from self-consistent calculations**|Daniel Lay et.al.|[2311.12011](http://arxiv.org/abs/2311.12011)|null|
+|**2023-11-20**|**Multimodal Safe Control for Human-Robot Interaction**|Ravi Pandya et.al.|[2311.11898](http://arxiv.org/abs/2311.11898)|null|
+|**2023-11-20**|**Multimodal Characterization of Emotion within Multimedia Space**|Dayo Samuel Banjo et.al.|[2311.11892](http://arxiv.org/abs/2311.11892)|null|
+|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860](http://arxiv.org/abs/2311.11860)|null|
+|**2023-11-20**|**DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**|Hao Feng et.al.|[2311.11810](http://arxiv.org/abs/2311.11810)|null|
+|**2023-11-20**|**Multimodal deep learning for mapping forest dominant height by fusing GEDI with earth observation data**|Man Chen et.al.|[2311.11777](http://arxiv.org/abs/2311.11777)|null|
+|**2023-11-20**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762](http://arxiv.org/abs/2311.11762)|null|
+|**2023-11-20**|**MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features**|Mingxin Liu et.al.|[2311.11659](http://arxiv.org/abs/2311.11659)|null|
+|**2023-11-20**|**Diode-pumped 88-fs SESAM mode-locked Tm,Ho:CLNGG laser at 2090 nm**|A. Suzuki et.al.|[2311.11613](http://arxiv.org/abs/2311.11613)|null|
 |**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
 |**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707](http://arxiv.org/abs/2311.10707)|null|
 |**2023-11-17**|**Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference**|Marvin Schmitt et.al.|[2311.10671](http://arxiv.org/abs/2311.10671)|null|

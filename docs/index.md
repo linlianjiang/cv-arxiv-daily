@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.25
+## Updated on 2023.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1840,7 +1840,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-21**|**3D Compression Using Neural Fields**|Janis Postels et.al.|[2311.13009](http://arxiv.org/abs/2311.13009)|null|
-|**2023-11-21**|**An $\mathcal{O}(\log_2N)$ SMC$^2$ Algorithm on Distributed Memory with an Approx. Optimal L-Kernel**|Conor Rosato et.al.|[2311.12973](http://arxiv.org/abs/2311.12973)|null|
+|**2023-11-21**|**An $\mathcal{O}(\log_2N)$ SMC$^2$ Algorithm on Distributed Memory with an Approx. Optimal L-Kernel**|Conor Rosato et.al.|[2311.12973](http://arxiv.org/abs/2311.12973)|**[link](https://github.com/j-j-murphy/o-logn-smc-squared-on-mpi)**|
 |**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754](http://arxiv.org/abs/2311.12754)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|

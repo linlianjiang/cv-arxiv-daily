@@ -2039,7 +2039,7 @@ layout: default
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
 |**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|**[link](https://github.com/xuanliu2000/vgcdm)**|
-|**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|null|
+|**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|**[link](https://github.com/dirmeier/dmvi)**|
 |**2023-11-01**|**Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos**|Divyanshu Mishra et.al.|[2311.00469](http://arxiv.org/abs/2311.00469)|null|
 |**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
 |**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618](http://arxiv.org/abs/2310.20618)|null|
@@ -2486,11 +2486,11 @@ layout: default
 |**2023-11-20**|**Multimodal fission from self-consistent calculations**|Daniel Lay et.al.|[2311.12011](http://arxiv.org/abs/2311.12011)|null|
 |**2023-11-20**|**Multimodal Safe Control for Human-Robot Interaction**|Ravi Pandya et.al.|[2311.11898](http://arxiv.org/abs/2311.11898)|null|
 |**2023-11-20**|**Multimodal Characterization of Emotion within Multimedia Space**|Dayo Samuel Banjo et.al.|[2311.11892](http://arxiv.org/abs/2311.11892)|null|
-|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860](http://arxiv.org/abs/2311.11860)|null|
+|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860](http://arxiv.org/abs/2311.11860)|**[link](https://github.com/rshaojimmy/jiutian)**|
 |**2023-11-20**|**DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**|Hao Feng et.al.|[2311.11810](http://arxiv.org/abs/2311.11810)|null|
 |**2023-11-20**|**Multimodal deep learning for mapping forest dominant height by fusing GEDI with earth observation data**|Man Chen et.al.|[2311.11777](http://arxiv.org/abs/2311.11777)|null|
 |**2023-11-20**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762](http://arxiv.org/abs/2311.11762)|null|
-|**2023-11-20**|**MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features**|Mingxin Liu et.al.|[2311.11659](http://arxiv.org/abs/2311.11659)|null|
+|**2023-11-20**|**MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features**|Mingxin Liu et.al.|[2311.11659](http://arxiv.org/abs/2311.11659)|**[link](https://github.com/lmxmercy/mgct)**|
 |**2023-11-20**|**Diode-pumped 88-fs SESAM mode-locked Tm,Ho:CLNGG laser at 2090 nm**|A. Suzuki et.al.|[2311.11613](http://arxiv.org/abs/2311.11613)|null|
 |**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
 |**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707](http://arxiv.org/abs/2311.10707)|null|
@@ -2798,7 +2798,7 @@ layout: default
 |**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057](http://arxiv.org/abs/2309.16057)|**[link](https://github.com/unmannedlab/uwb_dataset)**|
 |**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915](http://arxiv.org/abs/2309.15915)|**[link](https://github.com/engindeniz/vitis)**|
 |**2023-09-27**|**One For All: Video Conversation is Feasible Without Video Instruction Tuning**|Ruyang Liu et.al.|[2309.15785](http://arxiv.org/abs/2309.15785)|**[link](https://github.com/farewellthree/BT-Adapter)**|
-|**2023-09-27**|**PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation**|Shizhe Chen et.al.|[2309.15596](http://arxiv.org/abs/2309.15596)|null|
+|**2023-09-27**|**PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation**|Shizhe Chen et.al.|[2309.15596](http://arxiv.org/abs/2309.15596)|**[link](https://github.com/vlc-robot/polarnet)**|
 |**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564](http://arxiv.org/abs/2309.15564)|null|
 |**2023-09-27**|**Exploiting holographically encoded variance to transmit labelled images through a multimode optical fiber**|Liam Collard et.al.|[2309.15532](http://arxiv.org/abs/2309.15532)|null|
 |**2023-09-27**|**Finite Scalar Quantization: VQ-VAE Made Simple**|Fabian Mentzer et.al.|[2309.15505](http://arxiv.org/abs/2309.15505)|**[link](https://github.com/google-research/google-research)**|

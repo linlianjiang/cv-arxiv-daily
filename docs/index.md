@@ -1881,6 +1881,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization**|Ruoyu Zhao et.al.|[2311.14631](http://arxiv.org/abs/2311.14631)|null|
+|**2023-11-24**|**Received Signal and Channel Parameter Estimation in Molecular Communications**|O. Tansel Baydas et.al.|[2311.14621](http://arxiv.org/abs/2311.14621)|null|
+|**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
+|**2023-11-24**|**On the thermodynamic invariance of fine-grain and coarse-grain fluid models**|Thomas Dubos et.al.|[2311.14564](http://arxiv.org/abs/2311.14564)|null|
+|**2023-11-24**|**ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model**|Eslam Mohamed Bakr et.al.|[2311.14542](http://arxiv.org/abs/2311.14542)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
+|**2023-11-24**|**Shifted Composition I: Harnack and Reverse Transport Inequalities**|Jason M. Altschuler et.al.|[2311.14520](http://arxiv.org/abs/2311.14520)|null|
+|**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494](http://arxiv.org/abs/2311.14494)|null|
+|**2023-11-24**|**Joint Diffusion: Mutual Consistency-Driven Diffusion Model for PET-MRI Co-Reconstruction**|Taofeng Xie et.al.|[2311.14473](http://arxiv.org/abs/2311.14473)|null|
+|**2023-11-24**|**Incomplete resection of the icEEG seizure onset zone is not associated with post-surgical outcomes**|Sarah J. Gascoigne et.al.|[2311.14434](http://arxiv.org/abs/2311.14434)|null|
 |**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584](http://arxiv.org/abs/2311.13584)|null|
 |**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570](http://arxiv.org/abs/2311.13570)|null|
 |**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549](http://arxiv.org/abs/2311.13549)|null|
@@ -2466,6 +2476,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**|Jonathan Roberts et.al.|[2311.14656](http://arxiv.org/abs/2311.14656)|**[link](https://github.com/jonathan-roberts1/charting-new-territories)**|
+|**2023-11-24**|**tinyCLAP: Distilling Constrastive Language-Audio Pretrained Models**|Francesco Paissan et.al.|[2311.14517](http://arxiv.org/abs/2311.14517)|null|
+|**2023-11-24**|**Human-Machine Cooperative Multimodal Learning Method for Cross-subject Olfactory Preference Recognition**|Xiuxin Xia et.al.|[2311.14426](http://arxiv.org/abs/2311.14426)|null|
+|**2023-11-24**|**Robot Learning in the Era of Foundation Models: A Survey**|Xuan Xiao et.al.|[2311.14379](http://arxiv.org/abs/2311.14379)|null|
+|**2023-11-24**|**GeoViT: A Versatile Vision Transformer Architecture for Geospatial Image Analysis**|Madhav Khirwar et.al.|[2311.14301](http://arxiv.org/abs/2311.14301)|null|
+|**2023-11-23**|**Evaluating GPT-4's Vision Capabilities on Brazilian University Admission Exams**|Ramon Pires et.al.|[2311.14169](http://arxiv.org/abs/2311.14169)|**[link](https://github.com/piresramon/gpt-4-enem)**|
+|**2023-11-23**|**Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training**|Cheng Tan et.al.|[2311.14109](http://arxiv.org/abs/2311.14109)|**[link](https://github.com/chengtan9907/mc-cot)**|
+|**2023-11-23**|**PortfolioMentor: Multimodal Generative AI Companion for Learning and Crafting Interactive Digital Art Portfolios**|Tao Long et.al.|[2311.14091](http://arxiv.org/abs/2311.14091)|null|
+|**2023-11-23**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847](http://arxiv.org/abs/2311.13847)|null|
+|**2023-11-23**|**Molecular Identification and Peak Assignment: Leveraging Multi-Level Multimodal Alignment on NMR**|Hao Xu et.al.|[2311.13817](http://arxiv.org/abs/2311.13817)|null|
 |**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549](http://arxiv.org/abs/2311.13549)|null|
 |**2023-11-22**|**PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**|Shehan Munasinghe et.al.|[2311.13435](http://arxiv.org/abs/2311.13435)|**[link](https://github.com/mbzuai-oryx/video-llava)**|
 |**2023-11-22**|**Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs**|Yonghui Wang et.al.|[2311.13194](http://arxiv.org/abs/2311.13194)|null|

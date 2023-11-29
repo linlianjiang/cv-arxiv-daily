@@ -1883,6 +1883,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Material Palette: Extraction of Materials from a Single Image**|Ivan Lopes et.al.|[2311.17060](http://arxiv.org/abs/2311.17060)|null|
+|**2023-11-28**|**ReMoS: Reactive 3D Motion Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057](http://arxiv.org/abs/2311.17057)|null|
+|**2023-11-28**|**DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**|Tsun-Hsuan Wang et.al.|[2311.17053](http://arxiv.org/abs/2311.17053)|null|
+|**2023-11-28**|**Surf-D: High-Quality Surface Generation for Arbitrary Topologies using Diffusion Models**|Zhengming Yu et.al.|[2311.17050](http://arxiv.org/abs/2311.17050)|null|
+|**2023-11-28**|**Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2311.17042](http://arxiv.org/abs/2311.17042)|**[link](https://github.com/stability-ai/generative-models)**|
+|**2023-11-28**|**Rumors with Changing Credibility**|Charlotte Out et.al.|[2311.17040](http://arxiv.org/abs/2311.17040)|null|
+|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
+|**2023-11-28**|**Pricing and hedging for a sticky diffusion**|Alexis Anagnostakis et.al.|[2311.17011](http://arxiv.org/abs/2311.17011)|null|
+|**2023-11-28**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
+|**2023-11-28**|**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following**|Yutong Feng et.al.|[2311.17002](http://arxiv.org/abs/2311.17002)|null|
 |**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102](http://arxiv.org/abs/2311.16102)|null|
 |**2023-11-27**|**CG-HOI: Contact-Guided 3D Human-Object Interaction Generation**|Christian Diller et.al.|[2311.16097](http://arxiv.org/abs/2311.16097)|null|
 |**2023-11-27**|**KPZ-type equation from growth driven by a non-Markovian diffusion**|Amir Dembo et.al.|[2311.16095](http://arxiv.org/abs/2311.16095)|null|
@@ -2488,6 +2498,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**COLE: A Hierarchical Generation Framework for Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
+|**2023-11-28**|**Debiasing Multimodal Models via Causal Information Minimization**|Vaidehi Patil et.al.|[2311.16941](http://arxiv.org/abs/2311.16941)|**[link](https://github.com/vaidehi99/causalinfomin)**|
+|**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|null|
+|**2023-11-28**|**MultiModal-Learning for Predicting Molecular Properties: A Framework Based on Image and Graph Structures**|Zhuoyuan Wang et.al.|[2311.16666](http://arxiv.org/abs/2311.16666)|null|
+|**2023-11-28**|**Personalized Predictions of Glioblastoma Infiltration: Mathematical Models, Physics-Informed Neural Networks and Multimodal Scans**|Ray Zirui Zhang et.al.|[2311.16536](http://arxiv.org/abs/2311.16536)|null|
+|**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488](http://arxiv.org/abs/2311.16488)|null|
+|**2023-11-28**|**A Unified Framework for Multimodal, Multi-Part Human Motion Synthesis**|Zixiang Zhou et.al.|[2311.16471](http://arxiv.org/abs/2311.16471)|null|
+|**2023-11-27**|**Learning Multimodal Latent Dynamics for Human-Robot Interaction**|Vignesh Prasad et.al.|[2311.16380](http://arxiv.org/abs/2311.16380)|null|
+|**2023-11-27**|**RelVAE: Generative Pretraining for few-shot Visual Relationship Detection**|Sotiris Karapiperis et.al.|[2311.16261](http://arxiv.org/abs/2311.16261)|null|
 |**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081](http://arxiv.org/abs/2311.16081)|**[link](https://github.com/TencentARC/ViT-Lens)**|
 |**2023-11-27**|**Machine Learning-Enhanced Aircraft Landing Scheduling under Uncertainties**|Yutian Pang et.al.|[2311.16030](http://arxiv.org/abs/2311.16030)|null|
 |**2023-11-27**|**SiN integrated photonic components in the Visible to Near-Infrared spectral region**|Matteo Sanna et.al.|[2311.16016](http://arxiv.org/abs/2311.16016)|null|

@@ -1909,6 +1909,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778](http://arxiv.org/abs/2312.00778)|null|
+|**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
+|**2023-12-01**|**CompuCell3D Model of Cell Migration Reproduces Chemotaxis**|Pedro C. Dal-Castel et.al.|[2312.00776](http://arxiv.org/abs/2312.00776)|null|
+|**2023-12-01**|**Effects of three-dimensional slit geometry on flashback of premixed hydrogen flames in perforated burners**|Filippo Fruzza et.al.|[2312.00744](http://arxiv.org/abs/2312.00744)|null|
+|**2023-12-01**|**Functional Renormalization Group Study of Thermodynamic Geometry Around the Phase Transition of Quantum Chromodynamic**|Fabrizio Murgana et.al.|[2312.00665](http://arxiv.org/abs/2312.00665)|null|
+|**2023-12-01**|**Resource-constrained knowledge diffusion processes inspired by human peer learning**|Ehsan Beikihassan et.al.|[2312.00660](http://arxiv.org/abs/2312.00660)|null|
+|**2023-12-01**|**TrackDiffusion: Multi-object Tracking Data Generation via Diffusion Models**|Pengxiang Li et.al.|[2312.00651](http://arxiv.org/abs/2312.00651)|null|
+|**2023-12-01**|**How the zebra got its stripes: Curvature-dependent diffusion orients Turing patterns on 3D surfaces**|Michael F. Staddon et.al.|[2312.00637](http://arxiv.org/abs/2312.00637)|null|
+|**2023-12-01**|**Stopper vs. singular-controller games with degenerate diffusions**|Andrea Bovo et.al.|[2312.00613](http://arxiv.org/abs/2312.00613)|null|
+|**2023-12-01**|**New Continuum Observations of the Andromeda galaxy M31 with FAST**|Wenjun Zhang et.al.|[2312.00441](http://arxiv.org/abs/2312.00441)|null|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837](http://arxiv.org/abs/2311.18837)|null|
 |**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834](http://arxiv.org/abs/2311.18834)|null|
 |**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832](http://arxiv.org/abs/2311.18832)|**[link](https://github.com/shinying/dmp)**|
@@ -2546,6 +2556,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Making Large Multimodal Models Understand Arbitrary Visual Prompts**|Mu Cai et.al.|[2312.00784](http://arxiv.org/abs/2312.00784)|null|
+|**2023-11-30**|**Merlin:Empowering Multimodal LLMs with Foresight Minds**|En Yu et.al.|[2312.00589](http://arxiv.org/abs/2312.00589)|null|
+|**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
+|**2023-12-01**|**Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning**|Shaohua Dong et.al.|[2312.00360](http://arxiv.org/abs/2312.00360)|**[link](https://github.com/shaohuadong2021/dplnet)**|
+|**2023-12-01**|**RadioGalaxyNET: Dataset and Novel Computer Vision Algorithms for the Detection of Extended Radio Galaxies and Infrared Hosts**|Nikhel Gupta et.al.|[2312.00306](http://arxiv.org/abs/2312.00306)|null|
+|**2023-11-30**|**Multimodal Learning for Crystalline Materials**|Viggo Moro et.al.|[2312.00111](http://arxiv.org/abs/2312.00111)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836](http://arxiv.org/abs/2311.18836)|null|
 |**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835](http://arxiv.org/abs/2311.18835)|**[link](https://github.com/rongyaofang/instructseq)**|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775](http://arxiv.org/abs/2311.18775)|null|

@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Differentiable Point-based Inverse Rendering**|Hoon-Gyu Chung et.al.|[2312.02480](http://arxiv.org/abs/2312.02480)|null|
 |**2023-11-29**|**TSDF-Sampling: Efficient Sampling for Neural Surface Field using Truncated Signed Distance Field**|Chaerin Min et.al.|[2311.17878](http://arxiv.org/abs/2311.17878)|null|
 |**2023-11-27**|**Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps**|Jane Wu et.al.|[2311.16042](http://arxiv.org/abs/2311.16042)|null|
 |**2023-11-26**|**Efficient Encoding of Graphics Primitives with Simplex-based Structures**|Yibo Wen et.al.|[2311.15439](http://arxiv.org/abs/2311.15439)|null|
@@ -1909,6 +1910,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
+|**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
+|**2023-12-05**|**AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model**|Boheng Zhao et.al.|[2312.02967](http://arxiv.org/abs/2312.02967)|null|
+|**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966](http://arxiv.org/abs/2312.02966)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
+|**2023-12-05**|**Drag-A-Video: Non-rigid Video Editing with Point-based Interaction**|Yao Teng et.al.|[2312.02936](http://arxiv.org/abs/2312.02936)|null|
+|**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934](http://arxiv.org/abs/2312.02934)|**[link](https://github.com/fudan-zvg/wovogen)**|
+|**2023-12-05**|**Assessing Nonlinear Diffusion Acceleration for Boltzmann Fokker Planck Equation in Slab Geometry**|Japan K. Patel et.al.|[2312.02930](http://arxiv.org/abs/2312.02930)|null|
+|**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928](http://arxiv.org/abs/2312.02928)|null|
+|**2023-12-05**|**A Diffusion Model of Dynamic Participant Inflow Management**|Baris Ata et.al.|[2312.02927](http://arxiv.org/abs/2312.02927)|null|
+|**2023-12-05**|**Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**|Yuang Ai et.al.|[2312.02918](http://arxiv.org/abs/2312.02918)|null|
 |**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156](http://arxiv.org/abs/2312.02156)|null|
 |**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
 |**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149](http://arxiv.org/abs/2312.02149)|null|
@@ -2566,6 +2577,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980](http://arxiv.org/abs/2312.02980)|null|
+|**2023-12-05**|**Longitudinal Assessment of Seasonal Impacts and Depression Associations on Circadian Rhythm Using Multimodal Wearable Sensing**|Yuezhou Zhang et.al.|[2312.02953](http://arxiv.org/abs/2312.02953)|null|
+|**2023-12-05**|**LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**|Hao Zhang et.al.|[2312.02949](http://arxiv.org/abs/2312.02949)|**[link](https://github.com/ux-decoder/llava-grounding)**|
+|**2023-12-05**|**WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words**|Lukas Wolf et.al.|[2312.02931](http://arxiv.org/abs/2312.02931)|null|
+|**2023-12-05**|**Quaternion-Aligned Electroanatomical Models of the Murine Atria from Standard-Output Functional and Structural Imaging**|Gavin Tumlinson et.al.|[2312.02922](http://arxiv.org/abs/2312.02922)|null|
+|**2023-12-05**|**Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**|Yuang Ai et.al.|[2312.02918](http://arxiv.org/abs/2312.02918)|null|
+|**2023-12-05**|**BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models**|Rizhao Cai et.al.|[2312.02896](http://arxiv.org/abs/2312.02896)|**[link](https://github.com/aifeg/benchgpt)**|
+|**2023-12-05**|**Positron annihilation and binding in aromatic and other ring molecules**|E. Arthur-Baidoo et.al.|[2312.02779](http://arxiv.org/abs/2312.02779)|null|
+|**2023-12-05**|**HARMONIOUS -- Human-like reactive motion control and multimodal perception for humanoid robots**|Jakub Rozlivek et.al.|[2312.02711](http://arxiv.org/abs/2312.02711)|null|
+|**2023-12-05**|**Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning**|Zhuo Huang et.al.|[2312.02546](http://arxiv.org/abs/2312.02546)|**[link](https://github.com/tmllab/machine_vision_therapy)**|
 |**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051](http://arxiv.org/abs/2312.02051)|null|
 |**2023-12-04**|**Bootstrapping SparseFormers from Vision Foundation Models**|Ziteng Gao et.al.|[2312.01987](http://arxiv.org/abs/2312.01987)|**[link](https://github.com/showlab/sparseformer)**|
 |**2023-12-04**|**IMProv: Inpainting-based Multimodal Prompting for Computer Vision Tasks**|Jiarui Xu et.al.|[2312.01771](http://arxiv.org/abs/2312.01771)|null|

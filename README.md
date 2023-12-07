@@ -1862,6 +1862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357](http://arxiv.org/abs/2312.03357)|null|
+|**2023-12-05**|**Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians**|Yuelang Xu et.al.|[2312.03029](http://arxiv.org/abs/2312.03029)|**[link](https://github.com/yuelangx/gaussian-head-avatar)**|
 |**2023-12-05**|**Differentiable Point-based Inverse Rendering**|Hoon-Gyu Chung et.al.|[2312.02480](http://arxiv.org/abs/2312.02480)|null|
 |**2023-11-29**|**TSDF-Sampling: Efficient Sampling for Neural Surface Field using Truncated Signed Distance Field**|Chaerin Min et.al.|[2311.17878](http://arxiv.org/abs/2311.17878)|null|
 |**2023-11-27**|**Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps**|Jane Wu et.al.|[2311.16042](http://arxiv.org/abs/2311.16042)|null|
@@ -1910,6 +1912,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Relightable Gaussian Codec Avatars**|Shunsuke Saito et.al.|[2312.03704](http://arxiv.org/abs/2312.03704)|null|
+|**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701](http://arxiv.org/abs/2312.03701)|**[link](https://github.com/LTH14/rcg)**|
+|**2023-12-06**|**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**|Ali Naseh et.al.|[2312.03692](http://arxiv.org/abs/2312.03692)|null|
+|**2023-12-06**|**MatterGen: a generative model for inorganic materials design**|Claudio Zeni et.al.|[2312.03687](http://arxiv.org/abs/2312.03687)|null|
+|**2023-12-06**|**Periodic homogenization of a class of weakly coupled systems of linear PDEs**|Nikola Sandrić et.al.|[2312.03680](http://arxiv.org/abs/2312.03680)|null|
+|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667](http://arxiv.org/abs/2312.03667)|null|
+|**2023-12-06**|**TokenCompose: Grounding Diffusion with Token-level Supervision**|Zirui Wang et.al.|[2312.03626](http://arxiv.org/abs/2312.03626)|null|
+|**2023-12-06**|**DreamComposer: Controllable 3D Object Generation via Multi-View Conditions**|Yunhan Yang et.al.|[2312.03611](http://arxiv.org/abs/2312.03611)|null|
+|**2023-12-06**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|Samar Khanna et.al.|[2312.03606](http://arxiv.org/abs/2312.03606)|null|
+|**2023-12-06**|**MMM: Generative Masked Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2312.03596](http://arxiv.org/abs/2312.03596)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
 |**2023-12-05**|**AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model**|Boheng Zhao et.al.|[2312.02967](http://arxiv.org/abs/2312.02967)|null|
@@ -2577,6 +2589,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700](http://arxiv.org/abs/2312.03700)|**[link](https://github.com/csuhan/onellm)**|
+|**2023-12-06**|**Multimodal Data and Resource Efficient Device-Directed Speech Detection with Large Foundation Models**|Dominik Wagner et.al.|[2312.03632](http://arxiv.org/abs/2312.03632)|null|
+|**2023-12-06**|**Automated Multimodal Data Annotation via Calibration With Indoor Positioning System**|Ryan Rubel et.al.|[2312.03608](http://arxiv.org/abs/2312.03608)|null|
+|**2023-12-06**|**GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**|Haicheng Liao et.al.|[2312.03543](http://arxiv.org/abs/2312.03543)|**[link](https://github.com/petrichor625/talk2car_cavg)**|
+|**2023-12-06**|**ShareCMP: Polarization-Aware RGB-P Semantic Segmentation**|Zhuoyan Liu et.al.|[2312.03430](http://arxiv.org/abs/2312.03430)|null|
+|**2023-12-06**|**Deep Multimodal Fusion for Surgical Feedback Classification**|Rafal Kocielnik et.al.|[2312.03231](http://arxiv.org/abs/2312.03231)|null|
 |**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980](http://arxiv.org/abs/2312.02980)|null|
 |**2023-12-05**|**Longitudinal Assessment of Seasonal Impacts and Depression Associations on Circadian Rhythm Using Multimodal Wearable Sensing**|Yuezhou Zhang et.al.|[2312.02953](http://arxiv.org/abs/2312.02953)|null|
 |**2023-12-05**|**LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**|Hao Zhang et.al.|[2312.02949](http://arxiv.org/abs/2312.02949)|**[link](https://github.com/ux-decoder/llava-grounding)**|

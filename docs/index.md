@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2576,7 +2576,7 @@ layout: default
 |**2023-12-07**|**PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play**|Lili Chen et.al.|[2312.04549](http://arxiv.org/abs/2312.04549)|null|
 |**2023-12-07**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping**|Alex Costanzino et.al.|[2312.04521](http://arxiv.org/abs/2312.04521)|null|
 |**2023-12-07**|**GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction**|Zhongchang Luo et.al.|[2312.04479](http://arxiv.org/abs/2312.04479)|null|
-|**2023-12-07**|**GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding**|Zheng Lian et.al.|[2312.04293](http://arxiv.org/abs/2312.04293)|null|
+|**2023-12-07**|**GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding**|Zheng Lian et.al.|[2312.04293](http://arxiv.org/abs/2312.04293)|**[link](https://github.com/zeroqiaoba/gpt4v-emotion)**|
 |**2023-12-07**|**MSEVA : A System for Multimodal Short Videos Emotion Visual Analysis**|Qinglan Wei et.al.|[2312.04279](http://arxiv.org/abs/2312.04279)|null|
 |**2023-12-07**|**VRPTEST: Evaluating Visual Referring Prompting in Large Multimodal Models**|Zongjie Li et.al.|[2312.04087](http://arxiv.org/abs/2312.04087)|null|
 |**2023-12-07**|**Multimodal Misinformation Detection in a South African Social Media Environment**|Amica De Jager et.al.|[2312.04052](http://arxiv.org/abs/2312.04052)|null|

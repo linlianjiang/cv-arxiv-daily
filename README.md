@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing**|Kangneng Zhou et.al.|[2312.06947](http://arxiv.org/abs/2312.06947)|null|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
 |**2023-12-11**|**Implicit Shape Modeling for Anatomical Structure Refinement of Volumetric Medical Images**|Minghui Zhang et.al.|[2312.06164](http://arxiv.org/abs/2312.06164)|null|
 |**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao et.al.|[2312.04803](http://arxiv.org/abs/2312.04803)|null|
@@ -1915,6 +1916,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537](http://arxiv.org/abs/2312.07537)|**[link](https://github.com/tianxingwu/freeinit)**|
+|**2023-12-12**|**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition**|Sicheng Mo et.al.|[2312.07536](http://arxiv.org/abs/2312.07536)|null|
+|**2023-12-12**|**Cosmological Field Emulation and Parameter Inference with Diffusion Models**|Nayantara Mudur et.al.|[2312.07534](http://arxiv.org/abs/2312.07534)|null|
+|**2023-12-12**|**PEEKABOO: Interactive Video Generation via Masked-Diffusion**|Yash Jain et.al.|[2312.07509](http://arxiv.org/abs/2312.07509)|null|
+|**2023-12-12**|**MinD-3D: Reconstruct High-quality 3D objects in Human Brain**|Jianxiong Gao et.al.|[2312.07485](http://arxiv.org/abs/2312.07485)|null|
+|**2023-12-12**|**Turning Earth into Venus: A Stochastic Model of Possible Evolutions of Terrestrial Topography**|Arthur D. Adams et.al.|[2312.07483](http://arxiv.org/abs/2312.07483)|null|
+|**2023-12-12**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449](http://arxiv.org/abs/2312.07449)|null|
+|**2023-12-12**|**DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing**|Kaiwen Zhang et.al.|[2312.07409](http://arxiv.org/abs/2312.07409)|null|
+|**2023-12-12**|**Boosting Latent Diffusion with Flow Matching**|Johannes S. Fischer et.al.|[2312.07360](http://arxiv.org/abs/2312.07360)|**[link](https://github.com/compvis/fm-boosting)**|
+|**2023-12-12**|**Momentum Particle Maximum Likelihood**|Jen Ning Lim et.al.|[2312.07335](http://arxiv.org/abs/2312.07335)|null|
 |**2023-12-11**|**CAD: Photorealistic 3D Generation via Adversarial Distillation**|Ziyu Wan et.al.|[2312.06663](http://arxiv.org/abs/2312.06663)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662](http://arxiv.org/abs/2312.06662)|null|
 |**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661](http://arxiv.org/abs/2312.06661)|null|
@@ -2622,6 +2633,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Topological Obstructions and How to Avoid Them**|Babak Esmaeili et.al.|[2312.07529](http://arxiv.org/abs/2312.07529)|null|
+|**2023-12-12**|**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**|Yiran Qin et.al.|[2312.07472](http://arxiv.org/abs/2312.07472)|null|
+|**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424](http://arxiv.org/abs/2312.07424)|null|
+|**2023-12-12**|**Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review**|Bihui Yu et.al.|[2312.07213](http://arxiv.org/abs/2312.07213)|**[link](https://github.com/ultracoolhub/brain-inspired-computing)**|
+|**2023-12-12**|**More than Vanilla Fusion: a Simple, Decoupling-free, Attention Module for Multimodal Fusion Based on Signal Theory**|Peiwen Sun et.al.|[2312.07212](http://arxiv.org/abs/2312.07212)|null|
+|**2023-12-12**|**GNBG: A Generalized and Configurable Benchmark Generator for Continuous Numerical Optimization**|Danial Yazdani et.al.|[2312.07083](http://arxiv.org/abs/2312.07083)|**[link](https://github.com/Danial-Yazdani/GNBG-Generator)**|
+|**2023-12-12**|**DiffuVST: Narrating Fictional Scenes with Global-History-Guided Denoising Models**|Shengguang Wu et.al.|[2312.07066](http://arxiv.org/abs/2312.07066)|null|
+|**2023-12-12**|**Efficient Cross-Domain Federated Learning by MixStyle Approximation**|Manuel Röder et.al.|[2312.07064](http://arxiv.org/abs/2312.07064)|null|
+|**2023-12-12**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988](http://arxiv.org/abs/2312.06988)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
+|**2023-12-12**|**Residual Stress-Driven Non-Euclidean Morphing in Origami Structures**|Zihe Liang et.al.|[2312.06982](http://arxiv.org/abs/2312.06982)|null|
 |**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647](http://arxiv.org/abs/2312.06647)|null|
 |**2023-12-11**|**PointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation**|Zhiyu Pan et.al.|[2312.06409](http://arxiv.org/abs/2312.06409)|null|
 |**2023-12-11**|**MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality**|Mengzhao Wang et.al.|[2312.06397](http://arxiv.org/abs/2312.06397)|**[link](https://github.com/zju-daily/must)**|

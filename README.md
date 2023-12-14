@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**View-Dependent Octree-based Mesh Extraction in Unbounded Scenes for Procedural Synthetic Data**|Zeyu Ma et.al.|[2312.08364](http://arxiv.org/abs/2312.08364)|**[link](https://github.com/princeton-vl/ocmesher)**|
 |**2023-12-12**|**MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing**|Kangneng Zhou et.al.|[2312.06947](http://arxiv.org/abs/2312.06947)|null|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
 |**2023-12-11**|**Implicit Shape Modeling for Anatomical Structure Refinement of Volumetric Medical Images**|Minghui Zhang et.al.|[2312.06164](http://arxiv.org/abs/2312.06164)|null|
@@ -1916,6 +1917,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Anti-Diffusion in an Algae-Bacteria Microcosm: Photosynthesis, Chemotaxis, and Expulsion**|Praneet Prakash et.al.|[2312.08346](http://arxiv.org/abs/2312.08346)|null|
+|**2023-12-13**|**PnPNet: Pull-and-Push Networks for Volumetric Segmentation with Boundary Confusion**|Xin You et.al.|[2312.08323](http://arxiv.org/abs/2312.08323)|null|
+|**2023-12-13**|**PhenDiff: Revealing Invisible Phenotypes with Conditional Diffusion Models**|Anis Bourou et.al.|[2312.08290](http://arxiv.org/abs/2312.08290)|**[link](https://github.com/warmongeringbeaver/phendiff)**|
+|**2023-12-13**|**Revisiting the stochastic QCD axion window: departure from equilibrium during inflation**|Vadim Briaud et.al.|[2312.08231](http://arxiv.org/abs/2312.08231)|null|
+|**2023-12-13**|**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**|Yan Pang et.al.|[2312.08207](http://arxiv.org/abs/2312.08207)|null|
+|**2023-12-13**|**SPD-DDPM: Denoising Diffusion Probabilistic Models in the Symmetric Positive Definite Space**|Yunchen Li et.al.|[2312.08200](http://arxiv.org/abs/2312.08200)|**[link](https://github.com/li-yun-chen/spd-ddpm)**|
+|**2023-12-13**|**Concept-centric Personalization with Large-scale Diffusion Priors**|Pu Cao et.al.|[2312.08195](http://arxiv.org/abs/2312.08195)|**[link](https://github.com/priv-creation/concept-centric-personalization)**|
+|**2023-12-13**|**$ρ$ -Diffusion: A diffusion-based density estimation framework for computational physics**|Maxwell X. Cai et.al.|[2312.08153](http://arxiv.org/abs/2312.08153)|null|
+|**2023-12-13**|**A cross-diffusion system modelling rivaling gangs: global existence of bounded solutions and FCT stabilization for numerical simulation**|Mario Fuest et.al.|[2312.08147](http://arxiv.org/abs/2312.08147)|null|
+|**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128](http://arxiv.org/abs/2312.08128)|null|
 |**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537](http://arxiv.org/abs/2312.07537)|**[link](https://github.com/tianxingwu/freeinit)**|
 |**2023-12-12**|**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition**|Sicheng Mo et.al.|[2312.07536](http://arxiv.org/abs/2312.07536)|null|
 |**2023-12-12**|**Cosmological Field Emulation and Parameter Inference with Diffusion Models**|Nayantara Mudur et.al.|[2312.07534](http://arxiv.org/abs/2312.07534)|null|
@@ -2633,9 +2644,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**See, Say, and Segment: Teaching LMMs to Overcome False Premises**|Tsung-Han Wu et.al.|[2312.08366](http://arxiv.org/abs/2312.08366)|null|
+|**2023-12-13**|**ForMAX -- a beamline for multiscale and multimodal structural characterization of hierarchical materials**|K. Nygård et.al.|[2312.07904](http://arxiv.org/abs/2312.07904)|null|
+|**2023-12-13**|**Morphological Profiling for Drug Discovery in the Era of Deep Learning**|Qiaosi Tang et.al.|[2312.07899](http://arxiv.org/abs/2312.07899)|null|
+|**2023-12-13**|**Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI**|Kai Huang et.al.|[2312.07886](http://arxiv.org/abs/2312.07886)|**[link](https://github.com/pittisl/mpnp-llm)**|
+|**2023-12-13**|**A Foundational Multimodal Vision Language AI Assistant for Human Pathology**|Ming Y. Lu et.al.|[2312.07814](http://arxiv.org/abs/2312.07814)|null|
 |**2023-12-12**|**Topological Obstructions and How to Avoid Them**|Babak Esmaeili et.al.|[2312.07529](http://arxiv.org/abs/2312.07529)|null|
-|**2023-12-12**|**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**|Yiran Qin et.al.|[2312.07472](http://arxiv.org/abs/2312.07472)|null|
-|**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424](http://arxiv.org/abs/2312.07424)|null|
+|**2023-12-13**|**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**|Yiran Qin et.al.|[2312.07472](http://arxiv.org/abs/2312.07472)|null|
+|**2023-12-13**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424](http://arxiv.org/abs/2312.07424)|**[link](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**|
 |**2023-12-12**|**Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review**|Bihui Yu et.al.|[2312.07213](http://arxiv.org/abs/2312.07213)|**[link](https://github.com/ultracoolhub/brain-inspired-computing)**|
 |**2023-12-12**|**More than Vanilla Fusion: a Simple, Decoupling-free, Attention Module for Multimodal Fusion Based on Signal Theory**|Peiwen Sun et.al.|[2312.07212](http://arxiv.org/abs/2312.07212)|null|
 |**2023-12-12**|**GNBG: A Generalized and Configurable Benchmark Generator for Continuous Numerical Optimization**|Danial Yazdani et.al.|[2312.07083](http://arxiv.org/abs/2312.07083)|**[link](https://github.com/Danial-Yazdani/GNBG-Generator)**|

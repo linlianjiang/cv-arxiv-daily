@@ -89,7 +89,7 @@ layout: default
 |**2022-12-12**|**An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**|Kangcheng Liu et.al.|[2212.05705](http://arxiv.org/abs/2212.05705)|**[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)**|
 |**2022-12-09**|**SLAM for Visually Impaired People: A Survey**|Marziyeh Bamdad et.al.|[2212.04745](http://arxiv.org/abs/2212.04745)|null|
 |**2022-12-09**|**Ego-Body Pose Estimation via Ego-Head Pose Estimation**|Jiaman Li et.al.|[2212.04636](http://arxiv.org/abs/2212.04636)|null|
-|**2022-12-06**|**Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles**|Sushant Veer et.al.|[2212.03323](http://arxiv.org/abs/2212.03323)|null|
+|**2022-12-06**|**Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles**|Sushant Veer et.al.|[2212.03323](http://arxiv.org/abs/2212.03323)|**[link](https://github.com/nvlabs/rule-hierarchies)**|
 |**2022-12-06**|**PRISM: Probabilistic Real-Time Inference in Spatial World Models**|Atanas Mirchev et.al.|[2212.02988](http://arxiv.org/abs/2212.02988)|null|
 |**2022-12-06**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085](http://arxiv.org/abs/2212.02085)|**[link](https://github.com/tumftm/orb_slam3_rgbl)**|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077](http://arxiv.org/abs/2212.02077)|null|
@@ -1386,7 +1386,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-31**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576](http://arxiv.org/abs/2308.16576)|null|
+|**2023-08-31**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576](http://arxiv.org/abs/2308.16576)|**[link](https://github.com/chaneyddtt/ghunerf)**|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041](http://arxiv.org/abs/2308.16041)|null|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
 |**2023-08-29**|**Efficient Ray Sampling for Radiance Fields Reconstruction**|Shilei Sun et.al.|[2308.15547](http://arxiv.org/abs/2308.15547)|null|
@@ -1939,7 +1939,7 @@ layout: default
 |**2023-12-08**|**Stoichiometry preservation and generalization of Bilger mixture fraction for non-premixed combustion with differential molecular diffusion**|Haifeng Wang et.al.|[2312.05204](http://arxiv.org/abs/2312.05204)|null|
 |**2023-12-08**|**Membership Inference Attacks on Diffusion Models via Quantile Regression**|Shuai Tang et.al.|[2312.05140](http://arxiv.org/abs/2312.05140)|null|
 |**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107](http://arxiv.org/abs/2312.05107)|null|
-|**2023-12-08**|**Application of deep learning to the estimation of normalization coefficients in diffusion-based covariance models**|Folke K Skrunes et.al.|[2312.05068](http://arxiv.org/abs/2312.05068)|null|
+|**2023-12-08**|**Application of deep learning to the estimation of normalization coefficients in diffusion-based covariance models**|Folke K Skrunes et.al.|[2312.05068](http://arxiv.org/abs/2312.05068)|**[link](https://github.com/folkeks/dl-normalization)**|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039](http://arxiv.org/abs/2312.05039)|null|
 |**2023-12-08**|**Numerical determination of iron dust laminar flame speeds with the counterflow twin-flame technique**|C. E. A. G. van Gool et.al.|[2312.04994](http://arxiv.org/abs/2312.04994)|null|
 |**2023-12-08**|**Gas-to-soliton transition of attractive bosons on a spherical surface**|A. Tononi et.al.|[2312.04984](http://arxiv.org/abs/2312.04984)|null|
@@ -1982,7 +1982,7 @@ layout: default
 |**2023-12-04**|**Style Aligned Image Generation via Shared Attention**|Amir Hertz et.al.|[2312.02133](http://arxiv.org/abs/2312.02133)|**[link](https://github.com/google/style-aligned)**|
 |**2023-12-04**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087](http://arxiv.org/abs/2312.02087)|null|
 |**2023-12-04**|**Fisher information susceptibility for multiparameter quantum estimation**|Marco Barbieri et.al.|[2312.02035](http://arxiv.org/abs/2312.02035)|null|
-|**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027](http://arxiv.org/abs/2312.02027)|null|
+|**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027](http://arxiv.org/abs/2312.02027)|**[link](https://github.com/facebookresearch/soc-matching)**|
 |**2023-12-04**|**Computational Investigation on Collective Dynamical Behaviors of Flickering Laminar Buoyant Diffusion Flames in Circular Arrays**|Tao Yang et.al.|[2312.02018](http://arxiv.org/abs/2312.02018)|null|
 |**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778](http://arxiv.org/abs/2312.00778)|null|
 |**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
@@ -2295,7 +2295,7 @@ layout: default
 |**2023-10-19**|**A case study of early galaxy cluster with the Athena X-IFU**|F. Castellani et.al.|[2310.12759](http://arxiv.org/abs/2310.12759)|null|
 |**2023-10-19**|**Impact of dephasing probes on incommensurate lattices**|Bishal Ghosh et.al.|[2310.12758](http://arxiv.org/abs/2310.12758)|null|
 |**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
-|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|**[link](https://github.com/ld-ing/qdhf)**|
 |**2023-10-18**|**Accessing ultrafast spin-transport dynamics in copper using broadband terahertz spectroscopy**|Jiří Jechumtál et.al.|[2310.12082](http://arxiv.org/abs/2310.12082)|null|
 |**2023-10-19**|**Random resetting in search problems**|Arnab Pal et.al.|[2310.12057](http://arxiv.org/abs/2310.12057)|null|
 |**2023-10-18**|**Total variation regularization for recovering the spatial source term in a time-fractional diffusion equation**|Bin Fan et.al.|[2310.12029](http://arxiv.org/abs/2310.12029)|null|
@@ -2665,7 +2665,7 @@ layout: default
 |**2023-12-11**|**Survey on Memory-Augmented Neural Networks: Cognitive Insights to AI Applications**|Savya Khosla et.al.|[2312.06141](http://arxiv.org/abs/2312.06141)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
 |**2023-12-07**|**Customizing Motion in Text-to-Video Diffusion Models**|Joanna Materzynska et.al.|[2312.04966](http://arxiv.org/abs/2312.04966)|null|
-|**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837](http://arxiv.org/abs/2312.04837)|null|
+|**2023-12-08**|**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**|Jae Sung Park et.al.|[2312.04837](http://arxiv.org/abs/2312.04837)|**[link](https://github.com/jamespark3922/localized-skd)**|
 |**2023-12-08**|**MoVQA: A Benchmark of Versatile Question-Answering for Long-Form Movie Understanding**|Hongjie Zhang et.al.|[2312.04817](http://arxiv.org/abs/2312.04817)|null|
 |**2023-12-07**|**SynthScribe: Deep Multimodal Tools for Synthesizer Sound Retrieval and Exploration**|Stephen Brade et.al.|[2312.04690](http://arxiv.org/abs/2312.04690)|null|
 |**2023-12-07**|**Generating Illustrated Instructions**|Sachit Menon et.al.|[2312.04552](http://arxiv.org/abs/2312.04552)|null|
@@ -2707,7 +2707,7 @@ layout: default
 |**2023-11-30**|**Merlin:Empowering Multimodal LLMs with Foresight Minds**|En Yu et.al.|[2312.00589](http://arxiv.org/abs/2312.00589)|null|
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-01**|**Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning**|Shaohua Dong et.al.|[2312.00360](http://arxiv.org/abs/2312.00360)|**[link](https://github.com/shaohuadong2021/dplnet)**|
-|**2023-12-01**|**RadioGalaxyNET: Dataset and Novel Computer Vision Algorithms for the Detection of Extended Radio Galaxies and Infrared Hosts**|Nikhel Gupta et.al.|[2312.00306](http://arxiv.org/abs/2312.00306)|null|
+|**2023-12-01**|**RadioGalaxyNET: Dataset and Novel Computer Vision Algorithms for the Detection of Extended Radio Galaxies and Infrared Hosts**|Nikhel Gupta et.al.|[2312.00306](http://arxiv.org/abs/2312.00306)|**[link](https://github.com/nikhel1/gal-detr)**|
 |**2023-11-30**|**Multimodal Learning for Crystalline Materials**|Viggo Moro et.al.|[2312.00111](http://arxiv.org/abs/2312.00111)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836](http://arxiv.org/abs/2311.18836)|null|
 |**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835](http://arxiv.org/abs/2311.18835)|**[link](https://github.com/rongyaofang/instructseq)**|
@@ -2758,7 +2758,7 @@ layout: default
 |**2023-11-23**|**Molecular Identification and Peak Assignment: Leveraging Multi-Level Multimodal Alignment on NMR**|Hao Xu et.al.|[2311.13817](http://arxiv.org/abs/2311.13817)|null|
 |**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549](http://arxiv.org/abs/2311.13549)|null|
 |**2023-11-22**|**PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**|Shehan Munasinghe et.al.|[2311.13435](http://arxiv.org/abs/2311.13435)|**[link](https://github.com/mbzuai-oryx/video-llava)**|
-|**2023-11-22**|**Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs**|Yonghui Wang et.al.|[2311.13194](http://arxiv.org/abs/2311.13194)|null|
+|**2023-11-22**|**Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs**|Yonghui Wang et.al.|[2311.13194](http://arxiv.org/abs/2311.13194)|**[link](https://github.com/harrytea/tgdoc)**|
 |**2023-11-22**|**Multimodal Large Language Models: A Survey**|Jiayang Wu et.al.|[2311.13165](http://arxiv.org/abs/2311.13165)|null|
 |**2023-11-21**|**Beyond Text: Unveiling Multimodal Proficiency of Large Language Models with MultiAPI Benchmark**|Xiao Liu et.al.|[2311.13053](http://arxiv.org/abs/2311.13053)|**[link](https://github.com/haroldliuj/multiapi)**|
 |**2023-11-21**|**Unsupervised Multimodal Surface Registration with Geometric Deep Learning**|Mohamed A. Suliman et.al.|[2311.13022](http://arxiv.org/abs/2311.13022)|**[link](https://github.com/mohamedasuliman/geomorph)**|
@@ -2841,7 +2841,7 @@ layout: default
 |**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219](http://arxiv.org/abs/2311.04219)|**[link](https://github.com/luodian/otter)**|
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199](http://arxiv.org/abs/2311.04199)|null|
 |**2023-11-07**|**Multitask Multimodal Prompted Training for Interactive Embodied Task Completion**|Georgios Pantazopoulos et.al.|[2311.04067](http://arxiv.org/abs/2311.04067)|null|
-|**2023-11-07**|**Can CLIP Help Sound Source Localization?**|Sooyoung Park et.al.|[2311.04066](http://arxiv.org/abs/2311.04066)|null|
+|**2023-11-07**|**Can CLIP Help Sound Source Localization?**|Sooyoung Park et.al.|[2311.04066](http://arxiv.org/abs/2311.04066)|**[link](https://github.com/swimmiing/ACL-SSL)**|
 |**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058](http://arxiv.org/abs/2311.04058)|null|
 |**2023-11-07**|**Principal modes of multimode fibers resisting fiber bending**|Jiawei Xu et.al.|[2311.04004](http://arxiv.org/abs/2311.04004)|null|
 |**2023-11-07**|**Multimodal extended reality applications offer benefits for volumetric biomedical image analysis in research and medicine**|Kathrin Krieger et.al.|[2311.03986](http://arxiv.org/abs/2311.03986)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1894,6 +1894,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
+|**2023-12-18**|**Dirac walks on regular trees**|Nicolas Delporte et.al.|[2312.10881](http://arxiv.org/abs/2312.10881)|null|
+|**2023-12-17**|**Hydrodynamic interactions in anomalous rheology of active suspensions**|Haruki Hayano et.al.|[2312.10852](http://arxiv.org/abs/2312.10852)|null|
+|**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835](http://arxiv.org/abs/2312.10835)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
+|**2023-12-17**|**Nernst Sign-Reversal in the Hexatic Vortex Phase of Weakly Disordered a-MoGe Thin Films**|Y. Wu et.al.|[2312.10805](http://arxiv.org/abs/2312.10805)|null|
+|**2023-12-17**|**Surface quantum critical phenomena in disordered Dirac semimetals**|Eric Brillaux et.al.|[2312.10790](http://arxiv.org/abs/2312.10790)|null|
+|**2023-12-17**|**From mixing to displacement of miscible phases in porous media: The role of heterogeneity and inlet pressure**|Yahel Eliyahu-Yakir et.al.|[2312.10722](http://arxiv.org/abs/2312.10722)|null|
+|**2023-12-17**|**CogCartoon: Towards Practical Story Visualization**|Zhongyang Zhu et.al.|[2312.10718](http://arxiv.org/abs/2312.10718)|null|
+|**2023-12-17**|**Stability Analysis of Degenerate Einstein Model of Brownian Motion**|Isanka Garli Hevage et.al.|[2312.10682](http://arxiv.org/abs/2312.10682)|null|
+|**2023-12-17**|**A Framework of Full-Process Generation Design for Park Green Spaces Based on Remote Sensing Segmentation-GAN-Diffusion**|Ran Chen et.al.|[2312.10674](http://arxiv.org/abs/2312.10674)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252](http://arxiv.org/abs/2312.09252)|null|
 |**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250](http://arxiv.org/abs/2312.09250)|null|
@@ -2629,6 +2639,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape**|Timothy R. McIntosh et.al.|[2312.10868](http://arxiv.org/abs/2312.10868)|null|
+|**2023-12-17**|**Revealing Networks: Understanding Effective Teacher Practices in AI-Supported Classrooms using Transmodal Ordered Network Analysis**|Conrad Borchers et.al.|[2312.10826](http://arxiv.org/abs/2312.10826)|**[link](https://github.com/ashiqwisc/lak24-teacher-practices)**|
+|**2023-12-17**|**M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts**|Mingsheng Li et.al.|[2312.10763](http://arxiv.org/abs/2312.10763)|**[link](https://github.com/OpenM3D/M3DBench)**|
+|**2023-12-17**|**A Framework of Full-Process Generation Design for Park Green Spaces Based on Remote Sensing Segmentation-GAN-Diffusion**|Ran Chen et.al.|[2312.10674](http://arxiv.org/abs/2312.10674)|null|
+|**2023-12-17**|**An Evaluation of GPT-4V and Gemini in Online VQA**|Mengchen Liu et.al.|[2312.10637](http://arxiv.org/abs/2312.10637)|null|
+|**2023-12-17**|**LLM-Twin: Mini-Giant Model-driven Beyond 5G Digital Twin Networking Framework with Semantic Secure Communication and Computation**|Yang Hong et.al.|[2312.10631](http://arxiv.org/abs/2312.10631)|null|
+|**2023-12-17**|**Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization**|Xuan Long Do et.al.|[2312.10610](http://arxiv.org/abs/2312.10610)|null|
+|**2023-12-17**|**DER-GCN: Dialogue and Event Relation-Aware Graph Convolutional Neural Network for Multimodal Dialogue Emotion Recognition**|Wei Ai et.al.|[2312.10579](http://arxiv.org/abs/2312.10579)|null|
+|**2023-12-16**|**Debiasing Multimodal Sarcasm Detection with Contrastive Learning**|Mengzhao Jia et.al.|[2312.10493](http://arxiv.org/abs/2312.10493)|null|
+|**2023-12-16**|**RedCore: Relative Advantage Aware Cross-modal Representation Learning for Missing Modalities with Imbalanced Missing Rates**|Jun Sun et.al.|[2312.10386](http://arxiv.org/abs/2312.10386)|null|
 |**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251](http://arxiv.org/abs/2312.09251)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
 |**2023-12-14**|**Deep learning with plasma plume image sequences for anomaly detection and prediction of growth kinetics during pulsed laser deposition**|Sumner B. Harris et.al.|[2312.09133](http://arxiv.org/abs/2312.09133)|null|
 |**2023-12-14**|**Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis**|Qiankun Zuo et.al.|[2312.09022](http://arxiv.org/abs/2312.09022)|null|

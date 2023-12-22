@@ -1922,6 +1922,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
+|**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2023-12-21**|**Designing Artificial Intelligence Equipped Social Decentralized Autonomous Organizations for Tackling Sextortion Cases Version 0.7**|Norta Alex et.al.|[2312.14090](http://arxiv.org/abs/2312.14090)|null|
+|**2023-12-21**|**The influence of controlled vibration effects on fluid flow**|Alexey Fedyushkin et.al.|[2312.14079](http://arxiv.org/abs/2312.14079)|null|
+|**2023-12-21**|**Tearing-mediated reconnection in magnetohydrodynamic poorly ionized plasmas. I. Onset and linear evolution**|Elizabeth A. Tolman et.al.|[2312.14076](http://arxiv.org/abs/2312.14076)|null|
+|**2023-12-21**|**OH as a probe of the warm water cycle in planet-forming disks**|Marion Zannese et.al.|[2312.14056](http://arxiv.org/abs/2312.14056)|null|
+|**2023-12-21**|**Identifying diffusive length scales in one-dimensional Bose gases**|Frederik Møller et.al.|[2312.14007](http://arxiv.org/abs/2312.14007)|null|
+|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
+|**2023-12-21**|**Controllable 3D Face Generation with Conditional Style Code Diffusion**|Xiaolong Shen et.al.|[2312.13941](http://arxiv.org/abs/2312.13941)|**[link](https://github.com/sxl142/tex-face)**|
 |**2023-12-20**|**A structure preserving discretization for the Derrida-Lebowitz-Speer-Spohn equation based on diffusive transport**|Daniel Matthes et.al.|[2312.13284](http://arxiv.org/abs/2312.13284)|null|
 |**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271](http://arxiv.org/abs/2312.13271)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253](http://arxiv.org/abs/2312.13253)|null|
@@ -2689,6 +2699,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Fast kernel half-space depth for data with non-convex supports**|Arturo Castellanos et.al.|[2312.14136](http://arxiv.org/abs/2312.14136)|null|
+|**2023-12-21**|**$\textit{V}^*$ : Guided Visual Search as a Core Mechanism in Multimodal LLMs**|Penghao Wu et.al.|[2312.14135](http://arxiv.org/abs/2312.14135)|null|
+|**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125](http://arxiv.org/abs/2312.14125)|null|
+|**2023-12-21**|**LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding**|Senqiao Yang et.al.|[2312.14074](http://arxiv.org/abs/2312.14074)|null|
+|**2023-12-21**|**AppAgent: Multimodal Agents as Smartphone Users**|Zhao Yang et.al.|[2312.13771](http://arxiv.org/abs/2312.13771)|null|
+|**2023-12-21**|**Nonclassical resource for continuous variable telecloning with non-Gaussian advantage**|Sudipta Das et.al.|[2312.13586](http://arxiv.org/abs/2312.13586)|null|
+|**2023-12-21**|**Fine-grained Disentangled Representation Learning for Multimodal Emotion Recognition**|Haoqin Sun et.al.|[2312.13567](http://arxiv.org/abs/2312.13567)|null|
+|**2023-12-21**|**Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast**|Guangyin Bao et.al.|[2312.13508](http://arxiv.org/abs/2312.13508)|null|
+|**2023-12-21**|**InfoVisDial: An Informative Visual Dialogue Dataset by Bridging Large Multimodal and Language Models**|Bingbing Wen et.al.|[2312.13503](http://arxiv.org/abs/2312.13503)|null|
+|**2023-12-20**|**Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation**|Sudharshan Suresh et.al.|[2312.13469](http://arxiv.org/abs/2312.13469)|null|
 |**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286](http://arxiv.org/abs/2312.13286)|null|
 |**2023-12-20**|**Exploring Multimodal Large Language Models for Radiology Report Error-checking**|Jinge Wu et.al.|[2312.13103](http://arxiv.org/abs/2312.13103)|null|
 |**2023-12-20**|**Enhancing Consistency in Multimodal Dialogue System Using LLM with Dialogue Scenario**|Hiroki Onozeki et.al.|[2312.12808](http://arxiv.org/abs/2312.12808)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -430,7 +430,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## SFM
 
@@ -558,7 +558,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1062,7 +1062,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1231,7 +1231,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1401,7 +1401,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## NeRF
 
@@ -1856,7 +1856,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## SDF
 
@@ -1916,12 +1916,22 @@
 |**2023-08-14**|**Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**|Licheng Zhong et.al.|[2308.06962](http://arxiv.org/abs/2308.06962)|**[link](https://github.com/Colmar-zlicheng/Color-NeuS)**|
 |**2023-09-04**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|**[link](https://github.com/ruyi-zha/endosurf)**|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929](http://arxiv.org/abs/2312.14929)|null|
+|**2023-12-22**|**Sampling and estimation on manifolds using the Langevin diffusion**|Karthik Bharath et.al.|[2312.14882](http://arxiv.org/abs/2312.14882)|null|
+|**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871](http://arxiv.org/abs/2312.14871)|null|
+|**2023-12-22**|**Neural-network-based regularization methods for inverse problems in imaging**|Andreas Habring et.al.|[2312.14849](http://arxiv.org/abs/2312.14849)|null|
+|**2023-12-22**|**Dreaming of Electrical Waves: Generative Modeling of Cardiac Excitation Waves using Diffusion Models**|Tanish Baranwal et.al.|[2312.14830](http://arxiv.org/abs/2312.14830)|null|
+|**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829](http://arxiv.org/abs/2312.14829)|null|
+|**2023-12-22**|**Plan, Posture and Go: Towards Open-World Text-to-Motion Generation**|Jinpeng Liu et.al.|[2312.14828](http://arxiv.org/abs/2312.14828)|null|
+|**2023-12-22**|**Disorder-induced non-linear growth of viscously-unstable immiscible two-phase flow fingers in porous media**|Santanu Sinha et.al.|[2312.14799](http://arxiv.org/abs/2312.14799)|null|
+|**2023-12-22**|**Cross-Age and Cross-Site Domain Shift Impacts on Deep Learning-Based White Matter Fiber Estimation in Newborn and Baby Brains**|Rizhong Lin et.al.|[2312.14773](http://arxiv.org/abs/2312.14773)|null|
+|**2023-12-22**|**Diffusion Maps for Signal Filtering in Graph Learning**|Todd Hildebrant et.al.|[2312.14758](http://arxiv.org/abs/2312.14758)|null|
 |**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
@@ -2693,12 +2703,21 @@
 |**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742](http://arxiv.org/abs/2308.16742)|**[link](https://github.com/deepxuan/dudodp-mar)**|
 |**2023-08-31**|**Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance**|Zexin Hu et.al.|[2308.16725](http://arxiv.org/abs/2308.16725)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## Multimodal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation**|Max Ku et.al.|[2312.14867](http://arxiv.org/abs/2312.14867)|null|
+|**2023-12-22**|**Integration Of Evolutionary Automated Machine Learning With Structural Sensitivity Analysis For Composite Pipelines**|Nikolay O. Nikitin et.al.|[2312.14770](http://arxiv.org/abs/2312.14770)|null|
+|**2023-12-22**|**Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition**|Qianrui Zhou et.al.|[2312.14667](http://arxiv.org/abs/2312.14667)|**[link](https://github.com/thuiar/TCL-MAP)**|
+|**2023-12-22**|**MMGPL: Multimodal Medical Data Analysis with Graph Prompt Learning**|Liang Peng et.al.|[2312.14574](http://arxiv.org/abs/2312.14574)|null|
+|**2023-12-22**|**Attribute-driven Disentangled Representation Learning for Multimodal Recommendation**|Zhenyang Li et.al.|[2312.14433](http://arxiv.org/abs/2312.14433)|null|
+|**2023-12-22**|**Proceedings of the Dialogue Robot Competition 2023**|Ryuichiro Higashinaka et.al.|[2312.14430](http://arxiv.org/abs/2312.14430)|null|
+|**2023-12-22**|**A Multi-Stage Adaptive Feature Fusion Neural Network for Multimodal Gait Recognition**|Shinan Zou et.al.|[2312.14410](http://arxiv.org/abs/2312.14410)|**[link](https://github.com/shinanzou/msaff)**|
+|**2023-12-22**|**Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification**|Anirudh S. Sundar et.al.|[2312.14378](http://arxiv.org/abs/2312.14378)|null|
+|**2023-12-21**|**Exploring the intersection of Generative AI and Software Development**|Filipe Calegario et.al.|[2312.14262](http://arxiv.org/abs/2312.14262)|null|
 |**2023-12-21**|**Fast kernel half-space depth for data with non-convex supports**|Arturo Castellanos et.al.|[2312.14136](http://arxiv.org/abs/2312.14136)|null|
 |**2023-12-21**|**$\textit{V}^*$ : Guided Visual Search as a Core Mechanism in Multimodal LLMs**|Penghao Wu et.al.|[2312.14135](http://arxiv.org/abs/2312.14135)|**[link](https://github.com/penghao-wu/vstar)**|
 |**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125](http://arxiv.org/abs/2312.14125)|null|
@@ -3349,7 +3368,7 @@
 |**2023-08-30**|**Low-Rank Multitask Learning based on Tensorized SVMs and LSSVMs**|Jiani Liu et.al.|[2308.16056](http://arxiv.org/abs/2308.16056)|**[link](https://github.com/liujiani0216/tsvm-mtl)**|
 |**2023-08-29**|**Multimodal Foundation Models For Echocardiogram Interpretation**|Matthew Christensen et.al.|[2308.15670](http://arxiv.org/abs/2308.15670)|**[link](https://github.com/echonet/echo_CLIP)**|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

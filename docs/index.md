@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1897,6 +1897,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929](http://arxiv.org/abs/2312.14929)|null|
+|**2023-12-22**|**Sampling and estimation on manifolds using the Langevin diffusion**|Karthik Bharath et.al.|[2312.14882](http://arxiv.org/abs/2312.14882)|null|
+|**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871](http://arxiv.org/abs/2312.14871)|null|
+|**2023-12-22**|**Neural-network-based regularization methods for inverse problems in imaging**|Andreas Habring et.al.|[2312.14849](http://arxiv.org/abs/2312.14849)|null|
+|**2023-12-22**|**Dreaming of Electrical Waves: Generative Modeling of Cardiac Excitation Waves using Diffusion Models**|Tanish Baranwal et.al.|[2312.14830](http://arxiv.org/abs/2312.14830)|null|
+|**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829](http://arxiv.org/abs/2312.14829)|null|
+|**2023-12-22**|**Plan, Posture and Go: Towards Open-World Text-to-Motion Generation**|Jinpeng Liu et.al.|[2312.14828](http://arxiv.org/abs/2312.14828)|null|
+|**2023-12-22**|**Disorder-induced non-linear growth of viscously-unstable immiscible two-phase flow fingers in porous media**|Santanu Sinha et.al.|[2312.14799](http://arxiv.org/abs/2312.14799)|null|
+|**2023-12-22**|**Cross-Age and Cross-Site Domain Shift Impacts on Deep Learning-Based White Matter Fiber Estimation in Newborn and Baby Brains**|Rizhong Lin et.al.|[2312.14773](http://arxiv.org/abs/2312.14773)|null|
+|**2023-12-22**|**Diffusion Maps for Signal Filtering in Graph Learning**|Todd Hildebrant et.al.|[2312.14758](http://arxiv.org/abs/2312.14758)|null|
 |**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
@@ -2672,6 +2682,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation**|Max Ku et.al.|[2312.14867](http://arxiv.org/abs/2312.14867)|null|
+|**2023-12-22**|**Integration Of Evolutionary Automated Machine Learning With Structural Sensitivity Analysis For Composite Pipelines**|Nikolay O. Nikitin et.al.|[2312.14770](http://arxiv.org/abs/2312.14770)|null|
+|**2023-12-22**|**Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition**|Qianrui Zhou et.al.|[2312.14667](http://arxiv.org/abs/2312.14667)|**[link](https://github.com/thuiar/TCL-MAP)**|
+|**2023-12-22**|**MMGPL: Multimodal Medical Data Analysis with Graph Prompt Learning**|Liang Peng et.al.|[2312.14574](http://arxiv.org/abs/2312.14574)|null|
+|**2023-12-22**|**Attribute-driven Disentangled Representation Learning for Multimodal Recommendation**|Zhenyang Li et.al.|[2312.14433](http://arxiv.org/abs/2312.14433)|null|
+|**2023-12-22**|**Proceedings of the Dialogue Robot Competition 2023**|Ryuichiro Higashinaka et.al.|[2312.14430](http://arxiv.org/abs/2312.14430)|null|
+|**2023-12-22**|**A Multi-Stage Adaptive Feature Fusion Neural Network for Multimodal Gait Recognition**|Shinan Zou et.al.|[2312.14410](http://arxiv.org/abs/2312.14410)|**[link](https://github.com/shinanzou/msaff)**|
+|**2023-12-22**|**Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification**|Anirudh S. Sundar et.al.|[2312.14378](http://arxiv.org/abs/2312.14378)|null|
+|**2023-12-21**|**Exploring the intersection of Generative AI and Software Development**|Filipe Calegario et.al.|[2312.14262](http://arxiv.org/abs/2312.14262)|null|
 |**2023-12-21**|**Fast kernel half-space depth for data with non-convex supports**|Arturo Castellanos et.al.|[2312.14136](http://arxiv.org/abs/2312.14136)|null|
 |**2023-12-21**|**$\textit{V}^*$ : Guided Visual Search as a Core Mechanism in Multimodal LLMs**|Penghao Wu et.al.|[2312.14135](http://arxiv.org/abs/2312.14135)|**[link](https://github.com/penghao-wu/vstar)**|
 |**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125](http://arxiv.org/abs/2312.14125)|null|

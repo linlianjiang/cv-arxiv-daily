@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1897,6 +1897,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
+|**2023-12-26**|**Morse index of steady-states to the SKT model with Dirichlet boundary conditions**|Kousuke Kuto et.al.|[2312.16107](http://arxiv.org/abs/2312.16107)|null|
+|**2023-12-26**|**Mathematical analysis and multiscale derivation of a nonlinear predator-prey cross-diffusion--fluid system with two chemicals**|Mostafa Bendahmane et.al.|[2312.16092](http://arxiv.org/abs/2312.16092)|null|
+|**2023-12-26**|**Stronger resilience to disorder in 2D quantum walks than in 1D**|Amrita Mandal et.al.|[2312.16076](http://arxiv.org/abs/2312.16076)|null|
+|**2023-12-26**|**Compositional Search of Stable Crystalline Structures in Multi-Component Alloys Using Generative Diffusion Models**|Grzegorz Kaszuba et.al.|[2312.16073](http://arxiv.org/abs/2312.16073)|null|
+|**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980](http://arxiv.org/abs/2312.15980)|null|
+|**2023-12-26**|**Filtered data based estimators for stochastic processes driven by colored noise**|Grigorios A. Pavliotis et.al.|[2312.15975](http://arxiv.org/abs/2312.15975)|null|
+|**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
+|**2023-12-26**|**Implied volatility (also) is path-dependent**|Hervé Andrès et.al.|[2312.15950](http://arxiv.org/abs/2312.15950)|null|
+|**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946](http://arxiv.org/abs/2312.15946)|null|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929](http://arxiv.org/abs/2312.14929)|null|
 |**2023-12-22**|**Sampling and estimation on manifolds using the Langevin diffusion**|Karthik Bharath et.al.|[2312.14882](http://arxiv.org/abs/2312.14882)|null|
 |**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871](http://arxiv.org/abs/2312.14871)|null|
@@ -2682,6 +2692,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**From Text to Multimodal: A Comprehensive Survey of Adversarial Example Generation in Question Answering Systems**|Gulsum Yigit et.al.|[2312.16156](http://arxiv.org/abs/2312.16156)|null|
+|**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
+|**2023-12-26**|**DocMSU: A Comprehensive Benchmark for Document-level Multimodal Sarcasm Understanding**|Hang Du et.al.|[2312.16023](http://arxiv.org/abs/2312.16023)|null|
+|**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926](http://arxiv.org/abs/2312.15926)|null|
+|**2023-12-26**|**ChartBench: A Benchmark for Complex Visual Reasoning in Charts**|Zhengzhuo Xu et.al.|[2312.15915](http://arxiv.org/abs/2312.15915)|null|
+|**2023-12-26**|**Chain of Generation: Multi-Modal Gesture Synthesis via Cascaded Conditional Control**|Zunnan Xu et.al.|[2312.15900](http://arxiv.org/abs/2312.15900)|null|
+|**2023-12-26**|**Towards Robust Multimodal Prompting With Missing Modalities**|Jaehyuk Jang et.al.|[2312.15890](http://arxiv.org/abs/2312.15890)|null|
+|**2023-12-26**|**Modality-Collaborative Transformer with Hybrid Feature Reconstruction for Robust Emotion Recognition**|Chengxin Chen et.al.|[2312.15848](http://arxiv.org/abs/2312.15848)|null|
+|**2023-12-25**|**Notes on Information Propagation in Noisy Multichannel Data Models: Insights into Sensor Selection and Fusion in Multimodal Biomedical Applications**|Reza Sameni et.al.|[2312.15725](http://arxiv.org/abs/2312.15725)|null|
+|**2023-12-25**|**A graph-based multimodal framework to predict gentrification**|Javad Eshtiyagh et.al.|[2312.15646](http://arxiv.org/abs/2312.15646)|null|
 |**2023-12-22**|**VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation**|Max Ku et.al.|[2312.14867](http://arxiv.org/abs/2312.14867)|null|
 |**2023-12-22**|**Integration Of Evolutionary Automated Machine Learning With Structural Sensitivity Analysis For Composite Pipelines**|Nikolay O. Nikitin et.al.|[2312.14770](http://arxiv.org/abs/2312.14770)|null|
 |**2023-12-22**|**Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition**|Qianrui Zhou et.al.|[2312.14667](http://arxiv.org/abs/2312.14667)|**[link](https://github.com/thuiar/TCL-MAP)**|

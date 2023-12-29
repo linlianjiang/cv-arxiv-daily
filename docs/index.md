@@ -1839,6 +1839,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**HISR: Hybrid Implicit Surface Representation for Photorealistic 3D Human Reconstruction**|Angtian Wang et.al.|[2312.17192](http://arxiv.org/abs/2312.17192)|null|
+|**2023-12-24**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218](http://arxiv.org/abs/2312.16218)|null|
 |**2023-12-20**|**DLCA-Recon: Dynamic Loose Clothing Avatar Reconstruction from Monocular Videos**|Chunjie Luo et.al.|[2312.12096](http://arxiv.org/abs/2312.12096)|null|
 |**2023-12-18**|**PR-NeuS: A Prior-based Residual Learning Paradigm for Fast Multi-view Neural Surface Reconstruction**|Jianyao Xu et.al.|[2312.11577](http://arxiv.org/abs/2312.11577)|null|
 |**2023-12-18**|**GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning**|Ye Yuan et.al.|[2312.11461](http://arxiv.org/abs/2312.11461)|null|
@@ -1897,6 +1899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250](http://arxiv.org/abs/2312.17250)|**[link](https://github.com/chinhsuanwu/ifusion)**|
+|**2023-12-28**|**Amodal Ground Truth and Completion in the Wild**|Guanqi Zhan et.al.|[2312.17247](http://arxiv.org/abs/2312.17247)|**[link](https://github.com/Championchess/Amodal-Completion-in-the-Wild)**|
+|**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234](http://arxiv.org/abs/2312.17234)|null|
+|**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
+|**2023-12-28**|**EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**|Trung Tuan Dao et.al.|[2312.17205](http://arxiv.org/abs/2312.17205)|null|
+|**2023-12-28**|**Single particle algorithms to reveal cellular nanodomain organization**|Pierre Parutto et.al.|[2312.17191](http://arxiv.org/abs/2312.17191)|null|
+|**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161](http://arxiv.org/abs/2312.17161)|null|
+|**2023-12-28**|**Branching Brownian motion with generation-dependent diffusivity and nonlocal partial differential equations**|Alexander Dunlap et.al.|[2312.17139](http://arxiv.org/abs/2312.17139)|null|
+|**2023-12-28**|**InsActor: Instruction-driven Physics-based Characters**|Jiawei Ren et.al.|[2312.17135](http://arxiv.org/abs/2312.17135)|null|
+|**2023-12-28**|**100-fold improvement in relaxed eddy accumulation flux estimates through error diffusion**|Anas Emad et.al.|[2312.17027](http://arxiv.org/abs/2312.17027)|null|
 |**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
 |**2023-12-26**|**Morse index of steady-states to the SKT model with Dirichlet boundary conditions**|Kousuke Kuto et.al.|[2312.16107](http://arxiv.org/abs/2312.16107)|null|
 |**2023-12-26**|**Mathematical analysis and multiscale derivation of a nonlinear predator-prey cross-diffusion--fluid system with two chemicals**|Mostafa Bendahmane et.al.|[2312.16092](http://arxiv.org/abs/2312.16092)|null|
@@ -2692,6 +2704,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**|Jiasen Lu et.al.|[2312.17172](http://arxiv.org/abs/2312.17172)|null|
+|**2023-12-28**|**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**|Houlun Chen et.al.|[2312.17117](http://arxiv.org/abs/2312.17117)|null|
+|**2023-12-28**|**Mitigating Modal Noise in Multimode Circular Fibres by Optical Agitation using a Galvanometer**|Supriyo Ghosh et.al.|[2312.16996](http://arxiv.org/abs/2312.16996)|null|
+|**2023-12-28**|**MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices**|Xiangxiang Chu et.al.|[2312.16886](http://arxiv.org/abs/2312.16886)|**[link](https://github.com/meituan-automl/mobilevlm)**|
+|**2023-12-28**|**TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**|Zhengqing Yuan et.al.|[2312.16862](http://arxiv.org/abs/2312.16862)|**[link](https://github.com/dlyuangod/tinygpt-v)**|
+|**2023-12-28**|**Experimental control of mode-competition dynamics in a chaotic multimode semiconductor laser for decision making**|Ryugo Iwami et.al.|[2312.16798](http://arxiv.org/abs/2312.16798)|null|
+|**2023-12-28**|**Adversarial Representation with Intra-Modal and Inter-Modal Graph Contrastive Learning for Multimodal Emotion Recognition**|Yuntao Shou et.al.|[2312.16778](http://arxiv.org/abs/2312.16778)|null|
+|**2023-12-27**|**Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey**|Jiaxing Huang et.al.|[2312.16602](http://arxiv.org/abs/2312.16602)|null|
+|**2023-12-27**|**Blind Image Quality Assessment: A Brief Survey**|Miaohui Wang et.al.|[2312.16551](http://arxiv.org/abs/2312.16551)|null|
+|**2023-12-27**|**LGMRec: Local and Global Graph Learning for Multimodal Recommendation**|Zhiqiang Guo et.al.|[2312.16400](http://arxiv.org/abs/2312.16400)|**[link](https://github.com/georgeguo-cn/lgmrec)**|
 |**2023-12-26**|**From Text to Multimodal: A Comprehensive Survey of Adversarial Example Generation in Question Answering Systems**|Gulsum Yigit et.al.|[2312.16156](http://arxiv.org/abs/2312.16156)|null|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-26**|**DocMSU: A Comprehensive Benchmark for Document-level Multimodal Sarcasm Understanding**|Hang Du et.al.|[2312.16023](http://arxiv.org/abs/2312.16023)|null|

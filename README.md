@@ -1933,7 +1933,7 @@
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161](http://arxiv.org/abs/2312.17161)|null|
 |**2023-12-28**|**Branching Brownian motion with generation-dependent diffusivity and nonlocal partial differential equations**|Alexander Dunlap et.al.|[2312.17139](http://arxiv.org/abs/2312.17139)|null|
 |**2023-12-28**|**InsActor: Instruction-driven Physics-based Characters**|Jiawei Ren et.al.|[2312.17135](http://arxiv.org/abs/2312.17135)|null|
-|**2023-12-28**|**100-fold improvement in relaxed eddy accumulation flux estimates through error diffusion**|Anas Emad et.al.|[2312.17027](http://arxiv.org/abs/2312.17027)|null|
+|**2023-12-28**|**100-fold improvement in relaxed eddy accumulation flux estimates through error diffusion**|Anas Emad et.al.|[2312.17027](http://arxiv.org/abs/2312.17027)|**[link](https://github.com/anasem/quantized-eddy-accumulation)**|
 |**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
 |**2023-12-26**|**Morse index of steady-states to the SKT model with Dirichlet boundary conditions**|Kousuke Kuto et.al.|[2312.16107](http://arxiv.org/abs/2312.16107)|null|
 |**2023-12-26**|**Mathematical analysis and multiscale derivation of a nonlinear predator-prey cross-diffusion--fluid system with two chemicals**|Mostafa Bendahmane et.al.|[2312.16092](http://arxiv.org/abs/2312.16092)|null|

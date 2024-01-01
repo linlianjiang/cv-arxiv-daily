@@ -1070,7 +1070,7 @@
 |---|---|---|---|---|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
-|**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|null|
+|**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|**[link](https://github.com/shubhajitbasak/dense3dfacelandmarks)**|
 |**2023-08-27**|**Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**|Francesco Pirotti et.al.|[2308.14047](http://arxiv.org/abs/2308.14047)|null|
 |**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
@@ -2626,7 +2626,7 @@
 |**2023-09-15**|**Fractional Advection Diffusion Asymmetry Equation, derivation, solution and application**|Wanli Wang et.al.|[2309.08391](http://arxiv.org/abs/2309.08391)|null|
 |**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
 |**2023-09-14**|**Generative Image Dynamics**|Zhengqi Li et.al.|[2309.07906](http://arxiv.org/abs/2309.07906)|null|
-|**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|null|
+|**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|**[link](https://github.com/mingyuanzhou/Beta-Diffusion)**|
 |**2023-09-14**|**Logarithmic Sobolev inequalities for non-equilibrium steady states**|Pierre Monmarché et.al.|[2309.07858](http://arxiv.org/abs/2309.07858)|null|
 |**2023-09-14**|**EMOCONV-DIFF: Diffusion-based Speech Emotion Conversion for Non-parallel and In-the-wild Data**|Navin Raj Prabhu et.al.|[2309.07828](http://arxiv.org/abs/2309.07828)|null|
 |**2023-09-14**|**Behaviour of molecular hydrogen emission in three solar flares**|Sargam M. Mulay et.al.|[2309.07799](http://arxiv.org/abs/2309.07799)|null|
@@ -2780,7 +2780,7 @@
 |**2023-12-19**|**TeamCAD -- A Multimodal Interface for Remote Computer Aided Design**|Demircan Tas et.al.|[2312.12309](http://arxiv.org/abs/2312.12309)|null|
 |**2023-12-19**|**A Large-Scale Dataset of Search Interests Related to Disease X Originating from Different Geographic Regions**|Nirmalya Thakur et.al.|[2312.11885](http://arxiv.org/abs/2312.11885)|null|
 |**2023-12-19**|**A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking**|Shezheng Song et.al.|[2312.11816](http://arxiv.org/abs/2312.11816)|**[link](https://github.com/season1blue/dwe)**|
-|**2023-12-19**|**Gemini: A Family of Highly Capable Multimodal Models**|Gemini Team et.al.|[2312.11805](http://arxiv.org/abs/2312.11805)|null|
+|**2023-12-19**|**Gemini: A Family of Highly Capable Multimodal Models**|Gemini Team et.al.|[2312.11805](http://arxiv.org/abs/2312.11805)|**[link](https://github.com/lupantech/MathVista)**|
 |**2023-12-18**|**Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output Distributions**|David D. Nguyen et.al.|[2312.11735](http://arxiv.org/abs/2312.11735)|null|
 |**2023-12-18**|**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**|Jiahui Gao et.al.|[2312.11370](http://arxiv.org/abs/2312.11370)|**[link](https://github.com/pipilurj/g-llava)**|
 |**2023-12-18**|**Frequency Spectrum is More Effective for Multimodal Representation and Fusion: A Multimodal Spectrum Rumor Detector**|An Lao et.al.|[2312.11023](http://arxiv.org/abs/2312.11023)|**[link](https://github.com/dm4m/fsru)**|

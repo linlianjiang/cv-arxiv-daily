@@ -1925,6 +1925,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Metastability of stratified magnetohydrostatic equilibria and their relaxation**|David N. Hosking et.al.|[2401.01336](http://arxiv.org/abs/2401.01336)|null|
+|**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281](http://arxiv.org/abs/2401.01281)|null|
+|**2024-01-02**|**Fairness Certification for Natural Language Processing and Large Language Models**|Vincent Freiberger et.al.|[2401.01262](http://arxiv.org/abs/2401.01262)|null|
+|**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256](http://arxiv.org/abs/2401.01256)|null|
+|**2024-01-02**|**Phase space maximal entropy random walk: Langevin-like ensemble of physical trajectories**|Jarek Duda et.al.|[2401.01239](http://arxiv.org/abs/2401.01239)|null|
+|**2024-01-02**|**PDRs4All. V. Modelling the dust evolution across the illuminated edge of the Orion Bar**|M. Elyajouri et.al.|[2401.01221](http://arxiv.org/abs/2401.01221)|null|
+|**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207](http://arxiv.org/abs/2401.01207)|null|
+|**2024-01-02**|**A comparative study of resistivity models for simulations of magnetic reconnection in the solar atmosphere. II. Plasmoid formation**|Øystein Håvard Færder et.al.|[2401.01177](http://arxiv.org/abs/2401.01177)|null|
+|**2024-01-02**|**Learning Surface Scattering Parameters From SAR Images Using Differentiable Ray Tracing**|Jiangtao Wei et.al.|[2401.01175](http://arxiv.org/abs/2401.01175)|null|
+|**2024-01-02**|**Joint Generative Modeling of Scene Graphs and Images via Diffusion Models**|Bicheng Xu et.al.|[2401.01130](http://arxiv.org/abs/2401.01130)|null|
 |**2023-12-29**|**Microstructural training and mechanical memory of nanocolloidal soft glasses under cyclic shear**|Yihao Chen et.al.|[2312.17696](http://arxiv.org/abs/2312.17696)|null|
 |**2023-12-29**|**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**|Feng Liang et.al.|[2312.17681](http://arxiv.org/abs/2312.17681)|null|
 |**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679](http://arxiv.org/abs/2312.17679)|**[link](https://github.com/kayzliu/godm)**|
@@ -2742,6 +2752,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**IdentiFace : A VGG Based Multimodal Facial Biometric System**|Mahmoud Rabea et.al.|[2401.01227](http://arxiv.org/abs/2401.01227)|**[link](https://github.com/MahmoudRabea13/IdentiFace)**|
+|**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
+|**2024-01-02**|**Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**|Xinpeng Ding et.al.|[2401.00988](http://arxiv.org/abs/2401.00988)|**[link](https://github.com/xmed-lab/nuinstruct)**|
+|**2023-12-31**|**DocLLM: A layout-aware generative language model for multimodal document understanding**|Dongsheng Wang et.al.|[2401.00908](http://arxiv.org/abs/2401.00908)|null|
+|**2024-01-01**|**COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training**|Alex Jinpeng Wang et.al.|[2401.00849](http://arxiv.org/abs/2401.00849)|null|
+|**2024-01-01**|**Taking the Next Step with Generative Artificial Intelligence: The Transformative Role of Multimodal Large Language Models in Science Education**|Arne Bewersdorff et.al.|[2401.00832](http://arxiv.org/abs/2401.00832)|null|
+|**2024-01-01**|**Retrieval-Augmented Egocentric Video Captioning**|Jilan Xu et.al.|[2401.00789](http://arxiv.org/abs/2401.00789)|null|
+|**2024-01-01**|**MultiFusionNet: Multilayer Multimodal Fusion of Deep Neural Networks for Chest X-Ray Image Classification**|Saurabh Agarwal et.al.|[2401.00728](http://arxiv.org/abs/2401.00728)|null|
+|**2024-01-01**|**Channelling Multimodality Through a Unimodalizing Transport: Warp-U Sampler and Stochastic Bridge Sampling**|Fei Ding et.al.|[2401.00667](http://arxiv.org/abs/2401.00667)|null|
+|**2023-12-31**|**Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**|Vardaan Pahuja et.al.|[2401.00608](http://arxiv.org/abs/2401.00608)|null|
 |**2023-12-29**|**Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models**|Yuqing Wang et.al.|[2312.17661](http://arxiv.org/abs/2312.17661)|**[link](https://github.com/eternityyw/gemini-commonsense-evaluation)**|
 |**2023-12-29**|**Bridging Modality Gap for Visual Grounding with Effecitve Cross-modal Distillation**|Jiaxi Wang et.al.|[2312.17648](http://arxiv.org/abs/2312.17648)|null|
 |**2023-12-29**|**Research on the Laws of Multimodal Perception and Cognition from a Cross-cultural Perspective -- Taking Overseas Chinese Gardens as an Example**|Ran Chen et.al.|[2312.17642](http://arxiv.org/abs/2312.17642)|null|

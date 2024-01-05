@@ -1926,6 +1926,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
+|**2024-01-04**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
+|**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394](http://arxiv.org/abs/2401.02394)|null|
+|**2024-01-04**|**A PDE approach for solving the characteristic function of the generalised signature process**|Terry Lyons et.al.|[2401.02393](http://arxiv.org/abs/2401.02393)|null|
+|**2024-01-04**|**Integration of physics-informed operator learning and finite element method for parametric learning of partial differential equations**|Shahed Rezaei et.al.|[2401.02363](http://arxiv.org/abs/2401.02363)|null|
+|**2024-01-04**|**Effects of forward scattering on the onset of phototactic bioconvection in an algal suspension under diffuse flux without collimated flux**|S. K. Rajput et.al.|[2401.02338](http://arxiv.org/abs/2401.02338)|null|
+|**2024-01-04**|**Phototactic bioconvection in an algal suspension with a free top wall due to diffuse flux in the absence of direct collimated flux**|S. K. Rajput et.al.|[2401.02336](http://arxiv.org/abs/2401.02336)|null|
+|**2024-01-04**|**A finite difference scheme for two-dimensional singularly perturbed convection-diffusion problem with discontinuous source term**|Ram Shiromani et.al.|[2401.02331](http://arxiv.org/abs/2401.02331)|null|
+|**2024-01-04**|**Robust Physics Informed Neural Networks**|Marcin Łoś et.al.|[2401.02300](http://arxiv.org/abs/2401.02300)|null|
+|**2024-01-04**|**Factors Enabling Delocalized Charge-Carriers in Pnictogen-Based Solar Absorbers: In-depth Investigation into CuSbSe2**|Yuchen Fu et.al.|[2401.02257](http://arxiv.org/abs/2401.02257)|null|
 |**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885](http://arxiv.org/abs/2401.01885)|null|
 |**2024-01-03**|**Dissipative fracton superfluids**|Aleksander Głódkowski et.al.|[2401.01877](http://arxiv.org/abs/2401.01877)|null|
 |**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|**[link](https://github.com/pixelhero98/dgdnn)**|
@@ -2763,8 +2773,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**|Fanqing Meng et.al.|[2401.02384](http://arxiv.org/abs/2401.02384)|null|
+|**2024-01-04**|**Explore Human Parsing Modality for Action Recognition**|Jinfu Liu et.al.|[2401.02138](http://arxiv.org/abs/2401.02138)|**[link](https://github.com/liujf69/EPP-Net-Action)**|
+|**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137](http://arxiv.org/abs/2401.02137)|null|
+|**2024-01-03**|**On Time-Indexing as Inductive Bias in Deep RL for Sequential Manipulation Tasks**|M. Nomaan Qureshi et.al.|[2401.01993](http://arxiv.org/abs/2401.01993)|null|
+|**2024-01-03**|**MULTI-CASE: A Transformer-based Ethics-aware Multimodal Investigative Intelligence Framework**|Maximilian T. Fischer et.al.|[2401.01955](http://arxiv.org/abs/2401.01955)|null|
+|**2024-01-03**|**Instruct-Imagen: Image Generation with Multi-modal Instruction**|Hexiang Hu et.al.|[2401.01952](http://arxiv.org/abs/2401.01952)|null|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
-|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
+|**2024-01-04**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
 |**2024-01-03**|**A Global Analysis of Pre-Earthquake Ionospheric Anomalies**|Luke Cullen et.al.|[2401.01773](http://arxiv.org/abs/2401.01773)|null|
 |**2024-01-03**|**VGA: Vision and Graph Fused Attention Network for Rumor Detection**|Lin Bai et.al.|[2401.01759](http://arxiv.org/abs/2401.01759)|null|
 |**2024-01-03**|**Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens**|Dengdi Sun et.al.|[2401.01674](http://arxiv.org/abs/2401.01674)|null|

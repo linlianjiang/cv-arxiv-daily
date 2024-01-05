@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.04
+## Updated on 2024.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1903,7 +1903,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885](http://arxiv.org/abs/2401.01885)|null|
 |**2024-01-03**|**Dissipative fracton superfluids**|Aleksander Głódkowski et.al.|[2401.01877](http://arxiv.org/abs/2401.01877)|null|
-|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|null|
+|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|**[link](https://github.com/pixelhero98/dgdnn)**|
 |**2024-01-03**|**Aggregation-diffusion phenomena: from microscopic models to free boundary problems**|Inwon Kim et.al.|[2401.01840](http://arxiv.org/abs/2401.01840)|null|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
 |**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|null|

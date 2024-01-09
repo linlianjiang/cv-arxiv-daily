@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1842,7 +1842,7 @@ layout: default
 |**2024-01-02**|**On Optimal Sampling for Learning SDF Using MLPs Equipped with Positional Encoding**|Guying Lin et.al.|[2401.01391](http://arxiv.org/abs/2401.01391)|null|
 |**2023-12-28**|**Beyond PID Controllers: PPO with Neuralized PID Policy for Proton Beam Intensity Control in Mu2e**|Chenwei Xu et.al.|[2312.17372](http://arxiv.org/abs/2312.17372)|null|
 |**2023-12-28**|**HISR: Hybrid Implicit Surface Representation for Photorealistic 3D Human Reconstruction**|Angtian Wang et.al.|[2312.17192](http://arxiv.org/abs/2312.17192)|null|
-|**2023-12-24**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218](http://arxiv.org/abs/2312.16218)|null|
+|**2024-01-05**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218](http://arxiv.org/abs/2312.16218)|null|
 |**2023-12-20**|**DLCA-Recon: Dynamic Loose Clothing Avatar Reconstruction from Monocular Videos**|Chunjie Luo et.al.|[2312.12096](http://arxiv.org/abs/2312.12096)|null|
 |**2023-12-18**|**PR-NeuS: A Prior-based Residual Learning Paradigm for Fast Multi-view Neural Surface Reconstruction**|Jianyao Xu et.al.|[2312.11577](http://arxiv.org/abs/2312.11577)|null|
 |**2023-12-18**|**GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning**|Ye Yuan et.al.|[2312.11461](http://arxiv.org/abs/2312.11461)|null|
@@ -1905,10 +1905,10 @@ layout: default
 |**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
 |**2024-01-05**|**Explicit numerical approximations for McKean-Vlasov stochastic differential equations in finite and infinite time**|Cui Yuanping et.al.|[2401.02878](http://arxiv.org/abs/2401.02878)|null|
 |**2024-01-05**|**Extraplanar emission in isolated edge-on late-type galaxies. I. The H $α$ distribution versus to the old and young stellar discs**|Minerva M. Sardaneta et.al.|[2401.02876](http://arxiv.org/abs/2401.02876)|null|
-|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|null|
+|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|**[link](https://github.com/xiaorongjun000/self-rectification)**|
 |**2024-01-05**|**Water transport through mesoporous amorphous-carbon dust**|Romain Basalgète et.al.|[2401.02821](http://arxiv.org/abs/2401.02821)|null|
 |**2024-01-05**|**Convergence of a Convective Allen-Cahn Equation to a Transport Equation**|Helmut Abels et.al.|[2401.02807](http://arxiv.org/abs/2401.02807)|null|
-|**2024-01-05**|**Diffbody: Diffusion-based Pose and Shape Editing of Human Images**|Yuta Okuyama et.al.|[2401.02804](http://arxiv.org/abs/2401.02804)|null|
+|**2024-01-05**|**Diffbody: Diffusion-based Pose and Shape Editing of Human Images**|Yuta Okuyama et.al.|[2401.02804](http://arxiv.org/abs/2401.02804)|**[link](https://github.com/yutaokuyama/diffbody)**|
 |**2024-01-05**|**Diffusion Variational Inference: Diffusion Models as Expressive Variational Posteriors**|Top Piriyakulkij et.al.|[2401.02739](http://arxiv.org/abs/2401.02739)|null|
 |**2024-01-05**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**|Can Xu et.al.|[2401.02683](http://arxiv.org/abs/2401.02683)|null|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
@@ -2756,15 +2756,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906](http://arxiv.org/abs/2401.02906)|null|
-|**2024-01-05**|**PeFoMed: Parameter Efficient Fine-tuning on Multimodal Large Language Models for Medical Visual Question Answering**|Jinlong He et.al.|[2401.02797](http://arxiv.org/abs/2401.02797)|null|
+|**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906](http://arxiv.org/abs/2401.02906)|**[link](https://github.com/pipilurj/mllm-protector)**|
+|**2024-01-05**|**PeFoMed: Parameter Efficient Fine-tuning on Multimodal Large Language Models for Medical Visual Question Answering**|Jinlong He et.al.|[2401.02797](http://arxiv.org/abs/2401.02797)|**[link](https://github.com/jinlhe/pefomed)**|
 |**2024-01-05**|**Fus-MAE: A cross-attention-based data fusion approach for Masked Autoencoders in remote sensing**|Hugo Chan-To-Hing et.al.|[2401.02764](http://arxiv.org/abs/2401.02764)|null|
 |**2024-01-05**|**Complementary Information Mutual Learning for Multimodality Medical Image Segmentation**|Chuyun Shen et.al.|[2401.02717](http://arxiv.org/abs/2401.02717)|null|
 |**2024-01-05**|**LMaaS: Exploring Pricing Strategy of Large Model as a Service for Communication**|Panlong Wu et.al.|[2401.02675](http://arxiv.org/abs/2401.02675)|null|
-|**2024-01-05**|**Characteristics and prevalence of fake social media profiles with AI-generated faces**|Kai-Cheng Yang et.al.|[2401.02627](http://arxiv.org/abs/2401.02627)|null|
+|**2024-01-05**|**Characteristics and prevalence of fake social media profiles with AI-generated faces**|Kai-Cheng Yang et.al.|[2401.02627](http://arxiv.org/abs/2401.02627)|**[link](https://github.com/osome-iu/fake_gan_accounts)**|
 |**2024-01-05**|**Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human**|Song Bai et.al.|[2401.02620](http://arxiv.org/abs/2401.02620)|null|
 |**2024-01-05**|**Exploiting Polarized Material Cues for Robust Car Detection**|Wen Dong et.al.|[2401.02606](http://arxiv.org/abs/2401.02606)|null|
-|**2024-01-05**|**Towards Weakly Supervised Text-to-Audio Grounding**|Xuenan Xu et.al.|[2401.02584](http://arxiv.org/abs/2401.02584)|null|
+|**2024-01-05**|**Towards Weakly Supervised Text-to-Audio Grounding**|Xuenan Xu et.al.|[2401.02584](http://arxiv.org/abs/2401.02584)|**[link](https://github.com/wsntxxn/TextToAudioGrounding)**|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-04**|**ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**|Fanqing Meng et.al.|[2401.02384](http://arxiv.org/abs/2401.02384)|**[link](https://github.com/opengvlab/chartast)**|
 |**2024-01-04**|**Explore Human Parsing Modality for Action Recognition**|Jinfu Liu et.al.|[2401.02138](http://arxiv.org/abs/2401.02138)|**[link](https://github.com/liujf69/EPP-Net-Action)**|

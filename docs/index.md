@@ -1839,6 +1839,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Sur2f: A Hybrid Representation for High-Quality and Efficient Surface Reconstruction from Multi-view Images**|Zhangjin Huang et.al.|[2401.03704](http://arxiv.org/abs/2401.03704)|null|
+|**2024-01-07**|**N $^{3}$ -Mapping: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping**|Shuangfu Song et.al.|[2401.03412](http://arxiv.org/abs/2401.03412)|null|
+|**2024-01-06**|**Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping**|Tongyan Hua et.al.|[2401.03203](http://arxiv.org/abs/2401.03203)|null|
 |**2024-01-02**|**On Optimal Sampling for Learning SDF Using MLPs Equipped with Positional Encoding**|Guying Lin et.al.|[2401.01391](http://arxiv.org/abs/2401.01391)|null|
 |**2023-12-28**|**Beyond PID Controllers: PPO with Neuralized PID Policy for Proton Beam Intensity Control in Mu2e**|Chenwei Xu et.al.|[2312.17372](http://arxiv.org/abs/2312.17372)|null|
 |**2023-12-28**|**HISR: Hybrid Implicit Surface Representation for Photorealistic 3D Human Reconstruction**|Angtian Wang et.al.|[2312.17192](http://arxiv.org/abs/2312.17192)|null|
@@ -1901,6 +1904,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Quantum mechanics without quantum potentials**|Adam Brownstein et.al.|[2401.04091](http://arxiv.org/abs/2401.04091)|null|
+|**2024-01-08**|**High-order Shakhov-like extension of the relaxation time approximation in relativistic kinetic theory**|Victor E. Ambruş et.al.|[2401.04017](http://arxiv.org/abs/2401.04017)|null|
+|**2024-01-08**|**BST1047+1156: A (Failing) Ultradiffuse Tidal Dwarf in the Leo I Group**|J. Christopher Mihos et.al.|[2401.03985](http://arxiv.org/abs/2401.03985)|null|
+|**2024-01-08**|**On the infinite time horizon approximation for Lévy-driven McKean-Vlasov SDEs with non-globally Lipschitz continuous and super-linearly growth drift and diffusion coefficients**|Ngoc Khue Tran et.al.|[2401.03977](http://arxiv.org/abs/2401.03977)|null|
+|**2024-01-08**|**scDiffusion: conditional generation of high-quality single-cell data using diffusion model**|Erpai Luo et.al.|[2401.03968](http://arxiv.org/abs/2401.03968)|**[link](https://github.com/eperluo/scdiffusion)**|
+|**2024-01-08**|**Well-balanced convex limiting for finite element discretizations of steady convection-diffusion-reaction equations**|Petr Knobloch et.al.|[2401.03964](http://arxiv.org/abs/2401.03964)|null|
+|**2024-01-08**|**Design a Metric Robust to Complicated High Dimensional Noise for Efficient Manifold Denoising**|Hau-Tieng Wu et.al.|[2401.03921](http://arxiv.org/abs/2401.03921)|null|
+|**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914](http://arxiv.org/abs/2401.03914)|null|
+|**2024-01-08**|**Global entropy solutions to a degenerate parabolic-parabolic chemotaxis system for flux-limited dispersal**|Anna Zhigun et.al.|[2401.03887](http://arxiv.org/abs/2401.03887)|null|
+|**2024-01-08**|**Elementary vibrational model for transport properties of dense fluids**|Sergey Khrapak et.al.|[2401.03871](http://arxiv.org/abs/2401.03871)|null|
 |**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
 |**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
 |**2024-01-05**|**Explicit numerical approximations for McKean-Vlasov stochastic differential equations in finite and infinite time**|Cui Yuanping et.al.|[2401.02878](http://arxiv.org/abs/2401.02878)|null|
@@ -2756,6 +2769,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04023](http://arxiv.org/abs/2401.04023)|null|
+|**2024-01-08**|**SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems**|Dong Zhang et.al.|[2401.03945](http://arxiv.org/abs/2401.03945)|**[link](https://github.com/0nutation/speechagents)**|
+|**2024-01-08**|**A multimodal gesture recognition dataset for desktop human-computer interaction**|Qi Wang et.al.|[2401.03828](http://arxiv.org/abs/2401.03828)|null|
+|**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806](http://arxiv.org/abs/2401.03806)|null|
+|**2024-01-07**|**Agent AI: Surveying the Horizons of Multimodal Interaction**|Zane Durante et.al.|[2401.03568](http://arxiv.org/abs/2401.03568)|null|
+|**2024-01-07**|**MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition**|Zheng Lian et.al.|[2401.03429](http://arxiv.org/abs/2401.03429)|null|
+|**2024-01-07**|**Predicting the Skies: A Novel Model for Flight-Level Passenger Traffic Forecasting**|Sian Ehsani et.al.|[2401.03397](http://arxiv.org/abs/2401.03397)|null|
+|**2024-01-06**|**Multimodal Informative ViT: Information Aggregation and Distribution for Hyperspectral and LiDAR Classification**|Jiaqing Zhang et.al.|[2401.03179](http://arxiv.org/abs/2401.03179)|null|
+|**2024-01-06**|**Exploration of Adolescent Depression Risk Prediction Based on Census Surveys and General Life Issues**|Qiang Li et.al.|[2401.03171](http://arxiv.org/abs/2401.03171)|null|
+|**2024-01-06**|**CaMML: Context-Aware Multimodal Learner for Large Models**|Yixin Chen et.al.|[2401.03149](http://arxiv.org/abs/2401.03149)|null|
 |**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906](http://arxiv.org/abs/2401.02906)|**[link](https://github.com/pipilurj/mllm-protector)**|
 |**2024-01-05**|**PeFoMed: Parameter Efficient Fine-tuning on Multimodal Large Language Models for Medical Visual Question Answering**|Jinlong He et.al.|[2401.02797](http://arxiv.org/abs/2401.02797)|**[link](https://github.com/jinlhe/pefomed)**|
 |**2024-01-05**|**Fus-MAE: A cross-attention-based data fusion approach for Masked Autoencoders in remote sensing**|Hugo Chan-To-Hing et.al.|[2401.02764](http://arxiv.org/abs/2401.02764)|null|

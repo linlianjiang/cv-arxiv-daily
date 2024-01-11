@@ -1904,6 +1904,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
+|**2024-01-10**|**Score Distillation Sampling with Learned Manifold Corrective**|Thiemo Alldieck et.al.|[2401.05293](http://arxiv.org/abs/2401.05293)|null|
+|**2024-01-10**|**diffSph: a Python tool to compute diffuse signals from dwarf spheroidal galaxies**|Martin Vollmann et.al.|[2401.05255](http://arxiv.org/abs/2401.05255)|null|
+|**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252](http://arxiv.org/abs/2401.05252)|null|
+|**2024-01-10**|**Escape from textured adsorbing surfaces**|Yuval Scher et.al.|[2401.05227](http://arxiv.org/abs/2401.05227)|null|
+|**2024-01-10**|**Existence of global weak solutions to a Cahn-Hilliard cross-diffusion system in lymphangiogenesis**|Ansgar Jüngel et.al.|[2401.05180](http://arxiv.org/abs/2401.05180)|null|
+|**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159](http://arxiv.org/abs/2401.05159)|null|
+|**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153](http://arxiv.org/abs/2401.05153)|null|
+|**2024-01-10**|**Disorder-induced enhancement of lithium-ion transport in solid-state electrolytes**|Zhimin Chen et.al.|[2401.05151](http://arxiv.org/abs/2401.05151)|null|
+|**2024-01-10**|**Self-similar solutions for the non-equilibrium nonlinear supersonic Marshak wave problem**|Menahem Krief et.al.|[2401.05138](http://arxiv.org/abs/2401.05138)|null|
 |**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728](http://arxiv.org/abs/2401.04728)|null|
 |**2024-01-09**|**Efficient estimation for ergodic diffusion processes sampled at high frequency**|Michael Sørensen et.al.|[2401.04689](http://arxiv.org/abs/2401.04689)|null|
 |**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
@@ -2779,6 +2789,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163](http://arxiv.org/abs/2401.05163)|null|
 |**2024-01-09**|**Effective pruning of web-scale datasets based on complexity of concept clusters**|Amro Abbas et.al.|[2401.04578](http://arxiv.org/abs/2401.04578)|null|
 |**2024-01-09**|**MERA: A Comprehensive LLM Evaluation in Russian**|Alena Fenogenova et.al.|[2401.04531](http://arxiv.org/abs/2401.04531)|null|
 |**2024-01-09**|**TransportationGames: Benchmarking Transportation Knowledge of (Multimodal) Large Language Models**|Xue Zhang et.al.|[2401.04471](http://arxiv.org/abs/2401.04471)|null|

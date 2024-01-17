@@ -1862,7 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-11**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
+|**2024-01-13**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
 |**2024-01-08**|**Sur2f: A Hybrid Representation for High-Quality and Efficient Surface Reconstruction from Multi-view Images**|Zhangjin Huang et.al.|[2401.03704](http://arxiv.org/abs/2401.03704)|null|
 |**2024-01-07**|**N $^{3}$ -Mapping: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping**|Shuangfu Song et.al.|[2401.03412](http://arxiv.org/abs/2401.03412)|null|
 |**2024-01-06**|**Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping**|Tongyan Hua et.al.|[2401.03203](http://arxiv.org/abs/2401.03203)|null|
@@ -1930,6 +1930,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Well-posedness of a bulk-surface convective Cahn--Hilliard system with dynamic boundary conditions**|Patrik Knopf et.al.|[2401.08400](http://arxiv.org/abs/2401.08400)|null|
+|**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394](http://arxiv.org/abs/2401.08394)|null|
+|**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
+|**2024-01-16**|**Optimization of the plasmonic properties of titanium nitride films sputtered at room temperature through microstructure and thickness control**|Mateusz Nieborek et.al.|[2401.08353](http://arxiv.org/abs/2401.08353)|null|
+|**2024-01-16**|**Automated solver selection for simulation of multiphysics processes in porous media**|Yury Zabegaev et.al.|[2401.08352](http://arxiv.org/abs/2401.08352)|null|
+|**2024-01-16**|**Large-population asymptotics for the maximum of diffusive particles with mean-field interaction in the noises**|Nikolaos Kolliopoulos et.al.|[2401.08344](http://arxiv.org/abs/2401.08344)|null|
+|**2024-01-16**|**Controlled synthesis and characterization of porous silicon nanoparticles for dynamic nuclear polarization**|Gevin von Witte et.al.|[2401.08320](http://arxiv.org/abs/2401.08320)|null|
+|**2024-01-16**|**Hitomi-HXT deconvolution imaging of the Crab Nebula dazzled by the Crab pulsar**|Mikio Morii et.al.|[2401.08278](http://arxiv.org/abs/2401.08278)|null|
+|**2024-01-16**|**Modeling Spoof Noise by De-spoofing Diffusion and its Application in Face Anti-spoofing**|Bin Zhang et.al.|[2401.08275](http://arxiv.org/abs/2401.08275)|null|
+|**2024-01-16**|**Multi-scale 2D Temporal Map Diffusion Models for Natural Language Video Localization**|Chongzhi Zhang et.al.|[2401.08232](http://arxiv.org/abs/2401.08232)|null|
 |**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part II: Spatial and Tonal Data Optimization**|Niklas Kämper et.al.|[2401.06747](http://arxiv.org/abs/2401.06747)|null|
 |**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part I: Homogeneous Diffusion Inpainting**|Niklas Kämper et.al.|[2401.06744](http://arxiv.org/abs/2401.06744)|null|
 |**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740](http://arxiv.org/abs/2401.06740)|null|
@@ -2837,6 +2847,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Hidden Flaws Behind Expert-Level Accuracy of GPT-4 Vision in Medicine**|Qiao Jin et.al.|[2401.08396](http://arxiv.org/abs/2401.08396)|null|
+|**2024-01-16**|**AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception**|Yipo Huang et.al.|[2401.08276](http://arxiv.org/abs/2401.08276)|**[link](https://github.com/yipoh/aesbench)**|
+|**2024-01-16**|**Human vs. LMMs: Exploring the Discrepancy in Emoji Interpretation and Usage in Digital Communication**|Hanjia Lyu et.al.|[2401.08212](http://arxiv.org/abs/2401.08212)|null|
+|**2024-01-16**|**A Survey of Resource-efficient LLM and Multimodal Foundation Models**|Mengwei Xu et.al.|[2401.08092](http://arxiv.org/abs/2401.08092)|**[link](https://github.com/ubiquitouslearning/efficient_foundation_model_survey)**|
+|**2024-01-16**|**Self-Imagine: Effective Unimodal Reasoning with Multimodal Models using Self-Imagination**|Syeda Nahida Akter et.al.|[2401.08025](http://arxiv.org/abs/2401.08025)|**[link](https://github.com/snat1505027/self-imagine)**|
+|**2024-01-15**|**$M^{2}$ Fusion: Bayesian-based Multimodal Multi-level Fusion on Colorectal Cancer Microsatellite Instability Prediction**|Quan Liu et.al.|[2401.07854](http://arxiv.org/abs/2401.07854)|null|
+|**2024-01-15**|**Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification**|Nathan Painchaud et.al.|[2401.07796](http://arxiv.org/abs/2401.07796)|null|
+|**2024-01-15**|**When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment**|Minrui Xu et.al.|[2401.07764](http://arxiv.org/abs/2401.07764)|null|
+|**2024-01-15**|**DeepThalamus: A novel deep learning method for automatic segmentation of brain thalamic nuclei from multimodal ultra-high resolution MRI**|Marina Ruiz-Perez et.al.|[2401.07751](http://arxiv.org/abs/2401.07751)|null|
+|**2024-01-15**|**Multimodal Crowd Counting with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2401.07591](http://arxiv.org/abs/2401.07591)|null|
 |**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
 |**2024-01-12**|**Multimodal Learning for detecting urban functional zones using remote sensing image and multi-semantic information**|Chuanji Shi et.al.|[2401.06550](http://arxiv.org/abs/2401.06550)|null|
 |**2024-01-12**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[2401.06542](http://arxiv.org/abs/2401.06542)|null|

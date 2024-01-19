@@ -1930,6 +1930,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
+|**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226](http://arxiv.org/abs/2401.10226)|null|
+|**2024-01-18**|**An Invariance Principle for a Random Walk Among Moving Traps via Thermodynamic Formalism**|Siva Athreya et.al.|[2401.10179](http://arxiv.org/abs/2401.10179)|null|
+|**2024-01-18**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-18**|**Quantitative equilibrium fluctuations for interacting particle systems**|Chenlin Gu et.al.|[2401.10080](http://arxiv.org/abs/2401.10080)|null|
+|**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
+|**2024-01-18**|**Drift Control with Discretionary Stopping for a Diffusion Process**|Václav E. Beneš et.al.|[2401.10043](http://arxiv.org/abs/2401.10043)|null|
+|**2024-01-18**|**FreGrad: Lightweight and Fast Frequency-aware Diffusion Vocoder**|Tan Dat Nguyen et.al.|[2401.10032](http://arxiv.org/abs/2401.10032)|null|
+|**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
+|**2024-01-18**|**Consistent asset modelling with random coefficients and switches between regimes**|Felix L. Wolf et.al.|[2401.09955](http://arxiv.org/abs/2401.09955)|null|
 |**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416](http://arxiv.org/abs/2401.09416)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 |**2024-01-17**|**Potential Energy Landscape of a Flexible Water Model: Equation-of-State, Configurational Entropy, and Adam-Gibbs Relationship**|Ali Eltareb et.al.|[2401.09355](http://arxiv.org/abs/2401.09355)|null|
@@ -2859,6 +2869,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226](http://arxiv.org/abs/2401.10226)|null|
+|**2024-01-18**|**Developing an AI-based Integrated System for Bee Health Evaluation**|Andrew Liang et.al.|[2401.09988](http://arxiv.org/abs/2401.09988)|null|
+|**2024-01-18**|**Distributed Task-Oriented Communication Networks with Multimodal Semantic Relay and Edge Intelligence**|Jie Guo et.al.|[2401.09904](http://arxiv.org/abs/2401.09904)|null|
+|**2024-01-18**|**Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal Explanations**|Prince Jha et.al.|[2401.09899](http://arxiv.org/abs/2401.09899)|**[link](https://github.com/jhaprince/memeexplanation)**|
+|**2024-01-18**|**Improving fine-grained understanding in image-text pre-training**|Ioana Bica et.al.|[2401.09865](http://arxiv.org/abs/2401.09865)|null|
+|**2024-01-18**|**Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models**|Li Sun et.al.|[2401.09861](http://arxiv.org/abs/2401.09861)|null|
+|**2024-01-18**|**CLIP Model for Images to Textual Prompts Based on Top-k Neighbors**|Xin Zhang et.al.|[2401.09763](http://arxiv.org/abs/2401.09763)|null|
+|**2024-01-18**|**SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition**|Hao Wang et.al.|[2401.09759](http://arxiv.org/abs/2401.09759)|null|
+|**2024-01-18**|**Bootstrapping OTS-Funcimg Pre-training Model (Botfip) -- A Comprehensive Symbolic Regression Framework**|Tianhao Chen et.al.|[2401.09748](http://arxiv.org/abs/2401.09748)|null|
+|**2024-01-18**|**Enhanced Quantum State Transfer and Bell State Generation over Long-Range Multimode Interconnects via Superadiabatic Transitionless Driving**|Moein Malekakhlagh et.al.|[2401.09663](http://arxiv.org/abs/2401.09663)|null|
 |**2024-01-17**|**CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**|Artem Lykov et.al.|[2401.09388](http://arxiv.org/abs/2401.09388)|null|
 |**2024-01-17**|**Diverse Part Synthesis for 3D Shape Creation**|Yanran Guan et.al.|[2401.09384](http://arxiv.org/abs/2401.09384)|null|
 |**2024-01-17**|**Beyond Anti-Forgetting: Multimodal Continual Instruction Tuning with Positive Forward Transfer**|Junhao Zheng et.al.|[2401.09181](http://arxiv.org/abs/2401.09181)|null|

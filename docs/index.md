@@ -1905,6 +1905,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
+|**2024-01-19**|**Accuracy Analysis of Physics-Informed Neural Networks for Approximating the Critical SQG Equation**|Elie Abdo et.al.|[2401.10879](http://arxiv.org/abs/2401.10879)|null|
+|**2024-01-19**|**ActAnywhere: Subject-Aware Video Background Generation**|Boxiao Pan et.al.|[2401.10822](http://arxiv.org/abs/2401.10822)|null|
+|**2024-01-19**|**From Market Saturation to Social Reinforcement: Understanding the Impact of Non-Linearity in Information Diffusion Models**|Tobias Friedrich et.al.|[2401.10818](http://arxiv.org/abs/2401.10818)|null|
+|**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
+|**2024-01-19**|**Signatures of s-wave scattering in bound electronic states**|Robin E. Moorby et.al.|[2401.10714](http://arxiv.org/abs/2401.10714)|null|
+|**2024-01-19**|**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**|Yinan Zheng et.al.|[2401.10700](http://arxiv.org/abs/2401.10700)|null|
+|**2024-01-19**|**An Experimental Estimation Method of Diffusion Coefficients in Ternary and Multicomponent Systems from a Single Diffusion Couple Profile**|Suman Sadhu et.al.|[2401.10684](http://arxiv.org/abs/2401.10684)|null|
+|**2024-01-19**|**Refractive index measurement of pharmaceutical powders in the short-wave infrared range using index matching assisted with phase imaging**|Cory Juntunen et.al.|[2401.10667](http://arxiv.org/abs/2401.10667)|null|
+|**2024-01-19**|**Analysis of the Patent of a Protective Cover for Vertical-Axis Wind Turbines (VAWTs): Simulations of Wind Flow**|JA Moleón Baca et.al.|[2401.10656](http://arxiv.org/abs/2401.10656)|null|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226](http://arxiv.org/abs/2401.10226)|null|
 |**2024-01-18**|**An Invariance Principle for a Random Walk Among Moving Traps via Thermodynamic Formalism**|Siva Athreya et.al.|[2401.10179](http://arxiv.org/abs/2401.10179)|null|
@@ -2842,9 +2852,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision**|Fernando Pérez-García et.al.|[2401.10815](http://arxiv.org/abs/2401.10815)|null|
+|**2024-01-19**|**EFO: the Emotion Frame Ontology**|Stefano De Giorgis et.al.|[2401.10751](http://arxiv.org/abs/2401.10751)|null|
+|**2024-01-19**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al.|[2401.10731](http://arxiv.org/abs/2401.10731)|null|
+|**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711](http://arxiv.org/abs/2401.10711)|null|
+|**2024-01-19**|**Attentive Fusion: A Transformer-based Approach to Multimodal Hate Speech Detection**|Atanu Mandal et.al.|[2401.10653](http://arxiv.org/abs/2401.10653)|**[link](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)**|
+|**2024-01-19**|**Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences**|Xiyao Wang et.al.|[2401.10529](http://arxiv.org/abs/2401.10529)|null|
+|**2024-01-18**|**Precision Franck-Condon spectroscopy from highly-excited vibrational states**|Sindhana Pannir-Sivajothi et.al.|[2401.10384](http://arxiv.org/abs/2401.10384)|null|
 |**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226](http://arxiv.org/abs/2401.10226)|null|
 |**2024-01-18**|**Developing an AI-based Integrated System for Bee Health Evaluation**|Andrew Liang et.al.|[2401.09988](http://arxiv.org/abs/2401.09988)|null|
-|**2024-01-18**|**Distributed Task-Oriented Communication Networks with Multimodal Semantic Relay and Edge Intelligence**|Jie Guo et.al.|[2401.09904](http://arxiv.org/abs/2401.09904)|null|
+|**2024-01-19**|**Distributed Task-Oriented Communication Networks with Multimodal Semantic Relay and Edge Intelligence**|Jie Guo et.al.|[2401.09904](http://arxiv.org/abs/2401.09904)|null|
 |**2024-01-18**|**Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal Explanations**|Prince Jha et.al.|[2401.09899](http://arxiv.org/abs/2401.09899)|**[link](https://github.com/jhaprince/memeexplanation)**|
 |**2024-01-18**|**Improving fine-grained understanding in image-text pre-training**|Ioana Bica et.al.|[2401.09865](http://arxiv.org/abs/2401.09865)|null|
 |**2024-01-18**|**Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models**|Li Sun et.al.|[2401.09861](http://arxiv.org/abs/2401.09861)|null|

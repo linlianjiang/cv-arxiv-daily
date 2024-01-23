@@ -1905,6 +1905,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**DITTO: Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2401.12179](http://arxiv.org/abs/2401.12179)|null|
+|**2024-01-22**|**Single-View 3D Human Digitalization with Large Reconstruction Models**|Zhenzhen Weng et.al.|[2401.12175](http://arxiv.org/abs/2401.12175)|null|
+|**2024-01-22**|**ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter**|Yi-Chiao Wu et.al.|[2401.12160](http://arxiv.org/abs/2401.12160)|null|
+|**2024-01-22**|**Improved accuracy of continuum surface flux models for metal additive manufacturing melt pool simulations**|Nils Much et.al.|[2401.12114](http://arxiv.org/abs/2401.12114)|null|
+|**2024-01-22**|**Weak second-order quantum state diffusion unraveling of the Lindblad master equation**|Sayak Adhikari et.al.|[2401.12109](http://arxiv.org/abs/2401.12109)|null|
+|**2024-01-22**|**Navier-Stokes-Cahn-Hilliard equations on evolving surfaces**|Charles M. Elliott et.al.|[2401.12044](http://arxiv.org/abs/2401.12044)|null|
+|**2024-01-22**|**Experimental investigation and scale analysis on melting of salty ice in a 3D-printed cavity filled with porous media**|Xiaotian Liand Yuming Wang et.al.|[2401.12009](http://arxiv.org/abs/2401.12009)|null|
+|**2024-01-22**|**Claim Detection for Automated Fact-checking: A Survey on Monolingual, Multilingual and Cross-Lingual Research**|Rrubaa Panchendrarajan et.al.|[2401.11969](http://arxiv.org/abs/2401.11969)|null|
+|**2024-01-22**|**Feature Denoising Diffusion Model for Blind Image Quality Assessment**|Xudong Li et.al.|[2401.11949](http://arxiv.org/abs/2401.11949)|null|
+|**2024-01-22**|**Thermodynamic work of partial resetting**|Kristian Stølevik Olsen et.al.|[2401.11919](http://arxiv.org/abs/2401.11919)|null|
 |**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
 |**2024-01-19**|**Accuracy Analysis of Physics-Informed Neural Networks for Approximating the Critical SQG Equation**|Elie Abdo et.al.|[2401.10879](http://arxiv.org/abs/2401.10879)|null|
 |**2024-01-19**|**ActAnywhere: Subject-Aware Video Background Generation**|Boxiao Pan et.al.|[2401.10822](http://arxiv.org/abs/2401.10822)|null|
@@ -2852,6 +2862,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Automated facial recognition system using deep learning for pain assessment in adults with cerebral palsy**|Álvaro Sabater-Gárriz et.al.|[2401.12161](http://arxiv.org/abs/2401.12161)|null|
+|**2024-01-22**|**DeepCERES: A Deep learning method for cerebellar lobule segmentation using ultra-high resolution multimodal MRI**|Sergio Morell-Ortega et.al.|[2401.12074](http://arxiv.org/abs/2401.12074)|null|
+|**2024-01-22**|**MINT: A wrapper to make multi-modal and multi-image AI models interactive**|Jan Freyberg et.al.|[2401.12032](http://arxiv.org/abs/2401.12032)|null|
+|**2024-01-22**|**Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training**|Vedant Dave et.al.|[2401.12024](http://arxiv.org/abs/2401.12024)|null|
+|**2024-01-22**|**CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark**|Ge Zhang et.al.|[2401.11944](http://arxiv.org/abs/2401.11944)|null|
+|**2024-01-22**|**Benchmarking Large Multimodal Models against Common Corruptions**|Jiawei Zhang et.al.|[2401.11943](http://arxiv.org/abs/2401.11943)|**[link](https://github.com/sail-sg/mmcbench)**|
+|**2024-01-22**|**Multimodal Deep Learning of Word-of-Mouth Text and Demographics to Predict Customer Rating: Handling Consumer Heterogeneity in Marketing**|Junichiro Niimi et.al.|[2401.11888](http://arxiv.org/abs/2401.11888)|null|
+|**2024-01-22**|**The Conversation is the Command: Interacting with Real-World Autonomous Robot Through Natural Language**|Linus Nwankwo et.al.|[2401.11838](http://arxiv.org/abs/2401.11838)|null|
+|**2024-01-22**|**MInD: Improving Multimodal Sentiment Analysis via Multimodal Information Disentanglement**|Weichen Dai et.al.|[2401.11818](http://arxiv.org/abs/2401.11818)|null|
+|**2024-01-22**|**Identity-Driven Multimedia Forgery Detection via Reference Assistance**|Junhao Xu et.al.|[2401.11764](http://arxiv.org/abs/2401.11764)|null|
 |**2024-01-19**|**RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision**|Fernando Pérez-García et.al.|[2401.10815](http://arxiv.org/abs/2401.10815)|null|
 |**2024-01-19**|**EFO: the Emotion Frame Ontology**|Stefano De Giorgis et.al.|[2401.10751](http://arxiv.org/abs/2401.10751)|null|
 |**2024-01-19**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al.|[2401.10731](http://arxiv.org/abs/2401.10731)|null|

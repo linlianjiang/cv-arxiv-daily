@@ -1930,6 +1930,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**GALA: Generating Animatable Layered Assets from a Single Scan**|Taeksoo Kim et.al.|[2401.12979](http://arxiv.org/abs/2401.12979)|null|
+|**2024-01-23**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|null|
+|**2024-01-23**|**Measure transport with kernel mean embeddings**|L. Wang et.al.|[2401.12967](http://arxiv.org/abs/2401.12967)|null|
+|**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
+|**2024-01-23**|**Long-range three-dimensional tracking of nanoparticles using interferometric scattering (iSCAT) microscopy**|Kiarash Kasaian et.al.|[2401.12939](http://arxiv.org/abs/2401.12939)|null|
+|**2024-01-23**|**Thermal transport of Li $_3$PS$_4$ solid electrolytes with ab initio accuracy**|Davide Tisi et.al.|[2401.12936](http://arxiv.org/abs/2401.12936)|null|
+|**2024-01-23**|**A hypocoercivity-exploiting stabilised finite element method for Kolmogorov equation**|Zhaonan Dong et.al.|[2401.12921](http://arxiv.org/abs/2401.12921)|null|
+|**2024-01-23**|**Propagation reversal on trees in the large diffusion regime**|Hermen Jan Hupkes et.al.|[2401.12899](http://arxiv.org/abs/2401.12899)|null|
+|**2024-01-23**|**An Efficient Algorithm for Spatial-Spectral Partial Volume Compartment Mapping with Applications to Multicomponent Diffusion and Relaxation MRI**|Yunsong Liu et.al.|[2401.12890](http://arxiv.org/abs/2401.12890)|null|
+|**2024-01-23**|**Optimal Stopping of Branching Diffusion Processes**|Idris Kharroubi et.al.|[2401.12811](http://arxiv.org/abs/2401.12811)|null|
 |**2024-01-22**|**DITTO: Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2401.12179](http://arxiv.org/abs/2401.12179)|null|
 |**2024-01-22**|**Single-View 3D Human Digitalization with Large Reconstruction Models**|Zhenzhen Weng et.al.|[2401.12175](http://arxiv.org/abs/2401.12175)|null|
 |**2024-01-22**|**ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter**|Yi-Chiao Wu et.al.|[2401.12160](http://arxiv.org/abs/2401.12160)|null|
@@ -2889,8 +2899,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Red Teaming Visual Language Models**|Mukai Li et.al.|[2401.12915](http://arxiv.org/abs/2401.12915)|null|
+|**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863](http://arxiv.org/abs/2401.12863)|null|
+|**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761](http://arxiv.org/abs/2401.12761)|null|
+|**2024-01-23**|**Knowledge Distillation from Language-Oriented to Emergent Communication for Multi-Agent Remote Control**|Yongjun Kim et.al.|[2401.12624](http://arxiv.org/abs/2401.12624)|null|
+|**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568](http://arxiv.org/abs/2401.12568)|null|
+|**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456](http://arxiv.org/abs/2401.12456)|null|
+|**2024-01-23**|**The Neglected Tails of Vision-Language Models**|Shubham Parashar et.al.|[2401.12425](http://arxiv.org/abs/2401.12425)|null|
+|**2024-01-22**|**Multi-Objective Multi-mode Time-Cost Tradeoff modeling in Construction Projects Considering Productivity Improvement**|Ali Mohammadjafari et.al.|[2401.12388](http://arxiv.org/abs/2401.12388)|null|
 |**2024-01-22**|**Automated facial recognition system using deep learning for pain assessment in adults with cerebral palsy**|Álvaro Sabater-Gárriz et.al.|[2401.12161](http://arxiv.org/abs/2401.12161)|null|
-|**2024-01-22**|**DeepCERES: A Deep learning method for cerebellar lobule segmentation using ultra-high resolution multimodal MRI**|Sergio Morell-Ortega et.al.|[2401.12074](http://arxiv.org/abs/2401.12074)|null|
+|**2024-01-23**|**DeepCERES: A Deep learning method for cerebellar lobule segmentation using ultra-high resolution multimodal MRI**|Sergio Morell-Ortega et.al.|[2401.12074](http://arxiv.org/abs/2401.12074)|null|
 |**2024-01-22**|**MINT: A wrapper to make multi-modal and multi-image AI models interactive**|Jan Freyberg et.al.|[2401.12032](http://arxiv.org/abs/2401.12032)|null|
 |**2024-01-22**|**Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training**|Vedant Dave et.al.|[2401.12024](http://arxiv.org/abs/2401.12024)|null|
 |**2024-01-22**|**CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark**|Ge Zhang et.al.|[2401.11944](http://arxiv.org/abs/2401.11944)|null|

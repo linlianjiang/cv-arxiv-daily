@@ -1930,6 +1930,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Bi-Hamiltonian in Semiflexible Polymer as Strongly Coupled System**|Heeyuen Koh et.al.|[2401.13655](http://arxiv.org/abs/2401.13655)|null|
+|**2024-01-24**|**On the self-similarity of unbounded viscous Marangoni flows**|Fernando Temprano-Coleto et.al.|[2401.13647](http://arxiv.org/abs/2401.13647)|null|
+|**2024-01-24**|**Winding Clearness for Differentiable Point Cloud Optimization**|Dong Xiao et.al.|[2401.13639](http://arxiv.org/abs/2401.13639)|null|
+|**2024-01-24**|**Gaseous Diffusion as a Correlated Random Walk**|Santos Bravo Yuste et.al.|[2401.13571](http://arxiv.org/abs/2401.13571)|null|
+|**2024-01-24**|**Guided Diffusion for Fast Inverse Design of Density-based Mechanical Metamaterials**|Yanyan Yang et.al.|[2401.13570](http://arxiv.org/abs/2401.13570)|null|
+|**2024-01-24**|**Functional weak convergence of stochastic integrals for moving averages and continuous-time random walks**|Andreas Søjmark et.al.|[2401.13543](http://arxiv.org/abs/2401.13543)|null|
+|**2024-01-24**|**Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting**|Hounsu Kim et.al.|[2401.13498](http://arxiv.org/abs/2401.13498)|null|
+|**2024-01-24**|**Accurate Determination of the Band-Gap Energy of the Rare-Earth Niobate Series**|Alka B. Garg et.al.|[2401.13477](http://arxiv.org/abs/2401.13477)|null|
+|**2024-01-24**|**Ordering kinetics in the active Ising model**|Sayam Bandyopadhyay et.al.|[2401.13471](http://arxiv.org/abs/2401.13471)|null|
+|**2024-01-24**|**Diffusion of an Active Particle Bound to a Generalized Elastic Model: Fractional Langevin Equation**|Alessandro Taloni et.al.|[2401.13457](http://arxiv.org/abs/2401.13457)|null|
 |**2024-01-23**|**GALA: Generating Animatable Layered Assets from a Single Scan**|Taeksoo Kim et.al.|[2401.12979](http://arxiv.org/abs/2401.12979)|null|
 |**2024-01-23**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|null|
 |**2024-01-23**|**Measure transport with kernel mean embeddings**|L. Wang et.al.|[2401.12967](http://arxiv.org/abs/2401.12967)|null|
@@ -2899,6 +2909,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks**|Jing Yu Koh et.al.|[2401.13649](http://arxiv.org/abs/2401.13649)|null|
+|**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641](http://arxiv.org/abs/2401.13641)|null|
+|**2024-01-24**|**MM-LLMs: Recent Advances in MultiModal Large Language Models**|Duzhen Zhang et.al.|[2401.13601](http://arxiv.org/abs/2401.13601)|null|
+|**2024-01-24**|**Generating random Gaussian states**|Leevi Leppäjärvi et.al.|[2401.13435](http://arxiv.org/abs/2401.13435)|null|
+|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
+|**2024-01-24**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329](http://arxiv.org/abs/2401.13329)|null|
+|**2024-01-24**|**InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions**|Ryota Tanaka et.al.|[2401.13313](http://arxiv.org/abs/2401.13313)|**[link](https://github.com/nttmdlab-nlp/instructdoc)**|
+|**2024-01-24**|**ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in Large Multimodal Models**|Rohan Wadhawan et.al.|[2401.13311](http://arxiv.org/abs/2401.13311)|null|
+|**2024-01-24**|**ChatterBox: Multi-round Multimodal Referring and Grounding**|Yunjie Tian et.al.|[2401.13307](http://arxiv.org/abs/2401.13307)|**[link](https://github.com/sunsmarterjie/chatterbox)**|
+|**2024-01-24**|**Classification of Radiologically Isolated Syndrome and Clinically Isolated Syndrome with Machine-Learning Techniques**|V Mato-Abad et.al.|[2401.13301](http://arxiv.org/abs/2401.13301)|null|
 |**2024-01-23**|**Red Teaming Visual Language Models**|Mukai Li et.al.|[2401.12915](http://arxiv.org/abs/2401.12915)|null|
 |**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863](http://arxiv.org/abs/2401.12863)|null|
 |**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761](http://arxiv.org/abs/2401.12761)|null|

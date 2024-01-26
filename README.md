@@ -1930,6 +1930,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404](http://arxiv.org/abs/2401.14404)|null|
+|**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398](http://arxiv.org/abs/2401.14398)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
+|**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381](http://arxiv.org/abs/2401.14381)|null|
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
+|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372](http://arxiv.org/abs/2401.14372)|null|
+|**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340](http://arxiv.org/abs/2401.14340)|**[link](https://github.com/tenceto/langevin_ggm)**|
+|**2024-01-25**|**Vanishing center-of-mass limit of the corotational Oldroyd-B polymeric fluid-structure interaction problem**|Prince Romeo Mensah et.al.|[2401.14337](http://arxiv.org/abs/2401.14337)|null|
+|**2024-01-25**|**Combined Generative and Predictive Modeling for Speech Super-resolution**|Heming Wang et.al.|[2401.14269](http://arxiv.org/abs/2401.14269)|null|
+|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
+|**2024-01-25**|**Harnack inequalities for kinetic integral equations**|Francesca Anceschi et.al.|[2401.14182](http://arxiv.org/abs/2401.14182)|null|
 |**2024-01-24**|**Bi-Hamiltonian in Semiflexible Polymer as Strongly Coupled System**|Heeyuen Koh et.al.|[2401.13655](http://arxiv.org/abs/2401.13655)|null|
 |**2024-01-24**|**On the self-similarity of unbounded viscous Marangoni flows**|Fernando Temprano-Coleto et.al.|[2401.13647](http://arxiv.org/abs/2401.13647)|null|
 |**2024-01-24**|**Winding Clearness for Differentiable Point Cloud Optimization**|Dong Xiao et.al.|[2401.13639](http://arxiv.org/abs/2401.13639)|null|
@@ -2909,6 +2919,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**|Yiyuan Zhang et.al.|[2401.14405](http://arxiv.org/abs/2401.14405)|**[link](https://github.com/ailab-cvc/m2pt)**|
+|**2024-01-25**|**JUMP: A joint multimodal registration pipeline for neuroimaging with minimal preprocessing**|Adria Casamitjana et.al.|[2401.14250](http://arxiv.org/abs/2401.14250)|**[link](https://github.com/acasamitjana/jump)**|
+|**2024-01-25**|**LanDA: Language-Guided Multi-Source Domain Adaptation**|Zhenbin Wang et.al.|[2401.14148](http://arxiv.org/abs/2401.14148)|null|
+|**2024-01-25**|**Optical phase encoding in pulsed approach to reservoir computing**|Johan Henaff et.al.|[2401.14073](http://arxiv.org/abs/2401.14073)|null|
+|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
+|**2024-01-25**|**WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models**|Hongliang He et.al.|[2401.13919](http://arxiv.org/abs/2401.13919)|null|
+|**2024-01-25**|**Cross-Modal Prototype based Multimodal Federated Learning under Severely Missing Modality**|Huy Q. Le et.al.|[2401.13898](http://arxiv.org/abs/2401.13898)|null|
+|**2024-01-25**|**Knowledge Graph Supported Benchmark and Video Captioning for Basketball**|Zeyu Xi et.al.|[2401.13888](http://arxiv.org/abs/2401.13888)|null|
 |**2024-01-24**|**VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks**|Jing Yu Koh et.al.|[2401.13649](http://arxiv.org/abs/2401.13649)|null|
 |**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641](http://arxiv.org/abs/2401.13641)|null|
 |**2024-01-24**|**MM-LLMs: Recent Advances in MultiModal Large Language Models**|Duzhen Zhang et.al.|[2401.13601](http://arxiv.org/abs/2401.13601)|null|

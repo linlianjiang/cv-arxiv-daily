@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-13**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
 |**2024-01-08**|**Sur2f: A Hybrid Representation for High-Quality and Efficient Surface Reconstruction from Multi-view Images**|Zhangjin Huang et.al.|[2401.03704](http://arxiv.org/abs/2401.03704)|null|
@@ -1906,6 +1907,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**A growth diagram for plasma-assisted molecular beam epitaxy of GaN nanocolumns on Si(111)**|S. Fernández-Garrido et.al.|[2401.16328](http://arxiv.org/abs/2401.16328)|null|
+|**2024-01-29**|**Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential**|Amanda E. Diegel et.al.|[2401.16316](http://arxiv.org/abs/2401.16316)|null|
+|**2024-01-29**|**Hot bubbles of planetary nebulae with hydrogen-deficient winds. III. Formation and evolution in comparison with hydrogen-rich bubbles**|D. Schönberner et.al.|[2401.16309](http://arxiv.org/abs/2401.16309)|null|
+|**2024-01-29**|**Dual-adatom diffusion-limited growth model for compound nanowires: Application to InAs nanowires**|Danylo Mosiiets et.al.|[2401.16269](http://arxiv.org/abs/2401.16269)|null|
+|**2024-01-29**|**Using multiple Dirac delta points to describe inhomogeneous flux density over a cell boundary in a single-cell diffusion model**|Qiyao Peng et.al.|[2401.16261](http://arxiv.org/abs/2401.16261)|null|
+|**2024-01-29**|**Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**|Zhongjie Duan et.al.|[2401.16224](http://arxiv.org/abs/2401.16224)|null|
+|**2024-01-29**|**Rapidly rotating radiatively driven convection: experimental and numerical validation of the `geostrophic turbulence' scaling predictions**|Gabriel Hadjerci et.al.|[2401.16200](http://arxiv.org/abs/2401.16200)|null|
+|**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
+|**2024-01-29**|**Anomalous quantum transport in fractal lattices**|Abel Rojo-Francàs et.al.|[2401.16077](http://arxiv.org/abs/2401.16077)|null|
+|**2024-01-29**|**Acoustic Screens based on Sonic Crystals with high Diffusion properties**|M. P. Peiró-Torres et.al.|[2401.16074](http://arxiv.org/abs/2401.16074)|null|
 |**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075](http://arxiv.org/abs/2401.15075)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
 |**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045](http://arxiv.org/abs/2401.15045)|null|
 |**2024-01-26**|**Machine learning-based analysis of glioma tissue sections: a review**|Jan-Philipp Redlich et.al.|[2401.15022](http://arxiv.org/abs/2401.15022)|null|
@@ -2903,6 +2914,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|null|
+|**2024-01-29**|**PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**|Yuxuan Sun et.al.|[2401.16355](http://arxiv.org/abs/2401.16355)|null|
+|**2024-01-29**|**Towards Red Teaming in Multimodal and Multilingual Translation**|Christophe Ropers et.al.|[2401.16247](http://arxiv.org/abs/2401.16247)|null|
+|**2024-01-29**|**CognitiveOS: Large Multimodal Model based System to Endow Any Type of Robot with Generative AI**|Artem Lykov et.al.|[2401.16205](http://arxiv.org/abs/2401.16205)|null|
+|**2024-01-29**|**Multimode fiber speckle Stokes polarimeter**|Yuxuan Xiong et.al.|[2401.16168](http://arxiv.org/abs/2401.16168)|null|
+|**2024-01-29**|**LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**|Shaoxiang Chen et.al.|[2401.16160](http://arxiv.org/abs/2401.16160)|null|
+|**2024-01-29**|**Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**|Junyang Wang et.al.|[2401.16158](http://arxiv.org/abs/2401.16158)|null|
+|**2024-01-29**|**Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers**|Amr Gomaa et.al.|[2401.16123](http://arxiv.org/abs/2401.16123)|null|
+|**2024-01-29**|**Bandwidth-induced saturation in multimode fiber-based absorbers**|Kfir Sulimany et.al.|[2401.16121](http://arxiv.org/abs/2401.16121)|null|
+|**2024-01-29**|**Triple Disentangled Representation Learning for Multimodal Affective Analysis**|Ying Zhou et.al.|[2401.16119](http://arxiv.org/abs/2401.16119)|null|
 |**2024-01-26**|**LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents**|Ahmed Masry et.al.|[2401.15050](http://arxiv.org/abs/2401.15050)|null|
 |**2024-01-26**|**On the generalization capacity of neural networks during generic multimodal reasoning**|Takuya Ito et.al.|[2401.15030](http://arxiv.org/abs/2401.15030)|null|
 |**2024-01-26**|**Memory-Inspired Temporal Prompt Interaction for Text-Image Classification**|Xinyao Yu et.al.|[2401.14856](http://arxiv.org/abs/2401.14856)|null|

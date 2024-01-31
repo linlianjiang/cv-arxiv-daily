@@ -1907,6 +1907,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312](http://arxiv.org/abs/2401.17312)|null|
+|**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294](http://arxiv.org/abs/2401.17294)|null|
+|**2024-01-30**|**Discovery of the Goat Horn complex: a $\sim 1000$ deg$^2$ diffuse X-ray source connected to radio loop XII**|Nicola Locatelli et.al.|[2401.17291](http://arxiv.org/abs/2401.17291)|null|
+|**2024-01-30**|**A new understanding of the Gemini-Monoceros X-ray enhancement from discoveries with eROSITA**|Jonathan R. Knies et.al.|[2401.17289](http://arxiv.org/abs/2401.17289)|null|
+|**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283](http://arxiv.org/abs/2401.17283)|null|
+|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258](http://arxiv.org/abs/2401.17258)|null|
+|**2024-01-30**|**Stochastic motions of the two-dimensional many-body delta-Bose gas**|Yu-Ting Chen et.al.|[2401.17243](http://arxiv.org/abs/2401.17243)|null|
+|**2024-01-30**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212](http://arxiv.org/abs/2401.17212)|null|
+|**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
+|**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 |**2024-01-29**|**A growth diagram for plasma-assisted molecular beam epitaxy of GaN nanocolumns on Si(111)**|S. Fernández-Garrido et.al.|[2401.16328](http://arxiv.org/abs/2401.16328)|null|
 |**2024-01-29**|**Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential**|Amanda E. Diegel et.al.|[2401.16316](http://arxiv.org/abs/2401.16316)|null|
 |**2024-01-29**|**Hot bubbles of planetary nebulae with hydrogen-deficient winds. III. Formation and evolution in comparison with hydrogen-rich bubbles**|D. Schönberner et.al.|[2401.16309](http://arxiv.org/abs/2401.16309)|null|
@@ -2914,6 +2924,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244](http://arxiv.org/abs/2401.17244)|null|
+|**2024-01-30**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217](http://arxiv.org/abs/2401.17217)|null|
+|**2024-01-30**|**Self-Supervised Representation Learning for Nerve Fiber Distribution Patterns in 3D-PLI**|Alexander Oberstrass et.al.|[2401.17207](http://arxiv.org/abs/2401.17207)|null|
+|**2024-01-30**|**Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**|Bang Yang et.al.|[2401.17186](http://arxiv.org/abs/2401.17186)|null|
+|**2024-01-30**|**An Open Software Suite for Event-Based Video**|Andrew C. Freeman et.al.|[2401.17151](http://arxiv.org/abs/2401.17151)|null|
+|**2024-01-30**|**M2CURL: Sample-Efficient Multimodal Reinforcement Learning via Self-Supervised Representation Learning for Robotic Manipulation**|Fotios Lygerakis et.al.|[2401.17032](http://arxiv.org/abs/2401.17032)|null|
+|**2024-01-30**|**Retrieving past quantum features with deep hybrid classical-quantum reservoir computing**|Johannes Nokkala et.al.|[2401.16961](http://arxiv.org/abs/2401.16961)|null|
+|**2024-01-30**|**Leveraging Nested MLMC for Sequential Neural Posterior Estimation with Intractable Likelihoods**|Xiliang Yang et.al.|[2401.16776](http://arxiv.org/abs/2401.16776)|null|
+|**2024-01-30**|**Recent Advances in Hate Speech Moderation: Multimodality and the Role of Large Models**|Ming Shan Hee et.al.|[2401.16727](http://arxiv.org/abs/2401.16727)|null|
+|**2024-01-30**|**Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection**|Liangqi Yuan et.al.|[2401.16685](http://arxiv.org/abs/2401.16685)|null|
 |**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-01-29**|**PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**|Yuxuan Sun et.al.|[2401.16355](http://arxiv.org/abs/2401.16355)|null|
 |**2024-01-29**|**Towards Red Teaming in Multimodal and Multilingual Translation**|Christophe Ropers et.al.|[2401.16247](http://arxiv.org/abs/2401.16247)|null|

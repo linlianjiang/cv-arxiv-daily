@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2914,14 +2914,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|null|
+|**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-01-29**|**PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**|Yuxuan Sun et.al.|[2401.16355](http://arxiv.org/abs/2401.16355)|null|
 |**2024-01-29**|**Towards Red Teaming in Multimodal and Multilingual Translation**|Christophe Ropers et.al.|[2401.16247](http://arxiv.org/abs/2401.16247)|null|
 |**2024-01-29**|**CognitiveOS: Large Multimodal Model based System to Endow Any Type of Robot with Generative AI**|Artem Lykov et.al.|[2401.16205](http://arxiv.org/abs/2401.16205)|null|
 |**2024-01-29**|**Multimode fiber speckle Stokes polarimeter**|Yuxuan Xiong et.al.|[2401.16168](http://arxiv.org/abs/2401.16168)|null|
 |**2024-01-29**|**LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**|Shaoxiang Chen et.al.|[2401.16160](http://arxiv.org/abs/2401.16160)|null|
 |**2024-01-29**|**Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**|Junyang Wang et.al.|[2401.16158](http://arxiv.org/abs/2401.16158)|null|
-|**2024-01-29**|**Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers**|Amr Gomaa et.al.|[2401.16123](http://arxiv.org/abs/2401.16123)|null|
+|**2024-01-29**|**Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers**|Amr Gomaa et.al.|[2401.16123](http://arxiv.org/abs/2401.16123)|**[link](https://github.com/amrgomaaelhady/icregress)**|
 |**2024-01-29**|**Bandwidth-induced saturation in multimode fiber-based absorbers**|Kfir Sulimany et.al.|[2401.16121](http://arxiv.org/abs/2401.16121)|null|
 |**2024-01-29**|**Triple Disentangled Representation Learning for Multimodal Affective Analysis**|Ying Zhou et.al.|[2401.16119](http://arxiv.org/abs/2401.16119)|null|
 |**2024-01-26**|**LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents**|Ahmed Masry et.al.|[2401.15050](http://arxiv.org/abs/2401.15050)|null|

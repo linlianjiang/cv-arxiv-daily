@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2928,9 +2928,9 @@ layout: default
 |**2024-01-30**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217](http://arxiv.org/abs/2401.17217)|null|
 |**2024-01-30**|**Self-Supervised Representation Learning for Nerve Fiber Distribution Patterns in 3D-PLI**|Alexander Oberstrass et.al.|[2401.17207](http://arxiv.org/abs/2401.17207)|null|
 |**2024-01-30**|**Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**|Bang Yang et.al.|[2401.17186](http://arxiv.org/abs/2401.17186)|null|
-|**2024-01-30**|**An Open Software Suite for Event-Based Video**|Andrew C. Freeman et.al.|[2401.17151](http://arxiv.org/abs/2401.17151)|null|
+|**2024-01-30**|**An Open Software Suite for Event-Based Video**|Andrew C. Freeman et.al.|[2401.17151](http://arxiv.org/abs/2401.17151)|**[link](https://github.com/ac-freeman/adder-codec-rs)**|
 |**2024-01-30**|**M2CURL: Sample-Efficient Multimodal Reinforcement Learning via Self-Supervised Representation Learning for Robotic Manipulation**|Fotios Lygerakis et.al.|[2401.17032](http://arxiv.org/abs/2401.17032)|null|
-|**2024-01-30**|**Retrieving past quantum features with deep hybrid classical-quantum reservoir computing**|Johannes Nokkala et.al.|[2401.16961](http://arxiv.org/abs/2401.16961)|null|
+|**2024-01-30**|**Retrieving past quantum features with deep hybrid classical-quantum reservoir computing**|Johannes Nokkala et.al.|[2401.16961](http://arxiv.org/abs/2401.16961)|**[link](https://github.com/jsinok/deephybridqrc)**|
 |**2024-01-30**|**Leveraging Nested MLMC for Sequential Neural Posterior Estimation with Intractable Likelihoods**|Xiliang Yang et.al.|[2401.16776](http://arxiv.org/abs/2401.16776)|null|
 |**2024-01-30**|**Recent Advances in Hate Speech Moderation: Multimodality and the Role of Large Models**|Ming Shan Hee et.al.|[2401.16727](http://arxiv.org/abs/2401.16727)|null|
 |**2024-01-30**|**Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection**|Liangqi Yuan et.al.|[2401.16685](http://arxiv.org/abs/2401.16685)|null|

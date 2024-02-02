@@ -1907,6 +1907,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867](http://arxiv.org/abs/2402.00867)|null|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
+|**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807](http://arxiv.org/abs/2402.00807)|null|
+|**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
+|**2024-02-01**|**The Sonora Substellar Atmosphere Models. IV. Elf Owl: Atmospheric Mixing and Chemical Disequilibrium with Varying Metallicity and C/O Ratios**|Sagnick Mukherjee et.al.|[2402.00756](http://arxiv.org/abs/2402.00756)|null|
+|**2024-02-01**|**Neutral carbon in diffuse interstellar medium: abundance matching with H2 for DLAs at high redshifts**|Sergei Balashev et.al.|[2402.00714](http://arxiv.org/abs/2402.00714)|null|
+|**2024-02-01**|**Cylindrically symmetric diffusion model for relativistic heavy-ion collisions**|Johannes Hoelck et.al.|[2402.00628](http://arxiv.org/abs/2402.00628)|null|
+|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
+|**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao et.al.|[2402.00575](http://arxiv.org/abs/2402.00575)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
 |**2024-01-31**|**An electrodynamic wave model for the action potential**|Vitaly L. Galinsky et.al.|[2401.18051](http://arxiv.org/abs/2401.18051)|null|
 |**2024-01-31**|**Reversible, Irreversible and Mixed Regimes for Periodically Driven Disks in Random Obstacle Arrays**|D. Minogue et.al.|[2401.18042](http://arxiv.org/abs/2401.18042)|null|
@@ -2934,6 +2944,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Measuring, processing, and generating partially coherent light with self-configuring optics**|Charles Roques-Carmes et.al.|[2402.00704](http://arxiv.org/abs/2402.00704)|null|
+|**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700](http://arxiv.org/abs/2402.00700)|null|
+|**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|
+|**2024-02-01**|**SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear**|Ziwu Song et.al.|[2402.00585](http://arxiv.org/abs/2402.00585)|null|
+|**2024-02-01**|**The GREENBOT dataset: Multimodal mobile robotic dataset for a typical Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2402.00438](http://arxiv.org/abs/2402.00438)|null|
+|**2024-02-01**|**Disentangled Multimodal Brain MR Image Translation via Transformer-based Modality Infuser**|Jihoon Cho et.al.|[2402.00375](http://arxiv.org/abs/2402.00375)|null|
+|**2024-02-01**|**Safety of Multimodal Large Language Models on Images and Text**|Xin Liu et.al.|[2402.00357](http://arxiv.org/abs/2402.00357)|null|
+|**2024-02-01**|**Multimodal Embodied Interactive Agent for Cafe Scene**|Yang Liu et.al.|[2402.00290](http://arxiv.org/abs/2402.00290)|null|
+|**2024-01-31**|**ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor**|Wen Fan et.al.|[2402.00199](http://arxiv.org/abs/2402.00199)|null|
+|**2024-01-31**|**Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME)**|Simon A. Lee et.al.|[2402.00160](http://arxiv.org/abs/2402.00160)|**[link](https://github.com/Simonlee711/MEME)**|
 |**2024-01-31**|**Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**|Fengyu Yang et.al.|[2401.18084](http://arxiv.org/abs/2401.18084)|null|
 |**2024-01-31**|**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**|Qirui Jiao et.al.|[2401.17981](http://arxiv.org/abs/2401.17981)|null|
 |**2024-01-31**|**Gaussian Entanglement Measure: Applications to Multipartite Entanglement of Graph States and Bosonic Field Theory**|Matteo Gori et.al.|[2401.17938](http://arxiv.org/abs/2401.17938)|null|

@@ -1932,6 +1932,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Revealing crucial effects of reservoir environment and hydrocarbon fractions on fluid behaviour in kaolinite pores**|Rixin Zhao et.al.|[2402.01633](http://arxiv.org/abs/2402.01633)|null|
+|**2024-02-02**|**NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**|Jingyuan Sun et.al.|[2402.01590](http://arxiv.org/abs/2402.01590)|null|
+|**2024-02-02**|**Transformation semigroups and their applications**|Katarzyna Pichór et.al.|[2402.01572](http://arxiv.org/abs/2402.01572)|null|
+|**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/abs/2402.01566)|null|
+|**2024-02-02**|**Resolution dependence of most probable pathways with state-dependent diffusivity**|Alice L. Thorneywork et.al.|[2402.01559](http://arxiv.org/abs/2402.01559)|null|
+|**2024-02-02**|**The galactic bubbles of starburst galaxies The influence of galactic large-scale magnetic fields**|Z. Meliani et.al.|[2402.01541](http://arxiv.org/abs/2402.01541)|null|
+|**2024-02-02**|**Low-Resource Cross-Domain Singing Voice Synthesis via Reduced Self-Supervised Speech Representations**|Panos Kakoulidis et.al.|[2402.01520](http://arxiv.org/abs/2402.01520)|null|
+|**2024-02-02**|**Cross-view Masked Diffusion Transformers for Person Image Synthesis**|Trung X. Pham et.al.|[2402.01516](http://arxiv.org/abs/2402.01516)|null|
+|**2024-02-02**|**Binomial-tree approximation for time-inconsistent stopping**|Erhan Bayraktar et.al.|[2402.01482](http://arxiv.org/abs/2402.01482)|null|
+|**2024-02-02**|**SVI solutions to stochastic nonlinear diffusion equations on general measure spaces**|Benjamin Gess et.al.|[2402.01479](http://arxiv.org/abs/2402.01479)|null|
 |**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867](http://arxiv.org/abs/2402.00867)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
@@ -2971,6 +2981,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Distractor Generation for Multiple-Choice Questions: A Survey of Methods, Datasets, and Evaluation**|Elaf Alhazmi et.al.|[2402.01512](http://arxiv.org/abs/2402.01512)|null|
+|**2024-02-02**|**Del Visual al Auditivo: Sonorización de Escenas Guiada por Imagen**|María Sánchez et.al.|[2402.01385](http://arxiv.org/abs/2402.01385)|null|
+|**2024-02-02**|**Skip $\textbackslash n$ : A simple method to reduce hallucination in Large Vision-Language Models**|Zongbo Han et.al.|[2402.01345](http://arxiv.org/abs/2402.01345)|**[link](https://github.com/hanmenghan/mihio)**|
+|**2024-02-02**|**Deep Multimodal Fusion of Data with Heterogeneous Dimensionality via Projective Networks**|José Morano et.al.|[2402.01311](http://arxiv.org/abs/2402.01311)|**[link](https://github.com/j-morano/multimodal-fusion-fpn)**|
+|**2024-02-02**|**Can MLLMs Perform Text-to-Image In-Context Learning?**|Yuchen Zeng et.al.|[2402.01293](http://arxiv.org/abs/2402.01293)|**[link](https://github.com/uw-madison-lee-lab/cobsat)**|
+|**2024-02-02**|**LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving**|Daocheng Fu et.al.|[2402.01246](http://arxiv.org/abs/2402.01246)|null|
+|**2024-02-02**|**Can Shape-Infused Joint Embeddings Improve Image-Conditioned 3D Diffusion?**|Cristian Sbrolli et.al.|[2402.01241](http://arxiv.org/abs/2402.01241)|null|
+|**2024-02-02**|**2AFC Prompting of Large Multimodal Models for Image Quality Assessment**|Hanwei Zhu et.al.|[2402.01162](http://arxiv.org/abs/2402.01162)|null|
+|**2024-02-01**|**FairEHR-CLP: Towards Fairness-Aware Clinical Predictions with Contrastive Learning in Multimodal Electronic Health Records**|Yuqing Wang et.al.|[2402.00955](http://arxiv.org/abs/2402.00955)|null|
 |**2024-02-01**|**Measuring, processing, and generating partially coherent light with self-configuring optics**|Charles Roques-Carmes et.al.|[2402.00704](http://arxiv.org/abs/2402.00704)|null|
 |**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700](http://arxiv.org/abs/2402.00700)|null|
 |**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|

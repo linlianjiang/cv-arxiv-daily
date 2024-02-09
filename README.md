@@ -1934,6 +1934,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
+|**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|null|
+|**2024-02-08**|**Dirichlet Flow Matching with Applications to DNA Sequence Design**|Hannes Stark et.al.|[2402.05841](http://arxiv.org/abs/2402.05841)|**[link](https://github.com/hannesstark/dirichlet-flow-matching)**|
+|**2024-02-08**|**AvatarMMC: 3D Head Avatar Generation and Editing with Multi-Modal Conditioning**|Wamiq Reyaz Para et.al.|[2402.05803](http://arxiv.org/abs/2402.05803)|null|
+|**2024-02-08**|**Determining the significance and relative importance of parameters of a simulated quenching algorithm using statistical tools**|Pedro A. Castillo et.al.|[2402.05791](http://arxiv.org/abs/2402.05791)|null|
+|**2024-02-08**|**Hydrogen abstraction from metal surfaces: When electron-hole pair excitations strongly affect hot-atom recombination**|Oihana Galparsoro et.al.|[2402.05743](http://arxiv.org/abs/2402.05743)|null|
+|**2024-02-08**|**First operation of a multi-channel Q-Pix prototype: measuring transverse electron diffusion in a gas time projection chamber**|Nora Hoch et.al.|[2402.05734](http://arxiv.org/abs/2402.05734)|null|
+|**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712](http://arxiv.org/abs/2402.05712)|**[link](https://github.com/theericma/diffspeaker)**|
+|**2024-02-08**|**Discovery and characterisation of a new Galactic Planetary Nebula**|W. E. Celnik et.al.|[2402.05658](http://arxiv.org/abs/2402.05658)|null|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
 |**2024-02-07**|**Nature of the diffuse emission sources in the H I supershell in the galaxy IC 1613**|Anastasiya D. Yarovova et.al.|[2402.05107](http://arxiv.org/abs/2402.05107)|null|
 |**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
 |**2024-02-07**|**Convergence of spatial branching processes to $α$ -stable CSBPs: Genealogy of semi-pushed fronts**|Félix Foutel-Rodier et.al.|[2402.05096](http://arxiv.org/abs/2402.05096)|null|
@@ -3013,6 +3023,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935](http://arxiv.org/abs/2402.05935)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930](http://arxiv.org/abs/2402.05930)|null|
+|**2024-02-08**|**An Interactive Agent Foundation Model**|Zane Durante et.al.|[2402.05929](http://arxiv.org/abs/2402.05929)|null|
+|**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889](http://arxiv.org/abs/2402.05889)|null|
+|**2024-02-08**|**Safeguarding Oscillators and Qudits with Distributed Two-Mode Squeezing**|Anthony J. Brady et.al.|[2402.05888](http://arxiv.org/abs/2402.05888)|null|
+|**2024-02-08**|**GET-Tok: A GenAI-Enriched Multimodal TikTok Dataset Documenting the 2022 Attempted Coup in Peru**|Gabriela Pinto et.al.|[2402.05882](http://arxiv.org/abs/2402.05882)|null|
+|**2024-02-08**|**SpiRit-LM: Interleaved Spoken and Written Language Model**|Tu Anh Nguyen et.al.|[2402.05755](http://arxiv.org/abs/2402.05755)|null|
+|**2024-02-08**|**Question Aware Vision Transformer for Multimodal Reasoning**|Roy Ganz et.al.|[2402.05472](http://arxiv.org/abs/2402.05472)|null|
+|**2024-02-08**|**It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition**|Chen Chen et.al.|[2402.05457](http://arxiv.org/abs/2402.05457)|null|
+|**2024-02-08**|**A Survey on Safe Multi-Modal Learning System**|Tianyi Zhao et.al.|[2402.05355](http://arxiv.org/abs/2402.05355)|null|
 |**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090](http://arxiv.org/abs/2402.05090)|null|
 |**2024-02-07**|**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**|Andrew Campbell et.al.|[2402.04997](http://arxiv.org/abs/2402.04997)|**[link](https://github.com/andrew-cr/discrete_flow_models)**|
 |**2024-02-07**|**Text or Image? What is More Important in Cross-Domain Generalization Capabilities of Hate Meme Detection Models?**|Piush Aggarwal et.al.|[2402.04967](http://arxiv.org/abs/2402.04967)|null|

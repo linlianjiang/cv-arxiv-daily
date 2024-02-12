@@ -1869,7 +1869,7 @@ layout: default
 |**2023-11-26**|**Efficient Encoding of Graphics Primitives with Simplex-based Structures**|Yibo Wen et.al.|[2311.15439](http://arxiv.org/abs/2311.15439)|null|
 |**2023-11-21**|**3D Compression Using Neural Fields**|Janis Postels et.al.|[2311.13009](http://arxiv.org/abs/2311.13009)|null|
 |**2023-11-21**|**An $\mathcal{O}(\log_2N)$ SMC$^2$ Algorithm on Distributed Memory with an Approx. Optimal L-Kernel**|Conor Rosato et.al.|[2311.12973](http://arxiv.org/abs/2311.12973)|**[link](https://github.com/j-j-murphy/o-logn-smc-squared-on-mpi)**|
-|**2023-12-02**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-12-02**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
 |**2023-11-29**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754](http://arxiv.org/abs/2311.12754)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning**|Zixuan Xie et.al.|[2311.11825](http://arxiv.org/abs/2311.11825)|null|
@@ -1920,7 +1920,7 @@ layout: default
 |**2024-02-08**|**Discovery and characterisation of a new Galactic Planetary Nebula**|W. E. Celnik et.al.|[2402.05658](http://arxiv.org/abs/2402.05658)|null|
 |**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
 |**2024-02-07**|**Nature of the diffuse emission sources in the H I supershell in the galaxy IC 1613**|Anastasiya D. Yarovova et.al.|[2402.05107](http://arxiv.org/abs/2402.05107)|null|
-|**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
+|**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
 |**2024-02-07**|**Convergence of spatial branching processes to $α$ -stable CSBPs: Genealogy of semi-pushed fronts**|Félix Foutel-Rodier et.al.|[2402.05096](http://arxiv.org/abs/2402.05096)|null|
 |**2024-02-07**|**Interacting particle approximation of cross-diffusion systems**|Jose Antonio Carrillo et.al.|[2402.05094](http://arxiv.org/abs/2402.05094)|null|
 |**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|null|
@@ -1941,10 +1941,10 @@ layout: default
 |**2024-02-06**|**Weibel- and non-resonant Whistler wave growth in an expanding plasma in a 1D simulation geometry**|M E Dieckmann et.al.|[2402.03925](http://arxiv.org/abs/2402.03925)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305](http://arxiv.org/abs/2402.03305)|null|
 |**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292](http://arxiv.org/abs/2402.03292)|null|
-|**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|null|
+|**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|**[link](https://github.com/frank-xwang/InstanceDiffusion)**|
 |**2024-02-05**|**Estimating position-dependent and anisotropic diffusivity tensors from molecular dynamics trajectories: Existing methods and future outlook**|Tiago Domingues et.al.|[2402.03285](http://arxiv.org/abs/2402.03285)|null|
 |**2024-02-05**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214](http://arxiv.org/abs/2402.03214)|null|
-|**2024-02-05**|**Light and Optimal Schrödinger Bridge Matching**|Nikita Gushchin et.al.|[2402.03207](http://arxiv.org/abs/2402.03207)|null|
+|**2024-02-05**|**Light and Optimal Schrödinger Bridge Matching**|Nikita Gushchin et.al.|[2402.03207](http://arxiv.org/abs/2402.03207)|**[link](https://github.com/skholkin/lightsb-matching)**|
 |**2024-02-05**|**Guidance with Spherical Gaussian Constraint for Conditional Diffusion**|Lingxiao Yang et.al.|[2402.03201](http://arxiv.org/abs/2402.03201)|null|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162](http://arxiv.org/abs/2402.03162)|null|
 |**2024-02-05**|**Nonlinear feedback of the electrostatic instability on the blazar-induced pair beam and GeV cascade**|Mahmoud Alawashra et.al.|[2402.03127](http://arxiv.org/abs/2402.03127)|null|
@@ -3130,7 +3130,7 @@ layout: default
 |**2024-01-19**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al.|[2401.10731](http://arxiv.org/abs/2401.10731)|null|
 |**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711](http://arxiv.org/abs/2401.10711)|null|
 |**2024-01-19**|**Attentive Fusion: A Transformer-based Approach to Multimodal Hate Speech Detection**|Atanu Mandal et.al.|[2401.10653](http://arxiv.org/abs/2401.10653)|**[link](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)**|
-|**2024-01-19**|**Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences**|Xiyao Wang et.al.|[2401.10529](http://arxiv.org/abs/2401.10529)|null|
+|**2024-01-19**|**Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences**|Xiyao Wang et.al.|[2401.10529](http://arxiv.org/abs/2401.10529)|**[link](https://github.com/umd-huang-lab/mementos)**|
 |**2024-01-18**|**Precision Franck-Condon spectroscopy from highly-excited vibrational states**|Sindhana Pannir-Sivajothi et.al.|[2401.10384](http://arxiv.org/abs/2401.10384)|**[link](https://github.com/SindhanaPS/Franck-Condon_spectroscopy_measurement)**|
 |**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226](http://arxiv.org/abs/2401.10226)|null|
 |**2024-01-18**|**Developing an AI-based Integrated System for Bee Health Evaluation**|Andrew Liang et.al.|[2401.09988](http://arxiv.org/abs/2401.09988)|null|
@@ -3407,7 +3407,7 @@ layout: default
 |**2023-11-28**|**UniIR: Training and Benchmarking Universal Multimodal Information Retrievers**|Cong Wei et.al.|[2311.17136](http://arxiv.org/abs/2311.17136)|null|
 |**2023-11-28**|**COLE: A Hierarchical Generation Framework for Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
 |**2023-11-28**|**Debiasing Multimodal Models via Causal Information Minimization**|Vaidehi Patil et.al.|[2311.16941](http://arxiv.org/abs/2311.16941)|**[link](https://github.com/vaidehi99/causalinfomin)**|
-|**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|null|
+|**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|**[link](https://github.com/opendatalab/ha-dpo)**|
 |**2023-11-28**|**MultiModal-Learning for Predicting Molecular Properties: A Framework Based on Image and Graph Structures**|Zhuoyuan Wang et.al.|[2311.16666](http://arxiv.org/abs/2311.16666)|null|
 |**2023-11-28**|**Personalized Predictions of Glioblastoma Infiltration: Mathematical Models, Physics-Informed Neural Networks and Multimodal Scans**|Ray Zirui Zhang et.al.|[2311.16536](http://arxiv.org/abs/2311.16536)|null|
 |**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488](http://arxiv.org/abs/2311.16488)|null|
@@ -3847,7 +3847,7 @@ layout: default
 |**2023-09-15**|**The Multimodal Information Based Speech Processing (MISP) 2023 Challenge: Audio-Visual Target Speaker Extraction**|Shilong Wu et.al.|[2309.08348](http://arxiv.org/abs/2309.08348)|null|
 |**2023-09-15**|**One-stage Modality Distillation for Incomplete Multimodal Learning**|Shicai Wei et.al.|[2309.08204](http://arxiv.org/abs/2309.08204)|null|
 |**2023-09-14**|**mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection**|Roberto Daza et.al.|[2309.07880](http://arxiv.org/abs/2309.07880)|**[link](https://github.com/bidalab/mebal2)**|
-|**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794](http://arxiv.org/abs/2309.07794)|null|
+|**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794](http://arxiv.org/abs/2309.07794)|**[link](https://github.com/danaesavi/socialmedia-textimage-classification-auxlosses)**|
 |**2023-09-14**|**GRID: Scene-Graph-based Instruction-driven Robotic Task Planning**|Zhe Ni et.al.|[2309.07726](http://arxiv.org/abs/2309.07726)|null|
 |**2023-09-14**|**NutritionVerse: Empirical Study of Various Dietary Intake Estimation Approaches**|Chi-en Amy Tai et.al.|[2309.07704](http://arxiv.org/abs/2309.07704)|null|
 |**2023-09-14**|**Zero-shot Audio Topic Reranking using Large Language Models**|Mengjie Qian et.al.|[2309.07606](http://arxiv.org/abs/2309.07606)|null|

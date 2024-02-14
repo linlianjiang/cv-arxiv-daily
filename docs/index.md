@@ -1839,6 +1839,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
+|**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138](http://arxiv.org/abs/2402.08138)|null|
 |**2024-02-12**|**Signed Distance Field based Segmentation and Statistical Shape Modelling of the Left Atrial Appendage**|Kristine Aavild Juhl et.al.|[2402.07708](http://arxiv.org/abs/2402.07708)|null|
 |**2024-02-11**|**LISR: Learning Linear 3D Implicit Surface Representation Using Compactly Supported Radial Basis Functions**|Atharva Pandey et.al.|[2402.07301](http://arxiv.org/abs/2402.07301)|null|
 |**2024-01-20**|**Large (and Deep) Factor Models**|Bryan Kelly et.al.|[2402.06635](http://arxiv.org/abs/2402.06635)|null|
@@ -1913,6 +1915,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
+|**2024-02-13**|**Chain Reaction of Ideas: Can Radioactive Decay Predict Technological Innovation?**|Guilherme S. Y. Giardini et.al.|[2402.08681](http://arxiv.org/abs/2402.08681)|null|
+|**2024-02-13**|**Target Score Matching**|Valentin De Bortoli et.al.|[2402.08667](http://arxiv.org/abs/2402.08667)|null|
+|**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654](http://arxiv.org/abs/2402.08654)|null|
+|**2024-02-13**|**Clustering of primordial black holes from quantum diffusion during inflation**|Chiara Animali et.al.|[2402.08642](http://arxiv.org/abs/2402.08642)|null|
+|**2024-02-13**|**Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing**|Yunji Jung et.al.|[2402.08601](http://arxiv.org/abs/2402.08601)|null|
+|**2024-02-13**|**Denoising Diffusion Restoration Tackles Forward and Inverse Problems for the Laplace Operator**|Amartya Mukherjee et.al.|[2402.08563](http://arxiv.org/abs/2402.08563)|null|
+|**2024-02-13**|**Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases**|Ziyi Zhang et.al.|[2402.08552](http://arxiv.org/abs/2402.08552)|null|
+|**2024-02-13**|**Branching Interval Partition Diffusions**|Matthew Buckland et.al.|[2402.08548](http://arxiv.org/abs/2402.08548)|null|
+|**2024-02-13**|**Hyperballistic transport in dense ionized matter under external AC electric fields**|Daniele Gamba et.al.|[2402.08519](http://arxiv.org/abs/2402.08519)|null|
 |**2024-02-12**|**Label-Efficient Model Selection for Text Generation**|Shir Ashury-Tahan et.al.|[2402.07891](http://arxiv.org/abs/2402.07891)|null|
 |**2024-02-12**|**High-order harmonic generation in 2D Transition Metal Disulphides**|Jose Manuel Iglesias et.al.|[2402.07850](http://arxiv.org/abs/2402.07850)|null|
 |**2024-02-12**|**Self-heating effects and switching dynamics in graphene multiterminal Josephson junctions**|Máté Kedves et.al.|[2402.07831](http://arxiv.org/abs/2402.07831)|null|
@@ -3020,6 +3032,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**|Yuqing Liu et.al.|[2402.08670](http://arxiv.org/abs/2402.08670)|null|
+|**2024-02-13**|**PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs**|Michael Dorkenwald et.al.|[2402.08657](http://arxiv.org/abs/2402.08657)|null|
+|**2024-02-13**|**Test-Time Backdoor Attacks on Multimodal Large Language Models**|Dong Lu et.al.|[2402.08577](http://arxiv.org/abs/2402.08577)|**[link](https://github.com/sail-sg/anydoor)**|
+|**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
+|**2024-02-13**|**Captions Are Worth a Thousand Words: Enhancing Product Retrieval with Pretrained Image-to-Text Models**|Jason Tang et.al.|[2402.08532](http://arxiv.org/abs/2402.08532)|null|
+|**2024-02-13**|**Mood as a Contextual Cue for Improved Emotion Inference**|Soujanya Narayana et.al.|[2402.08413](http://arxiv.org/abs/2402.08413)|null|
+|**2024-02-13**|**Visual Question Answering Instruction: Unlocking Multimodal Large Language Model To Domain-Specific Visual Multitasks**|Jusung Lee et.al.|[2402.08360](http://arxiv.org/abs/2402.08360)|null|
+|**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327](http://arxiv.org/abs/2402.08327)|null|
+|**2024-02-13**|**Classification Using Global and Local Mahalanobis Distances**|Annesha Ghosh et.al.|[2402.08283](http://arxiv.org/abs/2402.08283)|null|
+|**2024-02-13**|**World Model on Million-Length Video And Language With RingAttention**|Hao Liu et.al.|[2402.08268](http://arxiv.org/abs/2402.08268)|**[link](https://github.com/LargeWorldModel/LWM)**|
 |**2024-02-12**|**MODIPHY: Multimodal Obscured Detection for IoT using PHantom Convolution-Enabled Faster YOLO**|Shubhabrata Mukherjee et.al.|[2402.07894](http://arxiv.org/abs/2402.07894)|**[link](https://github.com/shubha07m/On-device-computer-vision-experiments-with-IoT)**|
 |**2024-02-12**|**Asking Multimodal Clarifying Questions in Mixed-Initiative Conversational Search**|Yifei Yuan et.al.|[2402.07742](http://arxiv.org/abs/2402.07742)|null|
 |**2024-02-12**|**Multimodal Learned Sparse Retrieval for Image Suggestion**|Thong Nguyen et.al.|[2402.07736](http://arxiv.org/abs/2402.07736)|null|

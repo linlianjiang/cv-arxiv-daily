@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.15
+## Updated on 2024.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3045,7 +3045,7 @@ layout: default
 |**2024-02-14**|**OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**|Yutao Hu et.al.|[2402.09181](http://arxiv.org/abs/2402.09181)|null|
 |**2024-02-14**|**Headset: Human emotion awareness under partial occlusions multimodal dataset**|Fatemeh Ghorbani Lohesara et.al.|[2402.09107](http://arxiv.org/abs/2402.09107)|null|
 |**2024-02-14**|**Exploring Federated Deep Learning for Standardising Naming Conventions in Radiotherapy Data**|Ali Haidar et.al.|[2402.08999](http://arxiv.org/abs/2402.08999)|null|
-|**2024-02-13**|**Approximate Sequential Optimization for Informative Path Planning**|Joshua Ott et.al.|[2402.08841](http://arxiv.org/abs/2402.08841)|null|
+|**2024-02-13**|**Approximate Sequential Optimization for Informative Path Planning**|Joshua Ott et.al.|[2402.08841](http://arxiv.org/abs/2402.08841)|**[link](https://github.com/sisl/InformativePathPlanning)**|
 |**2024-02-13**|**An Adaptive System Architecture for Multimodal Intelligent Transportation Systems**|Muhammad Farooq et.al.|[2402.08817](http://arxiv.org/abs/2402.08817)|null|
 |**2024-02-13**|**Learning How To Ask: Cycle-Consistency Refines Prompts in Multimodal Foundation Models**|Maurice Diesendruck et.al.|[2402.08756](http://arxiv.org/abs/2402.08756)|null|
 |**2024-02-13**|**Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**|Yuqing Liu et.al.|[2402.08670](http://arxiv.org/abs/2402.08670)|null|

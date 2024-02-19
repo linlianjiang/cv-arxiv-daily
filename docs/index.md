@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1922,7 +1922,7 @@ layout: default
 |**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204](http://arxiv.org/abs/2402.10204)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
 |**2024-02-15**|**Tracer dynamics in polymer networks: generalized Langevin description**|Sebastian Milster et.al.|[2402.10148](http://arxiv.org/abs/2402.10148)|null|
 |**2024-02-15**|**Energy Flux Decomposition in Magnetohydrodynamic Turbulence**|D. Capocci et.al.|[2402.10125](http://arxiv.org/abs/2402.10125)|null|
-|**2024-02-15**|**A Blob Method for Mean Field Control With Terminal Constraints**|Katy Craig et.al.|[2402.10124](http://arxiv.org/abs/2402.10124)|null|
+|**2024-02-15**|**A Blob Method for Mean Field Control With Terminal Constraints**|Katy Craig et.al.|[2402.10124](http://arxiv.org/abs/2402.10124)|**[link](https://github.com/harlinlee/blobot)**|
 |**2024-02-15**|**Collision efficiency of droplets across diffusive, electrostatic and inertial regimes**|Florian Poydenot et.al.|[2402.10117](http://arxiv.org/abs/2402.10117)|null|
 |**2024-02-15**|**Quantized Embedding Vectors for Controllable Diffusion Language Models**|Cheng Kang et.al.|[2402.10107](http://arxiv.org/abs/2402.10107)|null|
 |**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|

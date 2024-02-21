@@ -1916,6 +1916,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Nonequilibrium fluctuations of chemical reaction networks at criticality: The Schlögl model as paradigmatic case**|Benedikt Remlein et.al.|[2402.13168](http://arxiv.org/abs/2402.13168)|null|
+|**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144](http://arxiv.org/abs/2402.13144)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
+|**2024-02-20**|**Ultrafast lattice disordering can be accelerated by electronic collisional forces**|Gilberto A. de la Pena Munoz et.al.|[2402.13133](http://arxiv.org/abs/2402.13133)|null|
+|**2024-02-20**|**How accurate are simulations and experiments for the lattice energies of molecular crystals?**|Flaviano Della Pia et.al.|[2402.13059](http://arxiv.org/abs/2402.13059)|null|
+|**2024-02-20**|**Excited state-specific CASSCF theory for the torsion of ethylene**|Sandra Saade et.al.|[2402.13046](http://arxiv.org/abs/2402.13046)|null|
+|**2024-02-20**|**Text-Guided Molecule Generation with Diffusion Language Model**|Haisong Gong et.al.|[2402.13040](http://arxiv.org/abs/2402.13040)|**[link](https://github.com/deno-v/tgm-dlm)**|
+|**2024-02-20**|**The Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids**|Thibaut Arnoulx de Pirey et.al.|[2402.12996](http://arxiv.org/abs/2402.12996)|null|
+|**2024-02-20**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
+|**2024-02-20**|**CLIPping the Deception: Adapting Vision-Language Models for Universal Deepfake Detection**|Sohail Ahmed Khan et.al.|[2402.12927](http://arxiv.org/abs/2402.12927)|null|
+|**2024-02-20**|**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**|Xinchen Zhang et.al.|[2402.12908](http://arxiv.org/abs/2402.12908)|**[link](https://github.com/yangling0818/realcompo)**|
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376](http://arxiv.org/abs/2402.12376)|**[link](https://github.com/whlzy/fit)**|
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290](http://arxiv.org/abs/2402.12290)|null|
 |**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272](http://arxiv.org/abs/2402.12272)|null|
@@ -3073,6 +3083,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254](http://arxiv.org/abs/2402.13254)|null|
+|**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232](http://arxiv.org/abs/2402.13232)|null|
+|**2024-02-20**|**How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts**|Yusu Qian et.al.|[2402.13220](http://arxiv.org/abs/2402.13220)|null|
+|**2024-02-20**|**Exploring AI-assisted Ideation and Prototyping for Choreography**|Yimeng Liu et.al.|[2402.13123](http://arxiv.org/abs/2402.13123)|null|
+|**2024-02-20**|**An Introduction to Causal Inference Methods with Multi-omics Data**|Minhao Yao et.al.|[2402.13100](http://arxiv.org/abs/2402.13100)|null|
+|**2024-02-20**|**SoMeLVLM: A Large Vision Language Model for Social Media Processing**|Xinnong Zhang et.al.|[2402.13022](http://arxiv.org/abs/2402.13022)|null|
+|**2024-02-20**|**ConVQG: Contrastive Visual Question Generation with Multimodal Guidance**|Li Mi et.al.|[2402.12846](http://arxiv.org/abs/2402.12846)|null|
+|**2024-02-20**|**MORE-3S:Multimodal-based Offline Reinforcement Learning with Shared Semantic Spaces**|Tianyu Zheng et.al.|[2402.12845](http://arxiv.org/abs/2402.12845)|**[link](https://github.com/zheng0428/more_)**|
+|**2024-02-20**|**Model Composition for Multimodal Large Language Models**|Chi Chen et.al.|[2402.12750](http://arxiv.org/abs/2402.12750)|null|
+|**2024-02-20**|**APT-MMF: An advanced persistent threat actor attribution method based on multimodal and multilevel feature fusion**|Nan Xiao et.al.|[2402.12743](http://arxiv.org/abs/2402.12743)|null|
 |**2024-02-19**|**AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**|Jun Zhan et.al.|[2402.12226](http://arxiv.org/abs/2402.12226)|null|
 |**2024-02-19**|**Browse and Concentrate: Comprehending Multimodal Content via prior-LLM Context Fusion**|Ziyue Wang et.al.|[2402.12195](http://arxiv.org/abs/2402.12195)|null|
 |**2024-02-19**|**Towards AI-Based Precision Oncology: A Machine Learning Framework for Personalized Counterfactual Treatment Suggestions based on Multi-Omics Data**|Manuel Schürch et.al.|[2402.12190](http://arxiv.org/abs/2402.12190)|null|

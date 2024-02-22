@@ -1941,6 +1941,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**D-Flow: Differentiating through Flows for Controlled Generation**|Heli Ben-Hamu et.al.|[2402.14017](http://arxiv.org/abs/2402.14017)|null|
+|**2024-02-21**|**SDXL-Lightning: Progressive Adversarial Diffusion Distillation**|Shanchuan Lin et.al.|[2402.13929](http://arxiv.org/abs/2402.13929)|null|
+|**2024-02-21**|**Non-asymptotic Convergence of Discrete-time Diffusion Models: New Approach and Improved Rate**|Yuchen Liang et.al.|[2402.13901](http://arxiv.org/abs/2402.13901)|null|
+|**2024-02-21**|**Conformal and nonminimal couplings in fractional cosmology**|Kevin Marroquín et.al.|[2402.13850](http://arxiv.org/abs/2402.13850)|null|
+|**2024-02-21**|**The influence of thermal pressure gradients and ionization (im)balance on the ambipolar diffusion and charge-neutral drifts**|M. M. Gómez-Míguez et.al.|[2402.13813](http://arxiv.org/abs/2402.13813)|null|
+|**2024-02-21**|**NeuralDiffuser: Controllable fMRI Reconstruction with Primary Visual Feature Guided Diffusion**|Haoyu Li et.al.|[2402.13809](http://arxiv.org/abs/2402.13809)|null|
+|**2024-02-21**|**The Geography of Information Diffusion in Online Discourse on Europe and Migration**|Elisa Leonardelli et.al.|[2402.13800](http://arxiv.org/abs/2402.13800)|null|
+|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|null|
+|**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776](http://arxiv.org/abs/2402.13776)|null|
+|**2024-02-21**|**Music Style Transfer with Time-Varying Inversion of Diffusion Models**|Sifei Li et.al.|[2402.13763](http://arxiv.org/abs/2402.13763)|null|
 |**2024-02-20**|**Nonequilibrium fluctuations of chemical reaction networks at criticality: The Schlögl model as paradigmatic case**|Benedikt Remlein et.al.|[2402.13168](http://arxiv.org/abs/2402.13168)|null|
 |**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144](http://arxiv.org/abs/2402.13144)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
 |**2024-02-20**|**Ultrafast lattice disordering can be accelerated by electronic collisional forces**|Gilberto A. de la Pena Munoz et.al.|[2402.13133](http://arxiv.org/abs/2402.13133)|null|
@@ -3110,6 +3120,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
+|**2024-02-21**|**Distinctive Image Captioning: Leveraging Ground Truth Captions in CLIP Guided Reinforcement Learning**|Antoine Chaffin et.al.|[2402.13936](http://arxiv.org/abs/2402.13936)|**[link](https://github.com/nohtow/wtf-rl)**|
+|**2024-02-21**|**RealDex: Towards Human-like Grasping for Robotic Dexterous Hand**|Yumeng Liu et.al.|[2402.13853](http://arxiv.org/abs/2402.13853)|null|
+|**2024-02-21**|**VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models**|Jiawei Liang et.al.|[2402.13851](http://arxiv.org/abs/2402.13851)|null|
+|**2024-02-21**|**CMNER: A Chinese Multimodal NER Dataset based on Social Media**|Yuanze Ji et.al.|[2402.13693](http://arxiv.org/abs/2402.13693)|null|
+|**2024-02-21**|**CODIS: Benchmarking Context-Dependent Visual Comprehension for Multimodal Large Language Models**|Fuwen Luo et.al.|[2402.13607](http://arxiv.org/abs/2402.13607)|null|
+|**2024-02-21**|**A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation**|Yunxin Li et.al.|[2402.13587](http://arxiv.org/abs/2402.13587)|null|
+|**2024-02-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al.|[2402.13577](http://arxiv.org/abs/2402.13577)|null|
+|**2024-02-21**|**Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment**|Yunxin Li et.al.|[2402.13561](http://arxiv.org/abs/2402.13561)|null|
+|**2024-02-20**|**Aria Everyday Activities Dataset**|Zhaoyang Lv et.al.|[2402.13349](http://arxiv.org/abs/2402.13349)|**[link](https://github.com/facebookresearch/projectaria_tools)**|
 |**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254](http://arxiv.org/abs/2402.13254)|null|
 |**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232](http://arxiv.org/abs/2402.13232)|null|
 |**2024-02-20**|**How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts**|Yusu Qian et.al.|[2402.13220](http://arxiv.org/abs/2402.13220)|null|

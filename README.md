@@ -1942,6 +1942,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Seamless Human Motion Composition with Blended Positional Encodings**|German Barquero et.al.|[2402.15509](http://arxiv.org/abs/2402.15509)|**[link](https://github.com/BarqueroGerman/FlowMDM)**|
+|**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504](http://arxiv.org/abs/2402.15504)|**[link](https://github.com/louisYen/Gen4Gen)**|
+|**2024-02-23**|**Length and Velocity Scales in Protoplanetary Disk Turbulence**|Debanjan Sengupta et.al.|[2402.15475](http://arxiv.org/abs/2402.15475)|null|
+|**2024-02-23**|**Solute transport due to periodic loading in a soft porous material**|Matilde Fiori et.al.|[2402.15451](http://arxiv.org/abs/2402.15451)|null|
+|**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
+|**2024-02-23**|**Dendrites with corners**|Enugala Sumanth Nani et.al.|[2402.15394](http://arxiv.org/abs/2402.15394)|null|
+|**2024-02-23**|**Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory**|Weichen Zhao et.al.|[2402.15326](http://arxiv.org/abs/2402.15326)|null|
+|**2024-02-23**|**Ubiquitous short-range order in multi-principal element alloys**|Ying Han et.al.|[2402.15305](http://arxiv.org/abs/2402.15305)|null|
+|**2024-02-23**|**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**|Shunyu Liu et.al.|[2402.15289](http://arxiv.org/abs/2402.15289)|**[link](https://github.com/qlb6x/diffusionabsa)**|
+|**2024-02-23**|**Generative Modelling with Tensor Train approximations of Hamilton--Jacobi--Bellman equations**|David Sommer et.al.|[2402.15285](http://arxiv.org/abs/2402.15285)|null|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
 |**2024-02-22**|**GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion**|Xueyi Liu et.al.|[2402.14810](http://arxiv.org/abs/2402.14810)|**[link](https://github.com/meowuu7/geneoh-diffusion)**|
 |**2024-02-22**|**Consolidating Attention Features for Multi-view Image Editing**|Or Patashnik et.al.|[2402.14792](http://arxiv.org/abs/2402.14792)|null|
@@ -3131,6 +3141,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation**|Hanxiao Jiang et.al.|[2402.15487](http://arxiv.org/abs/2402.15487)|null|
+|**2024-02-23**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
+|**2024-02-23**|**Polarization splitter rotator on thin film lithium niobate based on multimode interference**|Mengke Wang et.al.|[2402.15203](http://arxiv.org/abs/2402.15203)|null|
+|**2024-02-23**|**Large Multimodal Agents: A Survey**|Junlin Xie et.al.|[2402.15116](http://arxiv.org/abs/2402.15116)|null|
+|**2024-02-23**|**Multimodal Transformer With a Low-Computational-Cost Guarantee**|Sungjin Park et.al.|[2402.15096](http://arxiv.org/abs/2402.15096)|null|
+|**2024-02-22**|**GenCeption: Evaluate Multimodal LLMs with Unlabeled Unimodal Data**|Lele Cao et.al.|[2402.14973](http://arxiv.org/abs/2402.14973)|null|
+|**2024-02-22**|**Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning Meets Adversarial Images**|Zefeng Wang et.al.|[2402.14899](http://arxiv.org/abs/2402.14899)|null|
 |**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
 |**2024-02-22**|**Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset**|Ke Wang et.al.|[2402.14804](http://arxiv.org/abs/2402.14804)|null|
 |**2024-02-22**|**Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective**|Zihao Yue et.al.|[2402.14545](http://arxiv.org/abs/2402.14545)|**[link](https://github.com/yuezih/less-is-more)**|

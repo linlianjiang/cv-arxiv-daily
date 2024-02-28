@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1918,6 +1918,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Small-Scale Anisotropies of Cosmic Rays from Turbulent Flow**|Yiran Zhang et.al.|[2402.16554](http://arxiv.org/abs/2402.16554)|null|
+|**2024-02-26**|**Exact relations between the conductivities and their connection to the chemical composition of QCD matter**|Jan A. Fotakis et.al.|[2402.16552](http://arxiv.org/abs/2402.16552)|null|
 |**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506](http://arxiv.org/abs/2402.16506)|null|
 |**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421](http://arxiv.org/abs/2402.16421)|null|
 |**2024-02-26**|**Renormalisation Group Methods for Effective Epidemiological Models**|Stefan Hohenegger et.al.|[2402.16409](http://arxiv.org/abs/2402.16409)|null|
@@ -3129,7 +3131,7 @@ layout: default
 |**2024-02-26**|**Audio-Visual Speech Enhancement in Noisy Environments via Emotion-Based Contextual Cues**|Tassadaq Hussain et.al.|[2402.16394](http://arxiv.org/abs/2402.16394)|null|
 |**2024-02-26**|**Gradient-Guided Modality Decoupling for Missing-Modality Robustness**|Hao Wang et.al.|[2402.16318](http://arxiv.org/abs/2402.16318)|null|
 |**2024-02-25**|**RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis**|Yao Mu et.al.|[2402.16117](http://arxiv.org/abs/2402.16117)|null|
-|**2024-02-25**|**Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability**|Xin Zhou et.al.|[2402.16110](http://arxiv.org/abs/2402.16110)|null|
+|**2024-02-25**|**Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability**|Xin Zhou et.al.|[2402.16110](http://arxiv.org/abs/2402.16110)|**[link](https://github.com/enoche/dgvae)**|
 |**2024-02-25**|**Behavioral Refinement via Interpolant-based Policy Diffusion**|Kaiqi Chen et.al.|[2402.16075](http://arxiv.org/abs/2402.16075)|null|
 |**2024-02-25**|**Unmasking Dementia Detection by Masking Input Gradients: A JSM Approach to Model Interpretability and Precision**|Yasmine Mustafa et.al.|[2402.16008](http://arxiv.org/abs/2402.16008)|null|
 |**2024-02-24**|**Multimodal Instruction Tuning with Conditional Mixture of LoRA**|Ying Shen et.al.|[2402.15896](http://arxiv.org/abs/2402.15896)|null|

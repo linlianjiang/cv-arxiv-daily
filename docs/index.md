@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Square-difference factor absorbing ideals of a commutative ring**|David F. Anderson et.al.|[2402.18704](http://arxiv.org/abs/2402.18704)|null|
 |**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062](http://arxiv.org/abs/2402.17062)|**[link](https://github.com/amathislab/hoisdf)**|
 |**2024-02-23**|**CharacterMixer: Rig-Aware Interpolation of 3D Characters**|Xiao Zhan et.al.|[2402.15580](http://arxiv.org/abs/2402.15580)|null|
 |**2024-02-22**|**TaylorGrid: Towards Fast and High-Quality Implicit Field Learning via Direct Taylor-based Grid Optimization**|Renyi Mao et.al.|[2402.14415](http://arxiv.org/abs/2402.14415)|null|
@@ -1919,6 +1920,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|**[link](https://github.com/mit-han-lab/distrifuser)**|
+|**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470](http://arxiv.org/abs/2402.19470)|null|
+|**2024-02-29**|**Anomalous contribution to galactic rotation curves due to stochastic spacetime**|Jonathan Oppenheim et.al.|[2402.19459](http://arxiv.org/abs/2402.19459)|null|
+|**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455](http://arxiv.org/abs/2402.19455)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
+|**2024-02-29**|**Structure Preserving Diffusion Models**|Haoye Lu et.al.|[2402.19369](http://arxiv.org/abs/2402.19369)|null|
+|**2024-02-29**|**A new analytical model of the cosmic-ray energy flux for Galactic diffuse radio emission**|Andrea Bracco et.al.|[2402.19367](http://arxiv.org/abs/2402.19367)|null|
+|**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330](http://arxiv.org/abs/2402.19330)|null|
+|**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302](http://arxiv.org/abs/2402.19302)|**[link](https://github.com/iit-pavis/diffassemble)**|
+|**2024-02-29**|**Modeling the Progenitor Stars of Observed IIP Supernovae**|Kai-An You et.al.|[2402.19260](http://arxiv.org/abs/2402.19260)|null|
+|**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196](http://arxiv.org/abs/2402.19196)|null|
 |**2024-02-28**|**Logarithmic Sobolev Inequalities for Bounded Domains and Applications to Drift-Diffusion Equations**|Elie Abdo et.al.|[2402.18572](http://arxiv.org/abs/2402.18572)|null|
 |**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567](http://arxiv.org/abs/2402.18567)|null|
 |**2024-02-28**|**Photon statistics of resonantly driven spectrally diffusive quantum emitters**|Aymeric Delteil et.al.|[2402.18542](http://arxiv.org/abs/2402.18542)|null|
@@ -3148,6 +3159,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479](http://arxiv.org/abs/2402.19479)|null|
+|**2024-02-29**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467](http://arxiv.org/abs/2402.19467)|null|
+|**2024-02-29**|**Vision-Radio Experimental Infrastructure Architecture Towards 6G**|Filipe B. Teixeira et.al.|[2402.19416](http://arxiv.org/abs/2402.19416)|null|
+|**2024-02-29**|**MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation**|Jinfeng Xu et.al.|[2402.19407](http://arxiv.org/abs/2402.19407)|**[link](https://github.com/jinfeng-xu/mentor)**|
+|**2024-02-29**|**Navigating Hallucinations for Reasoning of Unintentional Activities**|Shresth Grover et.al.|[2402.19405](http://arxiv.org/abs/2402.19405)|null|
+|**2024-02-29**|**Entity-Aware Multimodal Alignment Framework for News Image Captioning**|Junzhe Zhang et.al.|[2402.19404](http://arxiv.org/abs/2402.19404)|null|
+|**2024-02-29**|**Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook**|Xingchen Zou et.al.|[2402.19348](http://arxiv.org/abs/2402.19348)|**[link](https://github.com/yoshall/awesome-multimodal-urban-computing)**|
+|**2024-02-29**|**MaskFi: Unsupervised Learning of WiFi and Vision Representations for Multimodal Human Activity Recognition**|Jianfei Yang et.al.|[2402.19258](http://arxiv.org/abs/2402.19258)|null|
+|**2024-02-29**|**Conversational Language Models for Human-in-the-Loop Multi-Robot Coordination**|William Hunt et.al.|[2402.19166](http://arxiv.org/abs/2402.19166)|null|
+|**2024-02-29**|**Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts**|Hao Cheng et.al.|[2402.19150](http://arxiv.org/abs/2402.19150)|null|
 |**2024-02-28**|**Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images**|Jiarui Xing et.al.|[2402.18507](http://arxiv.org/abs/2402.18507)|null|
 |**2024-02-28**|**FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**|Wentao Zhang et.al.|[2402.18485](http://arxiv.org/abs/2402.18485)|null|
 |**2024-02-28**|**Prediction of recurrence free survival of head and neck cancer using PET/CT radiomics and clinical information**|Mona Furukawa et.al.|[2402.18417](http://arxiv.org/abs/2402.18417)|null|

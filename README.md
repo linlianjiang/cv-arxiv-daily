@@ -1945,6 +1945,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329](http://arxiv.org/abs/2403.01329)|null|
+|**2024-03-02**|**Longtime behavior of semilinear multi-term fractional in time diffusion**|Nataliya Vasylyeva et.al.|[2403.01302](http://arxiv.org/abs/2403.01302)|null|
+|**2024-03-02**|**Anomalous mass dependency in Hydra endoderm cell cluster diffusion**|Aline Lütz et.al.|[2403.01294](http://arxiv.org/abs/2403.01294)|null|
+|**2024-03-02**|**On the Arnold diffusion mechanism in Medium Earth Orbit**|Elisa Maria Alessi et.al.|[2403.01283](http://arxiv.org/abs/2403.01283)|null|
+|**2024-03-02**|**Rigidity results for group von Neumann algebras with diffuse center**|Ionuţ Chifan et.al.|[2403.01280](http://arxiv.org/abs/2403.01280)|null|
+|**2024-03-02**|**Analyzing the transport coefficients and observables of a rotating QGP medium in kinetic theory framework with a novel approach to the collision integral**|Shubhalaxmi Rath et.al.|[2403.01240](http://arxiv.org/abs/2403.01240)|null|
+|**2024-03-02**|**DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction**|Junwen Xiong et.al.|[2403.01226](http://arxiv.org/abs/2403.01226)|null|
+|**2024-03-02**|**TCIG: Two-Stage Controlled Image Generation with Quality Enhancement through Diffusion**|Salaheldin Mohamed et.al.|[2403.01212](http://arxiv.org/abs/2403.01212)|null|
+|**2024-03-02**|**Atacama Large Aperture Submillimeter Telescope (AtLAST) science: Gas and dust in nearby galaxies**|Daizhong Liu et.al.|[2403.01202](http://arxiv.org/abs/2403.01202)|null|
+|**2024-03-02**|**Modelling ion acceleration and transport in corotating interaction regions: the mass-to-charge ratio dependence of the particle spectrum**|Zheyi Ding et.al.|[2403.01201](http://arxiv.org/abs/2403.01201)|null|
 |**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|null|
 |**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470](http://arxiv.org/abs/2402.19470)|null|
 |**2024-02-29**|**Anomalous contribution to galactic rotation curves due to stochastic spacetime**|Jonathan Oppenheim et.al.|[2402.19459](http://arxiv.org/abs/2402.19459)|null|
@@ -3186,6 +3196,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**ICC: Quantifying Image Caption Concreteness for Multimodal Dataset Curation**|Moran Yanuka et.al.|[2403.01306](http://arxiv.org/abs/2403.01306)|null|
+|**2024-03-02**|**REWIND Dataset: Privacy-preserving Speaking Status Segmentation from Multimodal Body Movement Signals in the Wild**|Jose Vargas Quiros et.al.|[2403.01229](http://arxiv.org/abs/2403.01229)|null|
+|**2024-03-02**|**Adversarial Testing for Visual Grounding via Image-Aware Property Reduction**|Zhiyuan Chang et.al.|[2403.01118](http://arxiv.org/abs/2403.01118)|null|
+|**2024-03-01**|**Peacock: A Family of Arabic Multimodal Large Language Models and Benchmarks**|Fakhraddin Alwajih et.al.|[2403.01031](http://arxiv.org/abs/2403.01031)|**[link](https://github.com/ubc-nlp/peacock)**|
+|**2024-03-01**|**MAIDR: Making Statistical Visualizations Accessible with Multimodal Data Representation**|JooYoung Seo et.al.|[2403.00717](http://arxiv.org/abs/2403.00717)|null|
+|**2024-03-01**|**Open Assistant Toolkit -- version 2**|Sophie Fischer et.al.|[2403.00586](http://arxiv.org/abs/2403.00586)|null|
+|**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/abs/2403.00436)|null|
+|**2024-03-01**|**Exploring the dynamic interplay of cognitive load and emotional arousal by using multimodal measurements: Correlation of pupil diameter and emotional arousal in emotionally engaging tasks**|C. Kosel et.al.|[2403.00366](http://arxiv.org/abs/2403.00366)|null|
+|**2024-03-01**|**Never-Ending Embodied Robot Learning**|Wenqi Liang et.al.|[2403.00336](http://arxiv.org/abs/2403.00336)|null|
+|**2024-03-01**|**Crosstalk-Robust Quantum Control in Multimode Bosonic Systems**|Xinyuan You et.al.|[2403.00275](http://arxiv.org/abs/2403.00275)|null|
 |**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479](http://arxiv.org/abs/2402.19479)|null|
 |**2024-03-01**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467](http://arxiv.org/abs/2402.19467)|null|
 |**2024-02-29**|**Vision-Radio Experimental Infrastructure Architecture Towards 6G**|Filipe B. Teixeira et.al.|[2402.19416](http://arxiv.org/abs/2402.19416)|null|

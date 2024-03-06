@@ -1839,6 +1839,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Semantic Human Mesh Reconstruction with Textures**|Xiaoyu Zhan et.al.|[2403.02561](http://arxiv.org/abs/2403.02561)|null|
+|**2024-03-04**|**MagicClay: Sculpting Meshes With Generative Neural Fields**|Amir Barda et.al.|[2403.02460](http://arxiv.org/abs/2403.02460)|null|
+|**2024-03-04**|**AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes**|Jaehoon Jang et.al.|[2403.01861](http://arxiv.org/abs/2403.01861)|null|
+|**2024-03-03**|**Unsigned Orthogonal Distance Fields: An Accurate Neural Implicit Representation for Diverse 3D Shapes**|Yujie Lu et.al.|[2403.01414](http://arxiv.org/abs/2403.01414)|null|
 |**2024-02-28**|**Square-difference factor absorbing ideals of a commutative ring**|David F. Anderson et.al.|[2402.18704](http://arxiv.org/abs/2402.18704)|null|
 |**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062](http://arxiv.org/abs/2402.17062)|**[link](https://github.com/amathislab/hoisdf)**|
 |**2024-02-23**|**CharacterMixer: Rig-Aware Interpolation of 3D Characters**|Xiao Zhan et.al.|[2402.15580](http://arxiv.org/abs/2402.15580)|null|
@@ -1920,6 +1924,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Moment estimates, exponential integrability, concentration inequalities and exit times estimates on evolving manifolds**|Robert Baumgarth et.al.|[2403.03209](http://arxiv.org/abs/2403.03209)|null|
+|**2024-03-05**|**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**|Patrick Esser et.al.|[2403.03206](http://arxiv.org/abs/2403.03206)|null|
+|**2024-03-05**|**MAGID: An Automated Pipeline for Generating Synthetic Multi-modal Datasets**|Hossein Aboutalebi et.al.|[2403.03194](http://arxiv.org/abs/2403.03194)|null|
+|**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181](http://arxiv.org/abs/2403.03181)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
+|**2024-03-05**|**The Amplitude Equation for the Space-Fractional Swift-Hohenberg Equation**|Christian Kuehn et.al.|[2403.03158](http://arxiv.org/abs/2403.03158)|null|
+|**2024-03-05**|**On dynamics of gasless combustion in slowly varying periodic media: periodic fronts, their stability and propagation-extinction-diffusion-reignition pattern**|Amanda Matson et.al.|[2403.03144](http://arxiv.org/abs/2403.03144)|null|
+|**2024-03-05**|**Enhanced beam-beam modeling to include longitudinal variation during weak-strong simulation**|Derong Xu et.al.|[2403.03137](http://arxiv.org/abs/2403.03137)|null|
+|**2024-03-05**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100](http://arxiv.org/abs/2403.03100)|null|
+|**2024-03-05**|**Proof-of-concept for a nonadditive stochastic model of supercooled liquids**|Antonio Cesar do Prado Rosa Junior et.al.|[2403.03041](http://arxiv.org/abs/2403.03041)|null|
+|**2024-03-05**|**Global N-body Simulation of Gap Edge Structures Created by Perturbations from a Small Satellite Embedded in Saturn's Rings**|Naoya Torii et.al.|[2403.03012](http://arxiv.org/abs/2403.03012)|null|
 |**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329](http://arxiv.org/abs/2403.01329)|null|
 |**2024-03-02**|**Longtime behavior of semilinear multi-term fractional in time diffusion**|Nataliya Vasylyeva et.al.|[2403.01302](http://arxiv.org/abs/2403.01302)|null|
 |**2024-03-02**|**Anomalous mass dependency in Hydra endoderm cell cluster diffusion**|Aline Lütz et.al.|[2403.01294](http://arxiv.org/abs/2403.01294)|null|
@@ -3169,6 +3183,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**MAGID: An Automated Pipeline for Generating Synthetic Multi-modal Datasets**|Hossein Aboutalebi et.al.|[2403.03194](http://arxiv.org/abs/2403.03194)|null|
+|**2024-03-05**|**Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study**|Weihao Tan et.al.|[2403.03186](http://arxiv.org/abs/2403.03186)|**[link](https://github.com/baai-agents/cradle)**|
+|**2024-03-05**|**Realistic photon-number resolution in Gaussian Boson Sampling**|I. S. Yeremenko et.al.|[2403.03184](http://arxiv.org/abs/2403.03184)|null|
+|**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181](http://arxiv.org/abs/2403.03181)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
+|**2024-03-05**|**SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**|Peng Qi et.al.|[2403.03170](http://arxiv.org/abs/2403.03170)|null|
+|**2024-03-05**|**Design2Code: How Far Are We From Automating Front-End Engineering?**|Chenglei Si et.al.|[2403.03163](http://arxiv.org/abs/2403.03163)|null|
+|**2024-03-05**|**Demonstrating efficient and robust bosonic state reconstruction via optimized excitation counting**|Tanjung Krisnanda et.al.|[2403.03080](http://arxiv.org/abs/2403.03080)|null|
+|**2024-03-05**|**Detecting Concrete Visual Tokens for Multimodal Machine Translation**|Braeden Bowen et.al.|[2403.03075](http://arxiv.org/abs/2403.03075)|null|
+|**2024-03-05**|**Adding Multimodal Capabilities to a Text-only Translation Model**|Vipin Vijayan et.al.|[2403.03045](http://arxiv.org/abs/2403.03045)|null|
+|**2024-03-05**|**The Case for Evaluating Multimodal Translation Models on Text Datasets**|Vipin Vijayan et.al.|[2403.03014](http://arxiv.org/abs/2403.03014)|null|
 |**2024-03-02**|**ICC: Quantifying Image Caption Concreteness for Multimodal Dataset Curation**|Moran Yanuka et.al.|[2403.01306](http://arxiv.org/abs/2403.01306)|null|
 |**2024-03-02**|**REWIND Dataset: Privacy-preserving Speaking Status Segmentation from Multimodal Body Movement Signals in the Wild**|Jose Vargas Quiros et.al.|[2403.01229](http://arxiv.org/abs/2403.01229)|null|
 |**2024-03-02**|**Adversarial Testing for Visual Grounding via Image-Aware Property Reduction**|Zhiyuan Chang et.al.|[2403.01118](http://arxiv.org/abs/2403.01118)|null|

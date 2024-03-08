@@ -1924,6 +1924,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Effects of mechanical stress, chemical potential, and coverage on hydrogen solubility during hydrogen enhanced decohesion of ferritic steel grain boundaries: A first-principles study**|Abril Azocar Guzman et.al.|[2403.04741](http://arxiv.org/abs/2403.04741)|null|
+|**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722](http://arxiv.org/abs/2403.04722)|null|
+|**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701](http://arxiv.org/abs/2403.04701)|null|
+|**2024-03-07**|**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.|[2403.04700](http://arxiv.org/abs/2403.04700)|**[link](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**|
+|**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
+|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
+|**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
+|**2024-03-07**|**Dynamic critical behavior of the chiral phase transition from the real-time functional renormalization group**|Johannes V. Roth et.al.|[2403.04573](http://arxiv.org/abs/2403.04573)|null|
+|**2024-03-07**|**Rescaled Mode-Coupling Scheme for the Quantitative Description of Experimentally Observed Colloid Dynamics**|Joel Diaz Maier et.al.|[2403.04556](http://arxiv.org/abs/2403.04556)|null|
+|**2024-03-07**|**Poisson equation with measure data, reconstruction formula and Doob classes of processes**|Andrzej Rozkosz et.al.|[2403.04543](http://arxiv.org/abs/2403.04543)|null|
 |**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954](http://arxiv.org/abs/2403.03954)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
 |**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|null|
 |**2024-03-06**|**Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**|Xiao Ma et.al.|[2403.03890](http://arxiv.org/abs/2403.03890)|null|
@@ -3193,6 +3203,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**SnapNTell: Enhancing Entity-Centric Visual Question Answering with Retrieval Augmented Multimodal LLM**|Jielin Qiu et.al.|[2403.04735](http://arxiv.org/abs/2403.04735)|null|
+|**2024-03-07**|**Yi: Open Foundation Models by 01.AI**|01. AI et.al.|[2403.04652](http://arxiv.org/abs/2403.04652)|null|
+|**2024-03-07**|**Context-Based Multimodal Fusion**|Bilal Faye et.al.|[2403.04650](http://arxiv.org/abs/2403.04650)|null|
+|**2024-03-07**|**CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios**|Qilang Ye et.al.|[2403.04640](http://arxiv.org/abs/2403.04640)|**[link](https://github.com/rikeilong/bay-cat)**|
+|**2024-03-07**|**MedFLIP: Medical Vision-and-Language Self-supervised Fast Pre-Training with Masked Autoencoder**|Lei Li et.al.|[2403.04626](http://arxiv.org/abs/2403.04626)|null|
+|**2024-03-07**|**Repelling-Attracting Hamiltonian Monte Carlo**|Siddharth Vishwanath et.al.|[2403.04607](http://arxiv.org/abs/2403.04607)|null|
+|**2024-03-07**|**Zero-shot cross-modal transfer of Reinforcement Learning policies through a Global Workspace**|Léopold Maytié et.al.|[2403.04588](http://arxiv.org/abs/2403.04588)|null|
+|**2024-03-07**|**CLIP the Bias: How Useful is Balancing Data in Multimodal Learning?**|Ibrahim Alabdulmohsin et.al.|[2403.04547](http://arxiv.org/abs/2403.04547)|null|
+|**2024-03-07**|**Ducho 2.0: Towards a More Up-to-Date Feature Extraction and Processing Framework for Multimodal Recommendation**|Matteo Attimonelli et.al.|[2403.04503](http://arxiv.org/abs/2403.04503)|**[link](https://github.com/sisinflab/ducho)**|
+|**2024-03-07**|**TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**|Yuliang Liu et.al.|[2403.04473](http://arxiv.org/abs/2403.04473)|**[link](https://github.com/yuliang-liu/monkey)**|
 |**2024-03-06**|**Can Audio Reveal Music Performance Difficulty? Insights from the Piano Syllabus Dataset**|Pedro Ramoneda et.al.|[2403.03947](http://arxiv.org/abs/2403.03947)|null|
 |**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864](http://arxiv.org/abs/2403.03864)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
 |**2024-03-06**|**A Modular Approach for Multimodal Summarization of TV Shows**|Louis Mahon et.al.|[2403.03823](http://arxiv.org/abs/2403.03823)|null|

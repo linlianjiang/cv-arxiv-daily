@@ -1857,7 +1857,7 @@ layout: default
 |**2024-02-05**|**TensoSDF: Roughness-aware Tensorial Representation for Robust Geometry and Material Reconstruction**|Jia Li et.al.|[2402.02771](http://arxiv.org/abs/2402.02771)|null|
 |**2024-02-03**|**NeuV-SLAM: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM**|Wenzhi Guo et.al.|[2402.02020](http://arxiv.org/abs/2402.02020)|null|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
-|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|**[link](https://github.com/pcl3dv/dunerf)**|
 |**2024-01-13**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
 |**2024-01-08**|**Sur2f: A Hybrid Representation for High-Quality and Efficient Surface Reconstruction from Multi-view Images**|Zhangjin Huang et.al.|[2401.03704](http://arxiv.org/abs/2401.03704)|null|
 |**2024-01-07**|**N $^{3}$ -Mapping: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping**|Shuangfu Song et.al.|[2401.03412](http://arxiv.org/abs/2401.03412)|null|
@@ -1935,7 +1935,7 @@ layout: default
 |**2024-03-07**|**Rescaled Mode-Coupling Scheme for the Quantitative Description of Experimentally Observed Colloid Dynamics**|Joel Diaz Maier et.al.|[2403.04556](http://arxiv.org/abs/2403.04556)|null|
 |**2024-03-07**|**Poisson equation with measure data, reconstruction formula and Doob classes of processes**|Andrzej Rozkosz et.al.|[2403.04543](http://arxiv.org/abs/2403.04543)|null|
 |**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954](http://arxiv.org/abs/2403.03954)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
-|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|null|
+|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|**[link](https://github.com/cywinski/guide)**|
 |**2024-03-06**|**Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**|Xiao Ma et.al.|[2403.03890](http://arxiv.org/abs/2403.03890)|null|
 |**2024-03-06**|**Towards a Schauder theory for fractional viscous Hamilton--Jacobi equations**|Espen R. Jakobsen et.al.|[2403.03884](http://arxiv.org/abs/2403.03884)|null|
 |**2024-03-06**|**Latent Dataset Distillation with Diffusion Models**|Brian B. Moser et.al.|[2403.03881](http://arxiv.org/abs/2403.03881)|null|
@@ -2885,7 +2885,7 @@ layout: default
 |**2023-10-17**|**Photospheric aluminium abundances of A-type main-sequence stars**|Yoichi Takeda et.al.|[2310.11181](http://arxiv.org/abs/2310.11181)|null|
 |**2023-10-17**|**A diffusive wetting model for water entry/exit based on the weakly-compressible SPH method**|Shuoguo Zhang et.al.|[2310.11179](http://arxiv.org/abs/2310.11179)|null|
 |**2023-10-17**|**Leveraging Content-based Features from Multiple Acoustic Models for Singing Voice Conversion**|Xueyao Zhang et.al.|[2310.11160](http://arxiv.org/abs/2310.11160)|**[link](https://github.com/open-mmlab/Amphion/tree/main/egs/svc/MultipleContentsSVC)**|
-|**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
+|**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|**[link](https://github.com/karrykkk/bayesdiff)**|
 |**2023-10-17**|**3D Structure-guided Network for Tooth Alignment in 2D Photograph**|Yulong Dou et.al.|[2310.11106](http://arxiv.org/abs/2310.11106)|**[link](https://github.com/douyl/2DToothAlignment)**|
 |**2023-10-17**|**A Lp-Theory for fractional stationary Navier-Stokes equations**|Oscar Jarrín et.al.|[2310.11078](http://arxiv.org/abs/2310.11078)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
@@ -3235,7 +3235,7 @@ layout: default
 |**2024-03-02**|**REWIND Dataset: Privacy-preserving Speaking Status Segmentation from Multimodal Body Movement Signals in the Wild**|Jose Vargas Quiros et.al.|[2403.01229](http://arxiv.org/abs/2403.01229)|null|
 |**2024-03-02**|**Adversarial Testing for Visual Grounding via Image-Aware Property Reduction**|Zhiyuan Chang et.al.|[2403.01118](http://arxiv.org/abs/2403.01118)|null|
 |**2024-03-01**|**Peacock: A Family of Arabic Multimodal Large Language Models and Benchmarks**|Fakhraddin Alwajih et.al.|[2403.01031](http://arxiv.org/abs/2403.01031)|**[link](https://github.com/ubc-nlp/peacock)**|
-|**2024-03-01**|**MAIDR: Making Statistical Visualizations Accessible with Multimodal Data Representation**|JooYoung Seo et.al.|[2403.00717](http://arxiv.org/abs/2403.00717)|null|
+|**2024-03-01**|**MAIDR: Making Statistical Visualizations Accessible with Multimodal Data Representation**|JooYoung Seo et.al.|[2403.00717](http://arxiv.org/abs/2403.00717)|**[link](https://github.com/xability/maidr)**|
 |**2024-03-01**|**Open Assistant Toolkit -- version 2**|Sophie Fischer et.al.|[2403.00586](http://arxiv.org/abs/2403.00586)|null|
 |**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/abs/2403.00436)|null|
 |**2024-03-01**|**Exploring the dynamic interplay of cognitive load and emotional arousal by using multimodal measurements: Correlation of pupil diameter and emotional arousal in emotionally engaging tasks**|C. Kosel et.al.|[2403.00366](http://arxiv.org/abs/2403.00366)|null|
@@ -3257,7 +3257,7 @@ layout: default
 |**2024-02-28**|**Multimode Interferometers: an Analytical Method for Determining the Accumulated Phase Difference Between the Fundamental Mode and One Arbitrary High-Order Mode**|Yuri Hayashi Isayama et.al.|[2402.18408](http://arxiv.org/abs/2402.18408)|null|
 |**2024-02-28**|**UKF-Based Sensor Fusion for Joint-Torque Sensorless Humanoid Robots**|Ines Sorrentino et.al.|[2402.18380](http://arxiv.org/abs/2402.18380)|null|
 |**2024-02-28**|**A Multimodal Handover Failure Detection Dataset and Baselines**|Santosh Thoduka et.al.|[2402.18319](http://arxiv.org/abs/2402.18319)|null|
-|**2024-02-28**|**Hierarchical Multimodal Pre-training for Visually Rich Webpage Understanding**|Hongshen Xu et.al.|[2402.18262](http://arxiv.org/abs/2402.18262)|null|
+|**2024-02-28**|**Hierarchical Multimodal Pre-training for Visually Rich Webpage Understanding**|Hongshen Xu et.al.|[2402.18262](http://arxiv.org/abs/2402.18262)|**[link](https://github.com/x-lance/weblm)**|
 |**2024-02-28**|**MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery**|Feihong Lu et.al.|[2402.18169](http://arxiv.org/abs/2402.18169)|null|
 |**2024-02-28**|**DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning**|Jianxiong Li et.al.|[2402.18137](http://arxiv.org/abs/2402.18137)|null|
 |**2024-02-28**|**Multimodal Interaction Modeling via Self-Supervised Multi-Task Learning for Review Helpfulness Prediction**|HongLin Gong et.al.|[2402.18107](http://arxiv.org/abs/2402.18107)|null|
@@ -3304,7 +3304,7 @@ layout: default
 |**2024-02-21**|**VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models**|Jiawei Liang et.al.|[2402.13851](http://arxiv.org/abs/2402.13851)|null|
 |**2024-02-21**|**CMNER: A Chinese Multimodal NER Dataset based on Social Media**|Yuanze Ji et.al.|[2402.13693](http://arxiv.org/abs/2402.13693)|**[link](https://github.com/jyz99/cmner)**|
 |**2024-02-21**|**CODIS: Benchmarking Context-Dependent Visual Comprehension for Multimodal Large Language Models**|Fuwen Luo et.al.|[2402.13607](http://arxiv.org/abs/2402.13607)|null|
-|**2024-02-21**|**A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation**|Yunxin Li et.al.|[2402.13587](http://arxiv.org/abs/2402.13587)|null|
+|**2024-02-21**|**A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation**|Yunxin Li et.al.|[2402.13587](http://arxiv.org/abs/2402.13587)|**[link](https://github.com/hitsz-tmg/multimodal-in-context-tuning)**|
 |**2024-02-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al.|[2402.13577](http://arxiv.org/abs/2402.13577)|null|
 |**2024-02-21**|**Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment**|Yunxin Li et.al.|[2402.13561](http://arxiv.org/abs/2402.13561)|null|
 |**2024-02-20**|**Aria Everyday Activities Dataset**|Zhaoyang Lv et.al.|[2402.13349](http://arxiv.org/abs/2402.13349)|**[link](https://github.com/facebookresearch/projectaria_tools)**|
@@ -3467,7 +3467,7 @@ layout: default
 |**2024-01-29**|**Bandwidth-induced saturation in multimode fiber-based absorbers**|Kfir Sulimany et.al.|[2401.16121](http://arxiv.org/abs/2401.16121)|null|
 |**2024-01-29**|**Triple Disentangled Representation Learning for Multimodal Affective Analysis**|Ying Zhou et.al.|[2401.16119](http://arxiv.org/abs/2401.16119)|null|
 |**2024-01-26**|**LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents**|Ahmed Masry et.al.|[2401.15050](http://arxiv.org/abs/2401.15050)|null|
-|**2024-01-26**|**On the generalization capacity of neural networks during generic multimodal reasoning**|Takuya Ito et.al.|[2401.15030](http://arxiv.org/abs/2401.15030)|null|
+|**2024-01-26**|**On the generalization capacity of neural networks during generic multimodal reasoning**|Takuya Ito et.al.|[2401.15030](http://arxiv.org/abs/2401.15030)|**[link](https://github.com/ibm/gcog)**|
 |**2024-01-26**|**Memory-Inspired Temporal Prompt Interaction for Text-Image Classification**|Xinyao Yu et.al.|[2401.14856](http://arxiv.org/abs/2401.14856)|null|
 |**2024-01-26**|**Design and Optimization of a Graphene-On-Silicon Nitride Integrated Waveguide Dual-Mode Electro-Absorption Modulator**|Fernando Martín-Romero et.al.|[2401.14812](http://arxiv.org/abs/2401.14812)|null|
 |**2024-01-26**|**Synthetic Multimodal Dataset for Empowering Safety and Well-being in Home Environments**|Takanori Ugai et.al.|[2401.14743](http://arxiv.org/abs/2401.14743)|null|
@@ -3677,7 +3677,7 @@ layout: default
 |**2023-12-19**|**A Large-Scale Dataset of Search Interests Related to Disease X Originating from Different Geographic Regions**|Nirmalya Thakur et.al.|[2312.11885](http://arxiv.org/abs/2312.11885)|null|
 |**2023-12-19**|**A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking**|Shezheng Song et.al.|[2312.11816](http://arxiv.org/abs/2312.11816)|**[link](https://github.com/season1blue/dwe)**|
 |**2023-12-19**|**Gemini: A Family of Highly Capable Multimodal Models**|Gemini Team et.al.|[2312.11805](http://arxiv.org/abs/2312.11805)|**[link](https://github.com/lupantech/MathVista)**|
-|**2023-12-18**|**Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output Distributions**|David D. Nguyen et.al.|[2312.11735](http://arxiv.org/abs/2312.11735)|null|
+|**2023-12-18**|**Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output Distributions**|David D. Nguyen et.al.|[2312.11735](http://arxiv.org/abs/2312.11735)|**[link](https://github.com/dngu7/multiple-hypothesis-dropout)**|
 |**2023-12-18**|**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**|Jiahui Gao et.al.|[2312.11370](http://arxiv.org/abs/2312.11370)|**[link](https://github.com/pipilurj/g-llava)**|
 |**2023-12-18**|**Frequency Spectrum is More Effective for Multimodal Representation and Fusion: A Multimodal Spectrum Rumor Detector**|An Lao et.al.|[2312.11023](http://arxiv.org/abs/2312.11023)|**[link](https://github.com/dm4m/fsru)**|
 |**2023-12-18**|**From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape**|Timothy R. McIntosh et.al.|[2312.10868](http://arxiv.org/abs/2312.10868)|null|
@@ -4231,7 +4231,7 @@ layout: default
 |**2023-09-15**|**One-stage Modality Distillation for Incomplete Multimodal Learning**|Shicai Wei et.al.|[2309.08204](http://arxiv.org/abs/2309.08204)|null|
 |**2023-09-14**|**mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection**|Roberto Daza et.al.|[2309.07880](http://arxiv.org/abs/2309.07880)|**[link](https://github.com/bidalab/mebal2)**|
 |**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794](http://arxiv.org/abs/2309.07794)|**[link](https://github.com/danaesavi/socialmedia-textimage-classification-auxlosses)**|
-|**2023-09-14**|**GRID: Scene-Graph-based Instruction-driven Robotic Task Planning**|Zhe Ni et.al.|[2309.07726](http://arxiv.org/abs/2309.07726)|null|
+|**2023-09-14**|**GRID: Scene-Graph-based Instruction-driven Robotic Task Planning**|Zhe Ni et.al.|[2309.07726](http://arxiv.org/abs/2309.07726)|**[link](https://github.com/jackyzengl/GRID)**|
 |**2023-09-14**|**NutritionVerse: Empirical Study of Various Dietary Intake Estimation Approaches**|Chi-en Amy Tai et.al.|[2309.07704](http://arxiv.org/abs/2309.07704)|null|
 |**2023-09-14**|**Zero-shot Audio Topic Reranking using Large Language Models**|Mengjie Qian et.al.|[2309.07606](http://arxiv.org/abs/2309.07606)|null|
 |**2023-09-14**|**Training Audio Captioning Models without Audio**|Soham Deshmukh et.al.|[2309.07372](http://arxiv.org/abs/2309.07372)|**[link](https://github.com/microsoft/noaudiocaptioning)**|

@@ -1924,6 +1924,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
+|**2024-03-08**|**Radiation transport methods in star formation simulations**|Richard Wünsch et.al.|[2403.05410](http://arxiv.org/abs/2403.05410)|null|
+|**2024-03-08**|**Simulating conditioned diffusions on manifolds**|Marc Corstanje et.al.|[2403.05409](http://arxiv.org/abs/2403.05409)|null|
+|**2024-03-08**|**An implicit algorithm for simulating the dynamics of small dust grains with smoothed particle hydrodynamics**|Daniel Elsender et.al.|[2403.05345](http://arxiv.org/abs/2403.05345)|null|
+|**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[2403.05327](http://arxiv.org/abs/2403.05327)|null|
+|**2024-03-08**|**Disorder-induced instability of a Weyl nodal loop semimetal towards a diffusive topological metal with protected multifractal surface states**|João S. Silva et.al.|[2403.05298](http://arxiv.org/abs/2403.05298)|null|
+|**2024-03-08**|**Neutrino fluxes from different classes of galactic sources**|Silvia Gagliardini et.al.|[2403.05288](http://arxiv.org/abs/2403.05288)|null|
+|**2024-03-08**|**Patricia's Bad Distributions**|Louigi Addario-Berry et.al.|[2403.05269](http://arxiv.org/abs/2403.05269)|null|
+|**2024-03-08**|**Non-additivity in many-body interactions between membrane-deforming spheres increases disorder**|Ali Azadbakht et.al.|[2403.05253](http://arxiv.org/abs/2403.05253)|null|
+|**2024-03-08**|**Noise Level Adaptive Diffusion Model for Robust Reconstruction of Accelerated MRI**|Shoujin Huang et.al.|[2403.05245](http://arxiv.org/abs/2403.05245)|null|
 |**2024-03-07**|**Effects of mechanical stress, chemical potential, and coverage on hydrogen solubility during hydrogen enhanced decohesion of ferritic steel grain boundaries: A first-principles study**|Abril Azocar Guzman et.al.|[2403.04741](http://arxiv.org/abs/2403.04741)|null|
 |**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722](http://arxiv.org/abs/2403.04722)|null|
 |**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701](http://arxiv.org/abs/2403.04701)|null|
@@ -3203,6 +3213,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530](http://arxiv.org/abs/2403.05530)|null|
+|**2024-03-08**|**Unity by Diversity: Improved Representation Learning in Multimodal VAEs**|Thomas M. Sutter et.al.|[2403.05300](http://arxiv.org/abs/2403.05300)|**[link](https://github.com/thomassutter/mmvampvae)**|
+|**2024-03-08**|**ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models**|Jio Oh et.al.|[2403.05266](http://arxiv.org/abs/2403.05266)|**[link](https://github.com/dilab-kaist/erbench)**|
+|**2024-03-08**|**Theory of Multimode Squeezed Light Generation in Lossy Media**|Denis A. Kopylov et.al.|[2403.05259](http://arxiv.org/abs/2403.05259)|null|
+|**2024-03-08**|**Synthetic Privileged Information Enhances Medical Image Representation Learning**|Lucas Farndale et.al.|[2403.05220](http://arxiv.org/abs/2403.05220)|null|
+|**2024-03-08**|**Unlocking the Potential of Multimodal Unified Discrete Representation through Training-Free Codebook Optimization and Hierarchical Alignment**|Hai Huang et.al.|[2403.05168](http://arxiv.org/abs/2403.05168)|**[link](https://github.com/haihuangcode/toc_h-dcid)**|
+|**2024-03-08**|**Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval**|Haochen Han et.al.|[2403.05105](http://arxiv.org/abs/2403.05105)|null|
+|**2024-03-08**|**Multimodal Infusion Tuning for Large Models**|Hao Sun et.al.|[2403.05060](http://arxiv.org/abs/2403.05060)|null|
+|**2024-03-08**|**XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution**|Yunpeng Qu et.al.|[2403.05049](http://arxiv.org/abs/2403.05049)|null|
+|**2024-03-08**|**BjTT: A Large-scale Multimodal Dataset for Traffic Prediction**|Chengyang Zhang et.al.|[2403.05029](http://arxiv.org/abs/2403.05029)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
 |**2024-03-07**|**SnapNTell: Enhancing Entity-Centric Visual Question Answering with Retrieval Augmented Multimodal LLM**|Jielin Qiu et.al.|[2403.04735](http://arxiv.org/abs/2403.04735)|null|
 |**2024-03-07**|**Yi: Open Foundation Models by 01.AI**|01. AI et.al.|[2403.04652](http://arxiv.org/abs/2403.04652)|**[link](https://github.com/01-ai/yi)**|
 |**2024-03-08**|**Context-Based Multimodal Fusion**|Bilal Faye et.al.|[2403.04650](http://arxiv.org/abs/2403.04650)|null|

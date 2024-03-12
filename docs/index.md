@@ -1924,6 +1924,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976](http://arxiv.org/abs/2403.06976)|null|
+|**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
+|**2024-03-11**|**POD-ROM methods: from a finite set of snapshots to continuous-in-time approximations**|Bosco Garcia-Archilla et.al.|[2403.06967](http://arxiv.org/abs/2403.06967)|null|
+|**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
+|**2024-03-11**|**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations**|Tianhao Qi et.al.|[2403.06951](http://arxiv.org/abs/2403.06951)|null|
+|**2024-03-11**|**Conditional Score-Based Diffusion Model for Cortical Thickness Trajectory Prediction**|Qing Xiao et.al.|[2403.06940](http://arxiv.org/abs/2403.06940)|null|
+|**2024-03-11**|**Anderson-Higgs amplitude mode in Josephson junctions**|Pierre Vallet et.al.|[2403.06878](http://arxiv.org/abs/2403.06878)|null|
+|**2024-03-11**|**Estimation of parameters and local times in a discretely observed threshold diffusion model**|Sara Mazzonetto et.al.|[2403.06858](http://arxiv.org/abs/2403.06858)|null|
+|**2024-03-11**|**Orbital relaxation length from first-principles scattering calculations**|Max Rang et.al.|[2403.06827](http://arxiv.org/abs/2403.06827)|null|
+|**2024-03-11**|**A quasilinear Keller-Segel model with saturated discontinuous advection**|Maria Gualdani et.al.|[2403.06820](http://arxiv.org/abs/2403.06820)|null|
 |**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
 |**2024-03-08**|**Radiation transport methods in star formation simulations**|Richard Wünsch et.al.|[2403.05410](http://arxiv.org/abs/2403.05410)|null|
 |**2024-03-08**|**Simulating conditioned diffusions on manifolds**|Marc Corstanje et.al.|[2403.05409](http://arxiv.org/abs/2403.05409)|null|
@@ -3213,6 +3223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks**|Muhammad Saif Ullah Khan et.al.|[2403.06904](http://arxiv.org/abs/2403.06904)|null|
+|**2024-03-11**|**HiRA-Pro: High resolution alignment of multimodal spatio-temporal data: a process physics driven approach**|Abhishek Hanchate et.al.|[2403.06888](http://arxiv.org/abs/2403.06888)|null|
+|**2024-03-11**|**DiaLoc: An Iterative Approach to Embodied Dialog Localization**|Chao Zhang et.al.|[2403.06846](http://arxiv.org/abs/2403.06846)|null|
+|**2024-03-11**|**CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging**|Ibrahim Ethem Hamamci et.al.|[2403.06801](http://arxiv.org/abs/2403.06801)|null|
+|**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|null|
+|**2024-03-11**|**Large Model driven Radiology Report Generation with Clinical Quality Reinforcement Learning**|Zijian Zhou et.al.|[2403.06728](http://arxiv.org/abs/2403.06728)|null|
+|**2024-03-11**|**Multimodal Transformers for Real-Time Surgical Activity Prediction**|Keshara Weerasinghe et.al.|[2403.06705](http://arxiv.org/abs/2403.06705)|null|
+|**2024-03-11**|**Restoring Ancient Ideograph: A Multimodal Multitask Neural Network Approach**|Siyu Duan et.al.|[2403.06682](http://arxiv.org/abs/2403.06682)|**[link](https://github.com/cissyduan/mmrm)**|
+|**2024-03-11**|**Answering Diverse Questions via Text Attached with Key Audio-Visual Clues**|Qilang Ye et.al.|[2403.06679](http://arxiv.org/abs/2403.06679)|null|
+|**2024-03-11**|**Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement**|Che Liu et.al.|[2403.06659](http://arxiv.org/abs/2403.06659)|null|
 |**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530](http://arxiv.org/abs/2403.05530)|null|
 |**2024-03-08**|**Unity by Diversity: Improved Representation Learning in Multimodal VAEs**|Thomas M. Sutter et.al.|[2403.05300](http://arxiv.org/abs/2403.05300)|**[link](https://github.com/thomassutter/mmvampvae)**|
 |**2024-03-08**|**ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models**|Jio Oh et.al.|[2403.05266](http://arxiv.org/abs/2403.05266)|**[link](https://github.com/dilab-kaist/erbench)**|

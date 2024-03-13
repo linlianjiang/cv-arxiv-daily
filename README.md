@@ -1949,6 +1949,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860](http://arxiv.org/abs/2403.07860)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
+|**2024-03-12**|**Fragmentation of Dense Rotation-Dominated Structures Fed by Collapsing Gravomagneto-Sheetlets and Origin of Misaligned 100 au-Scale Binaries and Multiple Systems**|Yisheng Tu et.al.|[2403.07777](http://arxiv.org/abs/2403.07777)|null|
+|**2024-03-12**|**SemCity: Semantic Scene Generation with Triplane Diffusion**|Jumin Lee et.al.|[2403.07773](http://arxiv.org/abs/2403.07773)|**[link](https://github.com/zoomin-lee/semcity)**|
+|**2024-03-12**|**A first principles study of the Stark shift effect on the zero-phonon line of the NV center in diamond**|Louis Alaerts et.al.|[2403.07771](http://arxiv.org/abs/2403.07771)|null|
+|**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
+|**2024-03-12**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721](http://arxiv.org/abs/2403.07721)|null|
+|**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
+|**2024-03-12**|**Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal**|Yijun Yang et.al.|[2403.07684](http://arxiv.org/abs/2403.07684)|null|
 |**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976](http://arxiv.org/abs/2403.06976)|null|
 |**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
 |**2024-03-11**|**POD-ROM methods: from a finite set of snapshots to continuous-in-time approximations**|Bosco Garcia-Archilla et.al.|[2403.06967](http://arxiv.org/abs/2403.06967)|null|
@@ -3250,6 +3260,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Fine-tuning Large Language Models with Sequential Instructions**|Hanxu Hu et.al.|[2403.07794](http://arxiv.org/abs/2403.07794)|**[link](https://github.com/hanxuhu/seq_it)**|
+|**2024-03-12**|**WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?**|Alexandre Drouin et.al.|[2403.07718](http://arxiv.org/abs/2403.07718)|null|
+|**2024-03-12**|**Bring Event into RGB and LiDAR: Hierarchical Visual-Motion Fusion for Scene Flow**|Hanyu Zhou et.al.|[2403.07432](http://arxiv.org/abs/2403.07432)|null|
+|**2024-03-12**|**In-context learning enables multimodal large language models to classify cancer pathology images**|Dyke Ferber et.al.|[2403.07407](http://arxiv.org/abs/2403.07407)|null|
+|**2024-03-12**|**KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**|Han Huang et.al.|[2403.07350](http://arxiv.org/abs/2403.07350)|null|
+|**2024-03-12**|**Lumen: Unleashing Versatile Vision-Centric Capabilities of Large Multimodal Models**|Yang Jiao et.al.|[2403.07304](http://arxiv.org/abs/2403.07304)|**[link](https://github.com/sxjyjay/lumen)**|
+|**2024-03-12**|**Let Storytelling Tell Vivid Stories: An Expressive and Fluent Multimodal Storyteller**|Chuanqi Zang et.al.|[2403.07301](http://arxiv.org/abs/2403.07301)|null|
+|**2024-03-12**|**The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models**|Lei Chen et.al.|[2403.07257](http://arxiv.org/abs/2403.07257)|null|
+|**2024-03-12**|**GuideGen: A Text-guided Framework for Joint CT Volume and Anatomical structure Generation**|Linrui Dai et.al.|[2403.07247](http://arxiv.org/abs/2403.07247)|null|
+|**2024-03-12**|**Tractable Joint Prediction and Planning over Discrete Behavior Modes for Urban Driving**|Adam Villaflor et.al.|[2403.07232](http://arxiv.org/abs/2403.07232)|null|
 |**2024-03-11**|**FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks**|Muhammad Saif Ullah Khan et.al.|[2403.06904](http://arxiv.org/abs/2403.06904)|null|
 |**2024-03-11**|**HiRA-Pro: High resolution alignment of multimodal spatio-temporal data: a process physics driven approach**|Abhishek Hanchate et.al.|[2403.06888](http://arxiv.org/abs/2403.06888)|null|
 |**2024-03-11**|**DiaLoc: An Iterative Approach to Embodied Dialog Localization**|Chao Zhang et.al.|[2403.06846](http://arxiv.org/abs/2403.06846)|null|

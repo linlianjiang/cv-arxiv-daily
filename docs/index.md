@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design and Graph-Based Drag Prediction**|Mohamed Elrefaie et.al.|[2403.08055](http://arxiv.org/abs/2403.08055)|**[link](https://github.com/mohamedelrefaie/drivaernet)**|
 |**2024-03-05**|**Semantic Human Mesh Reconstruction with Textures**|Xiaoyu Zhan et.al.|[2403.02561](http://arxiv.org/abs/2403.02561)|null|
 |**2024-03-04**|**MagicClay: Sculpting Meshes With Generative Neural Fields**|Amir Barda et.al.|[2403.02460](http://arxiv.org/abs/2403.02460)|null|
 |**2024-03-04**|**AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes**|Jaehoon Jang et.al.|[2403.01861](http://arxiv.org/abs/2403.01861)|null|
@@ -1924,6 +1925,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
+|**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758](http://arxiv.org/abs/2403.08758)|null|
+|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
+|**2024-03-13**|**Sticky-threshold diffusions, local time approximation and parameter estimation**|Alexis Anagnostakis et.al.|[2403.08754](http://arxiv.org/abs/2403.08754)|null|
+|**2024-03-13**|**Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08749](http://arxiv.org/abs/2403.08749)|null|
+|**2024-03-13**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733](http://arxiv.org/abs/2403.08733)|null|
+|**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
+|**2024-03-13**|**Historical Astronomical Diagrams Decomposition in Geometric Primitives**|Syrine Kalleli et.al.|[2403.08721](http://arxiv.org/abs/2403.08721)|null|
+|**2024-03-13**|**Limits on the OH Molecule in the Smith High Velocity Cloud**|Anthony H. Minter et.al.|[2403.08704](http://arxiv.org/abs/2403.08704)|null|
+|**2024-03-13**|**Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**|Paraskevas Pegios et.al.|[2403.08700](http://arxiv.org/abs/2403.08700)|null|
 |**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860](http://arxiv.org/abs/2403.07860)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
 |**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
@@ -3233,6 +3244,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
+|**2024-03-13**|**Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**|Renjie Pi et.al.|[2403.08730](http://arxiv.org/abs/2403.08730)|null|
+|**2024-03-13**|**A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product**|Ao Xiang et.al.|[2403.08511](http://arxiv.org/abs/2403.08511)|null|
+|**2024-03-13**|**Quantum simulation in hybrid transmission lines**|Alessandro Ferreri et.al.|[2403.08508](http://arxiv.org/abs/2403.08508)|null|
+|**2024-03-13**|**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model**|Cheng Chen et.al.|[2403.08350](http://arxiv.org/abs/2403.08350)|**[link](https://github.com/zackschen/coin)**|
+|**2024-03-13**|**REPAIR: Rank Correlation and Noisy Pair Half-replacing with Memory for Noisy Correspondence**|Ruochen Zheng et.al.|[2403.08224](http://arxiv.org/abs/2403.08224)|null|
+|**2024-03-13**|**Globalized distributionally robust optimization with multi core sets**|Yueyao Li et.al.|[2403.08169](http://arxiv.org/abs/2403.08169)|null|
+|**2024-03-13**|**MolBind: Multimodal Alignment of Language, Molecules, and Proteins**|Teng Xiao et.al.|[2403.08167](http://arxiv.org/abs/2403.08167)|null|
+|**2024-03-12**|**A Multimodal Intermediate Fusion Network with Manifold Learning for Stress Detection**|Morteza Bodaghi et.al.|[2403.08077](http://arxiv.org/abs/2403.08077)|null|
+|**2024-03-12**|**Training Small Multimodal Models to Bridge Biomedical Competency Gap: A Case Study in Radiology Imaging**|Juan Manuel Zambrano Chaves et.al.|[2403.08002](http://arxiv.org/abs/2403.08002)|null|
 |**2024-03-12**|**Fine-tuning Large Language Models with Sequential Instructions**|Hanxu Hu et.al.|[2403.07794](http://arxiv.org/abs/2403.07794)|**[link](https://github.com/hanxuhu/seq_it)**|
 |**2024-03-12**|**WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?**|Alexandre Drouin et.al.|[2403.07718](http://arxiv.org/abs/2403.07718)|**[link](https://github.com/servicenow/workarena)**|
 |**2024-03-12**|**Bring Event into RGB and LiDAR: Hierarchical Visual-Motion Fusion for Scene Flow**|Hanyu Zhou et.al.|[2403.07432](http://arxiv.org/abs/2403.07432)|null|

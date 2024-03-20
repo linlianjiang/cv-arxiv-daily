@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Revisiting Tensor Basis Neural Networks for Reynolds stress modeling: application to plane channel and square duct flows**|Jiayi Cai et.al.|[2403.11746](http://arxiv.org/abs/2403.11746)|null|
 |**2024-03-12**|**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design and Graph-Based Drag Prediction**|Mohamed Elrefaie et.al.|[2403.08055](http://arxiv.org/abs/2403.08055)|**[link](https://github.com/mohamedelrefaie/drivaernet)**|
 |**2024-03-05**|**Semantic Human Mesh Reconstruction with Textures**|Xiaoyu Zhan et.al.|[2403.02561](http://arxiv.org/abs/2403.02561)|null|
 |**2024-03-04**|**MagicClay: Sculpting Meshes With Generative Neural Fields**|Amir Barda et.al.|[2403.02460](http://arxiv.org/abs/2403.02460)|null|
@@ -1925,8 +1926,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Scaling limit of heavy tailed nearly unstable INAR( $\infty$ ) processes and rough fractional diffusions**|Yingli Wang et.al.|[2403.11773](http://arxiv.org/abs/2403.11773)|null|
+|**2024-03-18**|**Irradiation induced mineral changes of NWA10580 meteorite determined by infrared analysis**|I. Gyollai et.al.|[2403.11725](http://arxiv.org/abs/2403.11725)|null|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
-|**2024-03-18**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697](http://arxiv.org/abs/2403.11697)|null|
+|**2024-03-19**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697](http://arxiv.org/abs/2403.11697)|null|
 |**2024-03-18**|**Narrow absorption lines from intervening material in supernovae I. Measurements and temporal evolution**|Santiago González-Gaitán et.al.|[2403.11677](http://arxiv.org/abs/2403.11677)|null|
 |**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667](http://arxiv.org/abs/2403.11667)|null|
 |**2024-03-18**|**Diffusion-Based Environment-Aware Trajectory Prediction**|Theodor Westny et.al.|[2403.11643](http://arxiv.org/abs/2403.11643)|null|
@@ -3274,6 +3277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Modality-Agnostic fMRI Decoding of Vision and Language**|Mitja Nikolaus et.al.|[2403.11771](http://arxiv.org/abs/2403.11771)|null|
 |**2024-03-18**|**LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images**|Ruyi Xu et.al.|[2403.11703](http://arxiv.org/abs/2403.11703)|**[link](https://github.com/thunlp/llava-uhd)**|
 |**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
 |**2024-03-18**|**Diffusion-Based Environment-Aware Trajectory Prediction**|Theodor Westny et.al.|[2403.11643](http://arxiv.org/abs/2403.11643)|null|

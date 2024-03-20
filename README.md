@@ -1862,6 +1862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**PoNQ: a Neural QEM-based Mesh Representation**|Nissim Maruani et.al.|[2403.12870](http://arxiv.org/abs/2403.12870)|null|
+|**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899](http://arxiv.org/abs/2403.11899)|null|
 |**2024-03-18**|**Revisiting Tensor Basis Neural Networks for Reynolds stress modeling: application to plane channel and square duct flows**|Jiayi Cai et.al.|[2403.11746](http://arxiv.org/abs/2403.11746)|null|
 |**2024-03-12**|**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design and Graph-Based Drag Prediction**|Mohamed Elrefaie et.al.|[2403.08055](http://arxiv.org/abs/2403.08055)|**[link](https://github.com/mohamedelrefaie/drivaernet)**|
 |**2024-03-05**|**Semantic Human Mesh Reconstruction with Textures**|Xiaoyu Zhan et.al.|[2403.02561](http://arxiv.org/abs/2403.02561)|null|
@@ -1951,6 +1953,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963](http://arxiv.org/abs/2403.12963)|**[link](https://github.com/leonhlj/fouriscale)**|
+|**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962](http://arxiv.org/abs/2403.12962)|**[link](https://github.com/williamyang1991/fresco)**|
+|**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961](http://arxiv.org/abs/2403.12961)|null|
+|**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957](http://arxiv.org/abs/2403.12957)|null|
+|**2024-03-19**|**Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**|Wenjing Wang et.al.|[2403.12933](http://arxiv.org/abs/2403.12933)|null|
+|**2024-03-19**|**You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs**|Yihong Luo et.al.|[2403.12931](http://arxiv.org/abs/2403.12931)|**[link](https://github.com/luo-yihong/yoso)**|
+|**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|**[link](https://github.com/rando11199/pyramid-diffusion)**|
+|**2024-03-19**|**H $α$/H$β$ a Galactic Low Energy Cosmic Rays tracer**|I. Busa et.al.|[2403.12872](http://arxiv.org/abs/2403.12872)|null|
+|**2024-03-19**|**D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation**|Jun Yamada et.al.|[2403.12861](http://arxiv.org/abs/2403.12861)|null|
+|**2024-03-19**|**Generative Enhancement for 3D Medical Images**|Lingting Zhu et.al.|[2403.12852](http://arxiv.org/abs/2403.12852)|**[link](https://github.com/hku-medai/gem-3d)**|
 |**2024-03-18**|**Scaling limit of heavy tailed nearly unstable INAR( $\infty$ ) processes and rough fractional diffusions**|Yingli Wang et.al.|[2403.11773](http://arxiv.org/abs/2403.11773)|null|
 |**2024-03-18**|**Irradiation induced mineral changes of NWA10580 meteorite determined by infrared analysis**|I. Gyollai et.al.|[2403.11725](http://arxiv.org/abs/2403.11725)|null|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
@@ -3304,6 +3316,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**|Zuyan Liu et.al.|[2403.12966](http://arxiv.org/abs/2403.12966)|**[link](https://github.com/dongyh20/chain-of-spot)**|
+|**2024-03-19**|**Contextual AD Narration with Interleaved Multimodal Sequence**|Hanlin Wang et.al.|[2403.12922](http://arxiv.org/abs/2403.12922)|null|
+|**2024-03-19**|**TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation**|Yufei Liu et.al.|[2403.12906](http://arxiv.org/abs/2403.12906)|null|
+|**2024-03-19**|**mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**|Anwen Hu et.al.|[2403.12895](http://arxiv.org/abs/2403.12895)|**[link](https://github.com/x-plug/mplug-docowl)**|
+|**2024-03-19**|**MEDBind: Unifying Language and Multimodal Medical Data Embeddings**|Yuan Gao et.al.|[2403.12894](http://arxiv.org/abs/2403.12894)|null|
+|**2024-03-19**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
+|**2024-03-19**|**VisualCritic: Making LMMs Perceive Visual Quality Like Humans**|Zhipeng Huang et.al.|[2403.12806](http://arxiv.org/abs/2403.12806)|null|
+|**2024-03-19**|**Towards Multimodal In-Context Learning for Vision & Language Models**|Sivan Doveh et.al.|[2403.12736](http://arxiv.org/abs/2403.12736)|null|
+|**2024-03-19**|**SUN Team's Contribution to ABAW 2024 Competition: Audio-visual Valence-Arousal Estimation and Expression Recognition**|Denis Dresvyanskiy et.al.|[2403.12609](http://arxiv.org/abs/2403.12609)|null|
+|**2024-03-19**|**Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs**|Victor Carbune et.al.|[2403.12596](http://arxiv.org/abs/2403.12596)|null|
 |**2024-03-18**|**Modality-Agnostic fMRI Decoding of Vision and Language**|Mitja Nikolaus et.al.|[2403.11771](http://arxiv.org/abs/2403.11771)|null|
 |**2024-03-18**|**LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images**|Ruyi Xu et.al.|[2403.11703](http://arxiv.org/abs/2403.11703)|**[link](https://github.com/thunlp/llava-uhd)**|
 |**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|

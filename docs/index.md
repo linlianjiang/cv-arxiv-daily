@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1934,7 +1934,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623](http://arxiv.org/abs/2403.14623)|**[link](https://github.com/tzco/simplified-diffusion-schrodinger-bridge)**|
 |**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621](http://arxiv.org/abs/2403.14621)|**[link](https://github.com/justimyhxu/grm)**|
-|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
+|**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
 |**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613](http://arxiv.org/abs/2403.14613)|null|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors**|Nikolaos Tsagkas et.al.|[2403.14526](http://arxiv.org/abs/2403.14526)|null|
@@ -3314,7 +3314,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-21**|**Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling**|Chengxu Zhuang et.al.|[2403.14551](http://arxiv.org/abs/2403.14551)|null|
-|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520](http://arxiv.org/abs/2403.14520)|null|
+|**2024-03-22**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520](http://arxiv.org/abs/2403.14520)|null|
 |**2024-03-21**|**Bringing Robots Home: The Rise of AI Robots in Consumer Electronics**|Haiwei Dong et.al.|[2403.14449](http://arxiv.org/abs/2403.14449)|null|
 |**2024-03-21**|**A Multimodal Approach to Device-Directed Speech Detection with Large Language Models**|Dominik Wager et.al.|[2403.14438](http://arxiv.org/abs/2403.14438)|null|
 |**2024-03-21**|**LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding**|Masato Fujitake et.al.|[2403.14252](http://arxiv.org/abs/2403.14252)|null|

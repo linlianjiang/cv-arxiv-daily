@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1934,7 +1934,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-25**|**The effect of inter-track coupling on H $_2$O$_2$ productions**|Ramin Abolfath et.al.|[2403.16722](http://arxiv.org/abs/2403.16722)|null|
-|**2024-03-25**|**Phase Transformation in Lithium Niobate-Lithium Tantalate Solid Solutions (LiNb $_{1-x}$Ta$_x$O$_3$ )**|Fatima El Azzouzi et.al.|[2403.16717](http://arxiv.org/abs/2403.16717)|null|
+|**2024-03-26**|**Phase Transformation in Lithium Niobate-Lithium Tantalate Solid Solutions (LiNb $_{1-x}$Ta$_x$O$_3$ )**|Fatima El Azzouzi et.al.|[2403.16717](http://arxiv.org/abs/2403.16717)|null|
 |**2024-03-25**|**The Directionality of Gravitational and Thermal Diffusive Transport in Geologic Fluid Storage**|Anna Herring et.al.|[2403.16659](http://arxiv.org/abs/2403.16659)|null|
 |**2024-03-25**|**Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution**|Qingping Zheng et.al.|[2403.16643](http://arxiv.org/abs/2403.16643)|null|
 |**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|null|

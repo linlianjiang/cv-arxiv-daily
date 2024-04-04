@@ -1839,6 +1839,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
+|**2024-04-03**|**Vestibular schwannoma growth_prediction from longitudinal MRI by time conditioned neural fields**|Yunjie Chen et.al.|[2404.02614](http://arxiv.org/abs/2404.02614)|**[link](https://github.com/cyjdswx/deepgrowth)**|
 |**2024-03-30**|**3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting**|Xiaoyang Lyu et.al.|[2404.00409](http://arxiv.org/abs/2404.00409)|null|
 |**2024-03-29**|**VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection**|Zihua Liu et.al.|[2404.00149](http://arxiv.org/abs/2404.00149)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
@@ -1940,6 +1942,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905](http://arxiv.org/abs/2404.02905)|**[link](https://github.com/FoundationVision/VAR)**|
+|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903](http://arxiv.org/abs/2404.02903)|null|
+|**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
+|**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883](http://arxiv.org/abs/2404.02883)|null|
+|**2024-04-03**|**Uniqueness of the blow-down limit for triple junction problem**|Zhiyuan Geng et.al.|[2404.02859](http://arxiv.org/abs/2404.02859)|null|
+|**2024-04-03**|**Efficient Quantum Circuits for Non-Unitary and Unitary Diagonal Operators with Space-Time-Accuracy trade-offs**|Julien Zylberman et.al.|[2404.02819](http://arxiv.org/abs/2404.02819)|null|
+|**2024-04-03**|**Fast Diffusion Model For Seismic Data Noise Attenuation**|Junheng Peng et.al.|[2404.02767](http://arxiv.org/abs/2404.02767)|null|
+|**2024-04-03**|**Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models**|Wentian Zhang et.al.|[2404.02747](http://arxiv.org/abs/2404.02747)|**[link](https://github.com/haozheliu-st/t-gate)**|
+|**2024-04-03**|**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2404.02733](http://arxiv.org/abs/2404.02733)|**[link](https://github.com/instantstyle/instantstyle)**|
+|**2024-04-03**|**Harnessing the Power of Large Vision Language Models for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.02726](http://arxiv.org/abs/2404.02726)|null|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**A Stabilized Parametric Finite Element Method for Surface Diffusion with an Arbitrary Surface Energy**|Yulin Zhang et.al.|[2404.02083](http://arxiv.org/abs/2404.02083)|null|
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082](http://arxiv.org/abs/2404.02082)|**[link](https://github.com/yangchen1997/wcdt)**|
@@ -3391,6 +3403,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
+|**2024-04-03**|**Statistical mechanics and pressure of composite multimoded weakly nonlinear optical systems**|Nikolaos K. Efremidis et.al.|[2404.02745](http://arxiv.org/abs/2404.02745)|null|
+|**2024-04-03**|**Diffexplainer: Towards Cross-modal Global Explanations with Diffusion Models**|Matteo Pennisi et.al.|[2404.02618](http://arxiv.org/abs/2404.02618)|null|
+|**2024-04-03**|**Cohort-Individual Cooperative Learning for Multimodal Cancer Survival Analysis**|Huajun Zhou et.al.|[2404.02394](http://arxiv.org/abs/2404.02394)|null|
+|**2024-04-02**|**Attribution Regularization for Multimodal Paradigms**|Sahiti Yerramilli et.al.|[2404.02359](http://arxiv.org/abs/2404.02359)|null|
+|**2024-04-02**|**From Delays to Densities: Exploring Data Uncertainty through Speech, Text, and Visualization**|Chase Stokes et.al.|[2404.02317](http://arxiv.org/abs/2404.02317)|null|
+|**2024-04-02**|**On Stronger Computational Separations Between Multimodal and Unimodal Machine Learning**|Ari Karchmer et.al.|[2404.02254](http://arxiv.org/abs/2404.02254)|null|
 |**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157](http://arxiv.org/abs/2404.02157)|null|
 |**2024-04-02**|**LastResort at SemEval-2024 Task 3: Exploring Multimodal Emotion Cause Pair Extraction as Sequence Labelling Task**|Suyash Vardhan Mathur et.al.|[2404.02088](http://arxiv.org/abs/2404.02088)|null|
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082](http://arxiv.org/abs/2404.02082)|**[link](https://github.com/yangchen1997/wcdt)**|

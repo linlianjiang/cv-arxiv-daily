@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1844,7 +1844,7 @@ layout: default
 |**2024-03-30**|**3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting**|Xiaoyang Lyu et.al.|[2404.00409](http://arxiv.org/abs/2404.00409)|null|
 |**2024-03-29**|**VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection**|Zihua Liu et.al.|[2404.00149](http://arxiv.org/abs/2404.00149)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
-|**2024-03-29**|**Grounding and Enhancing Grid-based Models for Neural Fields**|Zelin Zhao et.al.|[2403.20002](http://arxiv.org/abs/2403.20002)|null|
+|**2024-04-06**|**Grounding and Enhancing Grid-based Models for Neural Fields**|Zelin Zhao et.al.|[2403.20002](http://arxiv.org/abs/2403.20002)|null|
 |**2024-03-29**|**Stable Surface Regularization for Fast Few-Shot NeRF**|Byeongin Joung et.al.|[2403.19985](http://arxiv.org/abs/2403.19985)|null|
 |**2024-03-26**|**AniArtAvatar: Animatable 3D Art Avatar from a Single Image**|Shaoxu Li et.al.|[2403.17631](http://arxiv.org/abs/2403.17631)|null|
 |**2024-03-25**|**GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction**|Mulin Yu et.al.|[2403.16964](http://arxiv.org/abs/2403.16964)|null|

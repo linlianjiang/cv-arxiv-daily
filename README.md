@@ -1968,6 +1968,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990](http://arxiv.org/abs/2404.07990)|null|
+|**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|null|
+|**2024-04-11**|**View Selection for 3D Captioning via Diffusion Ranking**|Tiange Luo et.al.|[2404.07984](http://arxiv.org/abs/2404.07984)|null|
+|**2024-04-11**|**Taming Stable Diffusion for Text to 360° Panorama Image Generation**|Cheng Zhang et.al.|[2404.07949](http://arxiv.org/abs/2404.07949)|**[link](https://github.com/chengzhag/panfusion)**|
+|**2024-04-11**|**Active Carpets in floating viscous films**|Felipe A. Barros et.al.|[2404.07856](http://arxiv.org/abs/2404.07856)|null|
+|**2024-04-11**|**Adaptive Hyperbolic-cross-space Mapped Jacobi Method on Unbounded Domains with Applications to Solving Multidimensional Spatiotemporal Integrodifferential Equations**|Yunhong Deng et.al.|[2404.07844](http://arxiv.org/abs/2404.07844)|null|
+|**2024-04-11**|**The Cattaneo-Christov approximation of Fourier heat-conductive compressible fluids**|Timothée Crin-Barat et.al.|[2404.07809](http://arxiv.org/abs/2404.07809)|null|
+|**2024-04-11**|**ConsistencyDet: Robust Object Detector with Denoising Paradigm of Consistency Model**|Lifan Jiang et.al.|[2404.07773](http://arxiv.org/abs/2404.07773)|null|
+|**2024-04-11**|**An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization**|Minshuo Chen et.al.|[2404.07771](http://arxiv.org/abs/2404.07771)|null|
+|**2024-04-11**|**Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations**|Yufeng Yue et.al.|[2404.07770](http://arxiv.org/abs/2404.07770)|null|
 |**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206](http://arxiv.org/abs/2404.07206)|null|
 |**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199](http://arxiv.org/abs/2404.07199)|null|
 |**2024-04-10**|**InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models**|Jiale Xu et.al.|[2404.07191](http://arxiv.org/abs/2404.07191)|**[link](https://github.com/tencentarc/instantmesh)**|
@@ -3481,6 +3491,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|null|
+|**2024-04-11**|**OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**|Tianbao Xie et.al.|[2404.07972](http://arxiv.org/abs/2404.07972)|null|
+|**2024-04-11**|**LaVy: Vietnamese Multimodal Large Language Model**|Chi Tran et.al.|[2404.07922](http://arxiv.org/abs/2404.07922)|null|
+|**2024-04-11**|**DesignQA: A Multimodal Benchmark for Evaluating Large Language Models' Understanding of Engineering Documentation**|Anna C. Doris et.al.|[2404.07917](http://arxiv.org/abs/2404.07917)|**[link](https://github.com/anniedoris/design_qa)**|
+|**2024-04-11**|**Streaming detection of significant delay changes in public transport systems**|Przemysław Wrona et.al.|[2404.07860](http://arxiv.org/abs/2404.07860)|null|
+|**2024-04-11**|**Heron-Bench: A Benchmark for Evaluating Vision Language Models in Japanese**|Yuichi Inoue et.al.|[2404.07824](http://arxiv.org/abs/2404.07824)|**[link](https://github.com/turingmotors/heron)**|
+|**2024-04-11**|**VIFNet: An End-to-end Visible-Infrared Fusion Network for Image Dehazing**|Meng Yu et.al.|[2404.07790](http://arxiv.org/abs/2404.07790)|null|
+|**2024-04-11**|**Measuring Geographic Diversity of Foundation Models with a Natural Language--based Geo-guessing Experiment on GPT-4**|Zilong Liu et.al.|[2404.07612](http://arxiv.org/abs/2404.07612)|null|
+|**2024-04-11**|**Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios**|Yuan Zhang et.al.|[2404.07484](http://arxiv.org/abs/2404.07484)|null|
+|**2024-04-11**|**RiskLabs: Predicting Financial Risk Using Large Language Model Based on Multi-Sources Data**|Yupeng Cao et.al.|[2404.07452](http://arxiv.org/abs/2404.07452)|null|
 |**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206](http://arxiv.org/abs/2404.07206)|null|
 |**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202](http://arxiv.org/abs/2404.07202)|null|
 |**2024-04-10**|**HRVDA: High-Resolution Visual Document Assistant**|Chaohu Liu et.al.|[2404.06918](http://arxiv.org/abs/2404.06918)|null|

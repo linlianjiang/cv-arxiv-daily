@@ -1968,6 +1968,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark**|Emiel Slootman et.al.|[2404.09755](http://arxiv.org/abs/2404.09755)|null|
+|**2024-04-15**|**Electric potential during tokamak disruptions and steady-state current drive**|Allen H Boozer et.al.|[2404.09744](http://arxiv.org/abs/2404.09744)|null|
+|**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
+|**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
+|**2024-04-15**|**Structure and dynamics of active string fluids and gels formed by dipolar active Brownian particles**|Maria Kelidou et.al.|[2404.09693](http://arxiv.org/abs/2404.09693)|null|
+|**2024-04-15**|**Deformable MRI Sequence Registration for AI-based Prostate Cancer Diagnosis**|Alessa Hering et.al.|[2404.09666](http://arxiv.org/abs/2404.09666)|null|
+|**2024-04-15**|**Impact of chirality on active Brownian particle: Exact moments in two and three dimensions**|Anweshika Pattanayak et.al.|[2404.09650](http://arxiv.org/abs/2404.09650)|null|
+|**2024-04-15**|**All-in-one simulation-based inference**|Manuel Gloeckler et.al.|[2404.09636](http://arxiv.org/abs/2404.09636)|**[link](https://github.com/mackelab/simformer)**|
+|**2024-04-15**|**Branching diffusion processes and spectral properties of Feynman-Kac semigroup**|Pierre Collet et.al.|[2404.09568](http://arxiv.org/abs/2404.09568)|null|
+|**2024-04-15**|**Entropy on the Path Space and Application to Singular Diffusions and Mean-field Models**|Patrick Cattiaux et.al.|[2404.09552](http://arxiv.org/abs/2404.09552)|null|
 |**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
 |**2024-04-12**|**Functional reducibility of higher-order networks**|Maxime Lucas et.al.|[2404.08547](http://arxiv.org/abs/2404.08547)|null|
 |**2024-04-12**|**Echoes of darkness: Supernova-neutrino-boosted dark matter from all galaxies**|Yen-Hsun Lin et.al.|[2404.08528](http://arxiv.org/abs/2404.08528)|null|
@@ -3501,6 +3511,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Harnessing GPT-4V(ision) for Insurance: A Preliminary Exploration**|Chenwei Lin et.al.|[2404.09690](http://arxiv.org/abs/2404.09690)|null|
+|**2024-04-15**|**Object Instance Retrieval in Assistive Robotics: Leveraging Fine-Tuned SimSiam with Multi-View Images Based on 3D Semantic Map**|Taichi Sakaguchi et.al.|[2404.09647](http://arxiv.org/abs/2404.09647)|null|
+|**2024-04-15**|**Bridging Vision and Language Spaces with Assignment Prediction**|Jungin Park et.al.|[2404.09632](http://arxiv.org/abs/2404.09632)|**[link](https://github.com/park-jungin/vlap)**|
+|**2024-04-15**|**AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception**|Yipo Huang et.al.|[2404.09624](http://arxiv.org/abs/2404.09624)|**[link](https://github.com/yipoh/aesexpert)**|
+|**2024-04-15**|**Fuse after Align: Improving Face-Voice Association Learning via Multimodal Encoder**|Chong Peng et.al.|[2404.09509](http://arxiv.org/abs/2404.09509)|null|
+|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-15**|**MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems**|Kaixin Li et.al.|[2404.09486](http://arxiv.org/abs/2404.09486)|**[link](https://github.com/happylkx/mmcode)**|
+|**2024-04-15**|**Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning**|Xiongye Xiao et.al.|[2404.09403](http://arxiv.org/abs/2404.09403)|null|
+|**2024-04-14**|**Face-voice Association in Multilingual Environments (FAME) Challenge 2024 Evaluation Plan**|Muhammad Saad Saeed et.al.|[2404.09342](http://arxiv.org/abs/2404.09342)|null|
+|**2024-04-14**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|null|
 |**2024-04-12**|**Mixing Modes: Active and Passive Integration of Speech, Text, and Visualization for Communicating Data Uncertainty**|Chase Stokes et.al.|[2404.08623](http://arxiv.org/abs/2404.08623)|null|
 |**2024-04-12**|**Improving Referring Image Segmentation using Vision-Aware Text Features**|Hai Nguyen-Truong et.al.|[2404.08590](http://arxiv.org/abs/2404.08590)|null|
 |**2024-04-12**|**Comparing Apples to Oranges: LLM-powered Multimodal Intention Prediction in an Object Categorization Task**|Hassan Ali et.al.|[2404.08424](http://arxiv.org/abs/2404.08424)|null|

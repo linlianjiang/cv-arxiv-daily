@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3492,7 +3492,7 @@ layout: default
 |**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-15**|**MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems**|Kaixin Li et.al.|[2404.09486](http://arxiv.org/abs/2404.09486)|**[link](https://github.com/happylkx/mmcode)**|
 |**2024-04-15**|**Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning**|Xiongye Xiao et.al.|[2404.09403](http://arxiv.org/abs/2404.09403)|null|
-|**2024-04-14**|**Face-voice Association in Multilingual Environments (FAME) Challenge 2024 Evaluation Plan**|Muhammad Saad Saeed et.al.|[2404.09342](http://arxiv.org/abs/2404.09342)|null|
+|**2024-04-16**|**Face-voice Association in Multilingual Environments (FAME) Challenge 2024 Evaluation Plan**|Muhammad Saad Saeed et.al.|[2404.09342](http://arxiv.org/abs/2404.09342)|null|
 |**2024-04-14**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|null|
 |**2024-04-12**|**Mixing Modes: Active and Passive Integration of Speech, Text, and Visualization for Communicating Data Uncertainty**|Chase Stokes et.al.|[2404.08623](http://arxiv.org/abs/2404.08623)|null|
 |**2024-04-12**|**Improving Referring Image Segmentation using Vision-Aware Text Features**|Hai Nguyen-Truong et.al.|[2404.08590](http://arxiv.org/abs/2404.08590)|null|

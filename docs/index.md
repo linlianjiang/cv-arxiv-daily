@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419](http://arxiv.org/abs/2404.11419)|null|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
 |**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
 |**2024-04-04**|**Vestibular schwannoma growth prediction from longitudinal MRI by time conditioned neural fields**|Yunjie Chen et.al.|[2404.02614](http://arxiv.org/abs/2404.02614)|**[link](https://github.com/cyjdswx/deepgrowth)**|
@@ -1943,6 +1944,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Factorized Diffusion: Perceptual Illusions by Noise Decomposition**|Daniel Geng et.al.|[2404.11615](http://arxiv.org/abs/2404.11615)|null|
+|**2024-04-17**|**InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior**|Zhiheng Liu et.al.|[2404.11613](http://arxiv.org/abs/2404.11613)|null|
+|**2024-04-17**|**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination**|Xi Chen et.al.|[2404.11593](http://arxiv.org/abs/2404.11593)|null|
+|**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
+|**2024-04-17**|**Emulators for scarce and noisy data: application to auxiliary field diffusion Monte Carlo for the deuteron**|Rahul Somasundaram et.al.|[2404.11566](http://arxiv.org/abs/2404.11566)|null|
+|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
+|**2024-04-17**|**Predicting Long-horizon Futures by Conditioning on Geometry and Time**|Tarasha Khurana et.al.|[2404.11554](http://arxiv.org/abs/2404.11554)|null|
+|**2024-04-17**|**A Bayesian level-set inversion method for simultaneous reconstruction of absorption and diffusion coefficients in diffuse optical tomography**|Anuj Abhishek et.al.|[2404.11552](http://arxiv.org/abs/2404.11552)|null|
+|**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
+|**2024-04-17**|**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt**|Zhanjie Zhang et.al.|[2404.11474](http://arxiv.org/abs/2404.11474)|**[link](https://github.com/jamie-cheung/lsast)**|
 |**2024-04-16**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773](http://arxiv.org/abs/2404.10773)|null|
 |**2024-04-16**|**RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**|Ashkan Mirzaei et.al.|[2404.10765](http://arxiv.org/abs/2404.10765)|null|
 |**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763](http://arxiv.org/abs/2404.10763)|**[link](https://github.com/wangyuchi369/ladic)**|
@@ -3494,6 +3505,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**A central limit theorem for partially distinguishable bosons**|Marco Robbio et.al.|[2404.11518](http://arxiv.org/abs/2404.11518)|null|
+|**2024-04-17**|**Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent**|Wei Chen et.al.|[2404.11459](http://arxiv.org/abs/2404.11459)|null|
+|**2024-04-17**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
+|**2024-04-17**|**Exploring the Transferability of Visual Prompting for Multimodal Large Language Models**|Yichi Zhang et.al.|[2404.11207](http://arxiv.org/abs/2404.11207)|**[link](https://github.com/zycheiheihei/transferable-visual-prompting)**|
+|**2024-04-17**|**Self-Ordered Supersolid in Spinor Condensates with Cavity-Mediated Spin-Momentum-Mixing Interactions**|Jingjun You et.al.|[2404.11157](http://arxiv.org/abs/2404.11157)|null|
+|**2024-04-17**|**Fact :Teaching MLLMs with Faithful, Concise and Transferable Rationales**|Minghe Gao et.al.|[2404.11129](http://arxiv.org/abs/2404.11129)|null|
+|**2024-04-17**|**DRepMRec: A Dual Representation Learning Framework for Multimodal Recommendation**|Kangning Zhang et.al.|[2404.11119](http://arxiv.org/abs/2404.11119)|null|
+|**2024-04-17**|**Multimodal Fusion of Echocardiography and Electronic Health Records for the Detection of Cardiac Amyloidosis**|Zishun Feng et.al.|[2404.11058](http://arxiv.org/abs/2404.11058)|null|
+|**2024-04-17**|**Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions**|Leena Mathur et.al.|[2404.11023](http://arxiv.org/abs/2404.11023)|null|
+|**2024-04-16**|**Multi-Task Multi-Modal Self-Supervised Learning for Facial Expression Recognition**|Marah Halawa et.al.|[2404.10904](http://arxiv.org/abs/2404.10904)|**[link](https://github.com/tub-cv-group/conclugen)**|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
 |**2024-04-16**|**Characterization of the multimode nature of single-photon sources based on spontaneous parametric down conversion**|Emil R. Hellebek et.al.|[2404.10682](http://arxiv.org/abs/2404.10682)|null|
 |**2024-04-16**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|null|

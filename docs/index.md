@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3500,7 +3500,7 @@ layout: default
 |**2024-04-16**|**Few-mode squeezing in type-I parametric downconversion by complete group velocity matching**|Dmitri B. Horoshko et.al.|[2404.10560](http://arxiv.org/abs/2404.10560)|null|
 |**2024-04-16**|**Awareness of uncertainty in classification using a multivariate model and multi-views**|Alexey Kornaev et.al.|[2404.10314](http://arxiv.org/abs/2404.10314)|null|
 |**2024-04-16**|**TC-OCR: TableCraft OCR for Efficient Detection & Recognition of Table Structure & Content**|Avinash Anand et.al.|[2404.10305](http://arxiv.org/abs/2404.10305)|null|
-|**2024-04-16**|**ControlMTR: Control-Guided Motion Transformer with Scene-Compliant Intention Points for Feasible Motion Prediction**|Jiawei Sun et.al.|[2404.10295](http://arxiv.org/abs/2404.10295)|null|
+|**2024-04-17**|**ControlMTR: Control-Guided Motion Transformer with Scene-Compliant Intention Points for Feasible Motion Prediction**|Jiawei Sun et.al.|[2404.10295](http://arxiv.org/abs/2404.10295)|null|
 |**2024-04-16**|**Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V**|Peiyuan Zhi et.al.|[2404.10220](http://arxiv.org/abs/2404.10220)|null|
 |**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210](http://arxiv.org/abs/2404.10210)|null|
 |**2024-04-16**|**Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective Visual Question Answering**|Zaid Khan et.al.|[2404.10193](http://arxiv.org/abs/2404.10193)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3506,8 +3506,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-17**|**A central limit theorem for partially distinguishable bosons**|Marco Robbio et.al.|[2404.11518](http://arxiv.org/abs/2404.11518)|null|
-|**2024-04-17**|**Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent**|Wei Chen et.al.|[2404.11459](http://arxiv.org/abs/2404.11459)|null|
-|**2024-04-17**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
+|**2024-04-18**|**Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent**|Wei Chen et.al.|[2404.11459](http://arxiv.org/abs/2404.11459)|null|
+|**2024-04-18**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
 |**2024-04-17**|**Exploring the Transferability of Visual Prompting for Multimodal Large Language Models**|Yichi Zhang et.al.|[2404.11207](http://arxiv.org/abs/2404.11207)|**[link](https://github.com/zycheiheihei/transferable-visual-prompting)**|
 |**2024-04-17**|**Self-Ordered Supersolid in Spinor Condensates with Cavity-Mediated Spin-Momentum-Mixing Interactions**|Jingjun You et.al.|[2404.11157](http://arxiv.org/abs/2404.11157)|null|
 |**2024-04-17**|**Fact :Teaching MLLMs with Faithful, Concise and Transferable Rationales**|Minghe Gao et.al.|[2404.11129](http://arxiv.org/abs/2404.11129)|null|

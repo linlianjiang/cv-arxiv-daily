@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**ZSMILES: an approach for efficient SMILES storage for random access in Virtual Screening**|Gianmarco Accordi et.al.|[2404.19391](http://arxiv.org/abs/2404.19391)|null|
 |**2024-04-28**|**PhyRecon: Physically Plausible Neural Scene Reconstruction**|Junfeng Ni et.al.|[2404.16666](http://arxiv.org/abs/2404.16666)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-22**|**PGAHum: Prior-Guided Geometry and Appearance Learning for High-Fidelity Animatable Human Reconstruction**|Hao Wang et.al.|[2404.13862](http://arxiv.org/abs/2404.13862)|null|
@@ -1973,6 +1974,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model**|Wenxun Dai et.al.|[2404.19759](http://arxiv.org/abs/2404.19759)|null|
+|**2024-04-30**|**Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting**|Paul Engstler et.al.|[2404.19758](http://arxiv.org/abs/2404.19758)|null|
+|**2024-04-30**|**Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation**|Ian Dunn et.al.|[2404.19739](http://arxiv.org/abs/2404.19739)|**[link](https://github.com/dunni3/flowmol)**|
+|**2024-04-30**|**Investigating the correlations between IceCube high-energy neutrinos and Fermi-LAT $γ$ -ray observations. II**|Ming-Xuan Lu et.al.|[2404.19730](http://arxiv.org/abs/2404.19730)|null|
+|**2024-04-30**|**X-Diffusion: Generating Detailed 3D MRI Volumes From a Single Image Using Cross-Sectional Diffusion Models**|Emmanuelle Bourigault et.al.|[2404.19604](http://arxiv.org/abs/2404.19604)|null|
+|**2024-04-30**|**Cool-core, X-ray cavities and cold front revealed in RXCJ0352.9+1941 cluster by Chandra and GMRT observations**|Satish S. Sonkamble et.al.|[2404.19549](http://arxiv.org/abs/2404.19549)|null|
+|**2024-04-30**|**Shocks in the Warm Neutral Medium I -- Theoretical model**|Benjamin Godard et.al.|[2404.19533](http://arxiv.org/abs/2404.19533)|null|
+|**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in $\sim$ 20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525](http://arxiv.org/abs/2404.19525)|**[link](https://github.com/ml-gsai/microdreamer)**|
+|**2024-04-30**|**Well-posedness of McKean-Vlasov SDEs with density-dependent drift**|Anh-Dung Le et.al.|[2404.19499](http://arxiv.org/abs/2404.19499)|null|
+|**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475](http://arxiv.org/abs/2404.19475)|null|
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
 |**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|null|
 |**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893](http://arxiv.org/abs/2404.18893)|null|
@@ -3613,6 +3624,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|null|
+|**2024-04-30**|**Fake it to make it: Using synthetic data to remedy the data shortage in joint multimodal speech-and-gesture synthesis**|Shivam Mehta et.al.|[2404.19622](http://arxiv.org/abs/2404.19622)|null|
+|**2024-04-30**|**Thermalization via three-wave mixing**|Jukka P. Pekola et.al.|[2404.19511](http://arxiv.org/abs/2404.19511)|null|
+|**2024-04-30**|**Neuro-Vision to Language: Image Reconstruction and Interaction via Non-invasive Brain Recordings**|Guobin Shen et.al.|[2404.19438](http://arxiv.org/abs/2404.19438)|null|
+|**2024-04-30**|**InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**|Chanran Kim et.al.|[2404.19427](http://arxiv.org/abs/2404.19427)|null|
+|**2024-04-30**|**SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs**|Zhigang Sun et.al.|[2404.19379](http://arxiv.org/abs/2404.19379)|null|
+|**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
+|**2024-04-30**|**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**|Wanqi Zhou et.al.|[2404.19287](http://arxiv.org/abs/2404.19287)|null|
+|**2024-04-30**|**Audio-Visual Traffic Light State Detection for Urban Robots**|Sagar Gupta et.al.|[2404.19281](http://arxiv.org/abs/2404.19281)|null|
+|**2024-04-30**|**DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets**|Xiaoyu Huang et.al.|[2404.19264](http://arxiv.org/abs/2404.19264)|null|
 |**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
 |**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849](http://arxiv.org/abs/2404.18849)|null|

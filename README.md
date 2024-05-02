@@ -1862,6 +1862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Implicit Swept Volume SDF: Enabling Continuous Collision-Free Trajectory Generation for Arbitrary Shapes**|Jingping Wang et.al.|[2405.00362](http://arxiv.org/abs/2405.00362)|null|
+|**2024-05-01**|**NC-SDF: Enhancing Indoor Scene Reconstruction Using Neural SDFs with View-Dependent Normal Compensation**|Ziyi Chen et.al.|[2405.00340](http://arxiv.org/abs/2405.00340)|null|
 |**2024-04-30**|**ZSMILES: an approach for efficient SMILES storage for random access in Virtual Screening**|Gianmarco Accordi et.al.|[2404.19391](http://arxiv.org/abs/2404.19391)|null|
 |**2024-04-28**|**PhyRecon: Physically Plausible Neural Scene Reconstruction**|Junfeng Ni et.al.|[2404.16666](http://arxiv.org/abs/2404.16666)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
@@ -1974,6 +1976,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672](http://arxiv.org/abs/2405.00672)|null|
+|**2024-05-01**|**RGB $\leftrightarrow$ X: Image decomposition and synthesis using material- and lighting-aware diffusion models**|Zheng Zeng et.al.|[2405.00666](http://arxiv.org/abs/2405.00666)|null|
+|**2024-05-01**|**Large deviations of current for the symmetric simple exclusion process on a semi-infinite line and on an infinite line with slow bonds**|Kapil Sharma et.al.|[2405.00654](http://arxiv.org/abs/2405.00654)|null|
+|**2024-05-01**|**Stochastic fluids with transport noise: Approximating diffusion from data using SVD and ensemble forecast back-propagation**|James Woodfield et.al.|[2405.00640](http://arxiv.org/abs/2405.00640)|null|
+|**2024-05-01**|**Vacancy-mediated transport and segregation tendencies of solutes in FCC nickel under diffusional creep: A density functional theory study**|Shehab Shousha et.al.|[2405.00639](http://arxiv.org/abs/2405.00639)|null|
+|**2024-05-01**|**Engine-fed Kilonovae (Mergernovae) -- II. Radiation**|Shunke Ai et.al.|[2405.00638](http://arxiv.org/abs/2405.00638)|null|
+|**2024-05-01**|**Deep Metric Learning-Based Out-of-Distribution Detection with Synthetic Outlier Exposure**|Assefa Seyoum Wahd et.al.|[2405.00631](http://arxiv.org/abs/2405.00631)|null|
+|**2024-05-01**|**Hysteresis and Self-Oscillations in an Artificial Memristive Quantum Neuron**|Finlay Potter et.al.|[2405.00624](http://arxiv.org/abs/2405.00624)|null|
+|**2024-05-01**|**Lane Segmentation Refinement with Diffusion Models**|Antonio Ruiz et.al.|[2405.00620](http://arxiv.org/abs/2405.00620)|null|
+|**2024-05-01**|**Anomalous diffusion and factor ordering in (1+1)-dimensional Lorentzian quantum gravity**|Elijah Sanderson et.al.|[2405.00594](http://arxiv.org/abs/2405.00594)|null|
 |**2024-04-30**|**MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model**|Wenxun Dai et.al.|[2404.19759](http://arxiv.org/abs/2404.19759)|null|
 |**2024-04-30**|**Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting**|Paul Engstler et.al.|[2404.19758](http://arxiv.org/abs/2404.19758)|null|
 |**2024-04-30**|**Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation**|Ian Dunn et.al.|[2404.19739](http://arxiv.org/abs/2404.19739)|**[link](https://github.com/dunni3/flowmol)**|
@@ -3624,6 +3636,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model**|Deng Li et.al.|[2405.00574](http://arxiv.org/abs/2405.00574)|null|
+|**2024-05-01**|**New Benchmark Dataset and Fine-Grained Cross-Modal Fusion Framework for Vietnamese Multimodal Aspect-Category Sentiment Analysis**|Quy Hoang Nguyen et.al.|[2405.00543](http://arxiv.org/abs/2405.00543)|null|
+|**2024-05-01**|**DAM: A Universal Dual Attention Mechanism for Multimodal Timeseries Cryptocurrency Trend Forecasting**|Yihang Fu et.al.|[2405.00522](http://arxiv.org/abs/2405.00522)|**[link](https://github.com/KerwinFuyihang/Multimodal_crypto_prediction)**|
+|**2024-05-01**|**Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning**|Lucas-Andreï Thil et.al.|[2405.00516](http://arxiv.org/abs/2405.00516)|null|
+|**2024-05-01**|**CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models**|Hongzhan Lin et.al.|[2405.00390](http://arxiv.org/abs/2405.00390)|null|
+|**2024-05-01**|**Ultrafast Photocurrent Hysteresis in Photoferroelectric α-In2Se3**|Zhen Lei et.al.|[2405.00286](http://arxiv.org/abs/2405.00286)|null|
 |**2024-04-30**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|null|
 |**2024-04-30**|**Fake it to make it: Using synthetic data to remedy the data shortage in joint multimodal speech-and-gesture synthesis**|Shivam Mehta et.al.|[2404.19622](http://arxiv.org/abs/2404.19622)|null|
 |**2024-04-30**|**Thermalization via three-wave mixing**|Jukka P. Pekola et.al.|[2404.19511](http://arxiv.org/abs/2404.19511)|null|

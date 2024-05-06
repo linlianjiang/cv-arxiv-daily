@@ -1951,6 +1951,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
+|**2024-05-03**|**Relic gravitons and non-stationary processes**|Massimo Giovannini et.al.|[2405.02193](http://arxiv.org/abs/2405.02193)|null|
+|**2024-05-03**|**Tangentially Active Polymers in Cylindrical Channels**|José Martín-Roca et.al.|[2405.02192](http://arxiv.org/abs/2405.02192)|null|
+|**2024-05-03**|**Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving**|Haicheng Liao et.al.|[2405.02145](http://arxiv.org/abs/2405.02145)|null|
+|**2024-05-03**|**Global regularity and infinite Prandtl number limit of temperature patches for the 2D Boussinesq system**|Omar Lazar et.al.|[2405.02137](http://arxiv.org/abs/2405.02137)|null|
+|**2024-05-03**|**Multi-grid reaction-diffusion master equation: applications to morphogen gradient modelling**|Radek Erban et.al.|[2405.02117](http://arxiv.org/abs/2405.02117)|null|
+|**2024-05-03**|**On variable annuities with surrender charges**|Tiziano De Angelis et.al.|[2405.02115](http://arxiv.org/abs/2405.02115)|null|
+|**2024-05-03**|**Anomalous transport in the quantum East-West kinetically constrained model**|Pietro Brighi et.al.|[2405.02102](http://arxiv.org/abs/2405.02102)|null|
+|**2024-05-03**|**Radiative and mechanical energies in galaxies I. Contributions of molecular shocks and PDRs in 3C 326 N**|J. A. Villa-Vélez et.al.|[2405.02058](http://arxiv.org/abs/2405.02058)|null|
+|**2024-05-03**|**The CO-dark molecular gas in the cold HI arc**|Gan Luo et.al.|[2405.02055](http://arxiv.org/abs/2405.02055)|null|
 |**2024-05-02**|**Customizing Text-to-Image Models with a Single Image Pair**|Maxwell Jones et.al.|[2405.01536](http://arxiv.org/abs/2405.01536)|null|
 |**2024-05-02**|**The heat equation with time-correlated random potential in d=2: Edwards-Wilkinson fluctuations**|Sotirios Kotitsas et.al.|[2405.01519](http://arxiv.org/abs/2405.01519)|null|
 |**2024-05-02**|**Effective Lifshitz black holes, hydrodynamics, and transport coefficients in fluid/gravity correspondence**|D. C. Moreira et.al.|[2405.01505](http://arxiv.org/abs/2405.01505)|null|
@@ -3619,6 +3629,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287](http://arxiv.org/abs/2405.02287)|**[link](https://github.com/reka-ai/reka-vibe-eval)**|
+|**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
+|**2024-05-03**|**Towards Improving Learning from Demonstration Algorithms via MCMC Methods**|Hanwen Qi et.al.|[2405.02243](http://arxiv.org/abs/2405.02243)|null|
+|**2024-05-03**|**GMP-ATL: Gender-augmented Multi-scale Pseudo-label Enhanced Adaptive Transfer Learning for Speech Emotion Recognition via HuBERT**|Yu Pan et.al.|[2405.02151](http://arxiv.org/abs/2405.02151)|null|
+|**2024-05-03**|**Large Multimodal Model based Standardisation of Pathology Reports with Confidence and their Prognostic Significance**|Ethar Alzaid et.al.|[2405.02040](http://arxiv.org/abs/2405.02040)|null|
+|**2024-05-03**|**Auto-Encoding Morph-Tokens for Multimodal LLM**|Kaihang Pan et.al.|[2405.01926](http://arxiv.org/abs/2405.01926)|**[link](https://github.com/dcdmllm/morphtokens)**|
+|**2024-05-02**|**Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning**|Rafael Elberg et.al.|[2405.01705](http://arxiv.org/abs/2405.01705)|**[link](https://github.com/sugarfreemanatee/feature-space-augmentation-and-iterated-learning)**|
+|**2024-05-02**|**Language-Enhanced Latent Representations for Out-of-Distribution Detection in Autonomous Driving**|Zhenjiang Mao et.al.|[2405.01691](http://arxiv.org/abs/2405.01691)|null|
+|**2024-05-02**|**Multiple quantum exceptional, diabolical, and hybrid points in multimode bosonic systems: II. Nonconventional PT-symmetric dynamics and unidirectional coupling**|Jan Peřina Jr. et.al.|[2405.01667](http://arxiv.org/abs/2405.01667)|null|
+|**2024-05-02**|**Multiple quantum exceptional, diabolical, and hybrid points in multimode bosonic systems: I. Inherited and genuine singularities**|Kishore Thapliyal et.al.|[2405.01666](http://arxiv.org/abs/2405.01666)|null|
 |**2024-05-02**|**OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning**|Shihao Wang et.al.|[2405.01533](http://arxiv.org/abs/2405.01533)|null|
 |**2024-05-02**|**MANTIS: Interleaved Multi-Image Instruction Tuning**|Dongfu Jiang et.al.|[2405.01483](http://arxiv.org/abs/2405.01483)|null|
 |**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474](http://arxiv.org/abs/2405.01474)|null|

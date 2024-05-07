@@ -1862,7 +1862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-01**|**Implicit Swept Volume SDF: Enabling Continuous Collision-Free Trajectory Generation for Arbitrary Shapes**|Jingping Wang et.al.|[2405.00362](http://arxiv.org/abs/2405.00362)|null|
+|**2024-05-06**|**Statistical Edge Detection And UDF Learning For Shape Representation**|Virgile Foy et.al.|[2405.03381](http://arxiv.org/abs/2405.03381)|null|
+|**2024-05-01**|**Implicit Swept Volume SDF: Enabling Continuous Collision-Free Trajectory Generation for Arbitrary Shapes**|Jingping Wang et.al.|[2405.00362](http://arxiv.org/abs/2405.00362)|**[link](https://github.com/zju-fast-lab/implicit-svsdf-planner)**|
 |**2024-05-01**|**NC-SDF: Enhancing Indoor Scene Reconstruction Using Neural SDFs with View-Dependent Normal Compensation**|Ziyi Chen et.al.|[2405.00340](http://arxiv.org/abs/2405.00340)|null|
 |**2024-04-30**|**ZSMILES: an approach for efficient SMILES storage for random access in Virtual Screening**|Gianmarco Accordi et.al.|[2404.19391](http://arxiv.org/abs/2404.19391)|null|
 |**2024-04-28**|**PhyRecon: Physically Plausible Neural Scene Reconstruction**|Junfeng Ni et.al.|[2404.16666](http://arxiv.org/abs/2404.16666)|null|
@@ -1976,6 +1977,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**An Empty Room is All We Want: Automatic Defurnishing of Indoor Panoramas**|Mira Slavcheva et.al.|[2405.03682](http://arxiv.org/abs/2405.03682)|null|
+|**2024-05-06**|**Field-of-View Extension for Diffusion MRI via Deep Generative Models**|Chenyu Gao et.al.|[2405.03652](http://arxiv.org/abs/2405.03652)|null|
+|**2024-05-06**|**Cosine Annealing Optimized Denoising Diffusion Error Correction Codes**|Congyang Ou et.al.|[2405.03638](http://arxiv.org/abs/2405.03638)|null|
+|**2024-05-06**|**Strang Splitting for Parametric Inference in Second-order Stochastic Differential Equations**|Predrag Pilipovic et.al.|[2405.03606](http://arxiv.org/abs/2405.03606)|null|
+|**2024-05-06**|**Dissipative gradient nonlinearities prevent $δ$ -formations in local and nonlocal attraction-repulsion chemotaxis models**|Tongxing Li et.al.|[2405.03586](http://arxiv.org/abs/2405.03586)|null|
+|**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549](http://arxiv.org/abs/2405.03549)|null|
+|**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
+|**2024-05-06**|**Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation**|Sergio Gómez et.al.|[2405.03535](http://arxiv.org/abs/2405.03535)|null|
+|**2024-05-06**|**Quasi-Monte Carlo for Bayesian design of experiment problems governed by parametric PDEs**|Vesa Kaarnioja et.al.|[2405.03529](http://arxiv.org/abs/2405.03529)|null|
+|**2024-05-06**|**On anomalous dissipation induced by transport noise**|Antonio Agresti et.al.|[2405.03525](http://arxiv.org/abs/2405.03525)|null|
 |**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
 |**2024-05-03**|**Relic gravitons and non-stationary processes**|Massimo Giovannini et.al.|[2405.02193](http://arxiv.org/abs/2405.02193)|null|
 |**2024-05-03**|**Tangentially Active Polymers in Cylindrical Channels**|José Martín-Roca et.al.|[2405.02192](http://arxiv.org/abs/2405.02192)|null|
@@ -3656,6 +3667,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689](http://arxiv.org/abs/2405.03689)|null|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
+|**2024-05-06**|**WorldQA: Multimodal World Knowledge in Videos through Long-Chain Reasoning**|Yuanhan Zhang et.al.|[2405.03272](http://arxiv.org/abs/2405.03272)|null|
+|**2024-05-06**|**A Philosophical Introduction to Language Models - Part II: The Way Forward**|Raphaël Millière et.al.|[2405.03207](http://arxiv.org/abs/2405.03207)|null|
+|**2024-05-06**|**Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion**|Yunfeng Li et.al.|[2405.03177](http://arxiv.org/abs/2405.03177)|null|
+|**2024-05-06**|**Advancing Multimodal Medical Capabilities of Gemini**|Lin Yang et.al.|[2405.03162](http://arxiv.org/abs/2405.03162)|null|
+|**2024-05-06**|**Vector Quantization for Recommender Systems: A Review and Outlook**|Qijiong Liu et.al.|[2405.03110](http://arxiv.org/abs/2405.03110)|**[link](https://github.com/Jyonn/VQ4Rec)**|
+|**2024-05-06**|**Research on Image Recognition Technology Based on Multimodal Deep Learning**|Jinyin Wang et.al.|[2405.03091](http://arxiv.org/abs/2405.03091)|null|
+|**2024-05-05**|**ATAT: Astronomical Transformer for time series And Tabular data**|G. Cabrera-Vives et.al.|[2405.03078](http://arxiv.org/abs/2405.03078)|null|
+|**2024-05-05**|**Multimodal Sense-Informed Prediction of 3D Human Motions**|Zhenyu Lou et.al.|[2405.02911](http://arxiv.org/abs/2405.02911)|null|
 |**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287](http://arxiv.org/abs/2405.02287)|**[link](https://github.com/reka-ai/reka-vibe-eval)**|
 |**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
 |**2024-05-03**|**Towards Improving Learning from Demonstration Algorithms via MCMC Methods**|Hanwen Qi et.al.|[2405.02243](http://arxiv.org/abs/2405.02243)|null|

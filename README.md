@@ -1977,6 +1977,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534](http://arxiv.org/abs/2405.04534)|null|
+|**2024-05-07**|**Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing**|Yi Zuo et.al.|[2405.04496](http://arxiv.org/abs/2405.04496)|null|
+|**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483](http://arxiv.org/abs/2405.04483)|null|
+|**2024-05-07**|**Derivation of kinetic and diffusion equations from a hard-sphere Rayleigh gas using collision trees and semigroups**|Karsten Matthies et.al.|[2405.04449](http://arxiv.org/abs/2405.04449)|null|
+|**2024-05-07**|**Brownian Motion on The Spider Like Quantum Graphs**|Madhumita Paul et.al.|[2405.04439](http://arxiv.org/abs/2405.04439)|null|
+|**2024-05-07**|**Learning local Dirichlet-to-Neumann maps of nonlinear elliptic PDEs with rough coefficients**|Miranda Boutilier et.al.|[2405.04433](http://arxiv.org/abs/2405.04433)|null|
+|**2024-05-07**|**Josephson threshold detector in the phase diffusion regime**|Dmitry A. Ladeynov et.al.|[2405.04426](http://arxiv.org/abs/2405.04426)|null|
+|**2024-05-07**|**Mathematical Modeling of $^{18}$F-Fluoromisonidazole ($^{18}$ F-FMISO) Radiopharmaceutical Transport in Vascularized Solid Tumors**|Mohammad Amin Abazari et.al.|[2405.04418](http://arxiv.org/abs/2405.04418)|null|
+|**2024-05-07**|**Community Detection for Heterogeneous Multiple Social Networks**|Ziqing Zhu et.al.|[2405.04371](http://arxiv.org/abs/2405.04371)|null|
+|**2024-05-07**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|null|
 |**2024-05-06**|**An Empty Room is All We Want: Automatic Defurnishing of Indoor Panoramas**|Mira Slavcheva et.al.|[2405.03682](http://arxiv.org/abs/2405.03682)|null|
 |**2024-05-06**|**Field-of-View Extension for Diffusion MRI via Deep Generative Models**|Chenyu Gao et.al.|[2405.03652](http://arxiv.org/abs/2405.03652)|null|
 |**2024-05-06**|**Cosine Annealing Optimized Denoising Diffusion Error Correction Codes**|Congyang Ou et.al.|[2405.03638](http://arxiv.org/abs/2405.03638)|null|
@@ -3667,6 +3677,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**POV Learning: Individual Alignment of Multimodal Models using Human Perception**|Simon Werner et.al.|[2405.04443](http://arxiv.org/abs/2405.04443)|null|
+|**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|
+|**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007](http://arxiv.org/abs/2405.04007)|null|
+|**2024-05-07**|**A Roadmap for Multilingual, Multimodal Domain Independent Deception Detection**|Dainis Boumber et.al.|[2405.03920](http://arxiv.org/abs/2405.03920)|null|
+|**2024-05-07**|**VLBA Astrometry of the Galactic Double Neutron Stars PSR J0509+3801 and PSR J1930-1852: A Preliminary Transverse Velocity Distribution of Double Neutron Stars and Its Implications**|Hao Ding et.al.|[2405.03914](http://arxiv.org/abs/2405.03914)|null|
+|**2024-05-06**|**OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs**|Jiahao Nick Li et.al.|[2405.03901](http://arxiv.org/abs/2405.03901)|null|
+|**2024-05-06**|**Enhancing Apparent Personality Trait Analysis with Cross-Modal Embeddings**|Ádám Fodor et.al.|[2405.03846](http://arxiv.org/abs/2405.03846)|null|
+|**2024-05-06**|**In Situ AI Prototyping: Infusing Multimodal Prompts into Mobile Settings with MobileMaker**|Savvas Petridis et.al.|[2405.03806](http://arxiv.org/abs/2405.03806)|null|
 |**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689](http://arxiv.org/abs/2405.03689)|null|
 |**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
 |**2024-05-06**|**WorldQA: Multimodal World Knowledge in Videos through Long-Chain Reasoning**|Yuanhan Zhang et.al.|[2405.03272](http://arxiv.org/abs/2405.03272)|null|

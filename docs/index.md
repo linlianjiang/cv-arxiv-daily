@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1952,7 +1952,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|null|
+|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|**[link](https://github.com/nmudur/diffusion-hmc)**|
 |**2024-05-08**|**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**|Hongjie Wang et.al.|[2405.05252](http://arxiv.org/abs/2405.05252)|null|
 |**2024-05-08**|**Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation**|Jonas Kohler et.al.|[2405.05224](http://arxiv.org/abs/2405.05224)|null|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
@@ -3668,7 +3668,7 @@ layout: default
 |**2024-05-08**|**FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation**|Xuehai He et.al.|[2405.04834](http://arxiv.org/abs/2405.04834)|null|
 |**2024-05-08**|**Empathy Through Multimodality in Conversational Interfaces**|Mahyar Abbasian et.al.|[2405.04777](http://arxiv.org/abs/2405.04777)|null|
 |**2024-05-08**|**All in One Framework for Multimodal Re-identification in the Wild**|He Li et.al.|[2405.04741](http://arxiv.org/abs/2405.04741)|null|
-|**2024-05-07**|**Interpretable Tensor Fusion**|Saurabh Varshneya et.al.|[2405.04671](http://arxiv.org/abs/2405.04671)|null|
+|**2024-05-07**|**Interpretable Tensor Fusion**|Saurabh Varshneya et.al.|[2405.04671](http://arxiv.org/abs/2405.04671)|**[link](https://github.com/srb-cv/InTense)**|
 |**2024-05-07**|**The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models**|Abeba Birhane et.al.|[2405.04623](http://arxiv.org/abs/2405.04623)|null|
 |**2024-05-07**|**POV Learning: Individual Alignment of Multimodal Models using Human Perception**|Simon Werner et.al.|[2405.04443](http://arxiv.org/abs/2405.04443)|null|
 |**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|

@@ -1952,6 +1952,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
+|**2024-05-09**|**Towards comprehensive coverage of chemical space: Quantum mechanical properties of 836k constitutional and conformational closed shell neutral isomers consisting of HCNOFSiPSClBr**|Danish Khan et.al.|[2405.05961](http://arxiv.org/abs/2405.05961)|null|
+|**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959](http://arxiv.org/abs/2405.05959)|**[link](https://github.com/eqtpartners/tsde)**|
+|**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|null|
+|**2024-05-09**|**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**|Peng Gao et.al.|[2405.05945](http://arxiv.org/abs/2405.05945)|**[link](https://github.com/alpha-vllm/lumina-t2x)**|
+|**2024-05-09**|**Composable Part-Based Manipulation**|Weiyu Liu et.al.|[2405.05876](http://arxiv.org/abs/2405.05876)|null|
+|**2024-05-09**|**Parameter identification for an uncertain reaction-diffusion equation via setpoint regulation**|Gildas Besançon et.al.|[2405.05866](http://arxiv.org/abs/2405.05866)|null|
+|**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
+|**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
+|**2024-05-09**|**MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction**|Pinhuang Tan et.al.|[2405.05814](http://arxiv.org/abs/2405.05814)|null|
 |**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|**[link](https://github.com/nmudur/diffusion-hmc)**|
 |**2024-05-08**|**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**|Hongjie Wang et.al.|[2405.05252](http://arxiv.org/abs/2405.05252)|null|
 |**2024-05-08**|**Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation**|Jonas Kohler et.al.|[2405.05224](http://arxiv.org/abs/2405.05224)|null|
@@ -3660,6 +3670,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[2405.05956](http://arxiv.org/abs/2405.05956)|**[link](https://github.com/sreeramsa/drivesim)**|
+|**2024-05-09**|**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**|Jiachen Li et.al.|[2405.05949](http://arxiv.org/abs/2405.05949)|**[link](https://github.com/shi-labs/cumo)**|
+|**2024-05-09**|**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**|Peng Gao et.al.|[2405.05945](http://arxiv.org/abs/2405.05945)|**[link](https://github.com/alpha-vllm/lumina-t2x)**|
+|**2024-05-09**|**Boosting Multimodal Large Language Models with Visual Tokens Withdrawal for Rapid Inference**|Zhihang Lin et.al.|[2405.05803](http://arxiv.org/abs/2405.05803)|**[link](https://github.com/lzhxmu/vtw)**|
+|**2024-05-09**|**FusionTransNet for Smart Urban Mobility: Spatiotemporal Traffic Forecasting Through Multimodal Network Integration**|Binwu Wang et.al.|[2405.05786](http://arxiv.org/abs/2405.05786)|null|
+|**2024-05-09**|**Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**|Zhizhen Zhang et.al.|[2405.05760](http://arxiv.org/abs/2405.05760)|null|
+|**2024-05-09**|**Predicting Cognitive Load Using Sensor Data in a Literacy Game**|Minghao Cai et.al.|[2405.05543](http://arxiv.org/abs/2405.05543)|null|
+|**2024-05-09**|**Prompt When the Animal is: Temporal Animal Behavior Grounding with Positional Recovery Training**|Sheng Yan et.al.|[2405.05523](http://arxiv.org/abs/2405.05523)|null|
+|**2024-05-09**|**Deep thermalization in continuous-variable quantum systems**|Chang Liu et.al.|[2405.05470](http://arxiv.org/abs/2405.05470)|null|
+|**2024-05-08**|**Large Language Model Enhanced Machine Learning Estimators for Classification**|Yuhang Wu et.al.|[2405.05445](http://arxiv.org/abs/2405.05445)|null|
 |**2024-05-08**|**Multimode amplitude squeezing through cascaded nonlinear optical processes**|Sahil Pontula et.al.|[2405.05201](http://arxiv.org/abs/2405.05201)|null|
 |**2024-05-08**|**Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection**|Shengyang Sun et.al.|[2405.05130](http://arxiv.org/abs/2405.05130)|**[link](https://github.com/shengyangsun/MSBT)**|
 |**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974](http://arxiv.org/abs/2405.04974)|null|

@@ -1977,6 +1977,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547](http://arxiv.org/abs/2405.06547)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
+|**2024-05-10**|**Controllable Image Generation With Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2405.06535](http://arxiv.org/abs/2405.06535)|null|
+|**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
+|**2024-05-10**|**A universal phenomenology of charge-spin interconversion and dynamics in diffusive systems with spin-orbit coupling**|Tim Kokkeler et.al.|[2405.06334](http://arxiv.org/abs/2405.06334)|null|
+|**2024-05-10**|**PUMA: margin-based data pruning**|Javier Maroto et.al.|[2405.06298](http://arxiv.org/abs/2405.06298)|null|
+|**2024-05-10**|**Green's Function and Pointwise Space-time Behaviors of the Three-Dimensional Relativistic Boltzmann Equation**|Yanchao Li et.al.|[2405.06280](http://arxiv.org/abs/2405.06280)|null|
+|**2024-05-10**|**Prior-guided Diffusion Model for Cell Segmentation in Quantitative Phase Imaging**|Zhuchen Shao et.al.|[2405.06175](http://arxiv.org/abs/2405.06175)|null|
+|**2024-05-10**|**Integrability-preserving regularizations of Laplacian Growth**|Razvan Teodorescu et.al.|[2405.06167](http://arxiv.org/abs/2405.06167)|null|
+|**2024-05-10**|**Dispersivity calculation in digital twins of multiscale porous materials using the micro-continuum approach**|Julien Maes et.al.|[2405.06155](http://arxiv.org/abs/2405.06155)|null|
+|**2024-05-09**|**Modelling the random spreading of fake news through a two-dimensional time-inhomogeneous birth-death process**|Antonio Di Crescenzo et.al.|[2405.06123](http://arxiv.org/abs/2405.06123)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
 |**2024-05-09**|**Towards comprehensive coverage of chemical space: Quantum mechanical properties of 836k constitutional and conformational closed shell neutral isomers consisting of HCNOFSiPSClBr**|Danish Khan et.al.|[2405.05961](http://arxiv.org/abs/2405.05961)|null|
 |**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959](http://arxiv.org/abs/2405.05959)|**[link](https://github.com/eqtpartners/tsde)**|
@@ -3697,6 +3707,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634](http://arxiv.org/abs/2405.06634)|null|
+|**2024-05-10**|**Hierarchical Learned Risk-Aware Planning Framework for Human Driving Modeling**|Nathan Ludlow et.al.|[2405.06578](http://arxiv.org/abs/2405.06578)|null|
+|**2024-05-10**|**Mesh Denoising Transformer**|Wenbo Zhao et.al.|[2405.06536](http://arxiv.org/abs/2405.06536)|null|
+|**2024-05-10**|**Bridging Rayleigh-Jeans and Bose-Einstein condensation of a guided fluid of light with positive and negative temperatures**|Lucas Zanaglia et.al.|[2405.06531](http://arxiv.org/abs/2405.06531)|null|
+|**2024-05-10**|**LyS at SemEval-2024 Task 3: An Early Prototype for End-to-End Multimodal Emotion Linking as Graph-Based Parsing**|Ana Ezquerro et.al.|[2405.06483](http://arxiv.org/abs/2405.06483)|null|
+|**2024-05-10**|**Decoding Emotions in Abstract Art: Cognitive Plausibility of CLIP in Recognizing Color-Emotion Associations**|Hanna-Sophia Widhoelzl et.al.|[2405.06319](http://arxiv.org/abs/2405.06319)|null|
+|**2024-05-10**|**A First Step in Using Machine Learning Methods to Enhance Interaction Analysis for Embodied Learning Environments**|Joyce Fonteles et.al.|[2405.06203](http://arxiv.org/abs/2405.06203)|null|
+|**2024-05-10**|**Nonequilibrium transport and the fluctuation theorem in the thermodynamic behaviors of nonlinear photonic systems**|Yang Liu et.al.|[2405.06173](http://arxiv.org/abs/2405.06173)|null|
+|**2024-05-09**|**Enhanced Multimodal Content Moderation of Children's Videos using Audiovisual Fusion**|Syed Hammad Ahmed et.al.|[2405.06128](http://arxiv.org/abs/2405.06128)|null|
 |**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[2405.05956](http://arxiv.org/abs/2405.05956)|**[link](https://github.com/sreeramsa/drivesim)**|
 |**2024-05-09**|**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**|Jiachen Li et.al.|[2405.05949](http://arxiv.org/abs/2405.05949)|**[link](https://github.com/shi-labs/cumo)**|
 |**2024-05-09**|**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**|Peng Gao et.al.|[2405.05945](http://arxiv.org/abs/2405.05945)|**[link](https://github.com/alpha-vllm/lumina-t2x)**|

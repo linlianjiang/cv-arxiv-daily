@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3679,7 +3679,7 @@ layout: default
 |**2024-05-09**|**Predicting Cognitive Load Using Sensor Data in a Literacy Game**|Minghao Cai et.al.|[2405.05543](http://arxiv.org/abs/2405.05543)|null|
 |**2024-05-09**|**Prompt When the Animal is: Temporal Animal Behavior Grounding with Positional Recovery Training**|Sheng Yan et.al.|[2405.05523](http://arxiv.org/abs/2405.05523)|null|
 |**2024-05-09**|**Deep thermalization in continuous-variable quantum systems**|Chang Liu et.al.|[2405.05470](http://arxiv.org/abs/2405.05470)|null|
-|**2024-05-08**|**Large Language Model Enhanced Machine Learning Estimators for Classification**|Yuhang Wu et.al.|[2405.05445](http://arxiv.org/abs/2405.05445)|null|
+|**2024-05-08**|**Large Language Model Enhanced Machine Learning Estimators for Classification**|Yuhang Wu et.al.|[2405.05445](http://arxiv.org/abs/2405.05445)|**[link](https://github.com/wyharturia/llm_enhanced_ml)**|
 |**2024-05-08**|**Multimode amplitude squeezing through cascaded nonlinear optical processes**|Sahil Pontula et.al.|[2405.05201](http://arxiv.org/abs/2405.05201)|null|
 |**2024-05-08**|**Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection**|Shengyang Sun et.al.|[2405.05130](http://arxiv.org/abs/2405.05130)|**[link](https://github.com/shengyangsun/MSBT)**|
 |**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974](http://arxiv.org/abs/2405.04974)|null|

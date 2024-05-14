@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**A Hessian-Based Field Deformer for Real-Time Topology-Aware Shape Editing**|Yunxiao Zhang et.al.|[2405.07644](http://arxiv.org/abs/2405.07644)|null|
 |**2024-05-06**|**Statistical Edge Detection And UDF Learning For Shape Representation**|Virgile Foy et.al.|[2405.03381](http://arxiv.org/abs/2405.03381)|null|
 |**2024-05-01**|**Implicit Swept Volume SDF: Enabling Continuous Collision-Free Trajectory Generation for Arbitrary Shapes**|Jingping Wang et.al.|[2405.00362](http://arxiv.org/abs/2405.00362)|**[link](https://github.com/zju-fast-lab/implicit-svsdf-planner)**|
 |**2024-05-01**|**NC-SDF: Enhancing Indoor Scene Reconstruction Using Neural SDFs with View-Dependent Normal Compensation**|Ziyi Chen et.al.|[2405.00340](http://arxiv.org/abs/2405.00340)|null|
@@ -1952,6 +1953,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Cloaking for random walks using a discrete potential theory**|Trent DeGiovanni et.al.|[2405.07961](http://arxiv.org/abs/2405.07961)|null|
+|**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
+|**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
+|**2024-05-13**|**Latest results from Super-Kamiokande**|Andrew D. Santos et.al.|[2405.07900](http://arxiv.org/abs/2405.07900)|null|
+|**2024-05-13**|**Improving Breast Cancer Grade Prediction with Multiparametric MRI Created Using Optimized Synthetic Correlated Diffusion Imaging**|Chi-en Amy Tai et.al.|[2405.07861](http://arxiv.org/abs/2405.07861)|null|
+|**2024-05-13**|**Radiogenomic biomarkers for immunotherapy in glioblastoma: A systematic review of magnetic resonance imaging studies**|Prajwal Ghimire et.al.|[2405.07858](http://arxiv.org/abs/2405.07858)|null|
+|**2024-05-13**|**Using Multiparametric MRI with Optimized Synthetic Correlated Diffusion Imaging to Enhance Breast Cancer Pathologic Complete Response Prediction**|Chi-en Amy Tai et.al.|[2405.07854](http://arxiv.org/abs/2405.07854)|null|
+|**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
+|**2024-05-13**|**LGDE: Local Graph-based Dictionary Expansion**|Dominik J. Schindler et.al.|[2405.07764](http://arxiv.org/abs/2405.07764)|null|
+|**2024-05-13**|**FastSAG: Towards Fast Non-Autoregressive Singing Accompaniment Generation**|Jianyi Chen et.al.|[2405.07682](http://arxiv.org/abs/2405.07682)|null|
 |**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547](http://arxiv.org/abs/2405.06547)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
 |**2024-05-10**|**Controllable Image Generation With Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2405.06535](http://arxiv.org/abs/2405.06535)|null|
 |**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
@@ -3680,6 +3691,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**A Generalist Learner for Multifaceted Medical Image Interpretation**|Hong-Yu Zhou et.al.|[2405.07988](http://arxiv.org/abs/2405.07988)|null|
+|**2024-05-13**|**AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**|Samuel Schmidgall et.al.|[2405.07960](http://arxiv.org/abs/2405.07960)|null|
+|**2024-05-13**|**Improving Multimodal Learning with Multi-Loss Gradient Modulation**|Konstantinos Kontras et.al.|[2405.07930](http://arxiv.org/abs/2405.07930)|null|
+|**2024-05-13**|**Russian-Language Multimodal Dataset for Automatic Summarization of Scientific Papers**|Alena Tsanda et.al.|[2405.07886](http://arxiv.org/abs/2405.07886)|null|
+|**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2405.07865](http://arxiv.org/abs/2405.07865)|null|
+|**2024-05-13**|**FreeVA: Offline MLLM as Training-Free Video Assistant**|Wenhao Wu et.al.|[2405.07798](http://arxiv.org/abs/2405.07798)|**[link](https://github.com/whwu95/freeva)**|
+|**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
+|**2024-05-13**|**FORESEE: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival**|Liangrui Pan et.al.|[2405.07702](http://arxiv.org/abs/2405.07702)|null|
+|**2024-05-13**|**G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios**|Zeyu Wang et.al.|[2405.07652](http://arxiv.org/abs/2405.07652)|**[link](https://github.com/sky-wang326/gvoila)**|
+|**2024-05-13**|**Side-polished Silica-Fluoride Multimode Fibre Pump Combiner for Mid-IR Fibre Lasers and Amplifiers**|Boris Perminov et.al.|[2405.07517](http://arxiv.org/abs/2405.07517)|null|
 |**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634](http://arxiv.org/abs/2405.06634)|null|
 |**2024-05-10**|**Hierarchical Learned Risk-Aware Planning Framework for Human Driving Modeling**|Nathan Ludlow et.al.|[2405.06578](http://arxiv.org/abs/2405.06578)|null|
 |**2024-05-10**|**Mesh Denoising Transformer**|Wenbo Zhao et.al.|[2405.06536](http://arxiv.org/abs/2405.06536)|null|

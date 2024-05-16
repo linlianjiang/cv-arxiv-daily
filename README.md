@@ -1979,6 +1979,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539](http://arxiv.org/abs/2405.09539)|**[link](https://github.com/wuchengyu123/mmfusion)**|
+|**2024-05-15**|**A velocity-based moving mesh Discontinuous Galerkin method for the advection-diffusion equation**|Ezra Rozier et.al.|[2405.09408](http://arxiv.org/abs/2405.09408)|null|
+|**2024-05-15**|**Probing particle acceleration in Abell 2256: from to 16 MHz to gamma rays**|E. Osinga et.al.|[2405.09384](http://arxiv.org/abs/2405.09384)|null|
+|**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369](http://arxiv.org/abs/2405.09369)|null|
+|**2024-05-15**|**DeCoDEx: Confounder Detector Guidance for Improved Diffusion-based Counterfactual Explanations**|Nima Fathi et.al.|[2405.09288](http://arxiv.org/abs/2405.09288)|**[link](https://github.com/nimafathi/decodex)**|
+|**2024-05-15**|**Searches for Galactic Neutrinos with the IceCube Neutrino observatory**|A. Sandrock et.al.|[2405.09267](http://arxiv.org/abs/2405.09267)|null|
+|**2024-05-15**|**Dance Any Beat: Blending Beats with Visuals in Dance Video Generation**|Xuanchen Wang et.al.|[2405.09266](http://arxiv.org/abs/2405.09266)|null|
+|**2024-05-15**|**Exact analysis of the two-dimensional asymmetric simple exclusion process with attachment and detachment of particles**|Yuki Ishiguro et.al.|[2405.09261](http://arxiv.org/abs/2405.09261)|null|
+|**2024-05-15**|**Propagation of chaos for moderately interacting particle systems related to singular kinetic Mckean-Vlasov SDEs**|Zimo Hao et.al.|[2405.09195](http://arxiv.org/abs/2405.09195)|null|
+|**2024-05-15**|**QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud**|Arun Amaithi Rajan et.al.|[2405.09191](http://arxiv.org/abs/2405.09191)|null|
 |**2024-05-14**|**The Flux Hypothesis for Odd Transport Phenomena**|Cory Hargus et.al.|[2405.08798](http://arxiv.org/abs/2405.08798)|null|
 |**2024-05-14**|**A Generalized Curvilinear Coordinate system-based Patch Dynamics Scheme in Equation-free Multiscale Modelling**|Tanay Kumar Karmakar et.al.|[2405.08764](http://arxiv.org/abs/2405.08764)|null|
 |**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
@@ -3729,6 +3739,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**DemOpts: Fairness corrections in COVID-19 case prediction models**|Naman Awasthi et.al.|[2405.09483](http://arxiv.org/abs/2405.09483)|null|
+|**2024-05-15**|**M $^4$ oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts**|Yufeng Jiang et.al.|[2405.09446](http://arxiv.org/abs/2405.09446)|null|
+|**2024-05-15**|**Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model**|Wanting Xu et.al.|[2405.09215](http://arxiv.org/abs/2405.09215)|**[link](https://github.com/xiaoduoailab/xmodelvlm)**|
+|**2024-05-15**|**HAAP: Vision-context Hierarchical Attention Autoregressive with Adaptive Permutation for Scene Text Recognition**|Honghui Chen et.al.|[2405.09125](http://arxiv.org/abs/2405.09125)|null|
+|**2024-05-15**|**AMSNet: Netlist Dataset for AMS Circuits**|Zhuofu Tao et.al.|[2405.09045](http://arxiv.org/abs/2405.09045)|null|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
 |**2024-05-14**|**SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure Interpretation**|Jonathan Roberts et.al.|[2405.08807](http://arxiv.org/abs/2405.08807)|null|
 |**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|

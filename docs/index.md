@@ -1954,6 +1954,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Text-to-Vector Generation with Neural Path Representation**|Peiying Zhang et.al.|[2405.10317](http://arxiv.org/abs/2405.10317)|null|
+|**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316](http://arxiv.org/abs/2405.10316)|null|
+|**2024-05-16**|**CAT3D: Create Anything in 3D with Multi-View Diffusion Models**|Ruiqi Gao et.al.|[2405.10314](http://arxiv.org/abs/2405.10314)|null|
+|**2024-05-16**|**Societal Adaptation to Advanced AI**|Jamie Bernardi et.al.|[2405.10295](http://arxiv.org/abs/2405.10295)|null|
+|**2024-05-16**|**Power-law relaxation of a confined diffusing particle subject to resetting with memory**|Denis Boyer et.al.|[2405.10283](http://arxiv.org/abs/2405.10283)|null|
+|**2024-05-16**|**Interplay between Domain Walls in Type-II Superconductors and Gradients of Temperature/Spin Density**|Takuma Kanakubo et.al.|[2405.10200](http://arxiv.org/abs/2405.10200)|null|
+|**2024-05-16**|**Fixed points of maps and nontrivial weak solutions to a class of nonlinear strongly coupled elliptic systems**|Dung Le et.al.|[2405.10171](http://arxiv.org/abs/2405.10171)|null|
+|**2024-05-16**|**Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks**|João Bordalo et.al.|[2405.10122](http://arxiv.org/abs/2405.10122)|null|
+|**2024-05-16**|**Advancing Set-Conditional Set Generation: Graph Diffusion for Fast Simulation of Reconstructed Particles**|Dmitrii Kobylianskii et.al.|[2405.10106](http://arxiv.org/abs/2405.10106)|null|
+|**2024-05-16**|**Spurious reconstruction from brain activity**|Ken Shirakawa et.al.|[2405.10078](http://arxiv.org/abs/2405.10078)|null|
 |**2024-05-16**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539](http://arxiv.org/abs/2405.09539)|**[link](https://github.com/wuchengyu123/mmfusion)**|
 |**2024-05-15**|**A velocity-based moving mesh Discontinuous Galerkin method for the advection-diffusion equation**|Ezra Rozier et.al.|[2405.09408](http://arxiv.org/abs/2405.09408)|null|
 |**2024-05-15**|**Probing particle acceleration in Abell 2256: from to 16 MHz to gamma rays**|E. Osinga et.al.|[2405.09384](http://arxiv.org/abs/2405.09384)|null|
@@ -3712,6 +3722,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
+|**2024-05-16**|**Libra: Building Decoupled Vision System on Large Language Models**|Yifan Xu et.al.|[2405.10140](http://arxiv.org/abs/2405.10140)|**[link](https://github.com/yifanxu74/libra)**|
+|**2024-05-16**|**Distilling Implicit Multimodal Knowledge into LLMs for Zero-Resource Dialogue Generation**|Bo Zhang et.al.|[2405.10121](http://arxiv.org/abs/2405.10121)|null|
+|**2024-05-16**|**Phenomenology of many-body localization in bond-disordered spin chains**|Adith Sai Aramthottil et.al.|[2405.10062](http://arxiv.org/abs/2405.10062)|null|
+|**2024-05-16**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029](http://arxiv.org/abs/2405.10029)|null|
+|**2024-05-16**|**Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models**|Yuchen Hu et.al.|[2405.10025](http://arxiv.org/abs/2405.10025)|null|
+|**2024-05-16**|**ROCOv2: Radiology Objects in COntext Version 2, an Updated Multimodal Image Dataset**|Johannes Rückert et.al.|[2405.10004](http://arxiv.org/abs/2405.10004)|null|
+|**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
+|**2024-05-16**|**Balancing Similarity and Complementarity for Federated Learning**|Kunda Yan et.al.|[2405.09892](http://arxiv.org/abs/2405.09892)|null|
+|**2024-05-16**|**Enhancing Semantics in Multimodal Chain of Thought via Soft Negative Sampling**|Guangmin Zheng et.al.|[2405.09848](http://arxiv.org/abs/2405.09848)|**[link](https://github.com/zgmin/snse-cot)**|
 |**2024-05-15**|**DemOpts: Fairness corrections in COVID-19 case prediction models**|Naman Awasthi et.al.|[2405.09483](http://arxiv.org/abs/2405.09483)|null|
 |**2024-05-15**|**M $^4$ oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts**|Yufeng Jiang et.al.|[2405.09446](http://arxiv.org/abs/2405.09446)|null|
 |**2024-05-15**|**Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model**|Wanting Xu et.al.|[2405.09215](http://arxiv.org/abs/2405.09215)|**[link](https://github.com/xiaoduoailab/xmodelvlm)**|

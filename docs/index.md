@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3735,7 +3735,7 @@ layout: default
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
 |**2024-05-17**|**Automated Radiology Report Generation: A Review of Recent Advances**|Phillip Sloan et.al.|[2405.10842](http://arxiv.org/abs/2405.10842)|null|
 |**2024-05-17**|**Efficient Multimodal Large Language Models: A Survey**|Yizhang Jin et.al.|[2405.10739](http://arxiv.org/abs/2405.10739)|**[link](https://github.com/lijiannuist/efficient-multimodal-llms-survey)**|
-|**2024-05-17**|**The Artin-Maur zeta function for interval maps**|Jorge Olivares-Vinales et.al.|[2405.10560](http://arxiv.org/abs/2405.10560)|null|
+|**2024-05-20**|**The Artin-Mazur zeta function for interval maps**|Jorge Olivares-Vinales et.al.|[2405.10560](http://arxiv.org/abs/2405.10560)|null|
 |**2024-05-17**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 |**2024-05-17**|**A Deep Learning Approach to Heterogeneous Consumer Aesthetics in Retail Fashion**|Pranjal Rawat et.al.|[2405.10498](http://arxiv.org/abs/2405.10498)|null|
 |**2024-05-17**|**SMP Challenge: An Overview and Analysis of Social Media Prediction Challenge**|Bo Wu et.al.|[2405.10497](http://arxiv.org/abs/2405.10497)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1840,7 +1840,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-21**|**Implicit-ARAP: Efficient Handle-Guided Deformation of High-Resolution Meshes and Neural Fields via Local Patch Meshing**|Daniele Baieri et.al.|[2405.12895](http://arxiv.org/abs/2405.12895)|null|
-|**2024-05-20**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|null|
+|**2024-05-22**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|null|
 |**2024-05-20**|**Depth Reconstruction with Neural Signed Distance Fields in Structured Light Systems**|Rukun Qiao et.al.|[2405.12006](http://arxiv.org/abs/2405.12006)|null|
 |**2024-05-14**|**A Simple Approach to Differentiable Rendering of SDFs**|Zichen Wang et.al.|[2405.08733](http://arxiv.org/abs/2405.08733)|null|
 |**2024-05-13**|**A Hessian-Based Field Deformer for Real-Time Topology-Aware Shape Editing**|Yunxiao Zhang et.al.|[2405.07644](http://arxiv.org/abs/2405.07644)|null|

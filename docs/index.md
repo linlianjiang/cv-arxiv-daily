@@ -1839,6 +1839,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|null|
+|**2024-05-22**|**Learning rigid-body simulators over implicit shapes for large-scale scenes and vision**|Yulia Rubanova et.al.|[2405.14045](http://arxiv.org/abs/2405.14045)|null|
+|**2024-05-22**|**NeurCross: A Self-Supervised Neural Approach for Representing Cross Fields in Quad Mesh Generation**|Qiujie Dong et.al.|[2405.13745](http://arxiv.org/abs/2405.13745)|null|
 |**2024-05-21**|**Implicit-ARAP: Efficient Handle-Guided Deformation of High-Resolution Meshes and Neural Fields via Local Patch Meshing**|Daniele Baieri et.al.|[2405.12895](http://arxiv.org/abs/2405.12895)|null|
 |**2024-05-22**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|null|
 |**2024-05-20**|**Depth Reconstruction with Neural Signed Distance Fields in Structured Light Systems**|Rukun Qiao et.al.|[2405.12006](http://arxiv.org/abs/2405.12006)|null|
@@ -1957,6 +1960,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
+|**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
+|**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
+|**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861](http://arxiv.org/abs/2405.14861)|null|
+|**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|
+|**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
+|**2024-05-23**|**Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer**|Shuang Wu et.al.|[2405.14832](http://arxiv.org/abs/2405.14832)|null|
+|**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|
+|**2024-05-23**|**New limits on neutrino decay from high-energy astrophysical neutrinos**|Victor B. Valera et.al.|[2405.14826](http://arxiv.org/abs/2405.14826)|null|
+|**2024-05-23**|**PaGoDA: Progressive Growing of a One-Step Generator from a Low-Resolution Diffusion Teacher**|Dongjun Kim et.al.|[2405.14822](http://arxiv.org/abs/2405.14822)|null|
 |**2024-05-21**|**Personalized Residuals for Concept-Driven Text-to-Image Generation**|Cusuh Ham et.al.|[2405.12978](http://arxiv.org/abs/2405.12978)|null|
 |**2024-05-21**|**Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**|Yue Han et.al.|[2405.12970](http://arxiv.org/abs/2405.12970)|null|
 |**2024-05-21**|**Differential Walk on Spheres**|Bailey Miller et.al.|[2405.12964](http://arxiv.org/abs/2405.12964)|null|
@@ -3755,6 +3768,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Masked Image Modelling for retinal OCT understanding**|Theodoros Pissas et.al.|[2405.14788](http://arxiv.org/abs/2405.14788)|null|
+|**2024-05-23**|**Multistable Shape from Shading Emerges from Patch Diffusion**|Xinran Nicole Han et.al.|[2405.14530](http://arxiv.org/abs/2405.14530)|null|
+|**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529](http://arxiv.org/abs/2405.14529)|null|
+|**2024-05-23**|**Identity Inference from CLIP Models using Only Textual Data**|Songze Li et.al.|[2405.14517](http://arxiv.org/abs/2405.14517)|null|
+|**2024-05-23**|**Deep Learning Fusion For Effective Malware Detection: Leveraging Visual Features**|Jahez Abraham Johny et.al.|[2405.14311](http://arxiv.org/abs/2405.14311)|null|
+|**2024-05-23**|**From Text to Pixel: Advancing Long-Context Understanding in MLLMs**|Yujie Lu et.al.|[2405.14213](http://arxiv.org/abs/2405.14213)|null|
+|**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203](http://arxiv.org/abs/2405.14203)|null|
+|**2024-05-23**|**Awesome Multi-modal Object Tracking**|Chunhui Zhang et.al.|[2405.14200](http://arxiv.org/abs/2405.14200)|null|
+|**2024-05-23**|**Imagery as Inquiry: Exploring A Multimodal Dataset for Conversational Recommendation**|Se-eun Yoon et.al.|[2405.14142](http://arxiv.org/abs/2405.14142)|null|
+|**2024-05-23**|**AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability**|Fei Zhao et.al.|[2405.14129](http://arxiv.org/abs/2405.14129)|null|
 |**2024-05-21**|**Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**|Ahmed Gomaa et.al.|[2405.12963](http://arxiv.org/abs/2405.12963)|null|
 |**2024-05-21**|**AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection**|Zizhao Chen et.al.|[2405.12944](http://arxiv.org/abs/2405.12944)|**[link](https://github.com/bigD233/AMFD)**|
 |**2024-05-21**|**Enabling Additive Manufacturing Part Inspection of Digital Twins via Collaborative Virtual Reality**|Vuthea Chheang et.al.|[2405.12931](http://arxiv.org/abs/2405.12931)|null|

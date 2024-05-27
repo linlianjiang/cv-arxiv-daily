@@ -1985,6 +1985,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Self-consistent evaluation of proximity and inverse proximity effects with pair-breaking in diffusive SN junctions**|Arpit Raj et.al.|[2405.15770](http://arxiv.org/abs/2405.15770)|null|
+|**2024-05-24**|**FastDrag: Manipulate Anything in One Step**|Xuanjia Zhao et.al.|[2405.15769](http://arxiv.org/abs/2405.15769)|null|
+|**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758](http://arxiv.org/abs/2405.15758)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
+|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757](http://arxiv.org/abs/2405.15757)|null|
+|**2024-05-24**|**Score-based generative models are provably robust: an uncertainty quantification perspective**|Nikiforos Mimikos-Stamatopoulos et.al.|[2405.15754](http://arxiv.org/abs/2405.15754)|null|
+|**2024-05-24**|**Murray-von Neumann dimension for strictly semifinite weights**|Aldo Garcia Guinto et.al.|[2405.15725](http://arxiv.org/abs/2405.15725)|null|
+|**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719](http://arxiv.org/abs/2405.15719)|null|
+|**2024-05-24**|**Simulation-based inference of radio millisecond pulsars in globular clusters**|Joanna Berteaud et.al.|[2405.15691](http://arxiv.org/abs/2405.15691)|null|
+|**2024-05-24**|**Jet Quenching of the Heavy Quarks in the Quark-Gluon Plasma and the Nonadditive Statistics**|Trambak Bhattacharyya et.al.|[2405.15679](http://arxiv.org/abs/2405.15679)|null|
+|**2024-05-24**|**Taming Score-Based Diffusion Priors for Infinite-Dimensional Nonlinear Inverse Problems**|Lorenzo Baldassari et.al.|[2405.15676](http://arxiv.org/abs/2405.15676)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
 |**2024-05-24**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
@@ -3795,6 +3805,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766](http://arxiv.org/abs/2405.15766)|**[link](https://github.com/singhayush27/mmade)**|
+|**2024-05-24**|**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**|Chunjiang Ge et.al.|[2405.15738](http://arxiv.org/abs/2405.15738)|**[link](https://github.com/alibaba/conv-llava)**|
+|**2024-05-24**|**EmpathicStories++: A Multimodal Dataset for Empathy towards Personal Experiences**|Jocelyn Shen et.al.|[2405.15708](http://arxiv.org/abs/2405.15708)|null|
+|**2024-05-24**|**Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models**|Yongsheng Yu et.al.|[2405.15687](http://arxiv.org/abs/2405.15687)|null|
+|**2024-05-24**|**Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models**|Yue Zhang et.al.|[2405.15684](http://arxiv.org/abs/2405.15684)|null|
+|**2024-05-24**|**What Do You See? Enhancing Zero-Shot Image Classification with Multimodal Large Language Models**|Abdelrahman Abdelhamed et.al.|[2405.15668](http://arxiv.org/abs/2405.15668)|null|
+|**2024-05-24**|**M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models**|Hongyu Wang et.al.|[2405.15638](http://arxiv.org/abs/2405.15638)|**[link](https://github.com/m4u-benchmark/m4u)**|
+|**2024-05-24**|**Nonlinear denoising score matching for enhanced learning of structured distributions**|Jeremiah Birrell et.al.|[2405.15625](http://arxiv.org/abs/2405.15625)|null|
+|**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|null|
+|**2024-05-24**|**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**|Byung-Kwan Lee et.al.|[2405.15574](http://arxiv.org/abs/2405.15574)|**[link](https://github.com/byungkwanlee/meteor)**|
 |**2024-05-23**|**Masked Image Modelling for retinal OCT understanding**|Theodoros Pissas et.al.|[2405.14788](http://arxiv.org/abs/2405.14788)|null|
 |**2024-05-23**|**Multistable Shape from Shading Emerges from Patch Diffusion**|Xinran Nicole Han et.al.|[2405.14530](http://arxiv.org/abs/2405.14530)|null|
 |**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529](http://arxiv.org/abs/2405.14529)|null|

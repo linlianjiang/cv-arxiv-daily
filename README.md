@@ -1862,6 +1862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Self-Supervised Dual Contouring**|Ramana Sundararaman et.al.|[2405.18131](http://arxiv.org/abs/2405.18131)|null|
+|**2024-05-28**|**FlowSDF: Flow Matching for Medical Image Segmentation Using Distance Transforms**|Lea Bogensperger et.al.|[2405.18087](http://arxiv.org/abs/2405.18087)|null|
 |**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|null|
 |**2024-05-22**|**Learning rigid-body simulators over implicit shapes for large-scale scenes and vision**|Yulia Rubanova et.al.|[2405.14045](http://arxiv.org/abs/2405.14045)|null|
 |**2024-05-22**|**NeurCross: A Self-Supervised Neural Approach for Representing Cross Fields in Quad Mesh Generation**|Qiujie Dong et.al.|[2405.13745](http://arxiv.org/abs/2405.13745)|null|
@@ -1985,6 +1987,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**On the Origin of Llamas: Model Tree Heritage Recovery**|Eliahu Horwitz et.al.|[2405.18432](http://arxiv.org/abs/2405.18432)|null|
+|**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428](http://arxiv.org/abs/2405.18428)|**[link](https://github.com/hustvl/dig)**|
+|**2024-05-28**|**Phased Consistency Model**|Fu-Yun Wang et.al.|[2405.18407](http://arxiv.org/abs/2405.18407)|null|
+|**2024-05-28**|**RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives**|Jaehong Yoon et.al.|[2405.18406](http://arxiv.org/abs/2405.18406)|null|
+|**2024-05-28**|**Short-time Fokker-Planck propagator beyond the Gaussian approximation**|Julian Kappler et.al.|[2405.18381](http://arxiv.org/abs/2405.18381)|null|
+|**2024-05-28**|**A Hessian-Aware Stochastic Differential Equation for Modelling SGD**|Xiang Li et.al.|[2405.18373](http://arxiv.org/abs/2405.18373)|null|
+|**2024-05-28**|**Simulating infinite-dimensional nonlinear diffusion bridges**|Gefan Yang et.al.|[2405.18353](http://arxiv.org/abs/2405.18353)|null|
+|**2024-05-28**|**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers**|Jun Zheng et.al.|[2405.18326](http://arxiv.org/abs/2405.18326)|null|
+|**2024-05-28**|**Multi-modal Generation via Cross-Modal In-Context Learning**|Amandeep Kumar et.al.|[2405.18304](http://arxiv.org/abs/2405.18304)|**[link](https://github.com/virobo-15/mgcc)**|
+|**2024-05-28**|**CT-based brain ventricle segmentation via diffusion Schrödinger Bridge without target domain ground truths**|Reihaneh Teimouri et.al.|[2405.18267](http://arxiv.org/abs/2405.18267)|null|
 |**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
 |**2024-05-27**|**Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer**|Ruizhi Shao et.al.|[2405.17405](http://arxiv.org/abs/2405.17405)|null|
 |**2024-05-27**|**A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training**|Kai Wang et.al.|[2405.17403](http://arxiv.org/abs/2405.17403)|**[link](https://github.com/1zeryu/speed)**|
@@ -3815,6 +3827,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning**|Dongjie Chen et.al.|[2405.18376](http://arxiv.org/abs/2405.18376)|**[link](https://github.com/Dong-Jie-Chen/RCL)**|
+|**2024-05-28**|**Multi-modal Generation via Cross-Modal In-Context Learning**|Amandeep Kumar et.al.|[2405.18304](http://arxiv.org/abs/2405.18304)|**[link](https://github.com/virobo-15/mgcc)**|
+|**2024-05-28**|**Confidence-aware multi-modality learning for eye disease screening**|Ke Zou et.al.|[2405.18167](http://arxiv.org/abs/2405.18167)|**[link](https://github.com/cocofeat/eyemost)**|
+|**2024-05-28**|**Sampling metastable systems using collective variables and Jarzynski-Crooks paths**|Christoph Schönle et.al.|[2405.18160](http://arxiv.org/abs/2405.18160)|null|
+|**2024-05-28**|**Attention-based sequential recommendation system using multimodal data**|Hyungtaik Oh et.al.|[2405.17959](http://arxiv.org/abs/2405.17959)|null|
+|**2024-05-28**|**The Evolution of Multimodal Model Architectures**|Shakti N. Wadekar et.al.|[2405.17927](http://arxiv.org/abs/2405.17927)|null|
+|**2024-05-28**|**Laser-scanning optical-frequency-comb microscopy for multimodal imaging**|Shimpei Kajiwara et.al.|[2405.17906](http://arxiv.org/abs/2405.17906)|null|
+|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|null|
+|**2024-05-28**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|null|
+|**2024-05-28**|**Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**|Xin Xiao et.al.|[2405.17871](http://arxiv.org/abs/2405.17871)|null|
 |**2024-05-27**|**Matryoshka Multimodal Models**|Mu Cai et.al.|[2405.17430](http://arxiv.org/abs/2405.17430)|null|
 |**2024-05-27**|**Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model**|Kuan-Chih Huang et.al.|[2405.17427](http://arxiv.org/abs/2405.17427)|**[link](https://github.com/kuanchihhuang/reason3d)**|
 |**2024-05-27**|**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**|Hao Dong et.al.|[2405.17419](http://arxiv.org/abs/2405.17419)|**[link](https://github.com/donghao51/multiood)**|

@@ -1963,6 +1963,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Mixed Diffusion for 3D Indoor Scene Synthesis**|Siyi Hu et.al.|[2405.21066](http://arxiv.org/abs/2405.21066)|null|
+|**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059](http://arxiv.org/abs/2405.21059)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050](http://arxiv.org/abs/2405.21050)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
+|**2024-05-31**|**Beyond Conventional Parametric Modeling: Data-Driven Framework for Estimation and Prediction of Time Activity Curves in Dynamic PET Imaging**|Niloufar Zakariaei et.al.|[2405.21021](http://arxiv.org/abs/2405.21021)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971](http://arxiv.org/abs/2405.20971)|**[link](https://github.com/gfnorg/diffusion-finetuning)**|
+|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962](http://arxiv.org/abs/2405.20962)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
+|**2024-05-31**|**Search of extended emission from HESS J1702-420 with eROSITA**|Denys Malyshev et.al.|[2405.20927](http://arxiv.org/abs/2405.20927)|null|
+|**2024-05-31**|**Flow matching achieves minimax optimal convergence**|Kenji Fukumizu et.al.|[2405.20879](http://arxiv.org/abs/2405.20879)|null|
+|**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851](http://arxiv.org/abs/2405.20851)|**[link](https://github.com/megvii-research/megfaceanimate)**|
 |**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|null|
 |**2024-05-30**|**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**|Lening Wang et.al.|[2405.20337](http://arxiv.org/abs/2405.20337)|**[link](https://github.com/wzzheng/occsora)**|
 |**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334](http://arxiv.org/abs/2405.20334)|null|
@@ -3821,6 +3831,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
+|**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985](http://arxiv.org/abs/2405.20985)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971](http://arxiv.org/abs/2405.20971)|**[link](https://github.com/gfnorg/diffusion-finetuning)**|
+|**2024-05-31**|**Enhancing Vision Models for Text-Heavy Content Understanding and Interaction**|Adithya TG et.al.|[2405.20906](http://arxiv.org/abs/2405.20906)|null|
+|**2024-05-31**|**Don't Buy it! Reassessing the Ad Understanding Abilities of Contrastive Multimodal Models**|A. Bavaresco et.al.|[2405.20846](http://arxiv.org/abs/2405.20846)|null|
+|**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834](http://arxiv.org/abs/2405.20834)|null|
+|**2024-05-31**|**Ovis: Structural Embedding Alignment for Multimodal Large Language Model**|Shiyin Lu et.al.|[2405.20797](http://arxiv.org/abs/2405.20797)|null|
+|**2024-05-31**|**InsightSee: Advancing Multi-agent Vision-Language Models for Enhanced Visual Understanding**|Huaxiang Zhang et.al.|[2405.20795](http://arxiv.org/abs/2405.20795)|null|
+|**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684](http://arxiv.org/abs/2405.20684)|null|
+|**2024-05-31**|**ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in Code-Mixed Videos**|Krishanu Maity et.al.|[2405.20628](http://arxiv.org/abs/2405.20628)|null|
 |**2024-05-30**|**Visual Perception by Large Language Model's Weights**|Feipeng Ma et.al.|[2405.20339](http://arxiv.org/abs/2405.20339)|null|
 |**2024-05-30**|**RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text**|Jiaben Chen et.al.|[2405.20336](http://arxiv.org/abs/2405.20336)|null|
 |**2024-05-30**|**Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use**|Franz Louis Cesista et.al.|[2405.20245](http://arxiv.org/abs/2405.20245)|null|

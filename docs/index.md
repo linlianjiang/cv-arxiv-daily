@@ -1969,7 +1969,7 @@ layout: default
 |**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
 |**2024-05-31**|**Beyond Conventional Parametric Modeling: Data-Driven Framework for Estimation and Prediction of Time Activity Curves in Dynamic PET Imaging**|Niloufar Zakariaei et.al.|[2405.21021](http://arxiv.org/abs/2405.21021)|null|
 |**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971](http://arxiv.org/abs/2405.20971)|**[link](https://github.com/gfnorg/diffusion-finetuning)**|
-|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962](http://arxiv.org/abs/2405.20962)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
+|**2024-06-03**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962](http://arxiv.org/abs/2405.20962)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
 |**2024-05-31**|**Search of extended emission from HESS J1702-420 with eROSITA**|Denys Malyshev et.al.|[2405.20927](http://arxiv.org/abs/2405.20927)|null|
 |**2024-05-31**|**Flow matching achieves minimax optimal convergence**|Kenji Fukumizu et.al.|[2405.20879](http://arxiv.org/abs/2405.20879)|null|
 |**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851](http://arxiv.org/abs/2405.20851)|**[link](https://github.com/megvii-research/megfaceanimate)**|
@@ -3831,7 +3831,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
+|**2024-06-03**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
 |**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985](http://arxiv.org/abs/2405.20985)|null|
 |**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971](http://arxiv.org/abs/2405.20971)|**[link](https://github.com/gfnorg/diffusion-finetuning)**|
 |**2024-05-31**|**Enhancing Vision Models for Text-Heavy Content Understanding and Interaction**|Adithya TG et.al.|[2405.20906](http://arxiv.org/abs/2405.20906)|null|

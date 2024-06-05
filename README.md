@@ -1862,6 +1862,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**GenS: Generalizable Neural Surface Reconstruction from Multi-View Images**|Rui Peng et.al.|[2406.02495](http://arxiv.org/abs/2406.02495)|**[link](https://github.com/prstrive/gens)**|
+|**2024-06-03**|**Configuration Space Distance Fields for Manipulation Planning**|Yiming Li et.al.|[2406.01137](http://arxiv.org/abs/2406.01137)|null|
+|**2024-06-01**|**Details Enhancement in Unsigned Distance Field Learning for High-fidelity 3D Surface Reconstruction**|Cheng Xu et.al.|[2406.00346](http://arxiv.org/abs/2406.00346)|null|
 |**2024-05-30**|**GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction**|Haodong Xiang et.al.|[2405.19671](http://arxiv.org/abs/2405.19671)|null|
 |**2024-05-28**|**Self-Supervised Dual Contouring**|Ramana Sundararaman et.al.|[2405.18131](http://arxiv.org/abs/2405.18131)|null|
 |**2024-05-28**|**FlowSDF: Flow Matching for Medical Image Segmentation Using Distance Transforms**|Lea Bogensperger et.al.|[2405.18087](http://arxiv.org/abs/2405.18087)|null|
@@ -1988,6 +1991,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Dreamguider: Improved Training free Diffusion-based Conditional Generation**|Nithin Gopalakrishnan Nair et.al.|[2406.02549](http://arxiv.org/abs/2406.02549)|null|
+|**2024-06-04**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
+|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
+|**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
+|**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
+|**2024-06-04**|**Tensor Network Space-Time Spectral Collocation Method for Solving the Nonlinear Convection Diffusion Equation**|Dibyendu Adak et.al.|[2406.02505](http://arxiv.org/abs/2406.02505)|null|
+|**2024-06-04**|**Singular Subspace Perturbation Bounds via Rectangular Random Matrix Diffusions**|Peiyao Lai et.al.|[2406.02502](http://arxiv.org/abs/2406.02502)|null|
+|**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|null|
+|**2024-06-04**|**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion**|Colin Hansen et.al.|[2406.02477](http://arxiv.org/abs/2406.02477)|null|
+|**2024-06-04**|**Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems**|Jason Hu et.al.|[2406.02462](http://arxiv.org/abs/2406.02462)|null|
 |**2024-05-31**|**Mixed Diffusion for 3D Indoor Scene Synthesis**|Siyi Hu et.al.|[2405.21066](http://arxiv.org/abs/2405.21066)|null|
 |**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059](http://arxiv.org/abs/2405.21059)|null|
 |**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050](http://arxiv.org/abs/2405.21050)|null|
@@ -3858,6 +3871,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547](http://arxiv.org/abs/2406.02547)|**[link](https://github.com/showlab/VisInContext)**|
+|**2024-06-04**|**Robust and highly scalable estimation of directional couplings from time-shifted signals**|Luca Ambrogioni et.al.|[2406.02545](http://arxiv.org/abs/2406.02545)|null|
+|**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539](http://arxiv.org/abs/2406.02539)|null|
+|**2024-06-04**|**TopViewRS: Vision-Language Models as Top-View Spatial Reasoners**|Chengzu Li et.al.|[2406.02537](http://arxiv.org/abs/2406.02537)|null|
+|**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
+|**2024-06-04**|**Multimodal Resonance in Strongly Coupled Inductor Arrays**|Robert R. Hughes et.al.|[2406.02312](http://arxiv.org/abs/2406.02312)|null|
+|**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263](http://arxiv.org/abs/2406.02263)|null|
+|**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202](http://arxiv.org/abs/2406.02202)|null|
+|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030](http://arxiv.org/abs/2406.02030)|null|
+|**2024-06-04**|**On the Mode-Seeking Properties of Langevin Dynamics**|Xiwei Cheng et.al.|[2406.02017](http://arxiv.org/abs/2406.02017)|**[link](https://github.com/xiwei-cheng/chained_ld)**|
 |**2024-06-04**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
 |**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985](http://arxiv.org/abs/2405.20985)|null|
 |**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971](http://arxiv.org/abs/2405.20971)|**[link](https://github.com/gfnorg/diffusion-finetuning)**|

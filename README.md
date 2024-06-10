@@ -1994,6 +1994,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**|Keyhan Najafian et.al.|[2406.05131](http://arxiv.org/abs/2406.05131)|null|
+|**2024-06-07**|**Ohms law lost and regained: observation and impact of zeros and poles**|Krishna Joshi et.al.|[2406.05112](http://arxiv.org/abs/2406.05112)|null|
+|**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109](http://arxiv.org/abs/2406.05109)|null|
+|**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
+|**2024-06-07**|**GenHeld: Generating and Editing Handheld Objects**|Chaerin Min et.al.|[2406.05059](http://arxiv.org/abs/2406.05059)|**[link](https://github.com/ChaerinMin/GenHeld)**|
+|**2024-06-07**|**Digital Twins of the EM Environment: Benchmark for Ray Launching Models**|Michele Zhu et.al.|[2406.05042](http://arxiv.org/abs/2406.05042)|null|
+|**2024-06-07**|**Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**|Shentong Mo et.al.|[2406.05038](http://arxiv.org/abs/2406.05038)|null|
+|**2024-06-07**|**Linear stability analysis for a system of singular amplitude equations arising in biomorphology**|Aric Wheeler et.al.|[2406.05037](http://arxiv.org/abs/2406.05037)|null|
+|**2024-06-07**|**Generative diffusion models for synthetic trajectories of heavy and light particles in turbulence**|Tianyi Li et.al.|[2406.05008](http://arxiv.org/abs/2406.05008)|null|
+|**2024-06-07**|**CityCraft: A Real Crafter for 3D City Generation**|Jie Deng et.al.|[2406.04983](http://arxiv.org/abs/2406.04983)|null|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
@@ -3894,6 +3904,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130](http://arxiv.org/abs/2406.05130)|null|
+|**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
+|**2024-06-07**|**Semantic Segmentation on VSPW Dataset through Masked Video Consistency**|Chen Liang et.al.|[2406.04979](http://arxiv.org/abs/2406.04979)|null|
+|**2024-06-07**|**Leveraging Generative AI for Extracting Process Models from Multimodal Documents**|Marvin Voelter et.al.|[2406.04959](http://arxiv.org/abs/2406.04959)|null|
+|**2024-06-07**|**CarbonSense: A Multimodal Dataset and Baseline for Carbon Flux Modelling**|Matthew Fortier et.al.|[2406.04940](http://arxiv.org/abs/2406.04940)|null|
+|**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930](http://arxiv.org/abs/2406.04930)|null|
+|**2024-06-07**|**RU-AI: A Large Multimodal Dataset for Machine Generated Content Detection**|Liting Huang et.al.|[2406.04906](http://arxiv.org/abs/2406.04906)|**[link](https://github.com/zhihaozhang97/ru-ai)**|
+|**2024-06-07**|**Predictive Dynamic Fusion**|Bing Cao et.al.|[2406.04802](http://arxiv.org/abs/2406.04802)|**[link](https://github.com/yinan-xia/pdf)**|
+|**2024-06-07**|**Interpretable Multimodal Out-of-context Detection with Soft Logic Regularization**|Huanhuan Ma et.al.|[2406.04756](http://arxiv.org/abs/2406.04756)|null|
+|**2024-06-07**|**Predicting Polymer Properties Based on Multimodal Multitask Pretraining**|Fanmeng Wang et.al.|[2406.04727](http://arxiv.org/abs/2406.04727)|null|
 |**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339](http://arxiv.org/abs/2406.04339)|null|
 |**2024-06-06**|**DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs**|Lingchen Meng et.al.|[2406.04334](http://arxiv.org/abs/2406.04334)|null|
 |**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|**[link](https://github.com/blackswan-ai/short-circuiting)**|

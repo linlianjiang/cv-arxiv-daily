@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1840,7 +1840,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry**|Kaichen Zhou et.al.|[2406.04301](http://arxiv.org/abs/2406.04301)|null|
-|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254](http://arxiv.org/abs/2406.04254)|null|
+|**2024-06-07**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254](http://arxiv.org/abs/2406.04254)|null|
 |**2024-06-05**|**CoFie: Learning Compact Neural Surface Representations with Coordinate Fields**|Hanwen Jiang et.al.|[2406.03417](http://arxiv.org/abs/2406.03417)|null|
 |**2024-06-04**|**GenS: Generalizable Neural Surface Reconstruction from Multi-View Images**|Rui Peng et.al.|[2406.02495](http://arxiv.org/abs/2406.02495)|**[link](https://github.com/prstrive/gens)**|
 |**2024-06-03**|**Configuration Space Distance Fields for Manipulation Planning**|Yiming Li et.al.|[2406.01137](http://arxiv.org/abs/2406.01137)|null|
@@ -1970,13 +1970,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
-|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
+|**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
 |**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|**[link](https://github.com/huggingface/diffusers)**|
 |**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
 |**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324](http://arxiv.org/abs/2406.04324)|null|
 |**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323](http://arxiv.org/abs/2406.04323)|null|
-|**2024-06-06**|**DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**|Qihao Liu et.al.|[2406.04322](http://arxiv.org/abs/2406.04322)|**[link](https://github.com/qihao067/direct3d)**|
+|**2024-06-07**|**DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**|Qihao Liu et.al.|[2406.04322](http://arxiv.org/abs/2406.04322)|**[link](https://github.com/qihao067/direct3d)**|
 |**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314](http://arxiv.org/abs/2406.04314)|null|
 |**2024-06-06**|**ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization**|Luca Eyring et.al.|[2406.04312](http://arxiv.org/abs/2406.04312)|**[link](https://github.com/explainableml/reno)**|
 |**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439](http://arxiv.org/abs/2406.03439)|null|

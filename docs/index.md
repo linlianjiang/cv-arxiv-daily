@@ -1969,6 +1969,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing**|Ting-Hsuan Chen et.al.|[2406.06523](http://arxiv.org/abs/2406.06523)|null|
+|**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
+|**2024-06-10**|**Rephasing spectral diffusion in time-bin spin-spin entanglement protocols**|Mehmet T. Uysal et.al.|[2406.06497](http://arxiv.org/abs/2406.06497)|null|
+|**2024-06-10**|**Probing the Heights and Depths of Y Dwarf Atmospheres: A Retrieval Analysis of the JWST Spectral Energy Distribution of WISE J035934.06 $-$ 540154.6**|Harshil Kothari et.al.|[2406.06493](http://arxiv.org/abs/2406.06493)|null|
+|**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
+|**2024-06-10**|**Cometh: A continuous-time discrete-state graph diffusion model**|Antoine Siraudin et.al.|[2406.06449](http://arxiv.org/abs/2406.06449)|null|
+|**2024-06-10**|**QSSEP describes the fluctuations of quantum coherences in the Anderson model**|Ludwig Hruza et.al.|[2406.06444](http://arxiv.org/abs/2406.06444)|null|
+|**2024-06-10**|**Margin-aware Preference Optimization for Aligning Diffusion Models without Reference**|Jiwoo Hong et.al.|[2406.06424](http://arxiv.org/abs/2406.06424)|null|
 |**2024-06-07**|**DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**|Keyhan Najafian et.al.|[2406.05131](http://arxiv.org/abs/2406.05131)|null|
 |**2024-06-07**|**Ohms law lost and regained: observation and impact of zeros and poles**|Krishna Joshi et.al.|[2406.05112](http://arxiv.org/abs/2406.05112)|null|
 |**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109](http://arxiv.org/abs/2406.05109)|null|
@@ -3877,6 +3887,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
+|**2024-06-10**|**How is the Pilot Doing: VTOL Pilot Workload Estimation by Multimodal Machine Learning on Psycho-physiological Signals**|Jong Hoon Park et.al.|[2406.06448](http://arxiv.org/abs/2406.06448)|null|
+|**2024-06-10**|**Multimodal Contextualized Semantic Parsing from Speech**|Jordan Voas et.al.|[2406.06438](http://arxiv.org/abs/2406.06438)|null|
+|**2024-06-10**|**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**|Zonghao Ying et.al.|[2406.06302](http://arxiv.org/abs/2406.06302)|**[link](https://github.com/ny1024/jailbreak_gpt4o)**|
+|**2024-06-10**|**iMotion-LLM: Motion Prediction Instruction Tuning**|Abdulwahab Felemban et.al.|[2406.06211](http://arxiv.org/abs/2406.06211)|null|
+|**2024-06-10**|**2DP-2MRC: 2-Dimensional Pointer-based Machine Reading Comprehension Method for Multimodal Moment Retrieval**|Jiajun He et.al.|[2406.06201](http://arxiv.org/abs/2406.06201)|null|
+|**2024-06-10**|**Robust Latent Representation Tuning for Image-text Classification**|Hao Sun et.al.|[2406.06048](http://arxiv.org/abs/2406.06048)|null|
+|**2024-06-10**|**Vript: A Video Is Worth Thousands of Words**|Dongjie Yang et.al.|[2406.06040](http://arxiv.org/abs/2406.06040)|**[link](https://github.com/mutonix/vript)**|
+|**2024-06-10**|**FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model**|Yebin Lee et.al.|[2406.06004](http://arxiv.org/abs/2406.06004)|**[link](https://github.com/yebin46/fleur)**|
 |**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130](http://arxiv.org/abs/2406.05130)|null|
 |**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
 |**2024-06-07**|**Semantic Segmentation on VSPW Dataset through Masked Video Consistency**|Chen Liang et.al.|[2406.04979](http://arxiv.org/abs/2406.04979)|null|

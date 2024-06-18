@@ -1971,6 +1971,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838](http://arxiv.org/abs/2406.11838)|null|
+|**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
+|**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
+|**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|null|
+|**2024-06-17**|**Simulation of bright and dark diffuse multiple scattering lines in high-flux synchrotron X-ray experiments**|M. B. Estradiote et.al.|[2406.11764](http://arxiv.org/abs/2406.11764)|null|
+|**2024-06-17**|**Site-percolation transition of run-and-tumble particles**|Soumya K. Saha et.al.|[2406.11726](http://arxiv.org/abs/2406.11726)|null|
+|**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713](http://arxiv.org/abs/2406.11713)|**[link](https://github.com/thanhluantrinh/lddgan)**|
+|**2024-06-17**|**Tackling the Curse of Dimensionality in Fractional and Tempered Fractional PDEs with Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2406.11708](http://arxiv.org/abs/2406.11708)|null|
+|**2024-06-17**|**Diffusion Generative Modelling for Divide-and-Conquer MCMC**|C. Trojan et.al.|[2406.11664](http://arxiv.org/abs/2406.11664)|null|
+|**2024-06-17**|**AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection**|Lingjie Kong et.al.|[2406.11643](http://arxiv.org/abs/2406.11643)|null|
 |**2024-06-14**|**VideoGUI: A Benchmark for GUI Automation from Instructional Videos**|Kevin Qinghong Lin et.al.|[2406.10227](http://arxiv.org/abs/2406.10227)|null|
 |**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225](http://arxiv.org/abs/2406.10225)|null|
 |**2024-06-14**|**Diffusion Synthesizer for Efficient Multilingual Speech to Speech Translation**|Nameer Hirschkind et.al.|[2406.10223](http://arxiv.org/abs/2406.10223)|null|
@@ -3929,6 +3939,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
+|**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839](http://arxiv.org/abs/2406.11839)|null|
+|**2024-06-17**|**Embodied Instruction Following in Unknown Environments**|Zhenyu Wu et.al.|[2406.11818](http://arxiv.org/abs/2406.11818)|null|
+|**2024-06-17**|**VideoLLM-online: Online Video Large Language Model for Streaming Video**|Joya Chen et.al.|[2406.11816](http://arxiv.org/abs/2406.11816)|null|
+|**2024-06-17**|**LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning**|Dantong Niu et.al.|[2406.11815](http://arxiv.org/abs/2406.11815)|null|
+|**2024-06-17**|**Improving Multi-Agent Debate with Sparse Communication Topology**|Yunxuan Li et.al.|[2406.11776](http://arxiv.org/abs/2406.11776)|null|
+|**2024-06-17**|**Task Me Anything**|Jieyu Zhang et.al.|[2406.11775](http://arxiv.org/abs/2406.11775)|**[link](https://github.com/jieyuz2/taskmeanything)**|
+|**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
+|**2024-06-17**|**AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation**|Chuyan Xiong et.al.|[2406.11548](http://arxiv.org/abs/2406.11548)|null|
+|**2024-06-17**|**MedThink: Inducing Medical Large-scale Visual Language Models to Hallucinate Less by Thinking More**|Yue Jiang et.al.|[2406.11451](http://arxiv.org/abs/2406.11451)|null|
 |**2024-06-14**|**VideoGUI: A Benchmark for GUI Automation from Instructional Videos**|Kevin Qinghong Lin et.al.|[2406.10227](http://arxiv.org/abs/2406.10227)|null|
 |**2024-06-14**|**DevBench: A multimodal developmental benchmark for language learning**|Alvin Wei Ming Tan et.al.|[2406.10215](http://arxiv.org/abs/2406.10215)|null|
 |**2024-06-14**|**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**|Jiawei Chen et.al.|[2406.10185](http://arxiv.org/abs/2406.10185)|null|

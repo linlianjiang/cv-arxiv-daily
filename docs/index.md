@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1841,7 +1841,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
 |**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082](http://arxiv.org/abs/2406.12082)|null|
-|**2024-06-17**|**Job-SDF: A Multi-Granularity Dataset for Job Skill Demand Forecasting and Benchmarking**|Xi Chen et.al.|[2406.11920](http://arxiv.org/abs/2406.11920)|**[link](https://github.com/job-sdf/benchmark)**|
+|**2024-06-19**|**Job-SDF: A Multi-Granularity Dataset for Job Skill Demand Forecasting and Benchmarking**|Xi Chen et.al.|[2406.11920](http://arxiv.org/abs/2406.11920)|**[link](https://github.com/job-sdf/benchmark)**|
 |**2024-06-14**|**RaNeuS: Ray-adaptive Neural Surface Reconstruction**|Yida Wang et.al.|[2406.09801](http://arxiv.org/abs/2406.09801)|**[link](https://github.com/wangyida/ra-neus)**|
 |**2024-06-11**|**VoxNeuS: Enhancing Voxel-Based Neural Surface Reconstruction via Gradient Interpolation**|Sidun Liu et.al.|[2406.07170](http://arxiv.org/abs/2406.07170)|null|
 |**2024-06-06**|**Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry**|Kaichen Zhou et.al.|[2406.04301](http://arxiv.org/abs/2406.04301)|null|

@@ -1999,6 +1999,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Network-Based Optimal Control of Pollution Growth**|Fausto Gozzi et.al.|[2406.15338](http://arxiv.org/abs/2406.15338)|null|
+|**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
+|**2024-06-21**|**Global existence of solutions to a nonlocal equation with degenerate anisotropic diffusion**|Maria Eckardt et.al.|[2406.15318](http://arxiv.org/abs/2406.15318)|null|
+|**2024-06-21**|**Interacting phase fields yielding phase separation on surfaces**|Benjamin Lledos et.al.|[2406.15300](http://arxiv.org/abs/2406.15300)|null|
+|**2024-06-21**|**Symmetry-controlled SrRuO3/SrTiO3/SrRuO3 magnetic tunnel junctions:Spin polarization and its relevance to tunneling magnetoresistance**|Kartik Samanta et.al.|[2406.15290](http://arxiv.org/abs/2406.15290)|null|
+|**2024-06-21**|**The random walk of intermittently self-propelled particles**|Agniva Datta et.al.|[2406.15277](http://arxiv.org/abs/2406.15277)|null|
+|**2024-06-21**|**You Only Acquire Sparse-channel (YOAS): A Unified Framework for Dense-channel EEG Generation**|Hongyu Chen et.al.|[2406.15269](http://arxiv.org/abs/2406.15269)|null|
+|**2024-06-21**|**Can cosmic rays explain the high ionisation rates in the Galactic Centre?**|Sruthiranjani Ravikularaman et.al.|[2406.15260](http://arxiv.org/abs/2406.15260)|null|
+|**2024-06-21**|**Drag reduction in surfactant-contaminated superhydrophobic channels at high Péclet numbers**|Samuel D. Tomlinson et.al.|[2406.15251](http://arxiv.org/abs/2406.15251)|null|
+|**2024-06-21**|**Unconstrained dynamic gel swelling generates transient surface deformations**|Alyssa VanZanten et.al.|[2406.15224](http://arxiv.org/abs/2406.15224)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
 |**2024-06-21**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551](http://arxiv.org/abs/2406.14551)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
 |**2024-06-20**|**Consistency Models Made Easy**|Zhengyang Geng et.al.|[2406.14548](http://arxiv.org/abs/2406.14548)|**[link](https://github.com/locuslab/ect)**|
@@ -3989,6 +3999,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|null|
+|**2024-06-21**|**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**|Hao Fei et.al.|[2406.15177](http://arxiv.org/abs/2406.15177)|null|
+|**2024-06-21**|**Multimodal Deformable Image Registration for Long-COVID Analysis Based on Progressive Alignment and Multi-perspective Loss**|Jiahua Li et.al.|[2406.15172](http://arxiv.org/abs/2406.15172)|null|
+|**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
+|**2024-06-21**|**How Intermodal Interaction Affects the Performance of Deep Multimodal Fusion for Mixed-Type Time Series**|Simon Dietz et.al.|[2406.15098](http://arxiv.org/abs/2406.15098)|null|
+|**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977](http://arxiv.org/abs/2406.14977)|null|
+|**2024-06-21**|**Sports Intelligence: Assessing the Sports Understanding Capabilities of Language Models through Question Answering from Text to Video**|Zhengbang Yang et.al.|[2406.14877](http://arxiv.org/abs/2406.14877)|null|
+|**2024-06-21**|**TraceNet: Segment one thing efficiently**|Mingyuan Wu et.al.|[2406.14874](http://arxiv.org/abs/2406.14874)|null|
+|**2024-06-21**|**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**|Siyuan Wang et.al.|[2406.14859](http://arxiv.org/abs/2406.14859)|null|
+|**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852](http://arxiv.org/abs/2406.14852)|null|
 |**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562](http://arxiv.org/abs/2406.14562)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
 |**2024-06-20**|**Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs**|Yuxuan Qiao et.al.|[2406.14544](http://arxiv.org/abs/2406.14544)|**[link](https://github.com/sparksjoe/prism)**|

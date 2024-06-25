@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3975,7 +3975,7 @@ layout: default
 |**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|null|
 |**2024-06-21**|**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**|Hao Fei et.al.|[2406.15177](http://arxiv.org/abs/2406.15177)|null|
 |**2024-06-21**|**Multimodal Deformable Image Registration for Long-COVID Analysis Based on Progressive Alignment and Multi-perspective Loss**|Jiahua Li et.al.|[2406.15172](http://arxiv.org/abs/2406.15172)|null|
-|**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
+|**2024-06-24**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
 |**2024-06-21**|**How Intermodal Interaction Affects the Performance of Deep Multimodal Fusion for Mixed-Type Time Series**|Simon Dietz et.al.|[2406.15098](http://arxiv.org/abs/2406.15098)|null|
 |**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977](http://arxiv.org/abs/2406.14977)|null|
 |**2024-06-21**|**Sports Intelligence: Assessing the Sports Understanding Capabilities of Language Models through Question Answering from Text to Video**|Zhengbang Yang et.al.|[2406.14877](http://arxiv.org/abs/2406.14877)|null|

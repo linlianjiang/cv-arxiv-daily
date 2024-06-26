@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3987,7 +3987,7 @@ layout: default
 |**2024-06-24**|**DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation**|Yuang Peng et.al.|[2406.16855](http://arxiv.org/abs/2406.16855)|**[link](https://github.com/yuangpeng/dreambench_plus)**|
 |**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852](http://arxiv.org/abs/2406.16852)|**[link](https://github.com/evolvinglmms-lab/longva)**|
 |**2024-06-24**|**Quantum resolution limit of long-baseline imaging using distributed entanglement**|Isack Padilla et.al.|[2406.16789](http://arxiv.org/abs/2406.16789)|null|
-|**2024-06-24**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620](http://arxiv.org/abs/2406.16620)|null|
+|**2024-06-25**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620](http://arxiv.org/abs/2406.16620)|null|
 |**2024-06-24**|**QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds**|Ye Wang et.al.|[2406.16578](http://arxiv.org/abs/2406.16578)|null|
 |**2024-06-24**|**EvalAlign: Evaluating Text-to-Image Models through Precision Alignment of Multimodal Large Models with Supervised Fine-Tuning to Human Annotations**|Zhiyu Tan et.al.|[2406.16562](http://arxiv.org/abs/2406.16562)|**[link](https://github.com/sais-fuxi/evalalign)**|
 |**2024-06-24**|**EMMI -- Empathic Multimodal Motivational Interviews Dataset: Analyses and Annotations**|Lucie Galland et.al.|[2406.16478](http://arxiv.org/abs/2406.16478)|null|

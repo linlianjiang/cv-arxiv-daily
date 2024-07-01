@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4017,9 +4017,9 @@ layout: default
 |**2024-06-27**|**OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**|Tao Zhang et.al.|[2406.19389](http://arxiv.org/abs/2406.19389)|null|
 |**2024-06-27**|**Multimodal Visual-haptic pose estimation in the presence of transient occlusion**|Michael Zechmair et.al.|[2406.19323](http://arxiv.org/abs/2406.19323)|null|
 |**2024-06-27**|**Enhancing Continual Learning in Visual Question Answering with Modality-Aware Feature Distillation**|Malvina Nikandrou et.al.|[2406.19297](http://arxiv.org/abs/2406.19297)|null|
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|**[link](https://github.com/freedomintelligence/huatuogpt-vision)**|
 |**2024-06-27**|**Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding**|Yue Fan et.al.|[2406.19263](http://arxiv.org/abs/2406.19263)|null|
-|**2024-06-27**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
+|**2024-06-28**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
 |**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150](http://arxiv.org/abs/2406.19150)|null|
 |**2024-06-27**|**DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming**|Jiaxin Zhang et.al.|[2406.19101](http://arxiv.org/abs/2406.19101)|null|
 |**2024-06-27**|**Fairness and Bias in Multimodal AI: A Survey**|Tosin Adewumi et.al.|[2406.19097](http://arxiv.org/abs/2406.19097)|null|

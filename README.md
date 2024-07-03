@@ -2000,6 +2000,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
+|**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482](http://arxiv.org/abs/2407.02482)|null|
+|**2024-07-02**|**Mirages and Large TeV Halo-Pulsar Offsets from Cosmic Ray Propagation**|Yiwei Bao et.al.|[2407.02478](http://arxiv.org/abs/2407.02478)|null|
+|**2024-07-02**|**Diffusion and pattern formation in spatial games**|Alexandre Champagne-Ruel et.al.|[2407.02385](http://arxiv.org/abs/2407.02385)|null|
+|**2024-07-02**|**OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**|Kepan Nan et.al.|[2407.02371](http://arxiv.org/abs/2407.02371)|null|
+|**2024-07-02**|**Hypersonic Boundary Layer Transition and Heat Loading**|Ahmad Peyvan et.al.|[2407.02311](http://arxiv.org/abs/2407.02311)|null|
+|**2024-07-02**|**Turbulent Diffuse Molecular Media with Non-ideal Magnetohydrodynamics and Consistent Thermochemistry: Numerical Simulations and Dynamic Characteristics**|Nannan Yue et.al.|[2407.02306](http://arxiv.org/abs/2407.02306)|null|
+|**2024-07-02**|**On the multicomponent reactive flows in moving domains**|Kuntal Bhandari et.al.|[2407.02303](http://arxiv.org/abs/2407.02303)|null|
+|**2024-07-02**|**Solution of parameter-dependent diffusion equation in layered media**|Antti Autio et.al.|[2407.02257](http://arxiv.org/abs/2407.02257)|null|
+|**2024-07-02**|**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**|Jian Ma et.al.|[2407.02252](http://arxiv.org/abs/2407.02252)|**[link](https://github.com/oppo-mente-lab/glyphdraw2)**|
 |**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085](http://arxiv.org/abs/2406.20085)|null|
 |**2024-06-28**|**HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**|Hieu T. Nguyen et.al.|[2406.20077](http://arxiv.org/abs/2406.20077)|null|
 |**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047](http://arxiv.org/abs/2406.20047)|null|
@@ -4050,6 +4060,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
+|**2024-07-02**|**TokenPacker: Efficient Visual Projector for Multimodal LLM**|Wentong Li et.al.|[2407.02392](http://arxiv.org/abs/2407.02392)|**[link](https://github.com/circleradon/tokenpacker)**|
+|**2024-07-02**|**Emerging supersolidity from a polariton condensate in a photonic crystal waveguide**|Dimitrios Trypogeorgos et.al.|[2407.02373](http://arxiv.org/abs/2407.02373)|null|
+|**2024-07-02**|**Talking to Machines: do you read me?**|Lina M. Rojas-Barahona et.al.|[2407.02354](http://arxiv.org/abs/2407.02354)|null|
+|**2024-07-02**|**Why do LLaVA Vision-Language Models Reply to Images in English?**|Musashi Hinck et.al.|[2407.02333](http://arxiv.org/abs/2407.02333)|null|
+|**2024-07-02**|**MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis**|Dewei Zhou et.al.|[2407.02329](http://arxiv.org/abs/2407.02329)|null|
+|**2024-07-02**|**DrugCLIP: Contrastive Drug-Disease Interaction For Drug Repurposing**|Yingzhou Lu et.al.|[2407.02265](http://arxiv.org/abs/2407.02265)|null|
+|**2024-07-02**|**Towards a Holistic Framework for Multimodal Large Language Models in Three-dimensional Brain CT Report Generation**|Cheng-Yi Li et.al.|[2407.02235](http://arxiv.org/abs/2407.02235)|**[link](https://github.com/charlierabea/FORTE)**|
+|**2024-07-02**|**Synthetic Multimodal Question Generation**|Ian Wu et.al.|[2407.02233](http://arxiv.org/abs/2407.02233)|null|
+|**2024-07-02**|**Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models**|Anjishnu Mukherjee et.al.|[2407.02067](http://arxiv.org/abs/2407.02067)|**[link](https://github.com/iamshnoo/crossroads)**|
 |**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098](http://arxiv.org/abs/2406.20098)|**[link](https://github.com/mbzuai-llm/web2code)**|
 |**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
 |**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|null|

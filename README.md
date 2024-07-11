@@ -2000,6 +2000,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|null|
+|**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873](http://arxiv.org/abs/2407.07873)|null|
+|**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860](http://arxiv.org/abs/2407.07860)|null|
+|**2024-07-10**|**Generic Numerical Analysis of Stochastic Reaction Diffusion Model with applications in excitable media**|Yahya Alnashri et.al.|[2407.07834](http://arxiv.org/abs/2407.07834)|null|
+|**2024-07-10**|**Dynamical signatures of discontinuous phase transitions: How phase coexistence determines exponential versus power-law scaling**|Krzysztof Ptaszynski et.al.|[2407.07832](http://arxiv.org/abs/2407.07832)|null|
+|**2024-07-10**|**Universal and non-universal signatures in the scaling functions of critical variables**|Gianluca Teza et.al.|[2407.07782](http://arxiv.org/abs/2407.07782)|null|
+|**2024-07-10**|**Correlation of srf performance to oxygen diffusion length of medium temperature heat treated cavities**|C. Bate et.al.|[2407.07779](http://arxiv.org/abs/2407.07779)|null|
+|**2024-07-10**|**Challenges in modeling the dark matter halo of NGC 1052-DF2: Cored versus cuspy halo models**|K. Aditya et.al.|[2407.07770](http://arxiv.org/abs/2407.07770)|null|
+|**2024-07-10**|**Feasibility Study on Active Learning of Smart Surrogates for Scientific Simulations**|Pradeep Bajracharya et.al.|[2407.07674](http://arxiv.org/abs/2407.07674)|null|
+|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/abs/2407.06984)|null|
 |**2024-07-09**|**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**|Bowen Zhang et.al.|[2407.06938](http://arxiv.org/abs/2407.06938)|null|
@@ -4100,6 +4110,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**|Feng Li et.al.|[2407.07895](http://arxiv.org/abs/2407.07895)|**[link](https://github.com/LLaVA-VL/LLaVA-NeXT)**|
+|**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[2407.07835](http://arxiv.org/abs/2407.07835)|**[link](https://github.com/tourlics/robus_dataset)**|
+|**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
+|**2024-07-10**|**AffectGPT: Dataset and Framework for Explainable Multimodal Emotion Recognition**|Zheng Lian et.al.|[2407.07653](http://arxiv.org/abs/2407.07653)|null|
+|**2024-07-10**|**MoVEInt: Mixture of Variational Experts for Learning Human-Robot Interactions from Demonstrations**|Vignesh Prasad et.al.|[2407.07636](http://arxiv.org/abs/2407.07636)|null|
+|**2024-07-10**|**TIP: Tabular-Image Pre-training for Multimodal Classification with Incomplete Data**|Siyi Du et.al.|[2407.07582](http://arxiv.org/abs/2407.07582)|**[link](https://github.com/siyi-wind/tip)**|
+|**2024-07-10**|**InstructLayout: Instruction-Driven 2D and 3D Layout Synthesis with Semantic Graph Prior**|Chenguo Lin et.al.|[2407.07580](http://arxiv.org/abs/2407.07580)|null|
+|**2024-07-10**|**Zero-Shot Class Unlearning in CLIP with Synthetic Samples**|A. Kravets et.al.|[2407.07485](http://arxiv.org/abs/2407.07485)|null|
+|**2024-07-10**|**MAN TruckScenes: A multimodal dataset for autonomous trucking in diverse conditions**|Felix Fent et.al.|[2407.07462](http://arxiv.org/abs/2407.07462)|null|
+|**2024-07-10**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|**[link](https://github.com/liudaizong/awesome-lvlm-attack)**|
 |**2024-07-09**|**Imaging-based Quantum Optomechanics**|Christian M. Pluchar et.al.|[2407.07060](http://arxiv.org/abs/2407.07060)|null|
 |**2024-07-10**|**Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model**|Wenqi Zhang et.al.|[2407.07053](http://arxiv.org/abs/2407.07053)|**[link](https://github.com/zwq2018/multi-modal-self-instruct)**|
 |**2024-07-09**|**CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis**|Yangmin Li et.al.|[2407.07046](http://arxiv.org/abs/2407.07046)|null|

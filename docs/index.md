@@ -1976,6 +1976,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**A Primitive Model for Predicting Membrane Currents in Excitable Cells Based Only on Ion Diffusion Coefficients**|Vivaan Patel et.al.|[2407.09474](http://arxiv.org/abs/2407.09474)|null|
+|**2024-07-12**|**Weak Chaos, Anomalous Diffusion, and Weak Ergodicity Breaking in Systems with Delay**|Tony Albers et.al.|[2407.09449](http://arxiv.org/abs/2407.09449)|null|
+|**2024-07-12**|**Intensive broadband reverberation mapping of Fairall 9 with 1.8 years of daily Swift monitoring**|R. Edelson et.al.|[2407.09445](http://arxiv.org/abs/2407.09445)|null|
+|**2024-07-12**|**Efficient energy-stable parametric finite element methods for surface diffusion flow and applications in solid-state dewetting**|Meng Li et.al.|[2407.09418](http://arxiv.org/abs/2407.09418)|null|
+|**2024-07-12**|**A Numerical Study of WENO Approximations to Sharp Propagating Fronts for Reaction-Diffusion Systems**|Jiaxi Gu et.al.|[2407.09393](http://arxiv.org/abs/2407.09393)|null|
+|**2024-07-12**|**Grain boundaries control lithiation of solid solution substrates in lithium metal batteries**|Leonardo Shoji Aota et.al.|[2407.09374](http://arxiv.org/abs/2407.09374)|null|
+|**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357](http://arxiv.org/abs/2407.09357)|null|
+|**2024-07-12**|**Thermodynamics of Giant Molecular Clouds: The Effects of Dust Grain Size**|Nadine H. Soliman et.al.|[2407.09343](http://arxiv.org/abs/2407.09343)|null|
+|**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
+|**2024-07-12**|**SS-SfP:Neural Inverse Rendering for Self Supervised Shape from (Mixed) Polarization**|Ashish Tiwari et.al.|[2407.09294](http://arxiv.org/abs/2407.09294)|null|
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675](http://arxiv.org/abs/2407.08675)|null|
@@ -4094,6 +4104,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
+|**2024-07-12**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
+|**2024-07-12**|**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**|Zhiyuan Chen et.al.|[2407.09274](http://arxiv.org/abs/2407.09274)|null|
+|**2024-07-12**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174](http://arxiv.org/abs/2407.09174)|**[link](https://github.com/chen-xin-94/dart)**|
+|**2024-07-12**|**AI-Powered Immersive Assistance for Interactive Task Execution in Industrial Environments**|Tomislav Duricic et.al.|[2407.09147](http://arxiv.org/abs/2407.09147)|null|
+|**2024-07-12**|**Refusing Safe Prompts for Multi-modal Large Language Models**|Zedian Shao et.al.|[2407.09050](http://arxiv.org/abs/2407.09050)|null|
+|**2024-07-12**|**Enhancing Emotion Recognition in Incomplete Data: A Novel Cross-Modal Alignment, Reconstruction, and Refinement Framework**|Haoqin Sun et.al.|[2407.09029](http://arxiv.org/abs/2407.09029)|null|
+|**2024-07-12**|**3M-Health: Multimodal Multi-Teacher Knowledge Distillation for Mental Health Detection**|Rina Carines Cabral et.al.|[2407.09020](http://arxiv.org/abs/2407.09020)|null|
+|**2024-07-12**|**A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model**|Ao Xiang et.al.|[2407.08942](http://arxiv.org/abs/2407.08942)|null|
+|**2024-07-11**|**Emerging Practices for Large Multimodal Model (LMM) Assistance for People with Visual Impairments: Implications for Design**|Jingyi Xie et.al.|[2407.08882](http://arxiv.org/abs/2407.08882)|null|
 |**2024-07-11**|**GTA: A Benchmark for General Tool Agents**|Jize Wang et.al.|[2407.08713](http://arxiv.org/abs/2407.08713)|**[link](https://github.com/open-compass/GTA)**|
 |**2024-07-11**|**SEED-Story: Multimodal Long Story Generation with Large Language Model**|Shuai Yang et.al.|[2407.08683](http://arxiv.org/abs/2407.08683)|**[link](https://github.com/tencentarc/seed-story)**|
 |**2024-07-11**|**CAR-MFL: Cross-Modal Augmentation by Retrieval for Multimodal Federated Learning with Missing Modalities**|Pranav Poudel et.al.|[2407.08648](http://arxiv.org/abs/2407.08648)|**[link](https://github.com/bhattarailab/car-mfl)**|

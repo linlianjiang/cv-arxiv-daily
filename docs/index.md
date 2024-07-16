@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4111,7 +4111,7 @@ layout: default
 |**2024-07-12**|**AI-Powered Immersive Assistance for Interactive Task Execution in Industrial Environments**|Tomislav Duricic et.al.|[2407.09147](http://arxiv.org/abs/2407.09147)|null|
 |**2024-07-12**|**Refusing Safe Prompts for Multi-modal Large Language Models**|Zedian Shao et.al.|[2407.09050](http://arxiv.org/abs/2407.09050)|null|
 |**2024-07-12**|**Enhancing Emotion Recognition in Incomplete Data: A Novel Cross-Modal Alignment, Reconstruction, and Refinement Framework**|Haoqin Sun et.al.|[2407.09029](http://arxiv.org/abs/2407.09029)|null|
-|**2024-07-12**|**3M-Health: Multimodal Multi-Teacher Knowledge Distillation for Mental Health Detection**|Rina Carines Cabral et.al.|[2407.09020](http://arxiv.org/abs/2407.09020)|null|
+|**2024-07-15**|**3M-Health: Multimodal Multi-Teacher Knowledge Distillation for Mental Health Detection**|Rina Carines Cabral et.al.|[2407.09020](http://arxiv.org/abs/2407.09020)|null|
 |**2024-07-12**|**A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model**|Ao Xiang et.al.|[2407.08942](http://arxiv.org/abs/2407.08942)|null|
 |**2024-07-11**|**Emerging Practices for Large Multimodal Model (LMM) Assistance for People with Visual Impairments: Implications for Design**|Jingyi Xie et.al.|[2407.08882](http://arxiv.org/abs/2407.08882)|null|
 |**2024-07-11**|**GTA: A Benchmark for General Tool Agents**|Jize Wang et.al.|[2407.08713](http://arxiv.org/abs/2407.08713)|**[link](https://github.com/open-compass/GTA)**|

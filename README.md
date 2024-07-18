@@ -1862,6 +1862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661](http://arxiv.org/abs/2407.12661)|**[link](https://github.com/muliphein/infonorm)**|
 |**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414](http://arxiv.org/abs/2407.08414)|**[link](https://github.com/shad0wta9/meshavatar)**|
 |**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199](http://arxiv.org/abs/2406.18199)|null|
 |**2024-06-20**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
@@ -2001,6 +2002,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783](http://arxiv.org/abs/2407.12783)|null|
+|**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781](http://arxiv.org/abs/2407.12781)|null|
+|**2024-07-17**|**Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**|Matthew Tivnan et.al.|[2407.12780](http://arxiv.org/abs/2407.12780)|null|
+|**2024-07-17**|**The Role of Network and Identity in the Diffusion of Hashtags**|Aparna Ananthasubramaniam et.al.|[2407.12771](http://arxiv.org/abs/2407.12771)|null|
+|**2024-07-17**|**Vanishing viscosity limit for hyperbolic system of Temple class in 1-d with nonlinear viscosity**|Boris Haspot et.al.|[2407.12766](http://arxiv.org/abs/2407.12766)|null|
+|**2024-07-17**|**GroundUp: Rapid Sketch-Based 3D City Massing**|Gizem Esra Unlu et.al.|[2407.12739](http://arxiv.org/abs/2407.12739)|null|
+|**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727](http://arxiv.org/abs/2407.12727)|null|
+|**2024-07-17**|**SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow**|Yuanzhi Zhu et.al.|[2407.12718](http://arxiv.org/abs/2407.12718)|null|
+|**2024-07-17**|**Stein's method and general clocks: diffusion approximation of the $G/G/1$ workload**|Anton Braverman et.al.|[2407.12716](http://arxiv.org/abs/2407.12716)|null|
+|**2024-07-17**|**IMAGDressing-v1: Customizable Virtual Dressing**|Fei Shen et.al.|[2407.12705](http://arxiv.org/abs/2407.12705)|**[link](https://github.com/muzishen/imagdressing)**|
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
 |**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|null|
 |**2024-07-16**|**Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2407.11954](http://arxiv.org/abs/2407.11954)|null|
@@ -4151,6 +4162,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**|Kaichen Zhang et.al.|[2407.12772](http://arxiv.org/abs/2407.12772)|**[link](https://github.com/evolvinglmms-lab/lmms-eval)**|
+|**2024-07-17**|**EchoSight: Advancing Visual-Language Models with Wiki Knowledge**|Yibin Yan et.al.|[2407.12735](http://arxiv.org/abs/2407.12735)|null|
+|**2024-07-17**|**MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models**|Leyang Shen et.al.|[2407.12709](http://arxiv.org/abs/2407.12709)|**[link](https://github.com/jiutian-vl/mome)**|
+|**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616](http://arxiv.org/abs/2407.12616)|null|
+|**2024-07-17**|**E5-V: Universal Embeddings with Multimodal Large Language Models**|Ting Jiang et.al.|[2407.12580](http://arxiv.org/abs/2407.12580)|**[link](https://github.com/kongds/e5-v)**|
+|**2024-07-17**|**MERLIN: Multimodal Embedding Refinement via LLM-based Iterative Navigation for Text-Video Retrieval-Rerank Pipeline**|Donghoon Han et.al.|[2407.12508](http://arxiv.org/abs/2407.12508)|null|
+|**2024-07-17**|**Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning**|Mustafa Dogan et.al.|[2407.12498](http://arxiv.org/abs/2407.12498)|null|
+|**2024-07-17**|**F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions**|Jie Yang et.al.|[2407.12435](http://arxiv.org/abs/2407.12435)|null|
+|**2024-07-17**|**ProcTag: Process Tagging for Assessing the Efficacy of Document Instruction Data**|Yufan Shen et.al.|[2407.12358](http://arxiv.org/abs/2407.12358)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
+|**2024-07-17**|**High-power ultra-broadband supercontinuum generation in tapered multimode glass rods**|Esteban Serrano et.al.|[2407.12351](http://arxiv.org/abs/2407.12351)|null|
 |**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|null|
 |**2024-07-16**|**Thermal Imaging and Radar for Remote Sleep Monitoring of Breathing and Apnea**|Kai Del Regno et.al.|[2407.11936](http://arxiv.org/abs/2407.11936)|null|
 |**2024-07-16**|**Impact of coherent mode coupling on noise performance in elliptical aperture VCSELs for datacom**|Cristina Rimoldi et.al.|[2407.11899](http://arxiv.org/abs/2407.11899)|null|

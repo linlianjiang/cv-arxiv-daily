@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4132,7 +4132,7 @@ layout: default
 |**2024-07-16**|**Modal Effect Types**|Wenhao Tang et.al.|[2407.11816](http://arxiv.org/abs/2407.11816)|null|
 |**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796](http://arxiv.org/abs/2407.11796)|null|
 |**2024-07-16**|**Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model Co-development**|Daoyuan Chen et.al.|[2407.11784](http://arxiv.org/abs/2407.11784)|**[link](https://github.com/modelscope/data-juicer)**|
-|**2024-07-16**|**Harnessing Large Language Models for Multimodal Product Bundling**|Xiaohao Liu et.al.|[2407.11712](http://arxiv.org/abs/2407.11712)|null|
+|**2024-07-17**|**Harnessing Large Language Models for Multimodal Product Bundling**|Xiaohao Liu et.al.|[2407.11712](http://arxiv.org/abs/2407.11712)|null|
 |**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|null|
 |**2024-07-15**|**Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes**|Yaoting Wang et.al.|[2407.10957](http://arxiv.org/abs/2407.10957)|null|
 |**2024-07-15**|**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**|Ruisheng Cao et.al.|[2407.10956](http://arxiv.org/abs/2407.10956)|**[link](https://github.com/xlang-ai/spider2-v)**|

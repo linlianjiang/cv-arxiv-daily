@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4172,7 +4172,7 @@ layout: default
 |**2024-07-22**|**Robust Facial Reactions Generation: An Emotion-Aware Framework with Modality Compensation**|Guanyu Hu et.al.|[2407.15798](http://arxiv.org/abs/2407.15798)|null|
 |**2024-07-22**|**LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding**|Haoning Wu et.al.|[2407.15754](http://arxiv.org/abs/2407.15754)|**[link](https://github.com/longvideobench/longvideobench)**|
 |**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719](http://arxiv.org/abs/2407.15719)|**[link](https://github.com/tinysqua/gfe-mamba)**|
-|**2024-07-22**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
+|**2024-07-23**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
 |**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703](http://arxiv.org/abs/2407.15703)|null|
 |**2024-07-22**|**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**|Zhecan Wang et.al.|[2407.15680](http://arxiv.org/abs/2407.15680)|null|
 |**2024-07-22**|**MSSPlace: Multi-Sensor Place Recognition with Visual and Text Semantics**|Alexander Melekhin et.al.|[2407.15663](http://arxiv.org/abs/2407.15663)|**[link](https://github.com/alexmelekhin/mssplace)**|

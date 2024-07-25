@@ -2006,6 +2006,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
+|**2024-07-24**|**Gender disparities in the dissemination and acquisition of scientific knowledge**|Chiara Zappalà et.al.|[2407.17441](http://arxiv.org/abs/2407.17441)|null|
+|**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|null|
+|**2024-07-24**|**Kinetic theory applied to pressure-controlled shear flows of frictionless spheres between rigid, bumpy planes**|Dalila Vescovi et.al.|[2407.17397](http://arxiv.org/abs/2407.17397)|null|
+|**2024-07-24**|**How optimal control of polar sea-ice depends on its tipping points**|Parvathi Kooloth et.al.|[2407.17357](http://arxiv.org/abs/2407.17357)|null|
+|**2024-07-24**|**Optimal Control of a Reaction-Diffusion Epidemic Model with Noncompliance**|Marcelo Bongarti et.al.|[2407.17298](http://arxiv.org/abs/2407.17298)|null|
+|**2024-07-24**|**Hybrid-PFC: coupling the phase-field crystal model and its amplitude-equation formulation**|Maik Punke et.al.|[2407.17283](http://arxiv.org/abs/2407.17283)|null|
+|**2024-07-24**|**Stochastic Aggregation Diffusion-Equation : Analysis via Dirichlet Forms**|Jaouad Bourabiaa et.al.|[2407.17239](http://arxiv.org/abs/2407.17239)|null|
+|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
+|**2024-07-24**|**Sublinear Regret for An Actor-Critic Algorithm in Continuous-Time Linear-Quadratic Reinforcement Learning**|Yilie Huang et.al.|[2407.17226](http://arxiv.org/abs/2407.17226)|null|
 |**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/abs/2407.16698)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
 |**2024-07-23**|**DIISC-V: Variations in H $α$ -to-FUV Star Formation Rate Ratios Across Star-forming Regions in Nearby Galaxies**|Mansi Padave et.al.|[2407.16690](http://arxiv.org/abs/2407.16690)|null|
 |**2024-07-23**|**Uncountable Infinite Exact Solutions to the FitzHugh-Nagumo Model**|Shahid Sultan Ali Ramji et.al.|[2407.16678](http://arxiv.org/abs/2407.16678)|null|
@@ -4206,6 +4216,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398](http://arxiv.org/abs/2407.17398)|null|
+|**2024-07-24**|**2D and 3D Deep Learning Models for MRI-based Parkinson's Disease Classification: A Comparative Analysis of Convolutional Kolmogorov-Arnold Networks, Convolutional Neural Networks, and Graph Convolutional Networks**|Salil B Patel et.al.|[2407.17380](http://arxiv.org/abs/2407.17380)|null|
+|**2024-07-24**|**DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation**|Qian Feng et.al.|[2407.17348](http://arxiv.org/abs/2407.17348)|null|
+|**2024-07-24**|**How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**|Leo Yu-Ho Lo et.al.|[2407.17291](http://arxiv.org/abs/2407.17291)|null|
+|**2024-07-24**|**Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**|Zuoyin Tang et.al.|[2407.17211](http://arxiv.org/abs/2407.17211)|null|
+|**2024-07-24**|**Nonverbal Immediacy Analysis in Education: A Multimodal Computational Model**|Uroš Petković et.al.|[2407.17209](http://arxiv.org/abs/2407.17209)|null|
+|**2024-07-24**|**Provable Benefit of Annealed Langevin Monte Carlo for Non-log-concave Sampling**|Wei Guo et.al.|[2407.16936](http://arxiv.org/abs/2407.16936)|null|
+|**2024-07-24**|**Operando probing of nanocracking in CuO-derived Cu during CO $_2$ electroreduction**|Jiawei Wan et.al.|[2407.16910](http://arxiv.org/abs/2407.16910)|null|
+|**2024-07-23**|**CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs**|Jihyung Kil et.al.|[2407.16837](http://arxiv.org/abs/2407.16837)|**[link](https://github.com/raptormai/compbench)**|
+|**2024-07-23**|**Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges**|Zahraa Al Sahili et.al.|[2407.16804](http://arxiv.org/abs/2407.16804)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-23**|**MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**|Canyu Zhao et.al.|[2407.16655](http://arxiv.org/abs/2407.16655)|null|
 |**2024-07-24**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|

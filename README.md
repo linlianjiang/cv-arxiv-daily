@@ -2036,13 +2036,13 @@
 |**2024-07-23**|**Free boundary limits of coupled bulk-surface models for receptor-ligand interactions on evolving domains**|Amal Alphonse et.al.|[2407.16522](http://arxiv.org/abs/2407.16522)|null|
 |**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511](http://arxiv.org/abs/2407.16511)|null|
 |**2024-07-23**|**qMRI Diffusor: Quantitative T1 Mapping of the Brain using a Denoising Diffusion Probabilistic Model**|Shishuai Wang et.al.|[2407.16477](http://arxiv.org/abs/2407.16477)|null|
-|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842](http://arxiv.org/abs/2407.15842)|null|
+|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842](http://arxiv.org/abs/2407.15842)|**[link](https://github.com/songrise/Artist)**|
 |**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811](http://arxiv.org/abs/2407.15811)|null|
 |**2024-07-22**|**Diffusion Model Based Resource Allocation Strategy in Ultra-Reliable Wireless Networked Control Systems**|Amirhassan Babazadeh Darabi et.al.|[2407.15784](http://arxiv.org/abs/2407.15784)|null|
 |**2024-07-22**|**A Hamilton-Jacobi approach to road-field reaction-diffusion models**|Christopher Henderson et.al.|[2407.15760](http://arxiv.org/abs/2407.15760)|null|
 |**2024-07-22**|**Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond**|Silvio Galesso et.al.|[2407.15739](http://arxiv.org/abs/2407.15739)|**[link](https://github.com/lmb-freiburg/diffusion-for-ood)**|
 |**2024-07-22**|**Inverse problems for coupled nonlocal nonlinear systems arising in mathematical biology**|Ming-Hui Ding et.al.|[2407.15713](http://arxiv.org/abs/2407.15713)|null|
-|**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703](http://arxiv.org/abs/2407.15703)|null|
+|**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703](http://arxiv.org/abs/2407.15703)|**[link](https://github.com/henrysky/stars_foundation_diffusion)**|
 |**2024-07-22**|**Voltage mapping in subcellular nanodomains using electro-diffusion modeling**|Frédéric Paquin-Lefebvre et.al.|[2407.15697](http://arxiv.org/abs/2407.15697)|null|
 |**2024-07-22**|**Particle Based Inference for Continuous-Discrete State Space Models**|Christopher Stanton et.al.|[2407.15666](http://arxiv.org/abs/2407.15666)|null|
 |**2024-07-22**|**DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving**|Jiahang Tu et.al.|[2407.15661](http://arxiv.org/abs/2407.15661)|**[link](https://github.com/ttuhamg/driveditfit)**|
@@ -2592,7 +2592,7 @@
 |**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886](http://arxiv.org/abs/2404.18886)|**[link](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)**|
 |**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869](http://arxiv.org/abs/2404.18869)|null|
 |**2024-04-29**|**Construction of local reduced spaces for Friedrichs' systems via randomized training**|Christian Engwer et.al.|[2404.18839](http://arxiv.org/abs/2404.18839)|null|
-|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|null|
+|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|**[link](https://github.com/huai-chang/DiffEIC)**|
 |**2024-04-29**|**Spectral measures and iterative bounds for effective diffusivity of steady and space-time periodic flows**|N. B. Murphy et.al.|[2404.18754](http://arxiv.org/abs/2404.18754)|null|
 |**2024-04-29**|**Diffuse scattering from dynamically compressed single-crystal zirconium following the pressure-induced $α\toω$ phase transition**|P. G. Heighway et.al.|[2404.18740](http://arxiv.org/abs/2404.18740)|null|
 |**2024-04-29**|**Diffusion coefficient matrix for multiple conserved charges: a Kubo approach**|Sourav Dey et.al.|[2404.18718](http://arxiv.org/abs/2404.18718)|null|
@@ -2624,7 +2624,7 @@
 |**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447](http://arxiv.org/abs/2404.15447)|null|
 |**2024-04-23**|**Thermal boundary conductance and thermal conductivity strongly depend on nearby environment**|Khalid Zobaid Adnan et.al.|[2404.15439](http://arxiv.org/abs/2404.15439)|null|
 |**2024-04-23**|**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**|Xuanhua He et.al.|[2404.15275](http://arxiv.org/abs/2404.15275)|**[link](https://github.com/id-animator/id-animator)**|
-|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
+|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|**[link](https://github.com/huanngzh/Parts2Whole)**|
 |**2024-04-23**|**Score matching for sub-Riemannian bridge sampling**|Erlend Grong et.al.|[2404.15258](http://arxiv.org/abs/2404.15258)|null|
 |**2024-04-23**|**Nucleation mechanism of multiple-order parameter ferroelectric domain wall motion in hafnia**|Songsong Zhou et.al.|[2404.15251](http://arxiv.org/abs/2404.15251)|null|
 |**2024-04-23**|**Local well-posedness for a novel nonlocal model for cell-cell adhesion via receptor binding**|Mabel Lizzy Rajendran et.al.|[2404.15222](http://arxiv.org/abs/2404.15222)|null|
@@ -2857,7 +2857,7 @@
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807](http://arxiv.org/abs/2403.13807)|**[link](https://github.com/silentview/emcid)**|
 |**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|**[link](https://github.com/CompVis/zigma)**|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800](http://arxiv.org/abs/2403.13800)|null|
-|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788](http://arxiv.org/abs/2403.13788)|null|
+|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788](http://arxiv.org/abs/2403.13788)|**[link](https://github.com/CompVis/depth-fm)**|
 |**2024-03-20**|**Anomalous diffusion in polydisperse granular gases: Monte Carlo simulations**|Anna S. Bodrova et.al.|[2403.13772](http://arxiv.org/abs/2403.13772)|null|
 |**2024-03-20**|**Disentangling the anisotropic radio sky: Fisher forecasts for 21cm arrays**|Zheng Zhang et.al.|[2403.13768](http://arxiv.org/abs/2403.13768)|null|
 |**2024-03-20**|**Statistical estimation of full-sky radio maps from 21cm array visibility data using Gaussian Constrained Realisations**|Katrine A. Glasscock et.al.|[2403.13766](http://arxiv.org/abs/2403.13766)|null|
@@ -3258,7 +3258,7 @@
 |**2024-01-24**|**Ordering kinetics in the active Ising model**|Sayam Bandyopadhyay et.al.|[2401.13471](http://arxiv.org/abs/2401.13471)|null|
 |**2024-01-24**|**Diffusion of an Active Particle Bound to a Generalized Elastic Model: Fractional Langevin Equation**|Alessandro Taloni et.al.|[2401.13457](http://arxiv.org/abs/2401.13457)|null|
 |**2024-01-23**|**GALA: Generating Animatable Layered Assets from a Single Scan**|Taeksoo Kim et.al.|[2401.12979](http://arxiv.org/abs/2401.12979)|null|
-|**2024-01-23**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|null|
+|**2024-01-23**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|**[link](https://github.com/snuvclab/coma)**|
 |**2024-01-23**|**Measure transport with kernel mean embeddings**|L. Wang et.al.|[2401.12967](http://arxiv.org/abs/2401.12967)|null|
 |**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
 |**2024-01-23**|**Long-range three-dimensional tracking of nanoparticles using interferometric scattering (iSCAT) microscopy**|Kiarash Kasaian et.al.|[2401.12939](http://arxiv.org/abs/2401.12939)|null|
@@ -3305,7 +3305,7 @@
 |**2024-01-17**|**Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery**|Jia Jia et.al.|[2401.09325](http://arxiv.org/abs/2401.09325)|null|
 |**2024-01-17**|**Tailoring chaotic motion of microcavity photons in ray and wave dynamics by tuning the curvature of space**|Wei Lin et.al.|[2401.09303](http://arxiv.org/abs/2401.09303)|null|
 |**2024-01-17**|**Scaled quadratic variation for controlled rough paths and parameter estimation of fractional diffusions**|James Michael Leahy et.al.|[2401.09299](http://arxiv.org/abs/2401.09299)|null|
-|**2024-01-17**|**T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis**|Yoonjin Chung et.al.|[2401.09294](http://arxiv.org/abs/2401.09294)|null|
+|**2024-01-17**|**T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis**|Yoonjin Chung et.al.|[2401.09294](http://arxiv.org/abs/2401.09294)|**[link](https://github.com/YoonjinXD/T-foley)**|
 |**2024-01-17**|**Mitigating distribution shift in machine learning-augmented hybrid simulation**|Jiaxi Zhao et.al.|[2401.09259](http://arxiv.org/abs/2401.09259)|**[link](https://github.com/jiaxi98/tr)**|
 |**2024-01-16**|**Well-posedness of a bulk-surface convective Cahn--Hilliard system with dynamic boundary conditions**|Patrik Knopf et.al.|[2401.08400](http://arxiv.org/abs/2401.08400)|null|
 |**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394](http://arxiv.org/abs/2401.08394)|null|
@@ -3889,7 +3889,7 @@
 |**2023-10-19**|**Energy-Based Models For Speech Synthesis**|Wanli Sun et.al.|[2310.12765](http://arxiv.org/abs/2310.12765)|null|
 |**2023-10-19**|**A case study of early galaxy cluster with the Athena X-IFU**|F. Castellani et.al.|[2310.12759](http://arxiv.org/abs/2310.12759)|null|
 |**2023-10-19**|**Impact of dephasing probes on incommensurate lattices**|Bishal Ghosh et.al.|[2310.12758](http://arxiv.org/abs/2310.12758)|null|
-|**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
+|**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|**[link](https://github.com/aim-uofa/OIR)**|
 |**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|**[link](https://github.com/ld-ing/qdhf)**|
 |**2023-10-18**|**Accessing ultrafast spin-transport dynamics in copper using broadband terahertz spectroscopy**|Jiří Jechumtál et.al.|[2310.12082](http://arxiv.org/abs/2310.12082)|null|
 |**2023-10-19**|**Random resetting in search problems**|Arnab Pal et.al.|[2310.12057](http://arxiv.org/abs/2310.12057)|null|
@@ -4250,7 +4250,7 @@
 |**2024-07-23**|**MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**|Canyu Zhao et.al.|[2407.16655](http://arxiv.org/abs/2407.16655)|null|
 |**2024-07-24**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
 |**2024-07-23**|**Harmonizing Visual Text Comprehension and Generation**|Zhen Zhao et.al.|[2407.16364](http://arxiv.org/abs/2407.16364)|null|
-|**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|null|
+|**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|**[link](https://github.com/thinwayliu/multimodal-unlearnable-examples)**|
 |**2024-07-23**|**When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**|Haicheng Liao et.al.|[2407.16277](http://arxiv.org/abs/2407.16277)|null|
 |**2024-07-23**|**Masks and Manuscripts: Advancing Medical Pre-training with End-to-End Masking and Narrative Structuring**|Shreyank N Gowda et.al.|[2407.16264](http://arxiv.org/abs/2407.16264)|null|
 |**2024-07-23**|**Chameleon: Images Are What You Need For Multimodal Learning Robust To Missing Modalities**|Muhammad Irzam Liaqat et.al.|[2407.16243](http://arxiv.org/abs/2407.16243)|null|
@@ -4261,8 +4261,8 @@
 |**2024-07-22**|**LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding**|Haoning Wu et.al.|[2407.15754](http://arxiv.org/abs/2407.15754)|**[link](https://github.com/longvideobench/longvideobench)**|
 |**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719](http://arxiv.org/abs/2407.15719)|**[link](https://github.com/tinysqua/gfe-mamba)**|
 |**2024-07-23**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
-|**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703](http://arxiv.org/abs/2407.15703)|null|
-|**2024-07-22**|**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**|Zhecan Wang et.al.|[2407.15680](http://arxiv.org/abs/2407.15680)|null|
+|**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703](http://arxiv.org/abs/2407.15703)|**[link](https://github.com/henrysky/stars_foundation_diffusion)**|
+|**2024-07-22**|**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**|Zhecan Wang et.al.|[2407.15680](http://arxiv.org/abs/2407.15680)|**[link](https://github.com/google/haloquest)**|
 |**2024-07-22**|**MSSPlace: Multi-Sensor Place Recognition with Visual and Text Semantics**|Alexander Melekhin et.al.|[2407.15663](http://arxiv.org/abs/2407.15663)|**[link](https://github.com/alexmelekhin/mssplace)**|
 |**2024-07-22**|**MuTT: A Multimodal Trajectory Transformer for Robot Skills**|Claudius Kienle et.al.|[2407.15660](http://arxiv.org/abs/2407.15660)|null|
 |**2024-07-22**|**All rivers run into the sea: Unified Modality Brain-like Emotional Central Mechanism**|Xinji Mai et.al.|[2407.15590](http://arxiv.org/abs/2407.15590)|null|
@@ -4281,7 +4281,7 @@
 |**2024-07-18**|**Qalam : A Multimodal LLM for Arabic Optical Character and Handwriting Recognition**|Gagan Bhatia et.al.|[2407.13559](http://arxiv.org/abs/2407.13559)|null|
 |**2024-07-18**|**Similarity over Factuality: Are we making progress on multimodal out-of-context misinformation detection?**|Stefanos-Iordanis Papadopoulos et.al.|[2407.13488](http://arxiv.org/abs/2407.13488)|**[link](https://github.com/stevejpapad/outcontext-misinfo-progress)**|
 |**2024-07-18**|**Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**|Qingfan Wang et.al.|[2407.13480](http://arxiv.org/abs/2407.13480)|null|
-|**2024-07-18**|**The Effects of Selected Object Features on a Pick-and-Place Task: a Human Multimodal Dataset**|Linda Lastrico et.al.|[2407.13425](http://arxiv.org/abs/2407.13425)|null|
+|**2024-07-18**|**The Effects of Selected Object Features on a Pick-and-Place Task: a Human Multimodal Dataset**|Linda Lastrico et.al.|[2407.13425](http://arxiv.org/abs/2407.13425)|**[link](https://github.com/lindalastrico/objectsManipulationDataset)**|
 |**2024-07-18**|**DISCOVER: A Data-driven Interactive System for Comprehensive Observation, Visualization, and ExploRation of Human Behaviour**|Dominik Schiller et.al.|[2407.13408](http://arxiv.org/abs/2407.13408)|null|
 |**2024-07-18**|**Multimodal Label Relevance Ranking via Reinforcement Learning**|Taian Guo et.al.|[2407.13221](http://arxiv.org/abs/2407.13221)|**[link](https://github.com/chazzygordon/lr2ppo)**|
 |**2024-07-18**|**DiveSound: LLM-Assisted Automatic Taxonomy Construction for Diverse Audio Generation**|Baihan Li et.al.|[2407.13198](http://arxiv.org/abs/2407.13198)|null|
@@ -4544,7 +4544,7 @@
 |**2024-06-07**|**RU-AI: A Large Multimodal Dataset for Machine Generated Content Detection**|Liting Huang et.al.|[2406.04906](http://arxiv.org/abs/2406.04906)|**[link](https://github.com/zhihaozhang97/ru-ai)**|
 |**2024-06-07**|**Predictive Dynamic Fusion**|Bing Cao et.al.|[2406.04802](http://arxiv.org/abs/2406.04802)|**[link](https://github.com/yinan-xia/pdf)**|
 |**2024-06-07**|**Interpretable Multimodal Out-of-context Detection with Soft Logic Regularization**|Huanhuan Ma et.al.|[2406.04756](http://arxiv.org/abs/2406.04756)|null|
-|**2024-06-07**|**Predicting Polymer Properties Based on Multimodal Multitask Pretraining**|Fanmeng Wang et.al.|[2406.04727](http://arxiv.org/abs/2406.04727)|null|
+|**2024-06-07**|**Predicting Polymer Properties Based on Multimodal Multitask Pretraining**|Fanmeng Wang et.al.|[2406.04727](http://arxiv.org/abs/2406.04727)|**[link](https://github.com/fanmengwang/mmpolymer)**|
 |**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339](http://arxiv.org/abs/2406.04339)|null|
 |**2024-06-06**|**DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs**|Lingchen Meng et.al.|[2406.04334](http://arxiv.org/abs/2406.04334)|null|
 |**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|**[link](https://github.com/blackswan-ai/short-circuiting)**|
@@ -4845,7 +4845,7 @@
 |**2024-04-22**|**General Item Representation Learning for Cold-start Content Recommendations**|Jooeun Kim et.al.|[2404.13808](http://arxiv.org/abs/2404.13808)|null|
 |**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046](http://arxiv.org/abs/2404.13046)|**[link](https://github.com/templex98/mova)**|
 |**2024-04-19**|**Mean-field Potts and random-cluster dynamics from high-entropy initializations**|Antonio Blanca et.al.|[2404.13014](http://arxiv.org/abs/2404.13014)|null|
-|**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|null|
+|**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|**[link](https://github.com/FoundationVision/Groma)**|
 |**2024-04-19**|**Eyes Can Deceive: Benchmarking Counterfactual Reasoning Abilities of Multi-modal Large Language Models**|Yian Li et.al.|[2404.12966](http://arxiv.org/abs/2404.12966)|null|
 |**2024-04-19**|**MM-PhyRLHF: Reinforcement Learning Framework for Multimodal Physics Question-Answering**|Avinash Anand et.al.|[2404.12926](http://arxiv.org/abs/2404.12926)|null|
 |**2024-04-19**|**How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?**|Yang Luo et.al.|[2404.12866](http://arxiv.org/abs/2404.12866)|null|
@@ -4973,7 +4973,7 @@
 |**2024-04-02**|**A Survey on Large Language Model-Based Game Agents**|Sihao Hu et.al.|[2404.02039](http://arxiv.org/abs/2404.02039)|**[link](https://github.com/git-disl/awesome-llm-game-agent-papers)**|
 |**2024-04-02**|**MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels**|Lilin Xu et.al.|[2404.01958](http://arxiv.org/abs/2404.01958)|**[link](https://github.com/initxu/mesen)**|
 |**2024-04-02**|**Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks**|Gabriela Sejnova et.al.|[2404.01932](http://arxiv.org/abs/2404.01932)|**[link](https://github.com/gabinsane/multi-vaes-in-robotics)**|
-|**2024-04-02**|**PATCH -- Psychometrics-AssisTed benCHmarking of Large Language Models: A Case Study of Mathematics Proficiency**|Qixiang Fang et.al.|[2404.01799](http://arxiv.org/abs/2404.01799)|null|
+|**2024-04-02**|**PATCH -- Psychometrics-AssisTed benCHmarking of Large Language Models: A Case Study of Mathematics Proficiency**|Qixiang Fang et.al.|[2404.01799](http://arxiv.org/abs/2404.01799)|**[link](https://github.com/fqixiang/patch_llm_benchmarking_with_psychometrics)**|
 |**2024-04-02**|**M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets**|Gaurish Thakkar et.al.|[2404.01753](http://arxiv.org/abs/2404.01753)|**[link](https://github.com/cleopatra-itn/m2sa-multimodal-multilingual-sentiment-analysis)**|
 |**2024-04-02**|**Unleash the Potential of CLIP for Video Highlight Detection**|Donghoon Han et.al.|[2404.01745](http://arxiv.org/abs/2404.01745)|null|
 |**2024-03-29**|**Sparse multimodal fusion with modal channel attention**|Josiah Bjorgaard et.al.|[2403.20280](http://arxiv.org/abs/2403.20280)|null|
@@ -4983,7 +4983,7 @@
 |**2024-03-28**|**Dealing with Missing Modalities in Multimodal Recommendation: a Feature Propagation-based Approach**|Daniele Malitesta et.al.|[2403.19841](http://arxiv.org/abs/2403.19841)|null|
 |**2024-04-01**|**Concept-based Analysis of Neural Networks via Vision-Language Models**|Ravi Mangal et.al.|[2403.19837](http://arxiv.org/abs/2403.19837)|null|
 |**2024-03-28**|**A Digital Twin for Geological Carbon Storage with Controlled Injectivity**|Abhinav Prakash Gahlot et.al.|[2403.19819](http://arxiv.org/abs/2403.19819)|null|
-|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|**[link](https://github.com/google-deepmind/magiclens)**|
 |**2024-03-28**|**RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method**|Ming Yan et.al.|[2403.19501](http://arxiv.org/abs/2403.19501)|null|
 |**2024-03-28**|**JDocQA: Japanese Document Question Answering Dataset for Generative Language Models**|Eri Onami et.al.|[2403.19454](http://arxiv.org/abs/2403.19454)|**[link](https://github.com/mizuumi/JDocQA)**|
 |**2024-03-28**|**Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models**|Jiaxing Chen et.al.|[2403.19322](http://arxiv.org/abs/2403.19322)|null|
@@ -5442,7 +5442,7 @@
 |**2024-01-19**|**RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision**|Fernando Pérez-García et.al.|[2401.10815](http://arxiv.org/abs/2401.10815)|null|
 |**2024-01-19**|**EFO: the Emotion Frame Ontology**|Stefano De Giorgis et.al.|[2401.10751](http://arxiv.org/abs/2401.10751)|null|
 |**2024-01-19**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al.|[2401.10731](http://arxiv.org/abs/2401.10731)|**[link](https://github.com/Zhao-Tian-yi/RSDet)**|
-|**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711](http://arxiv.org/abs/2401.10711)|null|
+|**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711](http://arxiv.org/abs/2401.10711)|**[link](https://github.com/whb139426/gcg)**|
 |**2024-01-19**|**Attentive Fusion: A Transformer-based Approach to Multimodal Hate Speech Detection**|Atanu Mandal et.al.|[2401.10653](http://arxiv.org/abs/2401.10653)|**[link](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)**|
 |**2024-01-19**|**Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences**|Xiyao Wang et.al.|[2401.10529](http://arxiv.org/abs/2401.10529)|**[link](https://github.com/umd-huang-lab/mementos)**|
 |**2024-01-18**|**Precision Franck-Condon spectroscopy from highly-excited vibrational states**|Sindhana Pannir-Sivajothi et.al.|[2401.10384](http://arxiv.org/abs/2401.10384)|**[link](https://github.com/SindhanaPS/Franck-Condon_spectroscopy_measurement)**|

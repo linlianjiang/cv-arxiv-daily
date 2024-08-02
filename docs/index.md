@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4246,11 +4246,11 @@ layout: default
 |**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
 |**2024-07-31**|**MOSAIC: Multimodal Multistakeholder-aware Visual Art Recommendation**|Bereket A. Yilma et.al.|[2407.21758](http://arxiv.org/abs/2407.21758)|null|
 |**2024-07-31**|**Learning Video Context as Interleaved Multimodal Sequences**|Kevin Qinghong Lin et.al.|[2407.21757](http://arxiv.org/abs/2407.21757)|null|
-|**2024-07-31**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|null|
+|**2024-08-01**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|null|
 |**2024-07-31**|**Conditioned Prompt-Optimization for Continual Deepfake Detection**|Francesco Laiti et.al.|[2407.21554](http://arxiv.org/abs/2407.21554)|null|
 |**2024-07-31**|**Tracing Intricate Cues in Dialogue: Joint Graph Structure and Sentiment Dynamics for Multimodal Emotion Recognition**|Jiang Li et.al.|[2407.21536](http://arxiv.org/abs/2407.21536)|null|
 |**2024-07-31**|**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models**|Mingrui Wu et.al.|[2407.21534](http://arxiv.org/abs/2407.21534)|null|
-|**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491](http://arxiv.org/abs/2407.21491)|null|
+|**2024-08-01**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491](http://arxiv.org/abs/2407.21491)|null|
 |**2024-07-31**|**MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**|Zhanpeng Chen et.al.|[2407.21439](http://arxiv.org/abs/2407.21439)|null|
 |**2024-07-31**|**Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images**|Yimeng Geng et.al.|[2407.21394](http://arxiv.org/abs/2407.21394)|null|
 |**2024-07-30**|**Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection**|Jinfa Huang et.al.|[2407.21004](http://arxiv.org/abs/2407.21004)|null|

@@ -2285,7 +2285,7 @@ layout: default
 |**2024-06-18**|**Liouville results for semilinear integral equations with conical diffusion**|Isabeau Birindelli et.al.|[2406.12720](http://arxiv.org/abs/2406.12720)|null|
 |**2024-06-18**|**Concurrent Accretion and Migration of Giant Planets in their Natal Disks with Consistent Accretion Torque**|Ya-Ping Li et.al.|[2406.12716](http://arxiv.org/abs/2406.12716)|null|
 |**2024-06-18**|**Speak in the Scene: Diffusion-based Acoustic Scene Transfer toward Immersive Speech Generation**|Miseul Kim et.al.|[2406.12688](http://arxiv.org/abs/2406.12688)|null|
-|**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838](http://arxiv.org/abs/2406.11838)|null|
+|**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838](http://arxiv.org/abs/2406.11838)|**[link](https://github.com/lth14/mar)**|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
 |**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|**[link](https://github.com/hkuds/diffmm)**|
@@ -2538,7 +2538,7 @@ layout: default
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
 |**2024-05-09**|**Towards comprehensive coverage of chemical space: Quantum mechanical properties of 836k constitutional and conformational closed shell neutral isomers consisting of HCNOFSiPSClBr**|Danish Khan et.al.|[2405.05961](http://arxiv.org/abs/2405.05961)|null|
 |**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959](http://arxiv.org/abs/2405.05959)|**[link](https://github.com/eqtpartners/tsde)**|
-|**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|null|
+|**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|**[link](https://github.com/zonglinl/consecutivebrownianbridge)**|
 |**2024-05-09**|**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**|Peng Gao et.al.|[2405.05945](http://arxiv.org/abs/2405.05945)|**[link](https://github.com/alpha-vllm/lumina-t2x)**|
 |**2024-05-09**|**Composable Part-Based Manipulation**|Weiyu Liu et.al.|[2405.05876](http://arxiv.org/abs/2405.05876)|null|
 |**2024-05-09**|**Parameter identification for an uncertain reaction-diffusion equation via setpoint regulation**|Gildas Besançon et.al.|[2405.05866](http://arxiv.org/abs/2405.05866)|null|
@@ -4868,7 +4868,7 @@ layout: default
 |**2024-04-30**|**DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets**|Xiaoyu Huang et.al.|[2404.19264](http://arxiv.org/abs/2404.19264)|null|
 |**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
-|**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849](http://arxiv.org/abs/2404.18849)|null|
+|**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849](http://arxiv.org/abs/2404.18849)|**[link](https://github.com/heitorrapela/mipa)**|
 |**2024-04-29**|**Beyond Gaze Points: Augmenting Eye Movement with Brainwave Data for Multimodal User Authentication in Extended Reality**|Matin Fallahi et.al.|[2404.18694](http://arxiv.org/abs/2404.18694)|null|
 |**2024-04-29**|**Feature importance to explain multimodal prediction models. A clinical use case**|Jorn-Jan van de Beld et.al.|[2404.18631](http://arxiv.org/abs/2404.18631)|**[link](https://github.com/jornjan/mmshap-xai2024)**|
 |**2024-04-29**|**Magnetic X-ray imaging using a single polarization and multimodal-ptychography**|Marisel Di Pietro Martínez et.al.|[2404.18627](http://arxiv.org/abs/2404.18627)|null|

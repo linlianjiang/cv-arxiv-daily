@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4268,7 +4268,7 @@ layout: default
 |**2024-08-02**|**MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models**|Benno Weck et.al.|[2408.01337](http://arxiv.org/abs/2408.01337)|null|
 |**2024-08-02**|**A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks**|Jiaqi Wang et.al.|[2408.01319](http://arxiv.org/abs/2408.01319)|null|
 |**2024-08-02**|**Deep Learning based Visually Rich Document Content Understanding: A Survey**|Yihao Ding et.al.|[2408.01287](http://arxiv.org/abs/2408.01287)|null|
-|**2024-08-02**|**Dissecting Dissonance: Benchmarking Large Multimodal Models Against Self-Contradictory Instructions**|Jin Gao et.al.|[2408.01091](http://arxiv.org/abs/2408.01091)|null|
+|**2024-08-05**|**Dissecting Dissonance: Benchmarking Large Multimodal Models Against Self-Contradictory Instructions**|Jin Gao et.al.|[2408.01091](http://arxiv.org/abs/2408.01091)|null|
 |**2024-08-02**|**Piculet: Specialized Models-Guided Hallucination Decrease for MultiModal Large Language Models**|Kohou Wang et.al.|[2408.01003](http://arxiv.org/abs/2408.01003)|null|
 |**2024-08-02**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998](http://arxiv.org/abs/2408.00998)|null|
 |**2024-08-02**|**GraphAge: Unleashing the power of Graph Neural Network to Decode Epigenetic Aging**|Saleh Sakib Ahmed et.al.|[2408.00984](http://arxiv.org/abs/2408.00984)|null|

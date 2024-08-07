@@ -1985,6 +1985,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312](http://arxiv.org/abs/2408.03312)|null|
+|**2024-08-06**|**Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies**|Francine R. Marleau et.al.|[2408.03311](http://arxiv.org/abs/2408.03311)|null|
+|**2024-08-06**|**TextIM: Part-aware Interactive Motion Synthesis from Text**|Siyuan Fan et.al.|[2408.03302](http://arxiv.org/abs/2408.03302)|null|
+|**2024-08-06**|**Photonic Mpemba effect**|Stefano Longhi et.al.|[2408.03296](http://arxiv.org/abs/2408.03296)|null|
+|**2024-08-06**|**Ultra-thin strain-relieving Si $_{1-x}$Ge$_x$ layers enabling III-V epitaxy on Si**|Trevor R. Smith et.al.|[2408.03253](http://arxiv.org/abs/2408.03253)|null|
+|**2024-08-06**|**Optimizing Density Functional Theory for Strain-Dependent Magnetic Properties of MnBi $_2$Te$_4$ with Diffusion Monte Carlo**|Swarnava Ghosh et.al.|[2408.03248](http://arxiv.org/abs/2408.03248)|null|
+|**2024-08-06**|**Image Quality Transfer of Diffusion MRI Guided By High-Resolution Structural MRI**|Alp G. Cicimen et.al.|[2408.03216](http://arxiv.org/abs/2408.03216)|null|
+|**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209](http://arxiv.org/abs/2408.03209)|null|
+|**2024-08-06**|**Phase field simulations of thermal annealing for all-small molecule organic solar cells**|Yasin Ameslon et.al.|[2408.03190](http://arxiv.org/abs/2408.03190)|null|
+|**2024-08-06**|**Propagation phenomena for a reaction-diffusion-advection model in a heterogeneous environment**|Xing Liang et.al.|[2408.03187](http://arxiv.org/abs/2408.03187)|null|
 |**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
 |**2024-08-05**|**Ionic-electronic transistors small signal AC admittance: Theory and experiment**|Juan Bisquert et.al.|[2408.02648](http://arxiv.org/abs/2408.02648)|null|
 |**2024-08-05**|**Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**|Alessandro Della Pia et.al.|[2408.02630](http://arxiv.org/abs/2408.02630)|null|
@@ -4273,6 +4283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|null|
+|**2024-08-06**|**DaVE -- A Curated Database of Visualization Examples**|Jens Koenen et.al.|[2408.03188](http://arxiv.org/abs/2408.03188)|null|
+|**2024-08-06**|**Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**|Yanghai Zhang et.al.|[2408.03149](http://arxiv.org/abs/2408.03149)|null|
+|**2024-08-06**|**Benchmarking In-the-wild Multimodal Disease Recognition and A Versatile Baseline**|Tianqi Wei et.al.|[2408.03120](http://arxiv.org/abs/2408.03120)|null|
+|**2024-08-06**|**Enhancing Twitter Bot Detection via Multimodal Invariant Representations**|Jibing Gong et.al.|[2408.03096](http://arxiv.org/abs/2408.03096)|null|
+|**2024-08-06**|**OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents**|Qiang Sun et.al.|[2408.03047](http://arxiv.org/abs/2408.03047)|null|
+|**2024-08-06**|**Targeted Visual Prompting for Medical Visual Question Answering**|Sergio Tascon-Morales et.al.|[2408.03043](http://arxiv.org/abs/2408.03043)|null|
+|**2024-08-06**|**Multitask and Multimodal Neural Tuning for Large Models**|Hao Sun et.al.|[2408.03001](http://arxiv.org/abs/2408.03001)|null|
+|**2024-08-06**|**Sample-agnostic Adversarial Perturbation for Vision-Language Pre-training Models**|Haonan Zheng et.al.|[2408.02980](http://arxiv.org/abs/2408.02980)|null|
+|**2024-08-06**|**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**|Ruixiang Zhao et.al.|[2408.02978](http://arxiv.org/abs/2408.02978)|null|
 |**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
 |**2024-08-05**|**Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**|Sajal Aggarwal et.al.|[2408.02595](http://arxiv.org/abs/2408.02595)|null|
 |**2024-08-05**|**Contrastive Learning-based Multi Modal Architecture for Emoticon Prediction by Employing Image-Text Pairs**|Ananya Pandey et.al.|[2408.02571](http://arxiv.org/abs/2408.02571)|null|

@@ -1985,6 +1985,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Dynamical patterns in active-passive particle mixtures with non-reciprocal interactions: Exact hydrodynamic analysis**|James Mason et.al.|[2408.03932](http://arxiv.org/abs/2408.03932)|null|
+|**2024-08-07**|**Fluctuation of coherences in noisy mesoscopic quantum systems with diffusive transport**|Ludwig Hruza et.al.|[2408.03917](http://arxiv.org/abs/2408.03917)|null|
+|**2024-08-07**|**Disorder-induced delocalization and reentrance in a Chern-Hopf insulator**|Soumya Bera et.al.|[2408.03908](http://arxiv.org/abs/2408.03908)|null|
+|**2024-08-07**|**A first-order hyperbolic reformulation of the Cahn-Hilliard equation**|Firas Dhaouadi et.al.|[2408.03862](http://arxiv.org/abs/2408.03862)|null|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-07**|**Flexible Bayesian Last Layer Models Using Implicit Priors and Diffusion Posterior Sampling**|Jian Xu et.al.|[2408.03746](http://arxiv.org/abs/2408.03746)|null|
+|**2024-08-07**|**Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models**|Markus Ditlev Sjøgren Olsen et.al.|[2408.03654](http://arxiv.org/abs/2408.03654)|null|
+|**2024-08-07**|**Superdiffusion of energetic particles at shocks: A Lévy Flight model for acceleration**|Sophie Aerdker et.al.|[2408.03638](http://arxiv.org/abs/2408.03638)|null|
+|**2024-08-07**|**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**|Kien T. Pham et.al.|[2408.03637](http://arxiv.org/abs/2408.03637)|null|
+|**2024-08-07**|**"The Strength of Weak Ties" Varies Across Viral Channels**|Shan Huang et.al.|[2408.03579](http://arxiv.org/abs/2408.03579)|null|
 |**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312](http://arxiv.org/abs/2408.03312)|null|
 |**2024-08-06**|**Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies**|Francine R. Marleau et.al.|[2408.03311](http://arxiv.org/abs/2408.03311)|null|
 |**2024-08-06**|**TextIM: Part-aware Interactive Motion Synthesis from Text**|Siyuan Fan et.al.|[2408.03302](http://arxiv.org/abs/2408.03302)|null|
@@ -4283,6 +4293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**AdapMTL: Adaptive Pruning Framework for Multitask Learning Model**|Mingcan Xiang et.al.|[2408.03913](http://arxiv.org/abs/2408.03913)|null|
+|**2024-08-07**|**Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond**|Beomseok Lee et.al.|[2408.03900](http://arxiv.org/abs/2408.03900)|**[link](https://github.com/hlt-mt/speech-massive)**|
+|**2024-08-07**|**Talk to the Wall: The Role of Speech Interaction in Collaborative Visual Analytics**|Gabriela Molina León et.al.|[2408.03813](http://arxiv.org/abs/2408.03813)|null|
+|**2024-08-07**|**MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video**|Xiaoqing Guo et.al.|[2408.03761](http://arxiv.org/abs/2408.03761)|null|
+|**2024-08-07**|**Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation**|Jingjing Xie et.al.|[2408.03735](http://arxiv.org/abs/2408.03735)|**[link](https://github.com/xjjxmu/qslaw)**|
+|**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
+|**2024-08-07**|**Towards Multimodal Emotional Support Conversation Systems**|Yuqi Chu et.al.|[2408.03650](http://arxiv.org/abs/2408.03650)|null|
+|**2024-08-07**|**HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection**|Juho Jung et.al.|[2408.03648](http://arxiv.org/abs/2408.03648)|null|
+|**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615](http://arxiv.org/abs/2408.03615)|null|
+|**2024-08-07**|**MoExtend: Tuning New Experts for Modality and Task Extension**|Shanshan Zhong et.al.|[2408.03511](http://arxiv.org/abs/2408.03511)|null|
 |**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|null|
 |**2024-08-06**|**DaVE -- A Curated Database of Visualization Examples**|Jens Koenen et.al.|[2408.03188](http://arxiv.org/abs/2408.03188)|null|
 |**2024-08-06**|**Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**|Yanghai Zhang et.al.|[2408.03149](http://arxiv.org/abs/2408.03149)|null|

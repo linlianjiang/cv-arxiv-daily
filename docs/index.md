@@ -1985,6 +1985,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631](http://arxiv.org/abs/2408.04631)|null|
+|**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
+|**2024-08-08**|**An empirical background modeling tool (TweedleDEE) applied to new Milky Way satellite Leo VI**|Chance Hoskinson et.al.|[2408.04611](http://arxiv.org/abs/2408.04611)|null|
+|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-08**|**Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**|Yongzhi Xu et.al.|[2408.04567](http://arxiv.org/abs/2408.04567)|null|
+|**2024-08-08**|**Local and global existence for the stochastic Prandtl equation driven by multiplicative noises in two and three dimensions**|Ya-Guang Wang et.al.|[2408.04546](http://arxiv.org/abs/2408.04546)|null|
+|**2024-08-08**|**Electrical resistivity, thermal conductivity, and viscosity of Fe-H alloys at Earth's core conditions**|Cong Liu et.al.|[2408.04521](http://arxiv.org/abs/2408.04521)|null|
+|**2024-08-08**|**Diffusive hydrodynamics from long-range correlations**|Friedrich Hübner et.al.|[2408.04502](http://arxiv.org/abs/2408.04502)|null|
+|**2024-08-08**|**Extrinsic Orbital Hall Effect: Interplay Between Diffusive and Intrinsic Transport**|Alessandro Veneri et.al.|[2408.04492](http://arxiv.org/abs/2408.04492)|null|
+|**2024-08-08**|**Random Walk Diffusion for Efficient Large-Scale Graph Generation**|Tobias Bernecker et.al.|[2408.04461](http://arxiv.org/abs/2408.04461)|null|
 |**2024-08-07**|**Dynamical patterns in active-passive particle mixtures with non-reciprocal interactions: Exact hydrodynamic analysis**|James Mason et.al.|[2408.03932](http://arxiv.org/abs/2408.03932)|null|
 |**2024-08-07**|**Fluctuation of coherences in noisy mesoscopic quantum systems with diffusive transport**|Ludwig Hruza et.al.|[2408.03917](http://arxiv.org/abs/2408.03917)|null|
 |**2024-08-07**|**Disorder-induced delocalization and reentrance in a Chern-Hopf insulator**|Soumya Bera et.al.|[2408.03908](http://arxiv.org/abs/2408.03908)|null|
@@ -4293,6 +4303,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-08**|**Synchronous Multi-modal Semantic CommunicationSystem with Packet-level Coding**|Yun Tian et.al.|[2408.04535](http://arxiv.org/abs/2408.04535)|null|
+|**2024-08-08**|**UNMuTe: Unifying Navigation and Multimodal Dialogue-like Text Generation**|Niyati Rawal et.al.|[2408.04423](http://arxiv.org/abs/2408.04423)|null|
+|**2024-08-08**|**MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models**|Haoxuan Li et.al.|[2408.04388](http://arxiv.org/abs/2408.04388)|**[link](https://github.com/luminosityx/mm-forecast)**|
+|**2024-08-08**|**Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations**|Julen Urain et.al.|[2408.04380](http://arxiv.org/abs/2408.04380)|null|
+|**2024-08-08**|**Enhancing Journalism with AI: A Study of Contextualized Image Captioning for News Articles using LLMs and LMMs**|Aliki Anagnostopoulou et.al.|[2408.04331](http://arxiv.org/abs/2408.04331)|null|
+|**2024-08-08**|**Addressing Model and Data Heterogeneity in Multimodal Large Language Model Training**|Zili Zhang et.al.|[2408.04275](http://arxiv.org/abs/2408.04275)|null|
+|**2024-08-08**|**MU-MAE: Multimodal Masked Autoencoders-Based One-Shot Learning**|Rex Liu et.al.|[2408.04243](http://arxiv.org/abs/2408.04243)|null|
+|**2024-08-08**|**MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents**|Yanqi Dai et.al.|[2408.04203](http://arxiv.org/abs/2408.04203)|**[link](https://github.com/yanqidai/mmrole)**|
+|**2024-08-08**|**M2EF-NNs: Multimodal Multi-instance Evidence Fusion Neural Networks for Cancer Survival Prediction**|Hui Luo et.al.|[2408.04170](http://arxiv.org/abs/2408.04170)|null|
 |**2024-08-07**|**AdapMTL: Adaptive Pruning Framework for Multitask Learning Model**|Mingcan Xiang et.al.|[2408.03913](http://arxiv.org/abs/2408.03913)|null|
 |**2024-08-07**|**Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond**|Beomseok Lee et.al.|[2408.03900](http://arxiv.org/abs/2408.03900)|**[link](https://github.com/hlt-mt/speech-massive)**|
 |**2024-08-07**|**Talk to the Wall: The Role of Speech Interaction in Collaborative Visual Analytics**|Gabriela Molina León et.al.|[2408.03813](http://arxiv.org/abs/2408.03813)|null|

@@ -2010,6 +2010,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/abs/2408.06292)|**[link](https://github.com/sakanaai/ai-scientist)**|
+|**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
+|**2024-08-12**|**Singular limit and convergence rate via projection method in a model for plant-growth dynamics with autotoxicity**|Jeff Morgan et.al.|[2408.06177](http://arxiv.org/abs/2408.06177)|null|
+|**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157](http://arxiv.org/abs/2408.06157)|null|
+|**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/abs/2408.06145)|null|
+|**2024-08-12**|**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**|Zhuoyi Yang et.al.|[2408.06072](http://arxiv.org/abs/2408.06072)|**[link](https://github.com/thudm/cogvideo)**|
+|**2024-08-12**|**ControlNeXt: Powerful and Efficient Control for Image and Video Generation**|Bohao Peng et.al.|[2408.06070](http://arxiv.org/abs/2408.06070)|**[link](https://github.com/dvlab-research/controlnext)**|
+|**2024-08-12**|**BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training**|Xuanpu Zhang et.al.|[2408.06047](http://arxiv.org/abs/2408.06047)|**[link](https://github.com/little-misfit/boow-vton)**|
+|**2024-08-12**|**Gradient flow for a class of diffusion equations with Dirichlet boundary data**|Matthias Erbar et.al.|[2408.05987](http://arxiv.org/abs/2408.05987)|null|
+|**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985](http://arxiv.org/abs/2408.05985)|null|
 |**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
 |**2024-08-09**|**Galactic Gas Models Strongly Affect the Determination of the Diffusive Halo Height**|Pedro De La Torre Luque et.al.|[2408.05179](http://arxiv.org/abs/2408.05179)|null|
 |**2024-08-09**|**Hidden curved spaces in Bosonic Kitaev model**|Chenwei Lv et.al.|[2408.05132](http://arxiv.org/abs/2408.05132)|null|
@@ -4340,6 +4350,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents**|Xiao Liu et.al.|[2408.06327](http://arxiv.org/abs/2408.06327)|**[link](https://github.com/thudm/visualagentbench)**|
+|**2024-08-12**|**Context-aware Visual Storytelling with Visual Prefix Tuning and Contrastive Learning**|Yingjin Song et.al.|[2408.06259](http://arxiv.org/abs/2408.06259)|null|
+|**2024-08-12**|**ARCADE: An Augmented Reality Display Environment for Multimodal Interaction with Conversational Agents**|Carolin Schindler et.al.|[2408.06222](http://arxiv.org/abs/2408.06222)|null|
+|**2024-08-12**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040](http://arxiv.org/abs/2408.06040)|null|
+|**2024-08-12**|**Generative Design of Multimodal Soft Pneumatic Actuators**|Saswath Ghosh et.al.|[2408.06002](http://arxiv.org/abs/2408.06002)|null|
+|**2024-08-12**|**Multimodal Large Language Models for Phishing Webpage Detection and Identification**|Jehyun Lee et.al.|[2408.05941](http://arxiv.org/abs/2408.05941)|**[link](https://github.com/jehleekr/multimodal_llm_phishing_detection)**|
+|**2024-08-12**|**BI-MDRG: Bridging Image History in Multimodal Dialogue Response Generation**|Hee Suk Yoon et.al.|[2408.05926](http://arxiv.org/abs/2408.05926)|**[link](https://github.com/hee-suk-yoon/bi-mdrg)**|
+|**2024-08-12**|**Deep Multimodal Collaborative Learning for Polyp Re-Identification**|Suncheng Xiang et.al.|[2408.05914](http://arxiv.org/abs/2408.05914)|null|
+|**2024-08-11**|**HateSieve: A Contrastive Learning Framework for Detecting and Segmenting Hateful Content in Multimodal Memes**|Xuanyu Su et.al.|[2408.05794](http://arxiv.org/abs/2408.05794)|null|
+|**2024-08-11**|**An analysis of HOI: using a training-free method with multimodal visual foundation models when only the test set is available, without the training set**|Chaoyi Ai et.al.|[2408.05772](http://arxiv.org/abs/2408.05772)|null|
 |**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211](http://arxiv.org/abs/2408.05211)|null|
 |**2024-08-09**|**Cell Morphology-Guided Small Molecule Generation with GFlowNets**|Stephen Zhewen Lu et.al.|[2408.05196](http://arxiv.org/abs/2408.05196)|**[link](https://github.com/thematrixmaster/omics-guided-gfn)**|
 |**2024-08-09**|**Modeling Transit in a Fully Integrated Agent-Based Framework: Methodology and Large-Scale Application**|Omer Verbas et.al.|[2408.05176](http://arxiv.org/abs/2408.05176)|null|

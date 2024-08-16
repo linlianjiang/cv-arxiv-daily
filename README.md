@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -430,7 +430,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## SFM
 
@@ -558,7 +558,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1062,7 +1062,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1231,7 +1231,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1401,7 +1401,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## NeRF
 
@@ -1856,7 +1856,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## SDF
 
@@ -2006,7 +2006,7 @@
 |**2023-08-14**|**Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**|Licheng Zhong et.al.|[2308.06962](http://arxiv.org/abs/2308.06962)|**[link](https://github.com/Colmar-zlicheng/Color-NeuS)**|
 |**2023-09-04**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|**[link](https://github.com/ruyi-zha/endosurf)**|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2016,7 +2016,7 @@
 |**2024-08-14**|**Anisotropic Diffusion Model of Communication in 2D Biofilm**|Yanahan Paramalingam et.al.|[2408.07626](http://arxiv.org/abs/2408.07626)|null|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|**[link](https://github.com/sh-lee-prml/periodwave)**|
 |**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541](http://arxiv.org/abs/2408.07541)|null|
-|**2024-08-14**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
+|**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
 |**2024-08-14**|**Front propagation in hybrid reaction-diffusion epidemic models with spatial heterogeneity**|Quentin Griette et.al.|[2408.07501](http://arxiv.org/abs/2408.07501)|null|
 |**2024-08-14**|**DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency**|Xiaojing Zhong et.al.|[2408.07481](http://arxiv.org/abs/2408.07481)|null|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476](http://arxiv.org/abs/2408.07476)|**[link](https://github.com/learninghx/tad-sr)**|
@@ -4366,16 +4366,16 @@
 |**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742](http://arxiv.org/abs/2308.16742)|**[link](https://github.com/deepxuan/dudodp-mar)**|
 |**2023-08-31**|**Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance**|Zexin Hu et.al.|[2308.16725](http://arxiv.org/abs/2308.16725)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## Multimodal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694](http://arxiv.org/abs/2408.07694)|null|
-|**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
+|**2024-08-15**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
 |**2024-08-14**|**Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**|Yi-Cheng Lin et.al.|[2408.07665](http://arxiv.org/abs/2408.07665)|null|
-|**2024-08-14**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
+|**2024-08-15**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
 |**2024-08-14**|**Towards Enhanced Context Awareness with Vision-based Multimodal Interfaces**|Yongquan Hu et.al.|[2408.07488](http://arxiv.org/abs/2408.07488)|null|
 |**2024-08-14**|**Modality Invariant Multimodal Learning to Handle Missing Modalities: A Single-Branch Approach**|Muhammad Saad Saeed et.al.|[2408.07445](http://arxiv.org/abs/2408.07445)|null|
 |**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422](http://arxiv.org/abs/2408.07422)|null|
@@ -6523,7 +6523,7 @@
 |**2023-08-30**|**Low-Rank Multitask Learning based on Tensorized SVMs and LSSVMs**|Jiani Liu et.al.|[2308.16056](http://arxiv.org/abs/2308.16056)|**[link](https://github.com/liujiani0216/tsvm-mtl)**|
 |**2023-08-29**|**Multimodal Foundation Models For Echocardiogram Interpretation**|Matthew Christensen et.al.|[2308.15670](http://arxiv.org/abs/2308.15670)|**[link](https://github.com/echonet/echo_CLIP)**|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

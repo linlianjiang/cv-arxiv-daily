@@ -1987,6 +1987,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Understanding the Local Geometry of Generative Model Manifolds**|Ahmed Imtiaz Humayun et.al.|[2408.08307](http://arxiv.org/abs/2408.08307)|null|
+|**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
+|**2024-08-15**|**Solutions and stochastic averaging for delay-path-dependent stochastic variational inequalities in infinite dimensions**|Ning Ning et.al.|[2408.08277](http://arxiv.org/abs/2408.08277)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**Probing hydrodynamic crossovers with dissipation-assisted operator evolution**|N. S. Srivatsa et.al.|[2408.08249](http://arxiv.org/abs/2408.08249)|null|
+|**2024-08-15**|**Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion**|Adi Haviv et.al.|[2408.08184](http://arxiv.org/abs/2408.08184)|null|
+|**2024-08-15**|**Study of non-diffusive thermal behaviors in nanoscale transistors under different heating strategies**|Chuang Zhang et.al.|[2408.08120](http://arxiv.org/abs/2408.08120)|null|
+|**2024-08-15**|**Exploring Uncertainty Visualization for Degenerate Tensors in 3D Symmetric Second-Order Tensor Field Ensembles**|Tadea Schmitz et.al.|[2408.08099](http://arxiv.org/abs/2408.08099)|null|
+|**2024-08-15**|**Transport and mixing in control volumes through the lens of probability**|John Craske et.al.|[2408.08028](http://arxiv.org/abs/2408.08028)|null|
+|**2024-08-15**|**Gravitational Lensing Reveals Cool Gas within 10-20 kpc around a Quiescent Galaxy**|Tania M. Barone et.al.|[2408.07984](http://arxiv.org/abs/2408.07984)|null|
 |**2024-08-14**|**Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**|Bing Hu et.al.|[2408.07636](http://arxiv.org/abs/2408.07636)|null|
 |**2024-08-14**|**Anisotropic Diffusion Model of Communication in 2D Biofilm**|Yanahan Paramalingam et.al.|[2408.07626](http://arxiv.org/abs/2408.07626)|null|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|**[link](https://github.com/sh-lee-prml/periodwave)**|
@@ -4345,6 +4355,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/abs/2408.08211)|null|
+|**2024-08-15**|**Amplified Light Beam Cooling via Emergent Onsager's Irreversible Thermodynamics**|Zhongfei Xiong et.al.|[2408.08204](http://arxiv.org/abs/2408.08204)|null|
+|**2024-08-15**|**Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images**|Zhiyuan Li et.al.|[2408.08105](http://arxiv.org/abs/2408.08105)|**[link](https://github.com/zhiyuan-li-john/mucr)**|
+|**2024-08-15**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093](http://arxiv.org/abs/2408.08093)|null|
+|**2024-08-15**|**IIU: Independent Inference Units for Knowledge-based Visual Question Answering**|Yili Li et.al.|[2408.07989](http://arxiv.org/abs/2408.07989)|**[link](https://github.com/lilidamowang/iiu)**|
+|**2024-08-15**|**Toward a Dialogue System Using a Large Language Model to Recognize User Emotions with a Camera**|Hiroki Tanioka et.al.|[2408.07982](http://arxiv.org/abs/2408.07982)|null|
+|**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981](http://arxiv.org/abs/2408.07981)|null|
+|**2024-08-15**|**Light scrambling and focal ratio degradation of thin multimode fibers with different core geometries**|Man-Yin Leo Lee et.al.|[2408.07961](http://arxiv.org/abs/2408.07961)|null|
+|**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
+|**2024-08-15**|**The doctor will polygraph you now: ethical concerns with AI for fact-checking patients**|James Anibal et.al.|[2408.07896](http://arxiv.org/abs/2408.07896)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694](http://arxiv.org/abs/2408.07694)|null|
 |**2024-08-15**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
 |**2024-08-14**|**Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**|Yi-Cheng Lin et.al.|[2408.07665](http://arxiv.org/abs/2408.07665)|null|

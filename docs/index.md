@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4384,7 +4384,7 @@ layout: default
 |**2024-08-19**|**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant**|Zhengchao Huang et.al.|[2408.10072](http://arxiv.org/abs/2408.10072)|null|
 |**2024-08-19**|**Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting**|Yun-Da Tsai et.al.|[2408.09798](http://arxiv.org/abs/2408.09798)|null|
 |**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787](http://arxiv.org/abs/2408.09787)|**[link](https://github.com/hitsz-tmg/anim-director)**|
-|**2024-08-19**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
+|**2024-08-20**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
 |**2024-08-18**|**A Markov Random Field Multi-Modal Variational AutoEncoder**|Fouad Oubari et.al.|[2408.09576](http://arxiv.org/abs/2408.09576)|null|
 |**2024-08-18**|**PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding**|Dawei Dai et.al.|[2408.09530](http://arxiv.org/abs/2408.09530)|**[link](https://github.com/ddw2aigroup2cqupt/pa-llava)**|
 |**2024-08-18**|**PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis**|Meng Luo et.al.|[2408.09481](http://arxiv.org/abs/2408.09481)|null|

@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction**|Ziyu Tang et.al.|[2408.12598](http://arxiv.org/abs/2408.12598)|null|
 |**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198](http://arxiv.org/abs/2408.10198)|null|
 |**2024-08-19**|**NeuRodin: A Two-stage Framework for High-Fidelity Neural Surface Reconstruction**|Yifan Wang et.al.|[2408.10178](http://arxiv.org/abs/2408.10178)|null|
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
@@ -1991,6 +1992,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Very Extended Ionized Gas Discovered around NGC 1068 with the Circumgalactic H $α$ Spectrograph**|Nicole Melso et.al.|[2408.12597](http://arxiv.org/abs/2408.12597)|null|
+|**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
+|**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/abs/2408.12588)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
+|**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
+|**2024-08-22**|**Detecting random bifurcations via rigorous enclosures of large deviations rate functions**|Alexandra Blessing et.al.|[2408.12556](http://arxiv.org/abs/2408.12556)|null|
+|**2024-08-22**|**Neural Fields and Noise-Induced Patterns in Neurons on Large Disordered Networks**|Daniele Avitabile et.al.|[2408.12540](http://arxiv.org/abs/2408.12540)|null|
+|**2024-08-22**|**Spectral eigenfunction decomposition of a Fokker-Planck operator for relativistic heavy-ion collisions**|A. Rizzi et.al.|[2408.12532](http://arxiv.org/abs/2408.12532)|null|
+|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|**[link](https://github.com/showlab/show-o)**|
+|**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/abs/2408.12429)|**[link](https://github.com/a-new-b/flex_edit)**|
+|**2024-08-22**|**4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**|Kaihui Cheng et.al.|[2408.12419](http://arxiv.org/abs/2408.12419)|null|
 |**2024-08-21**|**Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**|Chun-Yen Shih et.al.|[2408.11810](http://arxiv.org/abs/2408.11810)|null|
 |**2024-08-21**|**Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**|Haipeng Zhou et.al.|[2408.11785](http://arxiv.org/abs/2408.11785)|**[link](https://github.com/haipengzhou856/tbgdiff)**|
 |**2024-08-21**|**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**|Daniele Malitesta et.al.|[2408.11767](http://arxiv.org/abs/2408.11767)|null|
@@ -4399,6 +4410,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Exploring the Role of Audio in Multimodal Misinformation Detection**|Moyang Liu et.al.|[2408.12558](http://arxiv.org/abs/2408.12558)|null|
+|**2024-08-22**|**Characterization of Multipartite non-Gaussian Entanglement Structure**|Mingsheng Tian et.al.|[2408.12554](http://arxiv.org/abs/2408.12554)|null|
+|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|**[link](https://github.com/showlab/show-o)**|
+|**2024-08-22**|**Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese**|Khang T. Doan et.al.|[2408.12480](http://arxiv.org/abs/2408.12480)|null|
+|**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
+|**2024-08-22**|**MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model**|Chaoya Jiang et.al.|[2408.12321](http://arxiv.org/abs/2408.12321)|null|
+|**2024-08-22**|**Recording Brain Activity While Listening to Music Using Wearable EEG Devices Combined with Bidirectional Long Short-Term Memory Networks**|Jingyi Wang et.al.|[2408.12124](http://arxiv.org/abs/2408.12124)|null|
+|**2024-08-22**|**Integrating Audio, Visual, and Semantic Information for Enhanced Multimodal Speaker Diarization**|Luyao Cheng et.al.|[2408.12102](http://arxiv.org/abs/2408.12102)|null|
+|**2024-08-22**|**Information Scrambling in Bosonic Gaussian Dynamics**|Ali Mollabashi et.al.|[2408.12089](http://arxiv.org/abs/2408.12089)|null|
+|**2024-08-22**|**Mental-Perceiver: Audio-Textual Multimodal Learning for Mental Health Assessment**|Jinghui Qin et.al.|[2408.12088](http://arxiv.org/abs/2408.12088)|null|
 |**2024-08-21**|**GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models**|Jonathan Roberts et.al.|[2408.11817](http://arxiv.org/abs/2408.11817)|null|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|

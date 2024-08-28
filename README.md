@@ -1862,6 +1862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Few-Shot Unsupervised Implicit Neural Shape Representation Learning with Spatial Adversaries**|Amine Ouasfi et.al.|[2408.15114](http://arxiv.org/abs/2408.15114)|null|
+|**2024-08-27**|**LN-Gen: Rectal Lymph Nodes Generation via Anatomical Features**|Weidong Guo et.al.|[2408.14977](http://arxiv.org/abs/2408.14977)|null|
 |**2024-08-23**|**Multi-finger Manipulation via Trajectory Optimization with Differentiable Rolling and Geometric Constraints**|Fan Yang et.al.|[2408.13229](http://arxiv.org/abs/2408.13229)|null|
 |**2024-08-23**|**ShapeICP: Iterative Category-level Object Pose and Shape Estimation from Depth**|Yihao Zhang et.al.|[2408.13147](http://arxiv.org/abs/2408.13147)|null|
 |**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135](http://arxiv.org/abs/2408.13135)|null|
@@ -2020,6 +2022,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
+|**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239](http://arxiv.org/abs/2408.15239)|null|
+|**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218](http://arxiv.org/abs/2408.15218)|null|
+|**2024-08-27**|**On latent dynamics learning in nonlinear reduced order modeling**|Nicola Farenga et.al.|[2408.15183](http://arxiv.org/abs/2408.15183)|null|
+|**2024-08-27**|**Simulation of Stochastic Discrete Dislocation Dynamics in Ductile Vs Brittle Materials**|Santosh Chhetri et.al.|[2408.15157](http://arxiv.org/abs/2408.15157)|null|
+|**2024-08-27**|**Linearization of finite-strain poro-visco-elasticity with degenerate mobility**|Willem J. M. van Oosterhout et.al.|[2408.15151](http://arxiv.org/abs/2408.15151)|null|
+|**2024-08-27**|**DIFR3CT: Latent Diffusion for Probabilistic 3D CT Reconstruction from Few Planar X-Rays**|Yiran Sun et.al.|[2408.15118](http://arxiv.org/abs/2408.15118)|**[link](https://github.com/yransun/difr3ct)**|
+|**2024-08-27**|**Constrained Diffusion Models via Dual Training**|Shervin Khalafi et.al.|[2408.15094](http://arxiv.org/abs/2408.15094)|null|
+|**2024-08-27**|**Conditioning the logistic continuous-state branching process on non-extinction via its total progeny**|Clément Foucart et.al.|[2408.14993](http://arxiv.org/abs/2408.14993)|null|
+|**2024-08-27**|**LN-Gen: Rectal Lymph Nodes Generation via Anatomical Features**|Weidong Guo et.al.|[2408.14977](http://arxiv.org/abs/2408.14977)|null|
 |**2024-08-26**|**Relativistic spin hydrodynamics with momentum and spin-dependent relaxation time**|Samapan Bhadury et.al.|[2408.14462](http://arxiv.org/abs/2408.14462)|null|
 |**2024-08-26**|**An optimization-based coupling of reduced order models with efficient reduced adjoint basis generation approach**|Elizabeth Hawkins et.al.|[2408.14450](http://arxiv.org/abs/2408.14450)|null|
 |**2024-08-27**|**DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance**|Jinhyeok Yang et.al.|[2408.14423](http://arxiv.org/abs/2408.14423)|null|
@@ -4460,6 +4472,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**|Jian Hu et.al.|[2408.15205](http://arxiv.org/abs/2408.15205)|null|
+|**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
+|**2024-08-27**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
+|**2024-08-27**|**The Benefits of Balance: From Information Projections to Variance Reduction**|Lang Liu et.al.|[2408.15065](http://arxiv.org/abs/2408.15065)|null|
+|**2024-08-27**|**NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework**|Shuangchen Zhao et.al.|[2408.14950](http://arxiv.org/abs/2408.14950)|null|
+|**2024-08-27**|**From Bias to Balance: Detecting Facial Expression Recognition Biases in Large Multimodal Foundation Models**|Kaylee Chhua et.al.|[2408.14842](http://arxiv.org/abs/2408.14842)|null|
+|**2024-08-27**|**GSIFN: A Graph-Structured and Interlaced-Masked Multimodal Transformer Based Fusion Network for Multimodal Sentiment Analysis**|Yijie Jin et.al.|[2408.14809](http://arxiv.org/abs/2408.14809)|null|
+|**2024-08-27**|**Text-guided Foundation Model Adaptation for Long-Tailed Medical Image Classification**|Sirui Li et.al.|[2408.14770](http://arxiv.org/abs/2408.14770)|null|
+|**2024-08-27**|**RSTeller: Scaling Up Visual Language Modeling in Remote Sensing with Rich Linguistic Semantics from Openly Available Data and Large Language Models**|Junyao Ge et.al.|[2408.14744](http://arxiv.org/abs/2408.14744)|**[link](https://github.com/slytheringe/rsteller)**|
+|**2024-08-27**|**Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild**|Tianqi Wei et.al.|[2408.14723](http://arxiv.org/abs/2408.14723)|null|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models**|Shubham Bharti et.al.|[2408.14419](http://arxiv.org/abs/2408.14419)|null|
 |**2024-08-27**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|

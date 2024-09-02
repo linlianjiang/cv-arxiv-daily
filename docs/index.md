@@ -2000,6 +2000,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424](http://arxiv.org/abs/2408.17424)|null|
+|**2024-08-30**|**High-order finite element methods for three-dimensional multicomponent convection-diffusion**|Aaron Baier-Reinio et.al.|[2408.17390](http://arxiv.org/abs/2408.17390)|null|
+|**2024-08-30**|**An enhanced version of the Gaia map of the brightness of the natural sky**|Eduard Masana et.al.|[2408.17371](http://arxiv.org/abs/2408.17371)|null|
+|**2024-08-30**|**Dimensional confinement and superdiffusive rotational motion of uniaxial colloids in the presence of cylindrical obstacles**|Vikki Anand Varma et.al.|[2408.17345](http://arxiv.org/abs/2408.17345)|null|
+|**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
+|**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285](http://arxiv.org/abs/2408.17285)|null|
+|**2024-08-30**|**Likelihood estimation for stochastic differential equations with mixed effects**|Fernando Baltazar-Larios et.al.|[2408.17257](http://arxiv.org/abs/2408.17257)|null|
+|**2024-08-30**|**A kinetic chemotaxis model and its diffusion limit in slab geometry**|Herbert Egger et.al.|[2408.17243](http://arxiv.org/abs/2408.17243)|null|
+|**2024-08-30**|**Shock-driven amorphization and melt in Fe $_2$O$_3$**|Céline Crépisson et.al.|[2408.17204](http://arxiv.org/abs/2408.17204)|null|
+|**2024-08-30**|**Excitation and spatial study of a prestellar cluster towards G+0.693-0.027 in the Galactic centre**|L. Colzi et.al.|[2408.17141](http://arxiv.org/abs/2408.17141)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765](http://arxiv.org/abs/2408.16765)|null|
@@ -4468,6 +4478,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios**|Baichuan Zhou et.al.|[2408.17267](http://arxiv.org/abs/2408.17267)|null|
+|**2024-08-30**|**A methodological framework for Resilience as a Service (RaaS) in multimodal urban transportation networks**|Sara Jaber et.al.|[2408.17233](http://arxiv.org/abs/2408.17233)|null|
+|**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168](http://arxiv.org/abs/2408.17168)|null|
+|**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
+|**2024-08-30**|**Generative Modeling Perspective for Control and Reasoning in Robotics**|Takuma Yoneda et.al.|[2408.17041](http://arxiv.org/abs/2408.17041)|null|
+|**2024-08-30**|**AdaptVision: Dynamic Input Scaling in MLLMs for Versatile Scene Understanding**|Yonghui Wang et.al.|[2408.16986](http://arxiv.org/abs/2408.16986)|**[link](https://github.com/harrytea/adaptvision)**|
+|**2024-08-30**|**Synthetic Lunar Terrain: A Multimodal Open Dataset for Training and Evaluating Neuromorphic Vision Algorithms**|Marcus Märtens et.al.|[2408.16971](http://arxiv.org/abs/2408.16971)|null|
+|**2024-08-29**|**Revising Multimodal VAEs with Diffusion Decoders**|Daniel Wesego et.al.|[2408.16883](http://arxiv.org/abs/2408.16883)|null|
+|**2024-08-29**|**MPADA: Open source framework for multimodal time series antenna array measurements**|Yuyi Chang et.al.|[2408.16850](http://arxiv.org/abs/2408.16850)|null|
+|**2024-08-29**|**Maven: A Multimodal Foundation Model for Supernova Science**|Gemma Zhang et.al.|[2408.16829](http://arxiv.org/abs/2408.16829)|**[link](https://github.com/thomashelfer/multimodal-supernovae)**|
 |**2024-08-29**|**RoboMNIST: A Multimodal Dataset for Multi-Robot Activity Recognition Using WiFi Sensing, Video, and Audio**|Kian Behzad et.al.|[2408.16703](http://arxiv.org/abs/2408.16703)|**[link](https://github.com/siamilab/robomnist)**|
 |**2024-08-29**|**Long-Range $ZZ$ Interaction via Resonator-Induced Phase in Superconducting Qubits**|Xiang Deng et.al.|[2408.16617](http://arxiv.org/abs/2408.16617)|null|
 |**2024-08-29**|**Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning**|Boyu Chen et.al.|[2408.16577](http://arxiv.org/abs/2408.16577)|null|

@@ -1839,6 +1839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction**|Rui Peng et.al.|[2409.03634](http://arxiv.org/abs/2409.03634)|**[link](https://github.com/prstrive/surf)**|
 |**2024-09-04**|**SurgTrack: CAD-Free 3D Tracking of Real-world Surgical Instruments**|Wenwu Guo et.al.|[2409.02598](http://arxiv.org/abs/2409.02598)|**[link](https://github.com/wenwucode/surgtrack)**|
 |**2024-09-04**|**Volumetric Surfaces: Representing Fuzzy Geometries with Multiple Meshes**|Stefano Esposito et.al.|[2409.02482](http://arxiv.org/abs/2409.02482)|null|
 |**2024-09-01**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690](http://arxiv.org/abs/2408.16690)|null|
@@ -2002,6 +2003,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
+|**2024-09-05**|**DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation**|Wenliang Zhao et.al.|[2409.03755](http://arxiv.org/abs/2409.03755)|**[link](https://github.com/wl-zhao/dc-solver)**|
+|**2024-09-05**|**ArtiFade: Learning to Generate High-quality Subject from Blemished Images**|Shuya Yang et.al.|[2409.03745](http://arxiv.org/abs/2409.03745)|null|
+|**2024-09-05**|**Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation**|Slava Elizarov et.al.|[2409.03718](http://arxiv.org/abs/2409.03718)|null|
+|**2024-09-05**|**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**|Benzhi Wang et.al.|[2409.03644](http://arxiv.org/abs/2409.03644)|null|
+|**2024-09-05**|**DiffEVC: Any-to-Any Emotion Voice Conversion with Expressive Guidance**|Hsing-Hang Chou et.al.|[2409.03636](http://arxiv.org/abs/2409.03636)|null|
+|**2024-09-05**|**Critical transition between intensive and extensive active droplets**|Jonathan Bauermann et.al.|[2409.03629](http://arxiv.org/abs/2409.03629)|null|
+|**2024-09-05**|**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**|Bernardo Biesseck et.al.|[2409.03600](http://arxiv.org/abs/2409.03600)|**[link](https://github.com/bovifocr/tcdiff)**|
+|**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597](http://arxiv.org/abs/2409.03597)|null|
+|**2024-09-05**|**Curvature dependent dynamics of a bacterium confined in a giant unilamellar vesicle**|Olivia Vincent et.al.|[2409.03578](http://arxiv.org/abs/2409.03578)|null|
 |**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
 |**2024-09-04**|**Gravitational radiation from binary systems in Unimodular gravity**|Indranil Chakraborty et.al.|[2409.02909](http://arxiv.org/abs/2409.02909)|null|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
@@ -4490,6 +4501,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597](http://arxiv.org/abs/2409.03597)|null|
+|**2024-09-05**|**ScreenMark: Watermarking Arbitrary Visual Content on Screen**|Xiujian Liang et.al.|[2409.03487](http://arxiv.org/abs/2409.03487)|null|
+|**2024-09-05**|**Purification of Gaussian States by Photon Subtraction**|Kun Zhang et.al.|[2409.03473](http://arxiv.org/abs/2409.03473)|null|
+|**2024-09-05**|**ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding**|Zhengzhuo Xu et.al.|[2409.03277](http://arxiv.org/abs/2409.03277)|null|
+|**2024-09-05**|**UAV (Unmanned Aerial Vehicles): Diverse Applications of UAV Datasets in Segmentation, Classification, Detection, and Tracking**|Md. Mahfuzur Rahman et.al.|[2409.03245](http://arxiv.org/abs/2409.03245)|null|
+|**2024-09-05**|**TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations**|Mingze Gao et.al.|[2409.03206](http://arxiv.org/abs/2409.03206)|null|
+|**2024-09-05**|**Addressing the Gaps in Early Dementia Detection: A Path Towards Enhanced Diagnostic Models through Machine Learning**|Juan A. Berrios Moya et.al.|[2409.03147](http://arxiv.org/abs/2409.03147)|null|
 |**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
 |**2024-09-04**|**MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**|Xiang Yue et.al.|[2409.02813](http://arxiv.org/abs/2409.02813)|null|
 |**2024-09-04**|**A family of toroidal diffusions with exact likelihood inference**|Eduardo García-Portugués et.al.|[2409.02705](http://arxiv.org/abs/2409.02705)|null|

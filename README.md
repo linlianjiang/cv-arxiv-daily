@@ -1862,6 +1862,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**PVP-Recon: Progressive View Planning via Warping Consistency for Sparse-View Surface Reconstruction**|Sheng Ye et.al.|[2409.05474](http://arxiv.org/abs/2409.05474)|null|
+|**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
+|**2024-09-08**|**PhysHand: A Hand Simulation Model with Physiological Geometry, Physical Deformation, and Accurate Contact Handling**|Mingyang Sun et.al.|[2409.05143](http://arxiv.org/abs/2409.05143)|null|
 |**2024-09-05**|**Recon-all-clinical: Cortical surface reconstruction and analysis of heterogeneous clinical brain MRI**|Karthik Gopinath et.al.|[2409.03889](http://arxiv.org/abs/2409.03889)|null|
 |**2024-09-05**|**Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction**|Rui Peng et.al.|[2409.03634](http://arxiv.org/abs/2409.03634)|**[link](https://github.com/prstrive/surf)**|
 |**2024-09-04**|**SurgTrack: CAD-Free 3D Tracking of Real-world Surgical Instruments**|Wenwu Guo et.al.|[2409.02598](http://arxiv.org/abs/2409.02598)|**[link](https://github.com/wenwucode/surgtrack)**|
@@ -2029,6 +2032,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Quantum maximum entropy closure for small flavor coherence**|Julien Froustey et.al.|[2409.05807](http://arxiv.org/abs/2409.05807)|null|
+|**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798](http://arxiv.org/abs/2409.05798)|null|
+|**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784](http://arxiv.org/abs/2409.05784)|null|
+|**2024-09-09**|**Effects of Interfacial Oxygen Diffusion on the Magnetic Properties and Thermal Stability of Pd/CoFeB/Pd/Ta Heterostructure**|Saravanan Lakshmanan et.al.|[2409.05783](http://arxiv.org/abs/2409.05783)|null|
+|**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
+|**2024-09-09**|**Thermalization And Convergence To Equilibrium Of The Noisy Voter Model**|Enzo Aljovin et.al.|[2409.05722](http://arxiv.org/abs/2409.05722)|null|
+|**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701](http://arxiv.org/abs/2409.05701)|null|
+|**2024-09-09**|**LayeredFlow: A Real-World Benchmark for Non-Lambertian Multi-Layer Optical Flow**|Hongyu Wen et.al.|[2409.05688](http://arxiv.org/abs/2409.05688)|null|
+|**2024-09-09**|**Unlearning or Concealment? A Critical Analysis and Evaluation Metrics for Unlearning in Diffusion Models**|Aakash Sen Sharma et.al.|[2409.05668](http://arxiv.org/abs/2409.05668)|null|
+|**2024-09-09**|**Forward KL Regularized Preference Optimization for Aligning Diffusion Policies**|Zhao Shan et.al.|[2409.05622](http://arxiv.org/abs/2409.05622)|null|
 |**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
 |**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424](http://arxiv.org/abs/2409.04424)|null|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384](http://arxiv.org/abs/2409.04384)|null|
@@ -4539,6 +4552,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863](http://arxiv.org/abs/2409.05863)|null|
+|**2024-09-09**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840](http://arxiv.org/abs/2409.05840)|null|
+|**2024-09-09**|**CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization**|Nan Chen et.al.|[2409.05606](http://arxiv.org/abs/2409.05606)|null|
+|**2024-09-09**|**TextToucher: Fine-Grained Text-to-Touch Generation**|Jiahang Tu et.al.|[2409.05427](http://arxiv.org/abs/2409.05427)|null|
+|**2024-09-09**|**Replicability Measures for Longitudinal Information Retrieval Evaluation**|Jüri Keller et.al.|[2409.05417](http://arxiv.org/abs/2409.05417)|null|
+|**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
+|**2024-09-09**|**HyperSMOTE: A Hypergraph-based Oversampling Approach for Imbalanced Node Classifications**|Ziming Zhao et.al.|[2409.05402](http://arxiv.org/abs/2409.05402)|null|
+|**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395](http://arxiv.org/abs/2409.05395)|null|
+|**2024-09-09**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Zhongbin Sun et.al.|[2409.05378](http://arxiv.org/abs/2409.05378)|null|
+|**2024-09-08**|**Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations**|Xinran Li et.al.|[2409.05243](http://arxiv.org/abs/2409.05243)|null|
 |**2024-09-06**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388](http://arxiv.org/abs/2409.04388)|null|
 |**2024-09-06**|**Firefly Algorithm for Movable Antenna Arrays**|Manh Kha Hoang et.al.|[2409.04228](http://arxiv.org/abs/2409.04228)|null|
 |**2024-09-06**|**Feature Compression for Cloud-Edge Multimodal 3D Object Detection**|Chongzhen Tian et.al.|[2409.04123](http://arxiv.org/abs/2409.04123)|null|

@@ -1862,6 +1862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**SDF-Net: A Hybrid Detection Network for Mediastinal Lymph Node Detection on Contrast CT Images**|Jiuli Xiong et.al.|[2409.06324](http://arxiv.org/abs/2409.06324)|null|
+|**2024-09-10**|**A Latent Implicit 3D Shape Model for Multiple Levels of Detail**|Benoit Guillard et.al.|[2409.06231](http://arxiv.org/abs/2409.06231)|null|
 |**2024-09-09**|**PVP-Recon: Progressive View Planning via Warping Consistency for Sparse-View Surface Reconstruction**|Sheng Ye et.al.|[2409.05474](http://arxiv.org/abs/2409.05474)|null|
 |**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
 |**2024-09-08**|**PhysHand: A Hand Simulation Model with Physiological Geometry, Physical Deformation, and Accurate Contact Handling**|Mingyang Sun et.al.|[2409.05143](http://arxiv.org/abs/2409.05143)|null|
@@ -2032,6 +2034,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
+|**2024-09-10**|**A surprising regularizing effect of the nonlinear semigroup associated to the semilinear heat equation and applications to reaction diffusion systems**|Said Kouachi et.al.|[2409.06606](http://arxiv.org/abs/2409.06606)|null|
+|**2024-09-10**|**Enhancing Emotional Text-to-Speech Controllability with Natural Language Guidance through Contrastive Learning and Diffusion Models**|Xin Jing et.al.|[2409.06451](http://arxiv.org/abs/2409.06451)|null|
+|**2024-09-10**|**Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles**|Jakub Rydzewski et.al.|[2409.06428](http://arxiv.org/abs/2409.06428)|null|
+|**2024-09-10**|**The Potential of Geminate Pairs in Lead Halide Perovskite revealed via Time-resolved Photoluminescence**|Hannes Hempel et.al.|[2409.06382](http://arxiv.org/abs/2409.06382)|null|
+|**2024-09-10**|**Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition**|Junzheng Zhang et.al.|[2409.06371](http://arxiv.org/abs/2409.06371)|null|
+|**2024-09-10**|**Hydrodynamic model for laser swelling**|Nikita Bityurin et.al.|[2409.06370](http://arxiv.org/abs/2409.06370)|null|
+|**2024-09-10**|**What happens to diffusion model likelihood when your model is conditional?**|Mattias Cross et.al.|[2409.06364](http://arxiv.org/abs/2409.06364)|null|
+|**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
+|**2024-09-10**|**Market Reaction to News Flows in Supply Chain Networks**|Hiroyasu Inoue et.al.|[2409.06255](http://arxiv.org/abs/2409.06255)|null|
 |**2024-09-09**|**Quantum maximum entropy closure for small flavor coherence**|Julien Froustey et.al.|[2409.05807](http://arxiv.org/abs/2409.05807)|null|
 |**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798](http://arxiv.org/abs/2409.05798)|null|
 |**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784](http://arxiv.org/abs/2409.05784)|null|
@@ -4552,6 +4564,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding**|Xiaoyu Liang et.al.|[2409.06485](http://arxiv.org/abs/2409.06485)|null|
+|**2024-09-10**|**Multimodal Large Language Model Driven Scenario Testing for Autonomous Vehicles**|Qiujing Lu et.al.|[2409.06450](http://arxiv.org/abs/2409.06450)|null|
+|**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
+|**2024-09-10**|**MIP-GAF: A MLLM-annotated Benchmark for Most Important Person Localization and Group Context Understanding**|Surbhi Madan et.al.|[2409.06224](http://arxiv.org/abs/2409.06224)|null|
+|**2024-09-10**|**Multiclass Arrhythmia Classification using Smartwatch Photoplethysmography Signals Collected in Real-life Settings**|Dong Han et.al.|[2409.06147](http://arxiv.org/abs/2409.06147)|null|
+|**2024-09-10**|**Human Impedance Modulation to Improve Visuo-Haptic Perception**|Xiaoxiao Cheng et.al.|[2409.06124](http://arxiv.org/abs/2409.06124)|null|
+|**2024-09-09**|**MLLM-FL: Multimodal Large Language Model Assisted Federated Learning on Heterogeneous and Long-tailed Data**|Jianyi Zhang et.al.|[2409.06067](http://arxiv.org/abs/2409.06067)|null|
 |**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863](http://arxiv.org/abs/2409.05863)|null|
 |**2024-09-09**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840](http://arxiv.org/abs/2409.05840)|null|
 |**2024-09-09**|**CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization**|Nan Chen et.al.|[2409.05606](http://arxiv.org/abs/2409.05606)|null|

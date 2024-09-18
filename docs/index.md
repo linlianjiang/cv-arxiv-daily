@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4586,7 +4586,7 @@ layout: default
 |**2024-09-16**|**Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models**|Weihao Ye et.al.|[2409.10197](http://arxiv.org/abs/2409.10197)|null|
 |**2024-09-16**|**RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models**|Başak Melis Öcal et.al.|[2409.10180](http://arxiv.org/abs/2409.10180)|null|
 |**2024-09-16**|**Quantile Regression for Distributional Reward Models in RLHF**|Nicolai Dorka et.al.|[2409.10164](http://arxiv.org/abs/2409.10164)|null|
-|**2024-09-16**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
+|**2024-09-17**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
 |**2024-09-13**|**Boson sampling with self-generation of squeezing via interaction of photons and atoms**|Sergey V. Tarasov et.al.|[2409.09027](http://arxiv.org/abs/2409.09027)|null|
 |**2024-09-13**|**Affective Computing Has Changed: The Foundation Model Disruption**|Björn Schuller et.al.|[2409.08907](http://arxiv.org/abs/2409.08907)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|

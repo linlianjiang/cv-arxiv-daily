@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1839,6 +1839,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**SDFit: 3D Object Pose and Shape by Fitting a Morphable SDF to a Single Image**|Dimitrije Antić et.al.|[2409.16178](http://arxiv.org/abs/2409.16178)|null|
+|**2024-09-23**|**Efficient Collision Detection Framework for Enhancing Collision-Free Robot Motion**|Xiankun Zhu et.al.|[2409.14955](http://arxiv.org/abs/2409.14955)|null|
+|**2024-09-20**|**High-Fidelity Mask-free Neural Surface Reconstruction for Virtual Reality**|Haotian Bai et.al.|[2409.13158](http://arxiv.org/abs/2409.13158)|null|
+|**2024-09-19**|**CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications**|Vladimir Frolov et.al.|[2409.12617](http://arxiv.org/abs/2409.12617)|null|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/abs/2409.12193)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-10**|**SDF-Net: A Hybrid Detection Network for Mediastinal Lymph Node Detection on Contrast CT Images**|Jiuli Xiong et.al.|[2409.06324](http://arxiv.org/abs/2409.06324)|null|
 |**2024-09-10**|**A Latent Implicit 3D Shape Model for Multiple Levels of Detail**|Benoit Guillard et.al.|[2409.06231](http://arxiv.org/abs/2409.06231)|null|
@@ -2010,6 +2014,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**MonoFormer: One Transformer for Both Diffusion and Autoregression**|Chuyang Zhao et.al.|[2409.16280](http://arxiv.org/abs/2409.16280)|null|
+|**2024-09-24**|**Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**|Utkarsh A. Mishra et.al.|[2409.16275](http://arxiv.org/abs/2409.16275)|null|
+|**2024-09-24**|**Exactly solvable stochastic spectator**|Masazumi Honda et.al.|[2409.16272](http://arxiv.org/abs/2409.16272)|null|
+|**2024-09-24**|**MaskBit: Embedding-free Image Generation via Bit Tokens**|Mark Weber et.al.|[2409.16211](http://arxiv.org/abs/2409.16211)|null|
+|**2024-09-24**|**MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling**|Yifang Men et.al.|[2409.16160](http://arxiv.org/abs/2409.16160)|null|
+|**2024-09-24**|**Spreading dynamics of a Fisher-KPP nonlocal diffusion model with a free boundary**|Lei Li et.al.|[2409.16101](http://arxiv.org/abs/2409.16101)|null|
+|**2024-09-24**|**Cloudy modeling suggests a diversity of ionization mechanisms for diffuse extraplanar gas**|R. P. V. Rautio et.al.|[2409.16062](http://arxiv.org/abs/2409.16062)|null|
+|**2024-09-24**|**Tracing Ion Migration in Halide Perovskites with Machine Learned Force Fields**|Viren Tyagi et.al.|[2409.16051](http://arxiv.org/abs/2409.16051)|null|
+|**2024-09-24**|**Transient bubble rising in the presence of a surfactant at very low concentrations**|D. Fernández-Martínez et.al.|[2409.16029](http://arxiv.org/abs/2409.16029)|null|
+|**2024-09-24**|**PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**|Mingyo Seo et.al.|[2409.16012](http://arxiv.org/abs/2409.16012)|null|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/abs/2409.12193)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192](http://arxiv.org/abs/2409.12192)|null|
 |**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
@@ -4598,6 +4612,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**MonoFormer: One Transformer for Both Diffusion and Autoregression**|Chuyang Zhao et.al.|[2409.16280](http://arxiv.org/abs/2409.16280)|null|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
+|**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
+|**2024-09-24**|**LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM**|Boyan Li et.al.|[2409.16209](http://arxiv.org/abs/2409.16209)|null|
+|**2024-09-24**|**Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation**|Xiaohong Liu et.al.|[2409.16183](http://arxiv.org/abs/2409.16183)|null|
+|**2024-09-24**|**Auricular Bioelectronic Devices for Health, Medicine, and Human-Computer Interfaces**|William J. Tyler et.al.|[2409.16169](http://arxiv.org/abs/2409.16169)|null|
+|**2024-09-24**|**VisioPhysioENet: Multimodal Engagement Detection using Visual and Physiological Signals**|Alakhsimar Singh et.al.|[2409.16126](http://arxiv.org/abs/2409.16126)|null|
+|**2024-09-24**|**Neuromorphic Drone Detection: an Event-RGB Multimodal Approach**|Gabriele Magrini et.al.|[2409.16099](http://arxiv.org/abs/2409.16099)|null|
+|**2024-09-24**|**MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios**|Jiacheng Ruan et.al.|[2409.16084](http://arxiv.org/abs/2409.16084)|**[link](https://github.com/jcruan519/mm-camobj)**|
+|**2024-09-24**|**Bridging Speech and Text: Enhancing ASR with Pinyin-to-Character Pre-training in LLMs**|Yang Yuhang et.al.|[2409.16005](http://arxiv.org/abs/2409.16005)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
 |**2024-09-18**|**All-in-one foundational models learning across quantum chemical levels**|Yuxinxin Chen et.al.|[2409.12015](http://arxiv.org/abs/2409.12015)|**[link](https://github.com/dralgroup/aio-ani)**|

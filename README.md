@@ -1884,7 +1884,7 @@
 |**2024-08-23**|**Multi-finger Manipulation via Trajectory Optimization with Differentiable Rolling and Geometric Constraints**|Fan Yang et.al.|[2408.13229](http://arxiv.org/abs/2408.13229)|null|
 |**2024-08-23**|**ShapeICP: Iterative Category-level Object Pose and Shape Estimation from Depth**|Yihao Zhang et.al.|[2408.13147](http://arxiv.org/abs/2408.13147)|null|
 |**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135](http://arxiv.org/abs/2408.13135)|null|
-|**2024-08-22**|**ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction**|Ziyu Tang et.al.|[2408.12598](http://arxiv.org/abs/2408.12598)|null|
+|**2024-08-22**|**ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction**|Ziyu Tang et.al.|[2408.12598](http://arxiv.org/abs/2408.12598)|**[link](https://github.com/zju3dv/nd-sdf)**|
 |**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198](http://arxiv.org/abs/2408.10198)|null|
 |**2024-08-19**|**NeuRodin: A Two-stage Framework for High-Fidelity Neural Surface Reconstruction**|Yifan Wang et.al.|[2408.10178](http://arxiv.org/abs/2408.10178)|null|
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
@@ -1952,7 +1952,7 @@
 |**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899](http://arxiv.org/abs/2403.11899)|null|
 |**2024-03-18**|**Revisiting Tensor Basis Neural Networks for Reynolds stress modeling: application to plane channel and square duct flows**|Jiayi Cai et.al.|[2403.11746](http://arxiv.org/abs/2403.11746)|null|
 |**2024-03-12**|**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design and Graph-Based Drag Prediction**|Mohamed Elrefaie et.al.|[2403.08055](http://arxiv.org/abs/2403.08055)|**[link](https://github.com/mohamedelrefaie/drivaernet)**|
-|**2024-03-05**|**Semantic Human Mesh Reconstruction with Textures**|Xiaoyu Zhan et.al.|[2403.02561](http://arxiv.org/abs/2403.02561)|null|
+|**2024-03-05**|**Semantic Human Mesh Reconstruction with Textures**|Xiaoyu Zhan et.al.|[2403.02561](http://arxiv.org/abs/2403.02561)|**[link](https://github.com/ZhanxyR/SHERT)**|
 |**2024-03-04**|**MagicClay: Sculpting Meshes With Generative Neural Fields**|Amir Barda et.al.|[2403.02460](http://arxiv.org/abs/2403.02460)|null|
 |**2024-03-04**|**AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes**|Jaehoon Jang et.al.|[2403.01861](http://arxiv.org/abs/2403.01861)|null|
 |**2024-03-03**|**Unsigned Orthogonal Distance Fields: An Accurate Neural Implicit Representation for Diverse 3D Shapes**|Yujie Lu et.al.|[2403.01414](http://arxiv.org/abs/2403.01414)|**[link](https://github.com/cscvlab/UODFs)**|
@@ -2729,7 +2729,7 @@
 |**2024-06-12**|**Resetting by rescaling: exact results for a diffusing particle in one-dimension**|Marco Biroli et.al.|[2406.08387](http://arxiv.org/abs/2406.08387)|null|
 |**2024-06-12**|**Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models**|Javier Nistal et.al.|[2406.08384](http://arxiv.org/abs/2406.08384)|null|
 |**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
-|**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550](http://arxiv.org/abs/2406.07550)|null|
+|**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550](http://arxiv.org/abs/2406.07550)|**[link](https://github.com/bytedance/1d-tokenizer)**|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548](http://arxiv.org/abs/2406.07548)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
 |**2024-06-11**|**Zero-shot Image Editing with Reference Imitation**|Xi Chen et.al.|[2406.07547](http://arxiv.org/abs/2406.07547)|null|
 |**2024-06-11**|**Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?**|Xingyu Fu et.al.|[2406.07546](http://arxiv.org/abs/2406.07546)|null|
@@ -3382,8 +3382,8 @@
 |**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722](http://arxiv.org/abs/2403.04722)|null|
 |**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701](http://arxiv.org/abs/2403.04701)|**[link](https://github.com/Muhammad-Huzaifaa/ObjectCompose)**|
 |**2024-03-07**|**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.|[2403.04700](http://arxiv.org/abs/2403.04700)|**[link](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**|
-|**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
-|**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
+|**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|**[link](https://github.com/PixArt-alpha/PixArt-sigma)**|
+|**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|**[link](https://github.com/XuweiyiChen/Pix2Gif)**|
 |**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
 |**2024-03-07**|**Dynamic critical behavior of the chiral phase transition from the real-time functional renormalization group**|Johannes V. Roth et.al.|[2403.04573](http://arxiv.org/abs/2403.04573)|null|
 |**2024-03-07**|**Rescaled Mode-Coupling Scheme for the Quantitative Description of Experimentally Observed Colloid Dynamics**|Joel Diaz Maier et.al.|[2403.04556](http://arxiv.org/abs/2403.04556)|null|
@@ -3928,7 +3928,7 @@
 |**2023-12-14**|**Text2Immersion: Generative Immersive Scene with 3D Gaussians**|Hao Ouyang et.al.|[2312.09242](http://arxiv.org/abs/2312.09242)|null|
 |**2023-12-14**|**A framework for conditional diffusion modelling with applications in motif scaffolding for protein design**|Kieran Didi et.al.|[2312.09236](http://arxiv.org/abs/2312.09236)|null|
 |**2023-12-14**|**Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk**|Jacob Nibauer et.al.|[2312.09233](http://arxiv.org/abs/2312.09233)|**[link](https://github.com/jnibauer/tiltingdiskpotential)**|
-|**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231](http://arxiv.org/abs/2312.09231)|null|
+|**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231](http://arxiv.org/abs/2312.09231)|**[link](https://github.com/valeoai/genval)**|
 |**2023-12-14**|**Mosaic-SDF for 3D Generative Models**|Lior Yariv et.al.|[2312.09222](http://arxiv.org/abs/2312.09222)|null|
 |**2023-12-14**|**Measurement in the Age of LLMs: An Application to Ideological Scaling**|Sean O'Hagan et.al.|[2312.09203](http://arxiv.org/abs/2312.09203)|null|
 |**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193](http://arxiv.org/abs/2312.09193)|null|
@@ -4413,7 +4413,7 @@
 |**2023-10-06**|**Exploring the interstellar medium of NGC 891 at millimeter wavelengths using the NIKA2 camera**|S. Katsioli et.al.|[2310.04204](http://arxiv.org/abs/2310.04204)|null|
 |**2023-10-06**|**Real diffusion with complex spectral gap**|Jean-Francois Bony et.al.|[2310.04203](http://arxiv.org/abs/2310.04203)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
-|**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725](http://arxiv.org/abs/2310.03725)|null|
+|**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725](http://arxiv.org/abs/2310.03725)|**[link](https://github.com/interpolants/couplings)**|
 |**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664](http://arxiv.org/abs/2310.03664)|**[link](https://github.com/othmanela/medical_cert_seg)**|
 |**2023-10-05**|**Deep surrogate model for learning Green's function associated with linear reaction-diffusion operator**|Junqing Ji et.al.|[2310.03642](http://arxiv.org/abs/2310.03642)|null|
 |**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602](http://arxiv.org/abs/2310.03602)|null|
@@ -4723,7 +4723,7 @@
 |**2024-09-13**|**Affective Computing Has Changed: The Foundation Model Disruption**|Björn Schuller et.al.|[2409.08907](http://arxiv.org/abs/2409.08907)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
 |**2024-09-13**|**Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies**|Zhiqiang Zhong et.al.|[2409.08864](http://arxiv.org/abs/2409.08864)|null|
-|**2024-09-13**|**Statistical Analysis of Quantitative Cancer Imaging Data**|Shariq Mohammed et.al.|[2409.08809](http://arxiv.org/abs/2409.08809)|null|
+|**2024-09-13**|**Statistical Analysis of Quantitative Cancer Imaging Data**|Shariq Mohammed et.al.|[2409.08809](http://arxiv.org/abs/2409.08809)|**[link](https://github.com/liqiwei2000/BayesMarkInteractionModel)**|
 |**2024-09-13**|**A Multimodal Approach for Fluid Overload Prediction: Integrating Lung Ultrasound and Clinical Data**|Tianqi Yang et.al.|[2409.08790](http://arxiv.org/abs/2409.08790)|null|
 |**2024-09-13**|**Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori**|Jinhong He et.al.|[2409.08585](http://arxiv.org/abs/2409.08585)|null|
 |**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582](http://arxiv.org/abs/2409.08582)|null|
@@ -4744,7 +4744,7 @@
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|**[link](https://github.com/speedlab-git/robust-encoder-against-jailbreak-attack)**|
 |**2024-09-11**|**Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching**|Eugenio Chisari et.al.|[2409.07343](http://arxiv.org/abs/2409.07343)|null|
 |**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
-|**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
+|**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|**[link](https://github.com/calum-green/xct-xdrct_paper_code)**|
 |**2024-09-11**|**MRAC Track 1: 2nd Workshop on Multimodal, Generative and Responsible Affective Computing**|Shreya Ghosh et.al.|[2409.07256](http://arxiv.org/abs/2409.07256)|null|
 |**2024-09-11**|**Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs**|Firoj Alam et.al.|[2409.07246](http://arxiv.org/abs/2409.07246)|null|
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
@@ -4899,7 +4899,7 @@
 |**2024-08-16**|**TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**|Miaoge Li et.al.|[2408.08703](http://arxiv.org/abs/2408.08703)|null|
 |**2024-08-16**|**Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm**|Hongcheng Liu et.al.|[2408.08693](http://arxiv.org/abs/2408.08693)|**[link](https://github.com/liuhc0428/med-pmc)**|
 |**2024-08-16**|**HSDreport: Heart Sound Diagnosis with Echocardiography Reports**|Zihan Zhao et.al.|[2408.08669](http://arxiv.org/abs/2408.08669)|null|
-|**2024-08-16**|**Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning**|Wenwen Zhuang et.al.|[2408.08640](http://arxiv.org/abs/2408.08640)|null|
+|**2024-08-16**|**Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning**|Wenwen Zhuang et.al.|[2408.08640](http://arxiv.org/abs/2408.08640)|**[link](https://github.com/wwzhuang01/math-puma)**|
 |**2024-08-16**|**A Survey on Benchmarks of Multimodal Large Language Models**|Jian Li et.al.|[2408.08632](http://arxiv.org/abs/2408.08632)|**[link](https://github.com/swordlidev/evaluation-multimodal-llms-survey)**|
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/abs/2408.08211)|null|
 |**2024-08-15**|**Amplified Light Beam Cooling via Emergent Onsager's Irreversible Thermodynamics**|Zhongfei Xiong et.al.|[2408.08204](http://arxiv.org/abs/2408.08204)|null|
@@ -5206,7 +5206,7 @@
 |**2024-07-03**|**VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values**|Zhe Hu et.al.|[2407.03000](http://arxiv.org/abs/2407.03000)|null|
 |**2024-07-03**|**MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications**|Irene Siragusa et.al.|[2407.02994](http://arxiv.org/abs/2407.02994)|**[link](https://github.com/chilab1/medpix-2.0)**|
 |**2024-07-03**|**3D Multimodal Image Registration for Plant Phenotyping**|Eric Stumpe et.al.|[2407.02946](http://arxiv.org/abs/2407.02946)|**[link](https://github.com/eric-stumpe/plant3dimagereg)**|
-|**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867](http://arxiv.org/abs/2407.02867)|null|
+|**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867](http://arxiv.org/abs/2407.02867)|**[link](https://github.com/oreozhao/cmr)**|
 |**2024-07-03**|**Universal Gloss-level Representation for Gloss-free Sign Language Translation and Production**|Eui Jun Hwang et.al.|[2407.02854](http://arxiv.org/abs/2407.02854)|null|
 |**2024-07-03**|**Multi-Task Domain Adaptation for Language Grounding with 3D Objects**|Penglei Sun et.al.|[2407.02846](http://arxiv.org/abs/2407.02846)|null|
 |**2024-07-03**|**MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis**|Lei Chen et.al.|[2407.02842](http://arxiv.org/abs/2407.02842)|null|
@@ -6097,7 +6097,7 @@
 |**2024-02-15**|**LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition**|Jinyuan Li et.al.|[2402.09989](http://arxiv.org/abs/2402.09989)|**[link](https://github.com/JinYuanLi0012/RiVEG)**|
 |**2024-02-15**|**MuChin: A Chinese Colloquial Description Benchmark for Evaluating Language Models in the Field of Music**|Zihao Wang et.al.|[2402.09871](http://arxiv.org/abs/2402.09871)|**[link](https://github.com/CarlWangChina/MuChin)**|
 |**2024-02-15**|**Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent**|Quentin Gallouédec et.al.|[2402.09844](http://arxiv.org/abs/2402.09844)|**[link](https://github.com/huggingface/jat)**|
-|**2024-02-15**|**EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models**|Shangyu Xing et.al.|[2402.09801](http://arxiv.org/abs/2402.09801)|null|
+|**2024-02-15**|**EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models**|Shangyu Xing et.al.|[2402.09801](http://arxiv.org/abs/2402.09801)|**[link](https://github.com/starreeze/efuf)**|
 |**2024-02-15**|**Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection**|Eftekhar Hossain et.al.|[2402.09738](http://arxiv.org/abs/2402.09738)|**[link](https://github.com/eftekhar-hossain/bengali-hateful-memes)**|
 |**2024-02-15**|**Exploiting Alpha Transparency In Language And Vision-Based AI Systems**|David Noever et.al.|[2402.09671](http://arxiv.org/abs/2402.09671)|null|
 |**2024-02-14**|**OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**|Yutao Hu et.al.|[2402.09181](http://arxiv.org/abs/2402.09181)|**[link](https://github.com/opengvlab/multi-modality-arena)**|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4659,7 +4659,7 @@ layout: default
 |**2024-09-30**|**HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding**|Fan Yuan et.al.|[2409.20429](http://arxiv.org/abs/2409.20429)|null|
 |**2024-09-30**|**World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering**|Jiacong Wang et.al.|[2409.20424](http://arxiv.org/abs/2409.20424)|null|
 |**2024-09-30**|**A Framework for the Construction of a Sentiment-Driven Performance Index: The Case of DAX40**|Fabian Billert et.al.|[2409.20397](http://arxiv.org/abs/2409.20397)|null|
-|**2024-09-30**|**Melody Is All You Need For Music Generation**|Shaopeng Wei et.al.|[2409.20196](http://arxiv.org/abs/2409.20196)|null|
+|**2024-09-30**|**Melody Is All You Need For Music Generation**|Shaopeng Wei et.al.|[2409.20196](http://arxiv.org/abs/2409.20196)|**[link](https://github.com/shaopengw/Awesome-Music-Generation)**|
 |**2024-09-30**|**Using Large Multimodal Models to Extract Knowledge Components for Knowledge Tracing from Multimedia Question Information**|Hyeongdon Moon et.al.|[2409.20167](http://arxiv.org/abs/2409.20167)|null|
 |**2024-09-30**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al.|[2409.20146](http://arxiv.org/abs/2409.20146)|null|
 |**2024-09-30**|**Optimising EEG decoding with refined sampling and multimodal feature integration**|Arash Akbarinia et.al.|[2409.20086](http://arxiv.org/abs/2409.20086)|null|

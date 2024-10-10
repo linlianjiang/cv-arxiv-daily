@@ -1862,6 +1862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475](http://arxiv.org/abs/2410.06475)|null|
+|**2024-10-07**|**VisDiff: SDF-Guided Polygon Generation for Visibility Reconstruction and Recognition**|Rahul Moorthy et.al.|[2410.05530](http://arxiv.org/abs/2410.05530)|null|
 |**2024-10-04**|**Shrinking: Reconstruction of Parameterized Surfaces from Signed Distance Fields**|Haotian Yin et.al.|[2410.03123](http://arxiv.org/abs/2410.03123)|null|
 |**2024-10-04**|**Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery**|Tiancheng Li et.al.|[2410.03078](http://arxiv.org/abs/2410.03078)|null|
 |**2024-10-02**|**AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction**|Jingnan Gao et.al.|[2410.01202](http://arxiv.org/abs/2410.01202)|null|
@@ -2043,6 +2045,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Simulating realistic self-interacting dark matter models including small and large-angle scattering**|Cenanda Arido et.al.|[2410.07175](http://arxiv.org/abs/2410.07175)|null|
+|**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
+|**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
+|**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
+|**2024-10-09**|**Measuring Minority Carrier Diffusion Length Using High-Injection Scanning Photocurrent Microscopy**|Xiujun Lian et.al.|[2410.07089](http://arxiv.org/abs/2410.07089)|null|
+|**2024-10-09**|**FlowBotHD: History-Aware Diffuser Handling Ambiguities in Articulated Objects Manipulation**|Yishu Li et.al.|[2410.07078](http://arxiv.org/abs/2410.07078)|null|
+|**2024-10-09**|**A short proof of diffusivity for the directed polymers in the weak disorder phase**|Hubert Lacoin et.al.|[2410.07068](http://arxiv.org/abs/2410.07068)|null|
+|**2024-10-09**|**Active fluids form system-spanning filamentary networks**|Paarth Gulati et.al.|[2410.07058](http://arxiv.org/abs/2410.07058)|null|
+|**2024-10-09**|**Transients by Black Hole Formation from Red Supergiants: Impact of Dense Circumstellar Matter**|Daichi Tsuna et.al.|[2410.07055](http://arxiv.org/abs/2410.07055)|null|
 |**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-07**|**SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**|Daoan Zhang et.al.|[2410.05255](http://arxiv.org/abs/2410.05255)|**[link](https://github.com/dwanzhang-ai/seppo)**|
@@ -4723,6 +4735,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
+|**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
+|**2024-10-09**|**Towards Interpreting Visual Information Processing in Vision-Language Models**|Clement Neo et.al.|[2410.07149](http://arxiv.org/abs/2410.07149)|null|
+|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|null|
+|**2024-10-09**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
+|**2024-10-09**|**Pixtral 12B**|Pravesh Agrawal et.al.|[2410.07073](http://arxiv.org/abs/2410.07073)|**[link](https://github.com/mistralai/mistral-inference)**|
+|**2024-10-09**|**HERM: Benchmarking and Enhancing Multimodal LLMs for Human-Centric Understanding**|Keliang Li et.al.|[2410.06777](http://arxiv.org/abs/2410.06777)|null|
+|**2024-10-09**|**To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models**|Junyan Lin et.al.|[2410.06765](http://arxiv.org/abs/2410.06765)|**[link](https://github.com/eit-nlp/connector-selection-for-mllm)**|
+|**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
 |**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
 |**2024-10-08**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|

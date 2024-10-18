@@ -2049,6 +2049,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
+|**2024-10-17**|**Influence Functions for Scalable Data Attribution in Diffusion Models**|Bruno Mlodozeniec et.al.|[2410.13850](http://arxiv.org/abs/2410.13850)|null|
+|**2024-10-17**|**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control**|Yujie Wei et.al.|[2410.13830](http://arxiv.org/abs/2410.13830)|null|
+|**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
+|**2024-10-17**|**Enhancing universal machine learning potentials with polarizable long-range interactions**|Rongzhi Gao et.al.|[2410.13820](http://arxiv.org/abs/2410.13820)|null|
+|**2024-10-17**|**ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution**|Junhao Gu et.al.|[2410.13807](http://arxiv.org/abs/2410.13807)|null|
+|**2024-10-17**|**Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation**|Da Long et.al.|[2410.13794](http://arxiv.org/abs/2410.13794)|null|
+|**2024-10-17**|**DPLM-2: A Multimodal Diffusion Protein Language Model**|Xinyou Wang et.al.|[2410.13782](http://arxiv.org/abs/2410.13782)|null|
+|**2024-10-17**|**Conductance in graphene through double laser barriers and magnetic field**|Rachid El Aitouni et.al.|[2410.13771](http://arxiv.org/abs/2410.13771)|null|
+|**2024-10-17**|**Probing the Latent Hierarchical Structure of Data via Diffusion Models**|Antonio Sclocchi et.al.|[2410.13770](http://arxiv.org/abs/2410.13770)|null|
 |**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777](http://arxiv.org/abs/2410.12777)|null|
 |**2024-10-16**|**Should exponential integrators be used for advection-dominated problems?**|Lukas Einkemmer et.al.|[2410.12765](http://arxiv.org/abs/2410.12765)|null|
 |**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761](http://arxiv.org/abs/2410.12761)|null|
@@ -4789,6 +4799,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861](http://arxiv.org/abs/2410.13861)|**[link](https://github.com/rongyaofang/puma)**|
+|**2024-10-17**|**$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|Yaxin Luo et.al.|[2410.13859](http://arxiv.org/abs/2410.13859)|null|
+|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|null|
+|**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
+|**2024-10-17**|**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**|Chengyue Wu et.al.|[2410.13848](http://arxiv.org/abs/2410.13848)|null|
+|**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
+|**2024-10-17**|**DPLM-2: A Multimodal Diffusion Protein Language Model**|Xinyou Wang et.al.|[2410.13782](http://arxiv.org/abs/2410.13782)|null|
+|**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
+|**2024-10-17**|**MobA: A Two-Level Agent System for Efficient Mobile Task Automation**|Zichen Zhu et.al.|[2410.13757](http://arxiv.org/abs/2410.13757)|null|
+|**2024-10-17**|**Improving Multi-modal Large Language Model through Boosting Vision Capabilities**|Yanpeng Sun et.al.|[2410.13733](http://arxiv.org/abs/2410.13733)|null|
 |**2024-10-16**|**The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio**|Sicong Leng et.al.|[2410.12787](http://arxiv.org/abs/2410.12787)|null|
 |**2024-10-16**|**WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation**|João Matos et.al.|[2410.12722](http://arxiv.org/abs/2410.12722)|null|
 |**2024-10-17**|**Context Matters: Leveraging Contextual Features for Time Series Forecasting**|Sameep Chattopadhyay et.al.|[2410.12672](http://arxiv.org/abs/2410.12672)|null|

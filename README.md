@@ -4803,7 +4803,7 @@
 |**2024-10-17**|**$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|Yaxin Luo et.al.|[2410.13859](http://arxiv.org/abs/2410.13859)|null|
 |**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
-|**2024-10-17**|**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**|Chengyue Wu et.al.|[2410.13848](http://arxiv.org/abs/2410.13848)|null|
+|**2024-10-17**|**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**|Chengyue Wu et.al.|[2410.13848](http://arxiv.org/abs/2410.13848)|**[link](https://github.com/deepseek-ai/janus)**|
 |**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
 |**2024-10-17**|**DPLM-2: A Multimodal Diffusion Protein Language Model**|Xinyou Wang et.al.|[2410.13782](http://arxiv.org/abs/2410.13782)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|

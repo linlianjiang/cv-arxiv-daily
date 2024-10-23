@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2032,7 +2032,7 @@ layout: default
 |**2024-10-21**|**Role of obstacle softness in the diffusive behavior of active Particles**|Ankit Gupta et.al.|[2410.16223](http://arxiv.org/abs/2410.16223)|null|
 |**2024-10-21**|**A Framework for Evaluating Predictive Models Using Synthetic Image Covariates and Longitudinal Data**|Simon Deltadahl et.al.|[2410.16177](http://arxiv.org/abs/2410.16177)|null|
 |**2024-10-21**|**Validity of Prandtl's boundary layer from the Boltzmann theory**|Chanwoo Kim et.al.|[2410.16160](http://arxiv.org/abs/2410.16160)|null|
-|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
+|**2024-10-22**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
 |**2024-10-21**|**Universal Linear Response of the Mean First-Passage Time**|Tommer D. Keidar et.al.|[2410.16129](http://arxiv.org/abs/2410.16129)|null|
 |**2024-10-21**|**SeaDAG: Semi-autoregressive Diffusion for Conditional Directed Acyclic Graph Generation**|Xinyi Zhou et.al.|[2410.16119](http://arxiv.org/abs/2410.16119)|null|
 |**2024-10-21**|**Continuous Speech Synthesis using per-token Latent Diffusion**|Arnon Turetzky et.al.|[2410.16048](http://arxiv.org/abs/2410.16048)|null|
@@ -4796,8 +4796,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267](http://arxiv.org/abs/2410.16267)|null|
-|**2024-10-21**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|null|
+|**2024-10-22**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**LLaVA-KD: A Framework of Distilling Multimodal Large Language Models**|Yuxuan Cai et.al.|[2410.16236](http://arxiv.org/abs/2410.16236)|null|
 |**2024-10-21**|**Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining**|Han Huang et.al.|[2410.16166](http://arxiv.org/abs/2410.16166)|**[link](https://github.com/hanhuang22/aitqe)**|
 |**2024-10-21**|**Griffon-G: Bridging Vision-Language and Vision-Centric Tasks via Large Multimodal Models**|Yufei Zhan et.al.|[2410.16163](http://arxiv.org/abs/2410.16163)|**[link](https://github.com/jefferyzhan/griffon)**|
